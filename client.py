@@ -46,9 +46,7 @@ class Client:
 
 		# client state syncs, these are public
 		self.disableSpeedy = False
-		self.disableInvulnerable = False
 		self.disableSwiftness = False
-		self.disableVengeance = False
 
 		# containerType of the weapon you are using
 		self.containerType = 0
@@ -64,12 +62,6 @@ class Client:
 		self.effect0bits = 0
 		self.effect1bits = 0
 		self.effect2bits = 0
-
-
-		self.lastReconnect = 0
-		self.lastReconKey = []
-		self.lastGameID = 0
-		self.useDisconnectedKey = None
 
 	# disconnect the client from the proxy
 	# disconnect the proxy from the server
@@ -136,9 +128,6 @@ class Client:
 			# print("got length 0 packet from client")
 			self.reset()
 			return
-
-		#while len(header) != 5:
-		#	header += self.gameSocket.recv(5 - len(header))
 		
 		packetID = header[4]
 		expectedPacketLength = struct.unpack("!i", header[:4])[0]
@@ -193,12 +182,6 @@ class Client:
 			# update the id now since this will percolate downstream to enemyhit
 			self.internalBulletID = (self.internalBulletID + 1) % 128
 			packet, send = self.routePacket(packet, send, self.onPlayerShoot)
-			
-			
-		elif packet.ID == PacketTypes.OtherHit:
-			# seems to help with the KA packet rejection rate
-			# send = False
-			pass
 
 		if not send:
 			return
@@ -219,10 +202,6 @@ class Client:
 			# print("got 0 length packet from server")
 			self.reset()
 			return
-			
-
-		#while len(header) != 5:
-		#	header += self.serverSocket.recv(5 - len(header))
 
 		packetID = header[4]
 		expectedPacketLength = struct.unpack("!i", header[:4])[0]
@@ -257,7 +236,6 @@ class Client:
 			# update map name.
 			p = Reconnect()
 			p.read(packet.data)
-			#p.PrintString()
 			self.lastReconnect = time.time()
 			self.lastGameID = p.gameID
 			self.lastReconKey = p.key
@@ -266,16 +244,6 @@ class Client:
 
 		# update internal effect state
 		elif packet.ID == PacketTypes.NewTick:
-			"""
-			p = NewTick()
-			p.read(packet.data)
-			p.PrintString()
-			for obj in range(len(p.statuses)):
-				if p.statuses[obj].objectID != self.objectID:
-					p.statuses[obj].PrintString()
-					for s in range(len(p.statuses[obj].stats)):
-						p.statuses[obj].stats[s].PrintString()
-			"""
 			packet, send = self.routePacket(packet, send, self.onNewTick)
 
 		elif packet.ID == PacketTypes.EnemyShoot:
@@ -302,13 +270,15 @@ class Client:
 				if self.reconnecting:
 
 					if self.gameSocket in ready:
-						self.gameSocket.recv(50000)
+						self.gameSocket.recv(100000)
 
 					if self.serverSocket in ready:
-						self.serverSocket.recv(50000)
+						self.serverSocket.recv(100000)
 
 					self.onReconnect()
 					self.reconnecting = False
+
+					# break out of listen loop, recall listen in Proxy
 					return
 
 				elif self.connected:
@@ -336,20 +306,11 @@ class Client:
 				self.Close()
 				return
 
-			#except Exception as e:
-			#	print("Something went terribly wrong.")
-			#	print("Error:", e)
-			#	print("Restarting...")
-			#	self.reset()
-
-	# activate godmode (actually not needed)
-	def ActivateGodmode(self, packet) -> Packet:
-		p = PlayerHit()
-		p.read(packet.data)
-		p.objectID = 0
-		packet = CreatePacket(p)
-		return packet
-
+			except Exception as e:
+				print("Something went terribly wrong.")
+				print("Error:", e)
+				print("Restarting...")
+				self.reset()
 
 	"""
 
@@ -366,7 +327,6 @@ class Client:
 	def routePacket(self, packet: Packet, send, onPacketType) -> (Packet, bool):
 
 		p = onPacketType(packet)
-		#modified = False
 
 		if packet.ID in self.pluginManager.hooks:
 			for plugin in self.pluginManager.hooks[packet.ID]:
@@ -379,7 +339,7 @@ class Client:
 
 		# always create a new packet; this ensures our internal bullet ID state is synced
 		# with our real shots
-		#if modified:
+
 		packet = CreatePacket(p)
 		return (packet, send)
 
@@ -409,7 +369,6 @@ class Client:
 	def onFailure(self, packet: Packet) -> Failure:
 		p = Failure()
 		p.read(packet.data)
-		#p.PrintString()
 		return p
 
 	def onPlayerHit(self, packet: Packet) -> PlayerHit:
@@ -472,7 +431,6 @@ class Client:
 		# pretty terrible engineering
 		# this ensures our injected status effects are turned off and doesn't interfere with real speedy (like from warrior)
 		self.turnOffInjectedStatuses()
-
 		return p
 
 	def turnOffInjectedStatuses(self):
@@ -485,14 +443,6 @@ class Client:
 			elif self.disableSwiftness and type(plugin).__name__ == "Swiftness":
 				plugin.shutdown(self)
 				self.disableSwiftness = False
-
-			elif self.disableInvulnerable and type(plugin).__name__ == "Invulnerable":
-				plugin.shutdown(self)
-				self.disableInvulnerable = False
-
-			elif self.disableVengeance and type(plugin).__name__ == "Vengeance":
-				plugin.shutdown(self)
-				self.disableVengeance = False
 
 	# playertext hook
 	def onPlayerText(self, packet) -> None:
@@ -510,5 +460,4 @@ class Client:
 
 	# when server sends reconnect
 	def onReconnect(self):
-
 		self.reset()
