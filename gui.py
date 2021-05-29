@@ -24,7 +24,7 @@ class GUI:
 		self.root = Tk()
 		self.root.geometry("460x220")
 		self.root.resizable(False, False)
-		self.root.title("vrelay by swrlly - for valor v3.2.2")
+		self.root.title("vrelay by swrlly - for valor v3.2.4")
 
 		self.buttonFrame = Frame(self.root)
 		self.buttonFrame.grid(row = 0, column = 0)
