@@ -1,10 +1,8 @@
 # vrelay
 
-A man-in-the-middle proxy server for the RotMG private server Valor. This is the Python version of [KRelay](https://github.com/TheKronks/KRelay) but for Valor RotMG.
+A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. 
 
-The goal is to learn more about networking, reverse engineering, and writing hacks for RotMG.
-
-**Updated for Valor version 3.2.2.**
+**Updated for Valor version 3.2.4.**
 
 <p align="center">
   <img src="vrelay v1.png" />
@@ -13,9 +11,10 @@ The goal is to learn more about networking, reverse engineering, and writing hac
 
 ## How to use
 
-1. Install Python 64-bit. You can find installations of Python (here)[https://www.python.org/downloads/]. Install the 64-bit version or the GUI will not work.
+For any questions, join the discord: https://discord.gg/nfmQYtUaGS
+
+1. Install Python 64-bit. You can find installations of Python [here](https://www.python.org/downloads/). Install the 64-bit version or the GUI will not work.
 2. A download link to the hack will be provided below. In this step, download the hack and unzip it.
-    - *Note*: Github is not a virus site. It's just a site to collaborate on software engineering projects. It is widely used in tech companies.
 3. Replace your original `Valor.swf` with the `Valor.swf` in the unzipped folder. This `.swf` file has been modded so you can connect to the proxy server. If you only see `Valor`, that means you have your file extensions off.
 4. Open the command line (type `⊞ + r` and type in `cmd`, press enter. the command line will now be open), `cd` into the folder containing the code.
     - This will involve typing `cd C:\path\to\folder` then pressing enter.
@@ -46,14 +45,11 @@ Will document this section later. For now:
 
 
 ## Notes
-- You can use `/dep` to put potions into potion vault anywhere (in dungeons and realms). Currently spams your screen tho.
+- You can use `/dep` to put potions into potion vault anywhere (in dungeons and realms). Currently spams your screen.
 
 ## Credits
 - [JPEXS](https://www.free-decompiler.com/flash/download/) for reverse engineering and modifying the client.
+- This project is inspired by [KRelay](https://github.com/TheKronks/KRelay), an open source proxy for production RotMG.
 
 #### TODO:
-- Actual KA instead of enemy-dependent
-- Auto Aim?
-- Block status effects
-- Add a force restart
-- There is a bug where if Godmode and either Speedy/Swiftness are both active, all negative status effects are cancelled. While this is great, this is a bug from a software persepective.
+- There is a bug where if Godmode and either Speedy/Swiftness are active, all negative status effects are cancelled. While this is great, this is a bug from a software persepective.
