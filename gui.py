@@ -69,16 +69,6 @@ class GUI:
 		self.swiftnessbtn = Button(self.buttonFrame, bd = 5, textvariable = self.swiftnesstxt, command = self.swiftnessHandler, fg = self.RED)
 		self.swiftnessbtn.grid(row = 1, column = 3, padx = self.PADX, pady = self.PADY)
 
-		# extradamage text
-		#self.extradamagelabel = Label(self.buttonFrame, text = "Extra damage\n(non-piercing only!)", width = self.COLWIDTH, height = self.HEIGHT)
-		#self.extradamagelabel.grid(row = 2, column = 0, padx = self.PADX, pady = self.PADY)
-
-		# extradamage button
-		# self.extradamagetxt = StringVar()
-		# self.extradamagetxt.set("OFF")
-		# self.extradamagebtn = Button(self.buttonFrame, bd = 5, textvariable = self.extradamagetxt, command = self.extraDamageHandler, fg = self.RED)
-		# self.extradamagebtn.grid(row = 2, column = 1, padx = self.PADX, pady = self.PADY)
-
 		# nodebuff text
 		self.nodebufflabel = Label(self.buttonFrame, text = "Remove client-side debuffs", width = self.COLWIDTH, height = self.HEIGHT)
 		self.nodebufflabel.grid(row = 2, column = 0, padx = self.PADX, pady = self.PADY)
@@ -89,18 +79,17 @@ class GUI:
 		self.nodebuffbtn = Button(self.buttonFrame, bd = 5, textvariable = self.nodebufftxt, command = self.noDebuffHandler, fg = self.RED)
 		self.nodebuffbtn.grid(row = 2, column = 1, padx = self.PADX, pady = self.PADY)
 
-		# ka text
-		#self.kalabel = Label(self.buttonFrame, text = "Enemy-dependent kill aura \n (non-piercing only!)", width = self.COLWIDTH, height = self.HEIGHT)
-		#self.kalabel.grid(row = 3, column = 0, padx = self.PADX, pady = self.PADY)
+		# an text
+		self.anlabel = Label(self.buttonFrame, text = "Autonexus", width = self.COLWIDTH, height = self.HEIGHT)
+		self.anlabel.grid(row = 2, column = 2, padx = self.PADX, pady = self.PADY)
 
-		# ka button
-		# self.katxt = StringVar()
-		# self.katxt.set("OFF")
-		# self.kabtn = Button(self.buttonFrame, bd = 5, textvariable = self.katxt, command = self.badKillAuraHandler, fg = self.RED)
-		# self.kabtn.grid(row = 3, column = 1, padx = self.PADX, pady = self.PADY)
+		# an button
+		self.antxt = StringVar()
+		self.antxt.set("OFF")
+		self.anbtn = Button(self.buttonFrame, bd = 5, textvariable = self.antxt, command = self.AutoNexusHandler, fg = self.RED)
+		self.anbtn.grid(row = 2, column = 3, padx = self.PADX, pady = self.PADY)
 
 		# realm text
-
 		self.textFrame = Frame(self.root)
 		self.textFrame.grid(row = 1, column = 0)
 
@@ -125,14 +114,12 @@ class GUI:
 		self.godmodebtn.config(fg = self.RED)
 		self.noprojectiletxt.set("OFF")
 		self.noprojectilebtn.config(fg = self.RED)
-		#self.extradamagetxt.set("OFF")
-		#self.extradamagebtn.config(fg = self.RED)
+		self.antxt.set("OFF")
+		self.anbtn.config(fg = self.RED)
 		self.speedytxt.set("OFF")
 		self.speedybtn.config(fg = self.RED)
 		self.swiftnesstxt.set("OFF")
 		self.swiftnessbtn.config(fg = self.RED)
-		#self.katxt.set("OFF")
-		#self.kabtn.config(fg = self.RED)
 		self.nodebufftxt.set("OFF")
 		self.nodebuffbtn.config(fg = self.RED)
 
@@ -200,15 +187,15 @@ class GUI:
 			self.speedybtn.config(fg = self.GREEN)	
 
 	# when the button is clicked
-	def extraDamageHandler(self):
-		if self.pluginManager.plugins[self.findClass("ExtraDamage")]:
-			self.pluginManager.plugins[self.findClass("ExtraDamage")] = False
-			self.extradamagetxt.set("OFF")
-			self.extradamagebtn.config(fg = self.RED)
+	def AutoNexusHandler(self):
+		if self.pluginManager.plugins[self.findClass("AutoNexus")]:
+			self.pluginManager.plugins[self.findClass("AutoNexus")] = False
+			self.antxt.set("OFF")
+			self.anbtn.config(fg = self.RED)
 		else:
-			self.pluginManager.plugins[self.findClass("ExtraDamage")] = True
-			self.extradamagetxt.set("ON")
-			self.extradamagebtn.config(fg = self.GREEN)	
+			self.pluginManager.plugins[self.findClass("AutoNexus")] = True
+			self.antxt.set("ON")
+			self.anbtn.config(fg = self.GREEN)
 
 	# when the button is clicked
 	def swiftnessHandler(self):
@@ -223,17 +210,6 @@ class GUI:
 			self.swiftnesstxt.set("ON")
 			self.swiftnessbtn.config(fg = self.GREEN)	
 
-	# when the button is clicked
-	def badKillAuraHandler(self):
-		if self.pluginManager.plugins[self.findClass("BadKillAura")]:
-			self.pluginManager.plugins[self.findClass("BadKillAura")] = False
-			self.katxt.set("OFF")
-			self.kabtn.config(fg = self.RED)
-		else:
-			self.pluginManager.plugins[self.findClass("BadKillAura")] = True
-			self.katxt.set("ON")
-			self.kabtn.config(fg = self.GREEN)
-
 	"""
 	# when user wishes to restart
 	def restartHandler(self):
@@ -247,7 +223,6 @@ class GUI:
 			if type(plugin).__name__ == text:
 				return plugin
 			
-
 	def start(self):
 		while True:
 			#self.root.update_idletasks()

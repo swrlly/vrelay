@@ -63,6 +63,19 @@ class Client:
 		self.effect1bits = 0
 		self.effect2bits = 0
 
+		### AutoNexus variables ###
+		# key objectID, value below
+			# key bullet ID, value BulletInfo (bullet type, damage)
+		self.seenProjectiles = {}
+		# key id, value pos
+		self.newObjects = {}
+		self.currentHP = None
+		self.maxHP = None
+		self.currentProtection = None
+		self.reconnectToNexus = False
+		
+		
+
 	# disconnect the client from the proxy
 	# disconnect the proxy from the server
 	def Disconnect(self):
@@ -103,10 +116,19 @@ class Client:
 		self.gameSocket.close()
 		self.serverSocket.close()
 
-	# restart entire connection
-	def reset(self):
+	def ResetStateSyncs(self):
 		self.internalBulletID = 0
 		self.firstBulletTime = None
+		self.seenProjectiles = {}
+		self.newObjects = {}
+		self.currentHP = None
+		self.maxHP = None
+		self.currentProtection = None
+		self.reconnectToNexus = False
+
+	# restart entire connection
+	def reset(self):
+		self.ResetStateSyncs()
 		self.Disconnect()
 		self.ResetCipher()
 		self.Reconnect()
@@ -114,6 +136,11 @@ class Client:
 	# call this fcn when you reset connection
 	def resetMapName(self):
 		self.currentMap = "Nexus"
+
+	# tell client to nexus after finishing the read on this packet
+	def FireNexusSignal(self):
+		self.reconnectToNexus = True
+		self.reconnecting = True
 
 	"""
 	Listens to packets from the client.
@@ -246,6 +273,10 @@ class Client:
 		elif packet.ID == PacketTypes.NewTick:
 			packet, send = self.routePacket(packet, send, self.onNewTick)
 
+		# remember new enemies
+		elif packet.ID == PacketTypes.Update:
+			packet, send = self.routePacket(packet, send, self.onUpdate)
+
 		elif packet.ID == PacketTypes.EnemyShoot:
 			packet, send = self.routePacket(packet, send, self.onEnemyShoot)
 
@@ -269,6 +300,25 @@ class Client:
 				# prioritize reconnects
 				if self.reconnecting:
 
+
+					# check if this is an autonexus
+					# if so, trick client into thinking we are nexusing
+					if self.reconnectToNexus:
+						p = Reconnect()
+						p.name = ""
+						p.host = ""
+						p.port = 2050
+						p.gameID = -2
+						p.keyTime = 0
+						p.key = []
+						p.isFromArena = False
+						
+						self.SendPacketToClient(CreatePacket(p))
+						self.reconnectToNexus = False
+
+						print("sent to client!")
+
+					# flush sockets
 					if self.gameSocket in ready:
 						self.gameSocket.recv(100000)
 
@@ -306,11 +356,13 @@ class Client:
 				self.Close()
 				return
 
+			"""
 			except Exception as e:
 				print("Something went terribly wrong.")
 				print("Error:", e)
 				print("Restarting...")
 				self.reset()
+			"""
 
 	"""
 
@@ -382,8 +434,24 @@ class Client:
 		return p
 
 	def onEnemyShoot(self, packet: Packet) -> EnemyShoot:
+		
 		p = EnemyShoot()
 		p.read(packet.data)
+		# add all its new shots to the dict
+		for i in range(p.numShots):
+			# this enemy has shot already.
+			if p.ownerID in self.seenProjectiles:
+				bullet = BulletInfo()
+				bullet.bulletType = p.bulletType
+				bullet.damage = p.damage
+				self.seenProjectiles[p.ownerID].update({p.bulletID + i : bullet})
+			# first time enemy is shooting.
+			else:
+				bullet = BulletInfo()
+				bullet.bulletType = p.bulletType
+				bullet.damage = p.damage
+				self.seenProjectiles.update({p.ownerID : {p.bulletID + i : bullet}})
+
 		return p
 
 	def onEnemyHit(self, packet: Packet) -> EnemyHit:
@@ -405,6 +473,28 @@ class Client:
 		#p.bulletID = self.internalBulletID
 		return p
 
+
+	def onUpdate(self, packet) -> Update:
+
+		p = Update()
+		p.read(packet.data)
+
+		for i in p.newObjects:
+
+			if i.objectStatusData.objectID == self.objectID:
+				for j in i.objectStatusData.stats:
+					if j.statType == 0:
+						self.maxHP = j.statValue
+					elif j.statType == 1:
+						self.currentHP = j.statValue
+
+			obj = ObjectInfo()
+			obj.pos = i.objectStatusData.pos
+			obj.objectType = i.objectType
+			self.newObjects.update({i.objectStatusData.objectID : obj})
+
+		return p
+
 	def onNewTick(self, packet: Packet) -> NewTick:
 		p = NewTick()
 		p.read(packet.data)
@@ -413,12 +503,22 @@ class Client:
 			# got a packet that updates our stats
 			if p.statuses[obj].objectID == self.objectID:
 				for s in range(len(p.statuses[obj].stats)):
+
+					# max HP
+					if p.statuses[obj].stats[s].statType == 0:
+						self.maxHP = p.statuses[obj].stats[s].statValue
+					# current HP
+					elif p.statuses[obj].stats[s].statType == 1:
+						self.currentHP = p.statuses[obj].stats[s].statValue
+
+					elif p.statuses[obj].stats[s].statType == 125:
+						self.currentProtection = p.statuses[obj].stats[s].statValue
+
 					# 29, effect 0
 					# 96, effect 1
 					# 205, effect 2
 					# armored, damaging serversided
-						
-					if p.statuses[obj].stats[s].statType == 29:
+					elif p.statuses[obj].stats[s].statType == 29:
 						self.effect0bits = p.statuses[obj].stats[s].statValue
 
 					elif p.statuses[obj].stats[s].statType == 96:
@@ -461,3 +561,23 @@ class Client:
 	# when server sends reconnect
 	def onReconnect(self):
 		self.reset()
+
+class ObjectInfo:
+
+	def __init__(self):
+		self.pos = WorldPosData()
+		self.objectType = 0
+
+	def PrintString(self):
+		self.pos.PrintString()
+		print("objectType", self.objectType)
+
+class BulletInfo:
+
+	def __init__(self):
+		# bulletType in XML
+		self.bulletType = 0
+		self.damage = 0
+
+	def PrintString(self):
+		print("bulletType", self.bulletType, "damage", self.damage)
