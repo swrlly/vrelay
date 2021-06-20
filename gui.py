@@ -8,9 +8,10 @@ from client import Client
 class GUI:
 
 	COLWIDTH = 20
-	PADX = 10
+	PADX = 5
 	PADY = 5
 	HEIGHT = 2
+	BUTTONDEPTH = 2
 	RED = "#CF0029"
 	GREEN = "#43810D"
 
@@ -22,9 +23,10 @@ class GUI:
 		self.client = client
 		self.proxy = proxy
 		self.root = Tk()
-		self.root.geometry("460x220")
+		self.root.geometry("420x230")
 		self.root.resizable(False, False)
 		self.root.title("vrelay by swrlly - for valor v3.2.4")
+		self.useChallengeLeague = False
 
 		self.buttonFrame = Frame(self.root)
 		self.buttonFrame.grid(row = 0, column = 0)
@@ -36,7 +38,7 @@ class GUI:
 		# godmode button
 		self.godmodetxt = StringVar()
 		self.godmodetxt.set("OFF")
-		self.godmodebtn = Button(self.buttonFrame, bd = 5, textvariable = self.godmodetxt, command = self.godmodeHandler, fg = self.RED)
+		self.godmodebtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.godmodetxt, command = self.godmodeHandler, fg = self.RED)
 		self.godmodebtn.grid(row = 0, column = 1, padx = self.PADX, pady = self.PADY)
 
 		# noprojectile text
@@ -46,7 +48,7 @@ class GUI:
 		# noprojectile button
 		self.noprojectiletxt = StringVar()
 		self.noprojectiletxt.set("OFF")
-		self.noprojectilebtn = Button(self.buttonFrame, bd = 5, textvariable = self.noprojectiletxt, command = self.noProjectileHandler, fg = self.RED)
+		self.noprojectilebtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.noprojectiletxt, command = self.noProjectileHandler, fg = self.RED)
 		self.noprojectilebtn.grid(row = 1, column = 1, padx = self.PADX, pady = self.PADY)
 
 		# speedy text
@@ -56,7 +58,7 @@ class GUI:
 		# speedy button
 		self.speedytxt = StringVar()
 		self.speedytxt.set("OFF")
-		self.speedybtn = Button(self.buttonFrame, bd = 5, textvariable = self.speedytxt, command = self.speedyHandler, fg = self.RED)
+		self.speedybtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.speedytxt, command = self.speedyHandler, fg = self.RED)
 		self.speedybtn.grid(row = 0, column = 3, padx = self.PADX, pady = self.PADY)
 
 		# swiftness text
@@ -66,19 +68,20 @@ class GUI:
 		# swiftness button
 		self.swiftnesstxt = StringVar()
 		self.swiftnesstxt.set("OFF")
-		self.swiftnessbtn = Button(self.buttonFrame, bd = 5, textvariable = self.swiftnesstxt, command = self.swiftnessHandler, fg = self.RED)
+		self.swiftnessbtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.swiftnesstxt, command = self.swiftnessHandler, fg = self.RED)
 		self.swiftnessbtn.grid(row = 1, column = 3, padx = self.PADX, pady = self.PADY)
 
 		# nodebuff text
-		self.nodebufflabel = Label(self.buttonFrame, text = "Remove client-side debuffs", width = self.COLWIDTH, height = self.HEIGHT)
+		self.nodebufflabel = Label(self.buttonFrame, text = "No client-side debuffs", width = self.COLWIDTH, height = self.HEIGHT)
 		self.nodebufflabel.grid(row = 2, column = 0, padx = self.PADX, pady = self.PADY)
 
 		# nodebuff button
 		self.nodebufftxt = StringVar()
 		self.nodebufftxt.set("OFF")
-		self.nodebuffbtn = Button(self.buttonFrame, bd = 5, textvariable = self.nodebufftxt, command = self.noDebuffHandler, fg = self.RED)
+		self.nodebuffbtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.nodebufftxt, command = self.noDebuffHandler, fg = self.RED)
 		self.nodebuffbtn.grid(row = 2, column = 1, padx = self.PADX, pady = self.PADY)
 
+		"""
 		# an text
 		self.anlabel = Label(self.buttonFrame, text = "Autonexus", width = self.COLWIDTH, height = self.HEIGHT)
 		self.anlabel.grid(row = 2, column = 2, padx = self.PADX, pady = self.PADY)
@@ -88,20 +91,38 @@ class GUI:
 		self.antxt.set("OFF")
 		self.anbtn = Button(self.buttonFrame, bd = 5, textvariable = self.antxt, command = self.AutoNexusHandler, fg = self.RED)
 		self.anbtn.grid(row = 2, column = 3, padx = self.PADX, pady = self.PADY)
+		"""
 
 		# realm text
 		self.textFrame = Frame(self.root)
 		self.textFrame.grid(row = 1, column = 0)
 
-		self.shutdownbtn = Button(self.textFrame, bd = 5, text = "Shut down all plugins", command = self.shutdownHandler)
+		self.shutdownbtn = Button(self.textFrame, bd = self.BUTTONDEPTH, text = "Shut down all plugins", command = self.shutdownHandler)
 		self.shutdownbtn.grid(row = 0, column = 0, padx = 20, pady = 20)
+
+		self.challengetxt = StringVar()
+		self.challengetxt.set("Normal server")
+		self.challengebtn = Button(self.textFrame, bd = self.BUTTONDEPTH, textvariable = self.challengetxt, command = self.challengeHandler)
+		self.challengebtn.grid(row = 0, column = 1, padx = 20, pady = 20)
 
 		self.location = StringVar()
 		self.location.set("Connected to {}!".format(client.currentMap))
-		self.locationentry = Label(self.textFrame, bd = 1, textvariable = self.location)
-		self.locationentry.grid(row = 0, column = 1, padx = 20, pady = 20)
+		self.locationentry = Label(bd = 1, textvariable = self.location)
+		self.locationentry.place(x = 4, y = 208)
+		#self.locationentry.grid(row = 0, column = 2, padx = 20, pady = 20)
 
-	
+	def challengeHandler(self):
+
+		# change to normal
+		if not self.useChallengeLeague:
+			self.challengetxt.set("Challenge server")
+			self.client.remoteHostAddr = "103.195.100.203"
+
+		else:
+			self.challengetxt.set("Normal server")
+			self.client.remoteHostAddr = "51.222.11.213"
+
+		self.useChallengeLeague = not self.useChallengeLeague
 
 	def shutdownHandler(self):
 
@@ -114,8 +135,8 @@ class GUI:
 		self.godmodebtn.config(fg = self.RED)
 		self.noprojectiletxt.set("OFF")
 		self.noprojectilebtn.config(fg = self.RED)
-		self.antxt.set("OFF")
-		self.anbtn.config(fg = self.RED)
+		#self.antxt.set("OFF")
+		#self.anbtn.config(fg = self.RED)
 		self.speedytxt.set("OFF")
 		self.speedybtn.config(fg = self.RED)
 		self.swiftnesstxt.set("OFF")
