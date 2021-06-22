@@ -12,9 +12,10 @@ class Swiftness:
 	load = True
 	word = "Swiftness"
 
-	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
+	def getAuthor(self):
+		return "swrlly - https://github.com/swrlly"
 
-		
+	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
 
 		for obj in range(len(packet.statuses)):
 

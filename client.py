@@ -43,6 +43,7 @@ class Client:
 		#self.ignoreOut = []
 		self.ignoreOut = [PacketTypes.Message, PacketTypes.Move, PacketTypes.Pong, PacketTypes.GotoAck, PacketTypes.PlayerShoot, PacketTypes.ShootAck]
 		self.ignoreIn = [PacketTypes.Ping, PacketTypes.Goto, PacketTypes.Update, PacketTypes.NewTick]
+		self.screenshotMode = False
 
 		# client state syncs, these are public
 		self.disableSpeedy = False
@@ -85,6 +86,7 @@ class Client:
 		self.bulletDictionary = bullets
 		# signal to tell proxy to connect to nexus
 		self.reconnectToNexus = False
+		self.autonexusThreshold = 0.03
 		
 		
 
@@ -591,12 +593,23 @@ class Client:
 		p = PlayerText()
 		p.read(packet.data)
 
-		if p.text == "/dep":
-			for i in range(0, 12):
-				pp = PotionStorageInteraction()
-				pp.type = i
-				pp.action = 0
-				self.SendPacketToServer(CreatePacket(pp))
+		if not self.screenshotMode:
+
+			if p.text == "/dep":
+				for i in range(0, 12):
+					pp = PotionStorageInteraction()
+					pp.type = i
+					pp.action = 0
+					self.SendPacketToServer(CreatePacket(pp))
+
+		if p.text.strip() == "/safe":
+
+			if self.screenshotMode:
+				self.screenshotMode = False
+				self.createNotification("Screenshot Mode", "OFF")
+			else:
+				self.createNotification("Screenshot Mode", "ON")
+				self.screenshotMode = True
 
 		return p
 
@@ -619,6 +632,10 @@ class Client:
 
 	# send a message to the player in the client
 	def createNotification(self, name, text):
+
+		if self.screenshotMode:
+			return
+
 		p = Text()
 		p.name = name
 		p.text = text

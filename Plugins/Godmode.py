@@ -42,3 +42,6 @@ class Godmode:
 
 	def onGroundDamage(self, client: Client, packet: GroundDamage, send: bool) -> (GroundDamage, bool):
 		return (packet, False)
+
+	def getAuthor(self):
+		return "swrlly - https://github.com/swrlly"

@@ -6,5 +6,8 @@ class NoProjectile:
 	hooks = {PacketTypes.EnemyShoot}
 	load = True
 
+	def getAuthor(self):
+		return "swrlly - https://github.com/swrlly"
+
 	def onEnemyShoot(self, client: Client, packet: Packet, send: bool) -> (EnemyShoot, bool):
 		return (packet, False)

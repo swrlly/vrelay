@@ -11,6 +11,9 @@ class Speedy:
 	hooks = {PacketTypes.NewTick}
 	load = True
 
+	def getAuthor(self):
+		return "swrlly - https://github.com/swrlly"
+
 	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
 
 		for obj in range(len(packet.statuses)):

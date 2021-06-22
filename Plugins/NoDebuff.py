@@ -14,6 +14,9 @@ class NoDebuff:
 	load = True
 	effect0Remove = ["Quiet", "Hallucinating", "Weak", "Slowed", "Sick", "Stunned", "Blind", "Drunk", "Confused", "Paralyzed", "Stasis", "ArmorBroken", "Darkness", "Unstable", "Bleeding"]
 
+	def getAuthor(self):
+		return "swrlly - https://github.com/swrlly"
+
 	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
 
 

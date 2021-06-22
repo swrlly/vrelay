@@ -6,6 +6,8 @@ import random
 import math
 import time
 
+
+
 # check every possible bullet ID
 # predict when HP goes below threshold
 
@@ -20,6 +22,9 @@ class AutoNexus:
 	tickCounter = 0
 	bulletsInTick = 0
 	displayMessage = False
+
+	def getAuthor(self):
+		return "swrlly - https://github.com/swrlly"
 
 	# everytime a player gets hit, check if the damage puts us under the threshold
 	def onPlayerHit(self, client: Client, packet: PlayerHit, send: bool) -> (PlayerHit, bool):
@@ -134,7 +139,7 @@ class AutoNexus:
 
 	def onPlayerText(self, client: Client, packet: PlayerText, send: bool) -> (PlayerText, bool):
 
-		if packet.text[:4] == "/an " or packet.text.strip() == "/an":
+		if not client.screenshotMode and packet.text[:4] == "/an " or packet.text.strip() == "/an":
 			try:
 				command = packet.text.split(" ")[-1]
 				if command == 'help':
