@@ -14,7 +14,7 @@ class Client:
 	from a design persepctive, this also makes sense since this can scale to clientless
 	"""
 
-	def __init__(self, pm: PluginManager):
+	def __init__(self, pm: PluginManager, bullets: dict, names: dict, tiles: dict):
 		self.remoteHostAddr = "51.222.11.213"
 		self.remoteHostPort = 2050
 		self.objectID = None
@@ -64,14 +64,26 @@ class Client:
 		self.effect2bits = 0
 
 		### AutoNexus variables ###
-		# key objectID, value below
-			# key bullet ID, value BulletInfo (bullet type, damage)
-		self.seenProjectiles = {}
-		# key id, value pos
-		self.newObjects = {}
 		self.currentHP = None
 		self.maxHP = None
 		self.currentProtection = None
+		self.defense = 0
+		# key objectType, value name
+		self.enemyName = names
+		# key (x, y), value id
+		self.newTiles = {}
+		# key id, value (min, max dmg)
+		self.tileDictionary = tiles
+		# key id, value ObjectInfo (pos, objectType)
+		self.newObjects = {}
+		# bullets we have seen being shot by enemies
+		# key objectID, value below
+			# key bullet ID, value BulletInfo (bullet type, damage)
+		self.seenProjectiles = {}
+		# bullet info parsed from XMLs
+		# (28795, 0): {'damage': 125, 'conditionEffect': 'Quiet', 'armorPiercing': False}
+		self.bulletDictionary = bullets
+		# signal to tell proxy to connect to nexus
 		self.reconnectToNexus = False
 		
 		
@@ -119,11 +131,14 @@ class Client:
 	def ResetStateSyncs(self):
 		self.internalBulletID = 0
 		self.firstBulletTime = None
-		self.seenProjectiles = {}
-		self.newObjects = {}
+
 		self.currentHP = None
 		self.maxHP = None
 		self.currentProtection = None
+		self.defense = 0
+		self.newTiles = {}
+		self.newObjects = {}
+		self.seenProjectiles = {}
 		self.reconnectToNexus = False
 
 	# restart entire connection
@@ -183,16 +198,8 @@ class Client:
 		"""
 
 		# hooks
-		if packet.ID == PacketTypes.PlayerText:
-			self.onPlayerText(packet)
-
-		elif packet.ID == PacketTypes.Hello:
-			# hello is always sent, try another map update name here
-			p = Hello()
-			p.read(packet.data)
-
-			if p.gameID in self.gameIDs:
-				self.currentMap = self.gameIDs[p.gameID]
+		if packet.ID == PacketTypes.Hello:
+			packet, send = self.routePacket(packet, send, self.onHello)
 
 		# plugin management
 		elif packet.ID == PacketTypes.PlayerHit:
@@ -203,6 +210,9 @@ class Client:
 
 		elif packet.ID == PacketTypes.EnemyHit:
 			packet, send = self.routePacket(packet, send, self.onEnemyHit)
+
+		elif packet.ID == PacketTypes.PlayerText:
+			packet, send = self.routePacket(packet, send, self.onPlayerText)
 
 		elif packet.ID == PacketTypes.PlayerShoot:
 			# make sure you're tracking the internal state
@@ -269,21 +279,39 @@ class Client:
 			self.currentMap = p.name
 			self.reconnecting = True
 
+		elif packet.ID == PacketTypes.ShowEffect:
+			p = ShowEffect()
+			p.read(packet.data)
+			if p.effectType == 4:
+				print("this is enemy", self.newObjects[p.targetObjectID].objectType, "name", self.enemyName[self.newObjects[p.targetObjectID].objectType])
+				p.PrintString()
+				print()
+
+				
+
+		#####################
+		# plugin management #
+		#####################
 		# update internal effect state
 		elif packet.ID == PacketTypes.NewTick:
 			packet, send = self.routePacket(packet, send, self.onNewTick)
+
+		elif packet.ID == PacketTypes.EnemyShoot:
+			packet, send = self.routePacket(packet, send, self.onEnemyShoot)
+
+		elif packet.ID == PacketTypes.Aoe:
+			packet, send = self.routePacket(packet, send, self.onAoe)
 
 		# remember new enemies
 		elif packet.ID == PacketTypes.Update:
 			packet, send = self.routePacket(packet, send, self.onUpdate)
 
-		elif packet.ID == PacketTypes.EnemyShoot:
-			packet, send = self.routePacket(packet, send, self.onEnemyShoot)
+		elif packet.ID == PacketTypes.Death:
+			packet, send = self.routePacket(packet, send, self.onDeath)
 
 		elif packet.ID == PacketTypes.Failure:
 			packet, send = self.routePacket(packet, send, self.onFailure)
 			
-		
 		if send:
 			self.SendPacketToClient(packet)
 
@@ -315,8 +343,6 @@ class Client:
 						
 						self.SendPacketToClient(CreatePacket(p))
 						self.reconnectToNexus = False
-
-						print("sent to client!")
 
 					# flush sockets
 					if self.gameSocket in ready:
@@ -418,6 +444,19 @@ class Client:
 # various necessary hooks
 ##########################
 
+	def onDeath(self, packet: Packet) -> Death:
+		p = Death()
+		p.read(packet.data)
+		p.PrintString()
+		return p
+
+	def onAoe(self, packet: Packet) -> Aoe:
+		p = Aoe()
+		p.read(packet.data)
+		p.PrintString()
+		print()
+		return p
+
 	def onFailure(self, packet: Packet) -> Failure:
 		p = Failure()
 		p.read(packet.data)
@@ -478,6 +517,9 @@ class Client:
 
 		p = Update()
 		p.read(packet.data)
+
+		for t in p.tiles:
+			self.newTiles.update({(t.x, t.y) : t.type})
 
 		for i in p.newObjects:
 
@@ -559,8 +601,31 @@ class Client:
 		return p
 
 	# when server sends reconnect
+	# not a hook, just poorly named
 	def onReconnect(self):
 		self.reset()
+
+	def onHello(self, packet: Packet) -> Hello:
+		# hello is always sent, try another map update name here
+		p = Hello()
+		p.read(packet.data)
+		packet = CreatePacket(p)
+
+		if p.gameID in self.gameIDs:
+			self.currentMap = self.gameIDs[p.gameID]
+		print("MapChange:", self.currentMap)
+		return p
+
+
+	# send a message to the player in the client
+	def createNotification(self, name, text):
+		p = Text()
+		p.name = name
+		p.text = text
+		p.numStars = -1
+		p.nameColor = 28369126
+		p.textColor = 28369126
+		self.SendPacketToClient(CreatePacket(p))
 
 class ObjectInfo:
 

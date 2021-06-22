@@ -32,6 +32,11 @@ class PluginManager:
 		return True
 
 		
+	# returns relevant class you searched for
+	def findClass(self, text: str):
+		for plugin in self.plugins:
+			if type(plugin).__name__ == text:
+				return plugin
 
 	"""
 	Creates a dictionary with key = PacketType, value = key of plugins

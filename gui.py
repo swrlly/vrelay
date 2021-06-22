@@ -81,7 +81,7 @@ class GUI:
 		self.nodebuffbtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.nodebufftxt, command = self.noDebuffHandler, fg = self.RED)
 		self.nodebuffbtn.grid(row = 2, column = 1, padx = self.PADX, pady = self.PADY)
 
-		"""
+		
 		# an text
 		self.anlabel = Label(self.buttonFrame, text = "Autonexus", width = self.COLWIDTH, height = self.HEIGHT)
 		self.anlabel.grid(row = 2, column = 2, padx = self.PADX, pady = self.PADY)
@@ -89,9 +89,8 @@ class GUI:
 		# an button
 		self.antxt = StringVar()
 		self.antxt.set("OFF")
-		self.anbtn = Button(self.buttonFrame, bd = 5, textvariable = self.antxt, command = self.AutoNexusHandler, fg = self.RED)
+		self.anbtn = Button(self.buttonFrame, bd = self.BUTTONDEPTH, textvariable = self.antxt, command = self.AutoNexusHandler, fg = self.RED)
 		self.anbtn.grid(row = 2, column = 3, padx = self.PADX, pady = self.PADY)
-		"""
 
 		# realm text
 		self.textFrame = Frame(self.root)
@@ -135,8 +134,8 @@ class GUI:
 		self.godmodebtn.config(fg = self.RED)
 		self.noprojectiletxt.set("OFF")
 		self.noprojectilebtn.config(fg = self.RED)
-		#self.antxt.set("OFF")
-		#self.anbtn.config(fg = self.RED)
+		self.antxt.set("OFF")
+		self.anbtn.config(fg = self.RED)
 		self.speedytxt.set("OFF")
 		self.speedybtn.config(fg = self.RED)
 		self.swiftnesstxt.set("OFF")

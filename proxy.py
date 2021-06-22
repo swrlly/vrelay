@@ -1,9 +1,16 @@
 import threading
+import pickle
 import sys
 
+from Logger import Logger
 from client import *
 from PluginManager import *
 from gui import GUI
+
+
+DEBUG_LENGTH = 10
+DEBUG = True
+
 
 class Proxy:
 
@@ -29,6 +36,7 @@ class Proxy:
 		# always listening for client connect
 		while True:
 			self.client.gameSocket, addr = self.managerSocket.accept()
+			#print("new client")
 
 	def Start(self):
 		self.active = True
@@ -60,8 +68,21 @@ def main():
 		print("Shutting down.")
 		return
 
+	print("[Initializer]: Serializing objects...")
+	with open("BulletDictionary.pkl", "rb") as f:
+		bulletDictionary = pickle.load(f)
+		print("[Initializer]: Serialized {} enemies.".format(len(set([x[0] for x in bulletDictionary.keys()]))))            
+		print("[Initializer]: Serialized {} bullets.".format(len(bulletDictionary)))
+
+	with open("NameDictionary.pkl", "rb") as f:
+		nameDictionary = pickle.load(f)
+
+	with open("TileDictionary.pkl", "rb") as f:
+		tileDictionary = pickle.load(f)       
+		print("[Initializer]: Serialized {} tiles.".format(len(tileDictionary)))
+
 	print("[Initializer]: Starting proxy...")
-	client = Client(plugins)
+	client = Client(plugins, bulletDictionary, nameDictionary, tileDictionary)
 	proxy = Proxy(plugins, client)
 
 	threading.Thread(target = proxy.Start, daemon = True).start()
@@ -71,6 +92,9 @@ def main():
 	print("[Initializer]: Starting GUI...")
 	gui = GUI(plugins, client, proxy)
 	print("[Initializer]: GUI started!")
+
+	logger = Logger()
+	logFile = logger.openLogFile()
 	
 	gui.start()
 
