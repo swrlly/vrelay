@@ -285,9 +285,13 @@ class Client:
 			p = ShowEffect()
 			p.read(packet.data)
 			if p.effectType == 4:
-				print("this is enemy", self.newObjects[p.targetObjectID].objectType, "name", self.enemyName[self.newObjects[p.targetObjectID].objectType])
-				p.PrintString()
-				print()
+				try:
+					print("this is enemy", self.newObjects[p.targetObjectID].objectType, "name", self.enemyName[self.newObjects[p.targetObjectID].objectType])
+					p.PrintString()
+					print()
+				# assassin throwing poison
+				except KeyError:
+					pass
 
 				
 
