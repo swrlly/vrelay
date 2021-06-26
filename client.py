@@ -41,7 +41,7 @@ class Client:
 		# stuff to ignore when debugging
 		#self.ignoreIn = []
 		#self.ignoreOut = []
-		self.ignoreOut = [PacketTypes.Message, PacketTypes.Move, PacketTypes.Pong, PacketTypes.GotoAck, PacketTypes.PlayerShoot, PacketTypes.ShootAck]
+		self.ignoreOut = [PacketTypes.UpdateAck, PacketTypes.Move, PacketTypes.Pong, PacketTypes.GotoAck, PacketTypes.PlayerShoot, PacketTypes.ShootAck]
 		self.ignoreIn = [PacketTypes.Ping, PacketTypes.Goto, PacketTypes.Update, PacketTypes.NewTick]
 		self.screenshotMode = False
 
