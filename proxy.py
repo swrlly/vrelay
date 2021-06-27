@@ -68,7 +68,7 @@ def main():
 		print("Shutting down.")
 		return
 
-	print("[Initializer]: Serializing objects...")
+	print("[Initializer]: Deserializing objects...")
 	with open("bin/BulletDictionary.pkl", "rb") as f:
 		bulletDictionary = pickle.load(f)
 		print("[Initializer]: Deserialized {} enemies.".format(len(set([x[0] for x in bulletDictionary.keys()]))))            
@@ -93,8 +93,8 @@ def main():
 	gui = GUI(plugins, client, proxy)
 	print("[Initializer]: GUI started!")
 
-	logger = Logger()
-	logFile = logger.openLogFile()
+	#logger = Logger()
+	#logFile = logger.openLogFile()
 	
 	gui.start()
 

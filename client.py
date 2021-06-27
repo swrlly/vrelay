@@ -168,6 +168,13 @@ class Client:
 		if len(header) == 0 or self.reconnecting:
 			self.reset()
 			return
+
+		# let's see if this prevents indexerror
+		leftToRead = 5 - len(header)
+		while len(header) < 5:
+			header += self.gameSocket.recv(leftToRead)
+			leftToRead -= len(header)
+			print("ListenToServer: Triggered header reread")
 		
 		packetID = header[4]
 		expectedPacketLength = struct.unpack("!i", header[:4])[0]
@@ -230,6 +237,13 @@ class Client:
 		if len(header) == 0 or self.reconnecting:
 			self.reset()
 			return
+		
+		# let's see if this prevents indexerror
+		leftToRead = 5 - len(header)
+		while len(header) < 5:
+			header += self.serverSocket.recv(leftToRead)
+			leftToRead -= len(header)
+			print("ListenToServer: Triggered header reread")
 
 		packetID = header[4]
 		expectedPacketLength = struct.unpack("!i", header[:4])[0]
