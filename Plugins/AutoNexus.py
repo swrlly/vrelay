@@ -60,7 +60,13 @@ class AutoNexus:
 
 			# check if bullet is armor piercing
 			enemyObjectType = client.newObjects[packet.objectID].objectType
-			bulletType = client.seenProjectiles[packet.objectID][packet.bulletID].bulletType
+			bulletType = 0
+
+			# weird bullet
+			try:
+				bulletType = client.seenProjectiles[packet.objectID][packet.bulletID].bulletType
+			except KeyError as e:
+				print("AutoNexus:", client.enemyName[enemyObjectType], "gave KeyError:", e)
 
 			# if it is not armor piercing, do defense calculation
 			if not client.bulletDictionary[(enemyObjectType, bulletType)]['armorPiercing']:

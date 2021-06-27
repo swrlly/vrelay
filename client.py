@@ -535,6 +535,8 @@ class Client:
 						self.maxHP = j.statValue
 					elif j.statType == 1:
 						self.currentHP = j.statValue
+					elif j.statType == 21:
+						self.defense = j.statValue
 
 			obj = ObjectInfo()
 			obj.pos = i.objectStatusData.pos
@@ -558,6 +560,9 @@ class Client:
 					# current HP
 					elif p.statuses[obj].stats[s].statType == 1:
 						self.currentHP = p.statuses[obj].stats[s].statValue
+
+					elif p.statuses[obj].stats[s].statType == 21:
+						self.defense = p.statuses[obj].stats[s].statValue
 
 					elif p.statuses[obj].stats[s].statType == 125:
 						self.currentProtection = p.statuses[obj].stats[s].statValue
