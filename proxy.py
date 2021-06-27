@@ -69,17 +69,17 @@ def main():
 		return
 
 	print("[Initializer]: Serializing objects...")
-	with open("BulletDictionary.pkl", "rb") as f:
+	with open("bin/BulletDictionary.pkl", "rb") as f:
 		bulletDictionary = pickle.load(f)
-		print("[Initializer]: Serialized {} enemies.".format(len(set([x[0] for x in bulletDictionary.keys()]))))            
-		print("[Initializer]: Serialized {} bullets.".format(len(bulletDictionary)))
+		print("[Initializer]: Deserialized {} enemies.".format(len(set([x[0] for x in bulletDictionary.keys()]))))            
+		print("[Initializer]: Deserialized {} bullets.".format(len(bulletDictionary)))
 
-	with open("NameDictionary.pkl", "rb") as f:
+	with open("bin/NameDictionary.pkl", "rb") as f:
 		nameDictionary = pickle.load(f)
 
-	with open("TileDictionary.pkl", "rb") as f:
+	with open("bin/TileDictionary.pkl", "rb") as f:
 		tileDictionary = pickle.load(f)       
-		print("[Initializer]: Serialized {} tiles.".format(len(tileDictionary)))
+		print("[Initializer]: Deserialized {} tiles.".format(len(tileDictionary)))
 
 	print("[Initializer]: Starting proxy...")
 	client = Client(plugins, bulletDictionary, nameDictionary, tileDictionary)

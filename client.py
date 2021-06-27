@@ -2,6 +2,7 @@ import socket
 import struct
 import select
 import time
+import json
 
 from valorlib.Packets.Packet import *
 from PluginManager import *
@@ -37,6 +38,15 @@ class Client:
 			-16 : "Ascension Enclave",
 			-17 : "Aspect Hall"
 		}
+		# key objectType, value potion ID
+		self.potionStorageID = {
+			2793: 0, 2794: 1, 2591: 2, 2592: 3,
+			2593: 4, 2636: 5, 2612: 6, 2613: 7,
+			22562: 8, 22563: 9, 26877: 10, 26878: 11,
+			9070: 0, 9071: 1, 9064: 2, 9065: 3, 
+			9066: 4, 9069: 5, 9067: 6, 9068: 7,
+			25033: 8, 25035: 9, 25034: 10, 25036: 11
+		}
 
 		# stuff to ignore when debugging
 		#self.ignoreIn = []
@@ -48,18 +58,8 @@ class Client:
 		# client state syncs, these are public
 		self.disableSpeedy = False
 		self.disableSwiftness = False
-
-		# containerType of the weapon you are using
-		self.containerType = 0
-		# first bullet time. allows server sync
-		self.firstBulletTime = None
-		# internal bullet ID to spoof packets
-		self.internalBulletID = 0
-		# last time enemies damaged themselves
-		self.lastEnemySelfDamage = 0
-		# last time you multiplied damage
-		self.lastEnemyHitSpam = 0
 		
+		# bits to represent our conditions
 		self.effect0bits = 0
 		self.effect1bits = 0
 		self.effect2bits = 0
@@ -81,15 +81,16 @@ class Client:
 		# key objectID, value below
 			# key bullet ID, value BulletInfo (bullet type, damage)
 		self.seenProjectiles = {}
-		# bullet info parsed from XMLs
+		# bullet info parsed from XMLs. example:
 		# (28795, 0): {'damage': 125, 'conditionEffect': 'Quiet', 'armorPiercing': False}
 		self.bulletDictionary = bullets
 		# signal to tell proxy to connect to nexus
 		self.reconnectToNexus = False
-		self.autonexusThreshold = 0.03
-		
-		
 
+		# inventory model
+		self.inventoryModel = [-1 for _ in range(16)]
+		
+		
 	# disconnect the client from the proxy
 	# disconnect the proxy from the server
 	def Disconnect(self):
@@ -110,15 +111,13 @@ class Client:
 		self.serverSendKey.reset()
 		self.serverReceiveKey.reset()
 
-	# for now, we can just recon lazily
+	# we can just recon lazily as Valor has a static ip for all instances
 	def Reconnect(self):
 		self.ConnectRemote(self.remoteHostAddr, self.remoteHostPort)
 		self.connected = True
 
 	# Connect to remote host. Block until client connected
 	def ConnectRemote(self, host, port):
-		# the invalid recon key bug is when client doesn't connect to the proxy server's socket
-		# reduced sleep time and it seems to be ok now
 		while self.gameSocket == None:
 			time.sleep(0.005)
 
@@ -131,8 +130,8 @@ class Client:
 		self.serverSocket.close()
 
 	def ResetStateSyncs(self):
-		self.internalBulletID = 0
-		self.firstBulletTime = None
+
+		self.inventoryModel = [-1 for _ in range(16)]
 
 		self.currentHP = None
 		self.maxHP = None
@@ -154,7 +153,7 @@ class Client:
 	def resetMapName(self):
 		self.currentMap = "Nexus"
 
-	# tell client to nexus after finishing the read on this packet
+	# tell client to nexus after finishing the read on the current packet
 	def FireNexusSignal(self):
 		self.reconnectToNexus = True
 		self.reconnecting = True
@@ -167,9 +166,6 @@ class Client:
 		header = self.gameSocket.recv(5)
 
 		if len(header) == 0 or self.reconnecting:
-			# try and fix this possible bug? why is the client sending nothing??
-			# this only happens when you nexus
-			# print("got length 0 packet from client")
 			self.reset()
 			return
 		
@@ -217,9 +213,6 @@ class Client:
 			packet, send = self.routePacket(packet, send, self.onPlayerText)
 
 		elif packet.ID == PacketTypes.PlayerShoot:
-			# make sure you're tracking the internal state
-			# update the id now since this will percolate downstream to enemyhit
-			self.internalBulletID = (self.internalBulletID + 1) % 128
 			packet, send = self.routePacket(packet, send, self.onPlayerShoot)
 
 		if not send:
@@ -235,10 +228,6 @@ class Client:
 		header = self.serverSocket.recv(5)
 
 		if len(header) == 0 or self.reconnecting:
-			# try and fix this possible bug? this happens every so often.
-			# why this bug happens: client sends hello, but then server sends nothing.
-			# doesn't matter if you keep trying to read bytes, server always sends nothing.
-			# print("got 0 length packet from server")
 			self.reset()
 			return
 
@@ -286,14 +275,16 @@ class Client:
 			p.read(packet.data)
 			if p.effectType == 4:
 				try:
-					print("this is enemy", self.newObjects[p.targetObjectID].objectType, "name", self.enemyName[self.newObjects[p.targetObjectID].objectType])
-					p.PrintString()
-					print()
+					enemy = self.newObjects[p.targetObjectID].objectType
+					name = self.enemyName[self.newObjects[p.targetObjectID].objectType]
+					if enemy != 800 and enemy != 802:
+						print("enemy", enemy, "name", name)
+						p.PrintString()
+						print()
 				# assassin throwing poison
-				except KeyError:
-					pass
-
-				
+				except KeyError as e:
+					print("ShowEffect had KeyError:", e)
+					print()
 
 		#####################
 		# plugin management #
@@ -333,7 +324,6 @@ class Client:
 
 				# prioritize reconnects
 				if self.reconnecting:
-
 
 					# check if this is an autonexus
 					# if so, trick client into thinking we are nexusing
@@ -388,13 +378,13 @@ class Client:
 				self.Close()
 				return
 
-			"""
+			#"""
 			except Exception as e:
 				print("Something went terribly wrong.")
 				print("Error:", e)
-				print("Restarting...")
+				print("Restarting proxy...")
 				self.reset()
-			"""
+			#"""
 
 	"""
 
@@ -410,7 +400,7 @@ class Client:
 	"""
 	def routePacket(self, packet: Packet, send, onPacketType) -> (Packet, bool):
 
-		p = onPacketType(packet)
+		p, send = onPacketType(packet, send)
 
 		if packet.ID in self.pluginManager.hooks:
 			for plugin in self.pluginManager.hooks[packet.ID]:
@@ -420,9 +410,6 @@ class Client:
 					# also make sure you're spelling your class methods correctly.
 					p, send = getattr(plugin, "on" + PacketTypes.reverseDict[packet.ID])(self, p, send)
 					modified = True
-
-		# always create a new packet; this ensures our internal bullet ID state is synced
-		# with our real shots
 
 		packet = CreatePacket(p)
 		return (packet, send)
@@ -446,39 +433,39 @@ class Client:
 		self.charID = p.charID	
 
 
-##########################
-# various necessary hooks
-##########################
+	###################################################
+	# various necessary hooks to take care of packets #
+	###################################################
 
-	def onDeath(self, packet: Packet) -> Death:
+	def onDeath(self, packet: Packet, send: bool) -> (Death, bool):
 		p = Death()
 		p.read(packet.data)
 		p.PrintString()
-		return p
+		return p, send
 
-	def onAoe(self, packet: Packet) -> Aoe:
+	def onAoe(self, packet: Packet, send: bool) -> (Aoe, bool):
 		p = Aoe()
 		p.read(packet.data)
 		p.PrintString()
 		print()
-		return p
+		return p, send
 
-	def onFailure(self, packet: Packet) -> Failure:
+	def onFailure(self, packet: Packet, send: bool) -> (Failure, bool):
 		p = Failure()
 		p.read(packet.data)
-		return p
+		return p, send
 
-	def onPlayerHit(self, packet: Packet) -> PlayerHit:
+	def onPlayerHit(self, packet: Packet, send: bool) -> (PlayerHit, bool):
 		p = PlayerHit()
 		p.read(packet.data)
-		return p
+		return p, send
 
-	def onGroundDamage(self, packet: Packet) -> GroundDamage:
+	def onGroundDamage(self, packet: Packet, send: bool) -> (GroundDamage, bool):
 		p = GroundDamage()
 		p.read(packet.data)
-		return p
+		return p, send
 
-	def onEnemyShoot(self, packet: Packet) -> EnemyShoot:
+	def onEnemyShoot(self, packet: Packet, send: bool) -> (EnemyShoot, bool):
 		
 		p = EnemyShoot()
 		p.read(packet.data)
@@ -497,29 +484,31 @@ class Client:
 				bullet.damage = p.damage
 				self.seenProjectiles.update({p.ownerID : {p.bulletID + i : bullet}})
 
-		return p
+		return p, send
 
-	def onEnemyHit(self, packet: Packet) -> EnemyHit:
+	def onEnemyHit(self, packet: Packet, send: bool) -> (EnemyHit, bool):
 		p = EnemyHit()
 		p.read(packet.data)
-		# since we have plugins that modify the bulletID, we need to make sure bulletID is synced as well
-		#p.bulletID = self.internalBulletID
-		return p
+		return p, send
 
-	def onPlayerShoot(self, packet: Packet) -> PlayerShoot:
+	def onPlayerShoot(self, packet: Packet, send: bool) -> (PlayerShoot, bool):
 		p = PlayerShoot()
 		p.read(packet.data)
-		self.containerType = p.containerType
-		# to get bullet clock syncs, do int(time.time() * 1000 - self.firstBulletTime)
-		# fix this later lmfao
-		if self.firstBulletTime == None:
-			self.firstBulletTime = time.time() * 1000 - p.time
-		# this is causing bugs for multishot piercing weapons. ex: decimator goes from 0 -> 6 -> 12 every single playershoot
-		#p.bulletID = self.internalBulletID
-		return p
+		return p, send
+
+	# returns id if id key present, else -1
+	def deserializeItemData(self, s) -> int:
+
+		if s == "null":
+			return -1
+		x = json.loads(s)
+		if 'id' in x:
+			return x['id']
+
+		return -1
 
 
-	def onUpdate(self, packet) -> Update:
+	def onUpdate(self, packet: Packet, send: bool) -> (Update, bool):
 
 		p = Update()
 		p.read(packet.data)
@@ -538,14 +527,24 @@ class Client:
 					elif j.statType == 21:
 						self.defense = j.statValue
 
+					# 12 - 19 is 1 - 8
+					# 71 - 78 is 9 - 16
+					for k in range(0, 8):
+						if j.statType == 12 + k:
+							self.inventoryModel[k] = self.deserializeItemData(j.strStatValue)
+
+					for k in range(0, 8):
+						if j.statType == 71 + k:
+							self.inventoryModel[k + 8] = self.deserializeItemData(j.strStatValue)
+					
 			obj = ObjectInfo()
 			obj.pos = i.objectStatusData.pos
 			obj.objectType = i.objectType
 			self.newObjects.update({i.objectStatusData.objectID : obj})
 
-		return p
+		return p, send
 
-	def onNewTick(self, packet: Packet) -> NewTick:
+	def onNewTick(self, packet: Packet, send) -> (NewTick, bool):
 		p = NewTick()
 		p.read(packet.data)
 
@@ -560,10 +559,10 @@ class Client:
 					# current HP
 					elif p.statuses[obj].stats[s].statType == 1:
 						self.currentHP = p.statuses[obj].stats[s].statValue
-
+					# defense
 					elif p.statuses[obj].stats[s].statType == 21:
 						self.defense = p.statuses[obj].stats[s].statValue
-
+					# protection
 					elif p.statuses[obj].stats[s].statType == 125:
 						self.currentProtection = p.statuses[obj].stats[s].statValue
 
@@ -580,11 +579,22 @@ class Client:
 					elif p.statuses[obj].stats[s].statType == 205:
 						self.effect2bits = p.statuses[obj].stats[s].statValue
 
+					# check inventory
+					# 12 - 19 is 1 - 8
+					# 71 - 78 is 9 - 16
+					for j in range(0, 8):
+						if p.statuses[obj].stats[s].statType == 12 + j:
+							self.inventoryModel[j] = self.deserializeItemData(p.statuses[obj].stats[s].strStatValue)
+
+					for j in range(0, 8):
+						if p.statuses[obj].stats[s].statType == 71 + j:
+							self.inventoryModel[j + 8] = self.deserializeItemData(p.statuses[obj].stats[s].strStatValue)
+
 		# now cover edge cases in plugins
 		# pretty terrible engineering
 		# this ensures our injected status effects are turned off and doesn't interfere with real speedy (like from warrior)
 		self.turnOffInjectedStatuses()
-		return p
+		return p, send
 
 	def turnOffInjectedStatuses(self):
 
@@ -598,18 +608,25 @@ class Client:
 				self.disableSwiftness = False
 
 	# playertext hook
-	def onPlayerText(self, packet) -> None:
+	def onPlayerText(self, packet: Packet, send: bool) -> (PlayerText, bool):
 		p = PlayerText()
 		p.read(packet.data)
 
+		# if commands are not disabled
 		if not self.screenshotMode:
 
 			if p.text == "/dep":
-				for i in range(0, 12):
-					pp = PotionStorageInteraction()
-					pp.type = i
-					pp.action = 0
-					self.SendPacketToServer(CreatePacket(pp))
+
+				for item in self.inventoryModel:
+
+					if item in self.potionStorageID:
+
+						pp = PotionStorageInteraction()
+						pp.type = self.potionStorageID[item]
+						pp.action = 0
+						self.SendPacketToServer(CreatePacket(pp))
+				
+				send = False
 
 		if p.text.strip() == "/safe":
 
@@ -620,14 +637,16 @@ class Client:
 				self.createNotification("Screenshot Mode", "ON")
 				self.screenshotMode = True
 
-		return p
+			send = False
+
+		return p, send
 
 	# when server sends reconnect
 	# not a hook, just poorly named
 	def onReconnect(self):
 		self.reset()
 
-	def onHello(self, packet: Packet) -> Hello:
+	def onHello(self, packet: Packet, send: bool) -> (Hello, bool):
 		# hello is always sent, try another map update name here
 		p = Hello()
 		p.read(packet.data)
@@ -636,7 +655,7 @@ class Client:
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]
 		print("MapChange:", self.currentMap)
-		return p
+		return p, send
 
 
 	# send a message to the player in the client

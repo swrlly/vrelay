@@ -6,20 +6,28 @@ import random
 import math
 import time
 
+"""
+This is a plugin that will automatically nexus for you when, upon taking damage, your HP falls below a certain threshold.
+Current functionality:
+- Able to predict future HP before the server updates.
+- Compensates for server not having updated our real HP if server sends up it's idea of what our HP is.
+- Does not account for AoE.
 
-
-# check every possible bullet ID
-# predict when HP goes below threshold
+Hello Valor devs!
+"""
 
 class AutoNexus:
 
+	"""
+	Referring to Godmode.py: you can see both `hooks` and `load` class variables have been instantiated.
+	"""
 	hooks = {PacketTypes.PlayerHit, PacketTypes.GroundDamage, PacketTypes.Hello, PacketTypes.NewTick, PacketTypes.PlayerText}
 	load = True
-	threshold = 0.03
+
+	# here are some class variables that keep track of the internal state.
+	threshold = 0.05
 	internalHP = 0
 	internalHPChanged = False
-	protectionTime = None
-	tickCounter = 0
 	bulletsInTick = 0
 	displayMessage = False
 
@@ -37,14 +45,12 @@ class AutoNexus:
 		# get bullet damage from the packet.
 		try:
 			damage = client.seenProjectiles[packet.objectID][packet.bulletID].damage
-		except KeyError:
+		except KeyError as e:
+			print("AutoNexus: Got error:", e)
 			damage = 0
-
-
-		# put all damage in prot, do not do any defense calculations
-		if client.currentProtection > 0:
+			
+		# If user has protection, do not do any defense calculations.
 			client.currentProtection = max(0, client.currentProtection - damage)
-
 
 		# else no prot
 		else:
@@ -133,7 +139,8 @@ class AutoNexus:
 
 	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
 
-		# if server is possibly lagging in calculating all the playerHit's we sent it (meaning internalHP < clientHP)
+		# If server is possibly lagging in calculating all the playerHit's we sent it (meaning internalHP < clientHP)
+		# The other inequality is also possible; however if internal < client then that means server has not processed all of our player hits yet.
 		if self.bulletsInTick >= 1:
 			self.internalHP = min(self.internalHP, client.currentHP)
 		else:
@@ -143,6 +150,7 @@ class AutoNexus:
 
 		return (packet, send)
 
+	# able to set the threshold with a command
 	def onPlayerText(self, client: Client, packet: PlayerText, send: bool) -> (PlayerText, bool):
 
 		if not client.screenshotMode and packet.text[:4] == "/an " or packet.text.strip() == "/an":
