@@ -19,10 +19,11 @@ Hello Valor devs!
 class AutoNexus:
 
 	"""
-	Referring to Godmode.py: you can see both `hooks` and `load` class variables have been instantiated.
+	Referring to Godmode.py: you can see both `hooks`, `load` and `defaultState` class variables have been instantiated.
 	"""
 	hooks = {PacketTypes.PlayerHit, PacketTypes.GroundDamage, PacketTypes.Hello, PacketTypes.NewTick, PacketTypes.PlayerText}
 	load = True
+	defaultState = False
 
 	# here are some class variables that keep track of the internal state.
 	threshold = 0.05

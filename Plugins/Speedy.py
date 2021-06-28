@@ -10,6 +10,7 @@ class Speedy:
 
 	hooks = {PacketTypes.NewTick}
 	load = True
+	defaultState = False
 
 	def getAuthor(self):
 		return "swrlly - https://github.com/swrlly"

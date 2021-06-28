@@ -22,7 +22,11 @@ class PluginManager:
 				try:
 					# by default, the plugin is not active.
 					if eval(t).load == True:
-						self.plugins.update({eval(t + "()") : False})
+
+						if eval(t).defaultState == True:
+							self.plugins.update({eval(t + "()") : True})
+						else:
+							self.plugins.update({eval(t + "()") : False})
 				except Exception as e:
 					print("There was an error when loading plugins. Make sure you follow the naming convention when writing your own plugins.")
 					print("Error:", e)

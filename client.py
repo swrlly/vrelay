@@ -6,7 +6,7 @@ import json
 
 from valorlib.Packets.Packet import *
 from PluginManager import *
-from RC4 import RC4
+from valorlib.RC4 import RC4
 
 class Client:
 	""" 
@@ -59,7 +59,7 @@ class Client:
 		self.disableSpeedy = False
 		self.disableSwiftness = False
 		
-		# bits to represent our conditions
+		# bitfields to represent our conditions
 		self.effect0bits = 0
 		self.effect1bits = 0
 		self.effect2bits = 0
@@ -511,7 +511,7 @@ class Client:
 		return p, send
 
 	# returns id if id key present, else -1
-	def deserializeItemData(self, s) -> int:
+	def deserializeItemData(self, s: str) -> int:
 
 		if s == "null":
 			return -1

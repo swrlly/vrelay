@@ -8,7 +8,7 @@ class Godmode:
 
 	"""
 	for each plugin, you need to instantiate a *class variable* called hook.
-	make sure this is a set.
+	make sure this is a set data structure (for O(1) access as we check for containment when checking for hooks).
 	this will tell the program what packets you intend to hook
 	why? suppose you have 10 plugins that utilize NewTick. You don't want to reread
 	newtick 10 times. Also, you only want to call the plugins which contain a newtick
@@ -20,6 +20,9 @@ class Godmode:
 	# also, make sure you put this class variable to tell the PluginManager whether to load this plugin or not. If this is absent,
 	# the manager will throw an exception.
 	load = True
+
+	# lastly, declare and initialize a variable called defaultState. This variable will tell the PluginManager to turn the plugin on or off after loading this plugin
+	defaultState = False
 
 	"""
 	Next, you need to write functions that will handle each packet type in your hooks.

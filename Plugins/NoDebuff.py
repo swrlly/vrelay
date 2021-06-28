@@ -12,13 +12,13 @@ class NoDebuff:
 
 	hooks = {PacketTypes.NewTick}
 	load = True
+	defaultState = False
 	effect0Remove = ["Quiet", "Hallucinating", "Weak", "Slowed", "Sick", "Stunned", "Blind", "Drunk", "Confused", "Paralyzed", "Stasis", "ArmorBroken", "Darkness", "Unstable", "Bleeding"]
 
 	def getAuthor(self):
 		return "swrlly - https://github.com/swrlly"
 
 	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
-
 
 		for obj in range(len(packet.statuses)):
 			if packet.statuses[obj].objectID == client.objectID:

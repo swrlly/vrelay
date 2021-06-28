@@ -10,7 +10,7 @@ class Swiftness:
 
 	hooks = {PacketTypes.NewTick}
 	load = True
-	word = "Swiftness"
+	defaultState = False
 
 	def getAuthor(self):
 		return "swrlly - https://github.com/swrlly"

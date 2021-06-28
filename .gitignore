@@ -1,5 +1,8 @@
+**/__pycache__
+
 secretstuff
-__pycache__
-Plugins/__pycache__
 Plugins/Invulnerable.py
+Plugins/CustomCommands.py
+Plugins/DamageBoost.py
+Plugins/KillAura.py
 HTTPProxy.py
