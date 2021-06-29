@@ -102,7 +102,7 @@ class AutoNexus:
 			return (packet, send)
 		
 		minDist = 9999999
-		tileCurrentlyOn = GroundTileData()
+		tileID = 0
 
 		# first, get location of the tile from loaded in tiles
 		# make sure it actually deals damage.

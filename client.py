@@ -3,10 +3,12 @@ import struct
 import select
 import time
 import json
+import traceback
 
-from valorlib.Packets.Packet import *
 from PluginManager import *
+from valorlib.Packets.Packet import *
 from valorlib.RC4 import RC4
+from valorlib.Packets.DataStructures import WorldPosData
 
 class Client:
 	""" 
@@ -394,8 +396,10 @@ class Client:
 
 			#"""
 			except Exception as e:
+				
 				print("Something went terribly wrong.")
-				print("Error:", e)
+				traceback.print_exc()
+				#print("Error:", e)
 				print("Restarting proxy...")
 				self.reset()
 			#"""

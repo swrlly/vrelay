@@ -1,4 +1,5 @@
 from valorlib.Packets.Packet import *
+from valorlib.Packets.DataStructures import ObjectStatusData, WorldPosData, StatData
 from ConditionEffect import *
 from client import Client
 
@@ -11,6 +12,7 @@ class Swiftness:
 	hooks = {PacketTypes.NewTick}
 	load = True
 	defaultState = False
+	word = 'Swiftness'
 
 	def getAuthor(self):
 		return "swrlly - https://github.com/swrlly"
