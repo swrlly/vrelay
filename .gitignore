@@ -1,8 +1,10 @@
 **/__pycache__
 
+binaryData
 secretstuff
-Plugins/Invulnerable.py
 Plugins/CustomCommands.py
+Plugins/Invulnerable.py
+Plugins/TeleportTools.py
 Plugins/DamageBoost.py
 Plugins/KillAura.py
 HTTPProxy.py

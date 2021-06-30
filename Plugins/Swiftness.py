@@ -1,3 +1,4 @@
+from .PluginInterface import PluginInterface
 from valorlib.Packets.Packet import *
 from valorlib.Packets.DataStructures import ObjectStatusData, WorldPosData, StatData
 from ConditionEffect import *
@@ -7,7 +8,7 @@ from client import Client
 Stacks with speedy!
 """
 
-class Swiftness:
+class Swiftness(PluginInterface):
 
 	hooks = {PacketTypes.NewTick}
 	load = True

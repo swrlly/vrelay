@@ -12,25 +12,22 @@ from valorlib.Packets.DataStructures import WorldPosData
 
 class Client:
 	""" 
-	This class holds data relevant to clients. 
-	in here, we will also put the sockets. this allows the client class to send packets.
-	from a design persepctive, this also makes sense since this can scale to clientless
+	This class holds all data relevant to clients. 
+	in here, we will also put the sockets. this allows the client class to send and receive packets
+	from a design persepctive, this also makes sense since this can scale to clientless by just removing server -> client socket
 	"""
 
 	def __init__(self, pm: PluginManager, bullets: dict, names: dict, tiles: dict):
+
+		# some parameters used throught the game
 		self.remoteHostAddr = "51.222.11.213"
 		self.remoteHostPort = 2050
 		self.objectID = None
 		self.charID = None
-		self.reconnecting = False
-		self.connected = False
 		self.clientSendKey = RC4(bytearray.fromhex("BA15DE"))
 		self.clientReceiveKey = RC4(bytearray.fromhex("612a806cac78114ba5013cb531"))
 		self.serverSendKey = RC4(bytearray.fromhex("612a806cac78114ba5013cb531"))
 		self.serverReceiveKey = RC4(bytearray.fromhex("BA15DE"))
-		self.gameSocket = None
-		self.serverSocket = None
-		self.pluginManager = pm
 		self.currentMap = "None"
 		self.gameIDs = {
 			-1 : "Nexus",
@@ -50,6 +47,13 @@ class Client:
 			25033: 8, 25035: 9, 25034: 10, 25036: 11
 		}
 
+		# variables we use to keep track of client's state
+		self.reconnecting = False
+		self.connected = False
+		self.gameSocket = None
+		self.serverSocket = None
+		self.pluginManager = pm
+
 		# stuff to ignore when debugging
 		#self.ignoreIn = []
 		#self.ignoreOut = []
@@ -61,6 +65,15 @@ class Client:
 		self.disableSpeedy = False
 		self.disableSwiftness = False
 		
+
+		##################
+		# game variables #
+		##################
+		# current and prev location
+		self.lastx = 0
+		self.lasty = 0
+		self.currentx = 0
+		self.currenty = 0
 		# bitfields to represent our conditions
 		self.effect0bits = 0
 		self.effect1bits = 0
@@ -132,6 +145,11 @@ class Client:
 		self.serverSocket.close()
 
 	def ResetStateSyncs(self):
+
+		self.lastx = 0
+		self.lasty = 0
+		self.currentx = 0
+		self.currenty = 0
 
 		self.inventoryModel = [-1 for _ in range(16)]
 
@@ -223,6 +241,9 @@ class Client:
 
 		elif packet.ID == PacketTypes.PlayerShoot:
 			packet, send = self.routePacket(packet, send, self.onPlayerShoot)
+
+		elif packet.ID == PacketTypes.Move:
+			packet, send = self.routePacket(packet, send, self.onMove)
 
 		if not send:
 			return
@@ -461,6 +482,14 @@ class Client:
 		p.PrintString()
 		return p, send
 
+	def onMove(self, packet: Packet, send: bool) -> (Move, bool):
+		p = Move()
+		p.read(packet.data)
+		self.lastx = self.currentx
+		self.lasty = self.currenty
+		self.currentx = p.newPosition.x
+		self.currenty = p.newPosition.y
+
 	def onAoe(self, packet: Packet, send: bool) -> (Aoe, bool):
 		p = Aoe()
 		p.read(packet.data)
@@ -656,6 +685,9 @@ class Client:
 				self.screenshotMode = True
 
 			send = False
+
+		elif p.text.strip() == "/help":
+			pass
 
 		return p, send
 

@@ -1,9 +1,10 @@
+from .PluginInterface import PluginInterface
 from valorlib.Packets.Packet import *
 from valorlib.Packets.DataStructures import StatData
 from ConditionEffect import *
 from client import Client
 
-class NoDebuff:
+class NoDebuff(PluginInterface):
 
 	"""
 	Need to research a bit more into blocking the effect entirely. Only removes after new tick happens; client is in control of the behavior of status effect.
@@ -16,7 +17,7 @@ class NoDebuff:
 	defaultState = False
 	effect0Remove = ["Quiet", "Hallucinating", "Weak", "Slowed", "Sick", "Stunned", "Blind", "Drunk", "Confused", "Paralyzed", "Stasis", "ArmorBroken", "Darkness", "Unstable", "Bleeding"]
 
-	def getAuthor(self):
+	def getAuthor(self) -> str:
 		return "swrlly - https://github.com/swrlly"
 
 	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):

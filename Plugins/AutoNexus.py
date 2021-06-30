@@ -1,3 +1,4 @@
+from .PluginInterface import PluginInterface
 from valorlib.Packets.Packet import *
 from ConditionEffect import *
 from client import Client
@@ -16,7 +17,7 @@ Current functionality:
 Hello Valor devs!
 """
 
-class AutoNexus:
+class AutoNexus(PluginInterface):
 
 	"""
 	Referring to Godmode.py: you can see both `hooks`, `load` and `defaultState` class variables have been instantiated.
@@ -32,8 +33,15 @@ class AutoNexus:
 	bulletsInTick = 0
 	displayMessage = False
 
-	def getAuthor(self):
+	def getAuthor(self) -> str:
 		return "swrlly - https://github.com/swrlly"
+
+	# what commands are in this plugin?
+	def getCommands(self) -> list:
+		return [
+			'/an help - Syntax is `/an [number]` where number is between 0 and 99, inclusive.',
+			'/an # - set nexus threshold to #, where # is an integer between 0 and 99, inclusive.'
+		]
 
 	# everytime a player gets hit, check if the damage puts us under the threshold
 	def onPlayerHit(self, client: Client, packet: PlayerHit, send: bool) -> (PlayerHit, bool):
