@@ -4,6 +4,7 @@ import select
 import time
 import json
 import traceback
+import math
 
 from PluginManager import *
 from valorlib.Packets.Packet import *
@@ -78,6 +79,7 @@ class Client:
 		self.effect0bits = 0
 		self.effect1bits = 0
 		self.effect2bits = 0
+		self.latestQuest = None
 
 		### AutoNexus variables ###
 		self.currentHP = None
@@ -340,6 +342,9 @@ class Client:
 		elif packet.ID == PacketTypes.Update:
 			packet, send = self.routePacket(packet, send, self.onUpdate)
 
+		elif packet.ID == PacketTypes.QuestObjId:
+			packet, send = self.routePacket(packet, send, self.onQuestObjectID)
+
 		elif packet.ID == PacketTypes.Death:
 			packet, send = self.routePacket(packet, send, self.onDeath)
 
@@ -489,6 +494,7 @@ class Client:
 		self.lasty = self.currenty
 		self.currentx = p.newPosition.x
 		self.currenty = p.newPosition.y
+		return p, send
 
 	def onAoe(self, packet: Packet, send: bool) -> (Aoe, bool):
 		p = Aoe()
@@ -543,6 +549,13 @@ class Client:
 		p.read(packet.data)
 		return p, send
 
+	def onQuestObjectID(self, packet: Packet, send: bool) -> (QuestObjId, bool):
+		p = QuestObjId()
+		p.read(packet.data)
+		self.latestQuest = p.objectID
+
+		return p, send
+
 	# returns id if id key present, else -1
 	def deserializeItemData(self, s: str) -> int:
 
@@ -559,7 +572,8 @@ class Client:
 
 		p = Update()
 		p.read(packet.data)
-
+		p.PrintString()
+		print()
 		for t in p.tiles:
 			self.newTiles.update({(t.x, t.y) : t.type})
 
@@ -594,8 +608,17 @@ class Client:
 	def onNewTick(self, packet: Packet, send) -> (NewTick, bool):
 		p = NewTick()
 		p.read(packet.data)
+		#print("#######################")
+		#p.PrintString()
+		#print("#######################")
+		#print(self.latestQuest)
+		#print()
 
 		for obj in range(len(p.statuses)):
+
+			#if math.sqrt((p.statuses[obj].pos.x - self.currentx) ** 2 + (p.statuses[obj].pos.y - self.currenty) ** 2) <= 20:
+			#	p.statuses[obj].PrintString()
+
 			# got a packet that updates our stats
 			if p.statuses[obj].objectID == self.objectID:
 				for s in range(len(p.statuses[obj].stats)):
