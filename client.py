@@ -572,8 +572,7 @@ class Client:
 
 		p = Update()
 		p.read(packet.data)
-		p.PrintString()
-		print()
+
 		for t in p.tiles:
 			self.newTiles.update({(t.x, t.y) : t.type})
 
@@ -608,16 +607,8 @@ class Client:
 	def onNewTick(self, packet: Packet, send) -> (NewTick, bool):
 		p = NewTick()
 		p.read(packet.data)
-		#print("#######################")
-		#p.PrintString()
-		#print("#######################")
-		#print(self.latestQuest)
-		#print()
 
 		for obj in range(len(p.statuses)):
-
-			#if math.sqrt((p.statuses[obj].pos.x - self.currentx) ** 2 + (p.statuses[obj].pos.y - self.currenty) ** 2) <= 20:
-			#	p.statuses[obj].PrintString()
 
 			# got a packet that updates our stats
 			if p.statuses[obj].objectID == self.objectID:
