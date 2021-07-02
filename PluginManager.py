@@ -6,6 +6,8 @@ class PluginManager:
 		self.plugins = {}
 		# key is packet type, value is set of plugin classes (key for self.plugins)
 		self.hooks = {}
+		# tell the manager which plugins will always be on, this is string of class name
+		self.alwaysOn = ["DamageBoost", "TeleportTools"]
 
 	"""
 	initialize all plugins.

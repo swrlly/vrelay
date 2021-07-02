@@ -5,7 +5,7 @@ Here is an interface for Plugin classes.
 class PluginInterface:
 
     hooks = {}
-    load = True
+    load = False
     defaultState = False
 
     def getAuthor(self) -> str:

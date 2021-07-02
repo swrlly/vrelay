@@ -244,6 +244,9 @@ class Client:
 		elif packet.ID == PacketTypes.PlayerShoot:
 			packet, send = self.routePacket(packet, send, self.onPlayerShoot)
 
+		elif packet.ID == PacketTypes.UseItem:
+			packet, send = self.routePacket(packet, send, self.onUseItem)
+
 		elif packet.ID == PacketTypes.Move:
 			packet, send = self.routePacket(packet, send, self.onMove)
 
@@ -315,8 +318,8 @@ class Client:
 			if p.effectType == 4:
 				try:
 					enemy = self.newObjects[p.targetObjectID].objectType
-					name = self.enemyName[self.newObjects[p.targetObjectID].objectType]
 					if enemy != 800 and enemy != 802:
+						name = self.enemyName[self.newObjects[p.targetObjectID].objectType]
 						print("enemy", enemy, "name", name)
 						p.PrintString()
 						print()
@@ -549,11 +552,15 @@ class Client:
 		p.read(packet.data)
 		return p, send
 
+	def onUseItem(self, packet: Packet, send: bool) -> (UseItem, bool):
+		p = UseItem()
+		p.read(packet.data)
+		return p, send
+
 	def onQuestObjectID(self, packet: Packet, send: bool) -> (QuestObjId, bool):
 		p = QuestObjId()
 		p.read(packet.data)
 		self.latestQuest = p.objectID
-
 		return p, send
 
 	# returns id if id key present, else -1
