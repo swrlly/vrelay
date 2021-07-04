@@ -152,6 +152,7 @@ class Client:
 		self.lasty = 0
 		self.currentx = 0
 		self.currenty = 0
+		self.latestQuest = None
 
 		self.inventoryModel = [-1 for _ in range(16)]
 
@@ -313,20 +314,7 @@ class Client:
 			self.reconnecting = True
 
 		elif packet.ID == PacketTypes.ShowEffect:
-			p = ShowEffect()
-			p.read(packet.data)
-			if p.effectType == 4:
-				try:
-					enemy = self.newObjects[p.targetObjectID].objectType
-					if enemy != 800 and enemy != 802:
-						name = self.enemyName[self.newObjects[p.targetObjectID].objectType]
-						print("enemy", enemy, "name", name)
-						p.PrintString()
-						print()
-				# assassin throwing poison
-				except KeyError as e:
-					print("ShowEffect had KeyError:", e)
-					print()
+			packet, send = self.routePacket(packet, send, self.onShowEffect)
 
 		#####################
 		# plugin management #
@@ -488,6 +476,23 @@ class Client:
 		p = Death()
 		p.read(packet.data)
 		p.PrintString()
+		return p, send
+
+	def onShowEffect(self, packet: Packet, send: bool) -> (ShowEffect, bool):
+		p = ShowEffect()
+		p.read(packet.data)
+		if p.effectType == 4:
+			try:
+				enemy = self.newObjects[p.targetObjectID].objectType
+				if enemy != 800 and enemy != 802:
+					name = self.enemyName[self.newObjects[p.targetObjectID].objectType]
+					print("enemy", enemy, "name", name)
+					p.PrintString()
+					print()
+			# assassin throwing poison
+			except KeyError as e:
+				print("ShowEffect had KeyError:", e)
+				print()
 		return p, send
 
 	def onMove(self, packet: Packet, send: bool) -> (Move, bool):
@@ -742,6 +747,14 @@ class Client:
 		p.nameColor = 28369126
 		p.textColor = 28369126
 		self.SendPacketToClient(CreatePacket(p))
+
+	# function to check if our current location or last location is within some radius
+	def inCircle(self, radius: int, pos: WorldPosData) -> bool:
+		if math.sqrt((self.lastx - pos.x) ** 2 + (self.lasty - pos.y) ** 2) <= radius:
+			return True
+		elif math.sqrt((self.currentx - pos.x) ** 2 + (self.currenty - pos.y) ** 2) <= radius:
+			return True
+		return False
 
 class ObjectInfo:
 

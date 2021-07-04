@@ -1,8 +1,10 @@
 from .PluginInterface import PluginInterface
 from valorlib.Packets.Packet import *
+from valorlib.Packets.DataStructures import WorldPosData
 from ConditionEffect import *
 from client import Client
 
+import threading
 import random
 import math
 import time
@@ -22,11 +24,19 @@ class AutoNexus(PluginInterface):
 	"""
 	Referring to Godmode.py: you can see both `hooks`, `load` and `defaultState` class variables have been instantiated.
 	"""
-	hooks = {PacketTypes.PlayerHit, PacketTypes.GroundDamage, PacketTypes.Hello, PacketTypes.NewTick, PacketTypes.PlayerText}
+	hooks = {PacketTypes.ShowEffect, PacketTypes.PlayerHit, PacketTypes.GroundDamage, PacketTypes.Hello, PacketTypes.NewTick, PacketTypes.PlayerText}
 	load = True
 	defaultState = False
 
 	# here are some class variables that keep track of the internal state.
+	effects = {
+		1620: {
+			'color': -65536,
+			'radius' : 4,
+			'damage' : 150,
+			'time': 1.4
+		}
+	}
 	threshold = 0.05
 	internalHP = 0
 	internalHPChanged = False
@@ -39,7 +49,6 @@ class AutoNexus(PluginInterface):
 	# what commands are in this plugin?
 	def getCommands(self) -> list:
 		return [
-			'/an help - Syntax is `/an [number]` where number is between 0 and 99, inclusive.',
 			'/an # - set nexus threshold to #, where # is an integer between 0 and 99, inclusive.'
 		]
 
@@ -137,6 +146,64 @@ class AutoNexus(PluginInterface):
 			return (packet, False)
 
 		return (packet, send)
+
+	def predictAOE(self, client: Client, enemy: int, timeOfEffect: int, pos: WorldPosData) -> None:
+
+		while True:
+			#print("thread running, internal hp is", self.internalHP)
+			# if aoe is about to land
+			if time.time() - timeOfEffect >= self.effects[enemy]['time'] - 0.15:
+				# if we are in the circle of the AOE
+				if client.inCircle(self.effects[enemy]['radius'], pos):
+
+					# do damage calculation
+					defense = client.defense
+					damage = self.effects[enemy]['damage']
+
+					# check if we are armored
+					if client.effect0bits & effect0["Armored"]:
+						defense *= 2
+					# check if we are armor broken
+					if client.effect0bits & effect0["ArmorBroken"]:
+						defense = 0
+
+					damage = int(max(damage - defense, damage * 0.25))
+					
+					# now calculate curse
+					if client.effect1bits & effect1["Cursed"]:
+						damage = int(damage * 1.3)
+					print('about to apply', damage)
+					self.internalHP = self.internalHP - damage
+					print("aoe applied dmg is", self.internalHP)
+
+					if self.internalHP < client.maxHP * self.threshold:
+						print("aoe under threshold")
+						self.displayMessage = True
+						client.FireNexusSignal()
+
+				print("function about to return")
+				return
+
+			time.sleep(0.005)
+
+
+
+	def onShowEffect(self, client: Client, packet: ShowEffect, send: bool) -> (ShowEffect, bool):
+		# enemy is objectType
+
+		if packet.effectType == 4:
+			enemy = client.newObjects[packet.targetObjectID].objectType
+			# if the enemy threw something
+			if enemy in self.effects:
+				timeOfEffect = time.time()
+				predictFutureThread = threading.Thread(target = self.predictAOE, args = (client, enemy, timeOfEffect, packet.pos1), daemon = True)
+				predictFutureThread.start()
+				print('thread started')
+				#predictFutureThread.join(self.effects[enemy]['time'] + 1)
+				#print('thread joining in', self.effects[enemy]['time'] + 1)
+
+		return packet, send
+
 
 	def onHello(self, client: Client, packet: Hello, send: bool) -> (Hello, bool):
 
