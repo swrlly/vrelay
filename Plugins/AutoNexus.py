@@ -2,7 +2,7 @@ from .PluginInterface import PluginInterface
 from valorlib.Packets.Packet import *
 from valorlib.Packets.DataStructures import WorldPosData
 from ConditionEffect import *
-from client import Client
+from client import Client, AoEAutoException
 
 import threading
 import random
@@ -18,6 +18,24 @@ Current functionality:
 
 Hello Valor devs!
 """
+
+# not used for now. thread must block to work
+class AoEPredictionThread(threading.Thread):
+
+	def run(self):
+
+		self.exception = None
+
+		try:
+			self._target(*self._args)
+			#self.predictAOE(*self._args)
+		except AoEAutoException:
+			self.exception = AoEAutoException
+
+	def join(self):
+		super(AoEPredictionThread, self).join()
+		if self.exception:
+			raise AoEAutoException
 
 class AutoNexus(PluginInterface):
 
@@ -37,9 +55,10 @@ class AutoNexus(PluginInterface):
 			'time': 1.4
 		}
 	}
-	threshold = 0.05
+	lock = threading.Lock()
 	internalHP = 0
-	internalHPChanged = False
+	secondsBeforeLand = 0.25
+	threshold = 0.05
 	bulletsInTick = 0
 	displayMessage = False
 
@@ -150,17 +169,25 @@ class AutoNexus(PluginInterface):
 	def predictAOE(self, client: Client, enemy: int, timeOfEffect: int, pos: WorldPosData) -> None:
 
 		while True:
-			#print("thread running, internal hp is", self.internalHP)
-			# if aoe is about to land
-			if time.time() - timeOfEffect >= self.effects[enemy]['time'] - 0.15:
+
+			"""
+			If aoe is about to land within the next tick, meaning even if you move out of range, send a Move packet,
+			the server might not process it in time. Thus, you can still die even if you **are** out of range.
+			Thus we subtract a small amount of time before landing to be able to predict right before death
+			"""
+			if time.time() - timeOfEffect >= self.effects[enemy]['time'] - self.secondsBeforeLand:
 				# if we are in the circle of the AOE
+
+				print("our hp is", self.internalHP)
 				if client.inCircle(self.effects[enemy]['radius'], pos):
+
+					self.bulletsInTick += 1
 
 					# do damage calculation
 					defense = client.defense
 					damage = self.effects[enemy]['damage']
 
-					# check if we are armored
+					# check if we are armoredt
 					if client.effect0bits & effect0["Armored"]:
 						defense *= 2
 					# check if we are armor broken
@@ -168,39 +195,41 @@ class AutoNexus(PluginInterface):
 						defense = 0
 
 					damage = int(max(damage - defense, damage * 0.25))
-					
+
 					# now calculate curse
 					if client.effect1bits & effect1["Cursed"]:
 						damage = int(damage * 1.3)
-					print('about to apply', damage)
+
+					self.lock.acquire(blocking = True)
 					self.internalHP = self.internalHP - damage
-					print("aoe applied dmg is", self.internalHP)
+					self.lock.release()
 
+					print("our hp is now", self.internalHP)
 					if self.internalHP < client.maxHP * self.threshold:
-						print("aoe under threshold")
 						self.displayMessage = True
-						client.FireNexusSignal()
 
-				print("function about to return")
+						# if server is lagging, server might accept your nexus packet after AoE is applied.
+						# solution: force dc client
+						# client.FireNexusSignal()
+						client.reconnecting = True
+						client.connected = False
+						client.reset()
 				return
-
 			time.sleep(0.005)
 
 
-
 	def onShowEffect(self, client: Client, packet: ShowEffect, send: bool) -> (ShowEffect, bool):
-		# enemy is objectType
 
+		# if some object threw something
 		if packet.effectType == 4:
+
 			enemy = client.newObjects[packet.targetObjectID].objectType
-			# if the enemy threw something
+			# if this throw is from an enemy we know about
 			if enemy in self.effects:
 				timeOfEffect = time.time()
 				predictFutureThread = threading.Thread(target = self.predictAOE, args = (client, enemy, timeOfEffect, packet.pos1), daemon = True)
 				predictFutureThread.start()
 				print('thread started')
-				#predictFutureThread.join(self.effects[enemy]['time'] + 1)
-				#print('thread joining in', self.effects[enemy]['time'] + 1)
 
 		return packet, send
 
@@ -249,4 +278,6 @@ class AutoNexus(PluginInterface):
 				return (packet, False)
 
 		return (packet, send)
+
+
 

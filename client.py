@@ -353,10 +353,15 @@ class Client:
 		while True:
 			try:
 
+				# check if sockets haven't been disabled by other threads
+				if self.gameSocket is None or self.serverSocket is None:
+					self.reset()
+
 				ready = select.select([self.gameSocket, self.serverSocket], [], [])[0]
 
 				# prioritize reconnects
 				if self.reconnecting:
+					print("in reconnectg")
 
 					# check if this is an autonexus
 					# if so, trick client into thinking we are nexusing
@@ -383,7 +388,7 @@ class Client:
 					self.onReconnect()
 					self.reconnecting = False
 
-					# break out of listen loop, recall listen in Proxy
+					# break out of listen loop, recall listen in Proxy class
 					return
 
 				elif self.connected:
@@ -410,6 +415,11 @@ class Client:
 				self.connected = False
 				self.Close()
 				return
+
+			except AoEAutoException:
+				print("Autonexusing due to AoE.")
+				self.reset()
+				self.resetMapName()
 
 			#"""
 			except Exception as e:
@@ -775,3 +785,6 @@ class BulletInfo:
 
 	def PrintString(self):
 		print("bulletType", self.bulletType, "damage", self.damage)
+
+class AoEAutoException(Exception):
+	pass
