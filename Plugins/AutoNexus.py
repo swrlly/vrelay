@@ -4,6 +4,7 @@ from valorlib.Packets.DataStructures import WorldPosData
 from ConditionEffect import *
 from client import Client, AoEAutoException
 
+import traceback
 import threading
 import random
 import math
@@ -11,12 +12,16 @@ import time
 
 """
 This is a plugin that will automatically nexus for you when, upon taking damage, your HP falls below a certain threshold.
+
 Current functionality:
 - Able to predict future HP before the server updates.
-- Compensates for server not having updated our real HP if server sends up it's idea of what our HP is.
-- Does not account for AoE.
+- Compensates for server not having processed all PlayerHits
+- Accounts for most AoE's except for enemies with 2+ same color throws. Currently looks at max damaging per color x enemyType (overly safe - see Revil's AOEs)
 
-Hello Valor devs!
+TODO:
+- re vit formula
+- add healing, bleeding
+- maybe add in lifesteal
 """
 
 # not used for now. thread must block to work
@@ -165,7 +170,6 @@ class AutoNexus(PluginInterface):
 	def predictAOE(self, client: Client, enemy: int, timeOfEffect: int, packet: ShowEffect) -> None:
 
 		while True:
-
 			"""
 			If aoe is about to land within the next tick, meaning even if you move out of range, send a Move packet,
 			the server might not process it in time. Thus, you can still die even if you **are** out of range on your screen
@@ -175,11 +179,9 @@ class AutoNexus(PluginInterface):
 			if time.time() - timeOfEffect >= client.aoeDictionary[enemy][packet.color]['hangTime'] - self.secondsBeforeLand:
 				# if we are in the circle of the AOE
 
-
 				if client.inCircle(client.aoeDictionary[enemy][packet.color]['radius'], packet.pos1):
 
 					self.bulletsInTick += 1
-
 					# do damage calculation
 					defense = client.defense
 					print("enemy is", enemy, "damage is", client.aoeDictionary[enemy][packet.color]['damage'])
@@ -201,19 +203,21 @@ class AutoNexus(PluginInterface):
 					self.lock.acquire(blocking = True)
 					self.internalHP = self.internalHP - damage
 					self.lock.release()
-
+					
+					print("internal HP is now", self.internalHP)
 					# might throw exception
 					try:
 						if self.internalHP < client.maxHP * self.threshold:
+							print("nexusing at", self.internalHP, "due to AOE from {}, damage {}, color {}".format(client.enemyName[enemy], damage, packet.color))
 							self.displayMessage = True
 							# if server is lagging, server might accept your nexus packet after AoE is applied.
 							# solution: force dc client; this way server cannot apply the damage b/c you aren't in the game
 							# kinda bad ux but safety is important
-							# i think 0.25 is alright with awaiting next read.
-							client.FireNexusSignal()
-							#client.reconnecting = True
-							#client.connected = False
-							#client.reset()
+							# don't rely on awaiting next packet, died once testing. just dc
+							# client.FireNexusSignal()
+							client.reconnecting = True
+							client.connected = False
+							client.reset()
 					except Exception as e:
 						print("Ran into exception in AOE thread.")
 						traceback.print_exc()
@@ -221,15 +225,17 @@ class AutoNexus(PluginInterface):
 				return
 			time.sleep(0.005)
 
-
 	def onShowEffect(self, client: Client, packet: ShowEffect, send: bool) -> (ShowEffect, bool):
 
 		# if some object threw something
 		if packet.effectType == 4:
-
-			enemy = client.newObjects[packet.targetObjectID].objectType
-			# if this throw is from an enemy we know about
-			if enemy in client.aoeDictionary:
+			enemy = 0
+			try:
+				enemy = client.newObjects[packet.targetObjectID].objectType
+			except KeyError as e:
+				print("AutoNexus: haven't seen the enemy yet.")
+			# if this throw is from an enemy we know about and have seen this type of effect before
+			if enemy in client.aoeDictionary and packet.color in client.aoeDictionary[enemy]:
 				timeOfEffect = time.time()
 				predictFutureThread = threading.Thread(target = self.predictAOE, args = (client, enemy, timeOfEffect, packet), daemon = True)
 				predictFutureThread.start()
@@ -244,7 +250,6 @@ class AutoNexus(PluginInterface):
 			client.createNotification("AutoNexus",  "Saved at {} health".format(self.internalHP))
 			self.displayMessage = False
 		return (packet, send)
-
 
 	def onNewTick(self, client: Client, packet: NewTick, send: bool) -> (NewTick, bool):
 

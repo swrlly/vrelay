@@ -23,6 +23,7 @@ GetAsyncKeyState.restype = ctypes.c_short
 
 # 1 - 9 is just ZERO + number offset
 # https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+SPACE = 0x20
 ZERO = 0x30
 ESC = 0x1B
 F1 = 0x70
@@ -482,7 +483,11 @@ class GUI:
 					self.noDebuffHandler()
 				elif GetAsyncKeyState(ESC) & 1 and buf.value == "Valor":
 					self.shutdownHandler()
-
+				elif GetAsyncKeyState(ESC) & 1 and buf.value == "Valor":
+					self.shutdownHandler()
+				#elif GetAsyncKeyState(SPACE) & 1 and buf.value == "Valor":
+				#	self.client.UseAbility()
+					
 			except KeyboardInterrupt:
 				return
 			except TclError:

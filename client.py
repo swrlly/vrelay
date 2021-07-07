@@ -9,7 +9,7 @@ import math
 from PluginManager import *
 from valorlib.Packets.Packet import *
 from valorlib.RC4 import RC4
-from valorlib.Packets.DataStructures import WorldPosData
+from valorlib.Packets.DataStructures import SlotObjectData, WorldPosData
 
 class Client:
 	""" 
@@ -417,6 +417,12 @@ class Client:
 				self.Close()
 				return
 
+			except OSError as e:
+				print(e, "(probably due to attempting to read from a socket that has been closed)")
+				#traceback.print_exc()
+				print("Restarting proxy...")				
+
+			# unused exception rn
 			except AoEAutoException:
 				print("Autonexusing due to AoE.")
 				self.reset()
@@ -731,6 +737,21 @@ class Client:
 	# not a hook, just poorly named
 	def onReconnect(self):
 		self.reset()
+
+	def UseAbility(self):
+		p = UseItem()
+		i = SlotObjectData()
+		i.objectID = self.objectID
+		i.slotID = 1
+		i.itemData = ""
+		i.useType = 0
+		w = WorldPosData()
+		w.x = self.currentx
+		w.y = self.currenty
+		p.slotObject = i
+		p.itemUsePos = w
+		p.PrintString()
+		self.SendPacketToServer(CreatePacket(p))
 
 	def onHello(self, packet: Packet, send: bool) -> (Hello, bool):
 		# hello is always sent, try another map update name here

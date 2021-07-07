@@ -2,6 +2,7 @@ import threading
 import pickle
 import sys
 
+from multiprocessing import Process
 from Logger import Logger
 from client import *
 from PluginManager import *
@@ -83,7 +84,7 @@ def main():
 
 	with open("bin/AoeDictionary.pkl", "rb") as f:
 		aoeDictionary = pickle.load(f)
-		print("[Initializer]: Deserialized {} AOE's from {} enemies.".format(sum({y: len(aoeDictionary[y]) for y in aoeDictionary}.values()), len(aoeDictionary)))
+		print("[Initializer]: Deserialized {} AOEs.".format(sum({y: len(aoeDictionary[y]) for y in aoeDictionary}.values())))
 
 	print("[Initializer]: Starting proxy...")
 	client = Client(plugins, bulletDictionary, nameDictionary, tileDictionary, aoeDictionary)
@@ -97,8 +98,8 @@ def main():
 	gui = GUI(plugins, client, proxy)
 	print("[Initializer]: GUI started!")
 
-	logger = Logger()
-	logFile = logger.openLogFile()
+	#logger = Logger()
+	#logFile = logger.openLogFile()
 	
 	gui.start()
 
