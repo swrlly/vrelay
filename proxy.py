@@ -81,8 +81,12 @@ def main():
 		tileDictionary = pickle.load(f)       
 		print("[Initializer]: Deserialized {} tiles.".format(len(tileDictionary)))
 
+	with open("bin/AoeDictionary.pkl", "rb") as f:
+		aoeDictionary = pickle.load(f)
+		print("[Initializer]: Deserialized {} AOE's from {} enemies.".format(sum({y: len(aoeDictionary[y]) for y in aoeDictionary}.values()), len(aoeDictionary)))
+
 	print("[Initializer]: Starting proxy...")
-	client = Client(plugins, bulletDictionary, nameDictionary, tileDictionary)
+	client = Client(plugins, bulletDictionary, nameDictionary, tileDictionary, aoeDictionary)
 	proxy = Proxy(plugins, client)
 
 	threading.Thread(target = proxy.Start, daemon = True).start()
@@ -93,8 +97,8 @@ def main():
 	gui = GUI(plugins, client, proxy)
 	print("[Initializer]: GUI started!")
 
-	#logger = Logger()
-	#logFile = logger.openLogFile()
+	logger = Logger()
+	logFile = logger.openLogFile()
 	
 	gui.start()
 

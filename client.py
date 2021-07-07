@@ -18,7 +18,7 @@ class Client:
 	from a design persepctive, this also makes sense since this can scale to clientless by just removing server -> client socket
 	"""
 
-	def __init__(self, pm: PluginManager, bullets: dict, names: dict, tiles: dict):
+	def __init__(self, pm: PluginManager, bullets: dict, names: dict, tiles: dict, aoes: dict):
 
 		# some parameters used throught the game
 		self.remoteHostAddr = "51.222.11.213"
@@ -101,8 +101,10 @@ class Client:
 		# bullet info parsed from XMLs. example:
 		# (28795, 0): {'damage': 125, 'conditionEffect': 'Quiet', 'armorPiercing': False}
 		self.bulletDictionary = bullets
+		self.aoeDictionary = aoes
 		# signal to tell proxy to connect to nexus
 		self.reconnectToNexus = False
+
 
 		# inventory model
 		self.inventoryModel = [-1 for _ in range(16)]
@@ -361,7 +363,6 @@ class Client:
 
 				# prioritize reconnects
 				if self.reconnecting:
-					print("in reconnectg")
 
 					# check if this is an autonexus
 					# if so, trick client into thinking we are nexusing
@@ -426,7 +427,6 @@ class Client:
 				
 				print("Something went terribly wrong.")
 				traceback.print_exc()
-				#print("Error:", e)
 				print("Restarting proxy...")
 				self.reset()
 			#"""

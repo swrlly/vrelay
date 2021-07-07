@@ -47,14 +47,6 @@ class AutoNexus(PluginInterface):
 	defaultState = False
 
 	# here are some class variables that keep track of the internal state.
-	effects = {
-		1620: {
-			'color': -65536,
-			'radius' : 4,
-			'damage' : 150,
-			'time': 1.4
-		}
-	}
 	lock = threading.Lock()
 	internalHP = 0
 	secondsBeforeLand = 0.25
@@ -119,7 +111,9 @@ class AutoNexus(PluginInterface):
 			if client.effect1bits & effect1["Cursed"]:
 				damage = int(damage * 1.3)
 
+			self.lock.acquire(blocking = True)
 			self.internalHP = self.internalHP - damage
+			self.lock.release()
 
 		if self.internalHP < client.maxHP * self.threshold:
 			self.displayMessage = True
@@ -157,7 +151,9 @@ class AutoNexus(PluginInterface):
 
 		# else no prot
 		else:
+			self.lock.acquire(blocking = True)
 			self.internalHP = self.internalHP - damage
+			self.lock.release()
 
 		if self.internalHP < client.maxHP * self.threshold:
 			self.displayMessage = True
@@ -166,28 +162,30 @@ class AutoNexus(PluginInterface):
 
 		return (packet, send)
 
-	def predictAOE(self, client: Client, enemy: int, timeOfEffect: int, pos: WorldPosData) -> None:
+	def predictAOE(self, client: Client, enemy: int, timeOfEffect: int, packet: ShowEffect) -> None:
 
 		while True:
 
 			"""
 			If aoe is about to land within the next tick, meaning even if you move out of range, send a Move packet,
-			the server might not process it in time. Thus, you can still die even if you **are** out of range.
+			the server might not process it in time. Thus, you can still die even if you **are** out of range on your screen
+			because server thinks you're actually in range of the AoE.
 			Thus we subtract a small amount of time before landing to be able to predict right before death
 			"""
-			if time.time() - timeOfEffect >= self.effects[enemy]['time'] - self.secondsBeforeLand:
+			if time.time() - timeOfEffect >= client.aoeDictionary[enemy][packet.color]['hangTime'] - self.secondsBeforeLand:
 				# if we are in the circle of the AOE
 
-				print("our hp is", self.internalHP)
-				if client.inCircle(self.effects[enemy]['radius'], pos):
+
+				if client.inCircle(client.aoeDictionary[enemy][packet.color]['radius'], packet.pos1):
 
 					self.bulletsInTick += 1
 
 					# do damage calculation
 					defense = client.defense
-					damage = self.effects[enemy]['damage']
+					print("enemy is", enemy, "damage is", client.aoeDictionary[enemy][packet.color]['damage'])
+					damage = client.aoeDictionary[enemy][packet.color]['damage']
 
-					# check if we are armoredt
+					# check if we are armored
 					if client.effect0bits & effect0["Armored"]:
 						defense *= 2
 					# check if we are armor broken
@@ -204,16 +202,22 @@ class AutoNexus(PluginInterface):
 					self.internalHP = self.internalHP - damage
 					self.lock.release()
 
-					print("our hp is now", self.internalHP)
-					if self.internalHP < client.maxHP * self.threshold:
-						self.displayMessage = True
-
-						# if server is lagging, server might accept your nexus packet after AoE is applied.
-						# solution: force dc client
-						# client.FireNexusSignal()
-						client.reconnecting = True
-						client.connected = False
-						client.reset()
+					# might throw exception
+					try:
+						if self.internalHP < client.maxHP * self.threshold:
+							self.displayMessage = True
+							# if server is lagging, server might accept your nexus packet after AoE is applied.
+							# solution: force dc client; this way server cannot apply the damage b/c you aren't in the game
+							# kinda bad ux but safety is important
+							# i think 0.25 is alright with awaiting next read.
+							client.FireNexusSignal()
+							#client.reconnecting = True
+							#client.connected = False
+							#client.reset()
+					except Exception as e:
+						print("Ran into exception in AOE thread.")
+						traceback.print_exc()
+						return
 				return
 			time.sleep(0.005)
 
@@ -225,9 +229,9 @@ class AutoNexus(PluginInterface):
 
 			enemy = client.newObjects[packet.targetObjectID].objectType
 			# if this throw is from an enemy we know about
-			if enemy in self.effects:
+			if enemy in client.aoeDictionary:
 				timeOfEffect = time.time()
-				predictFutureThread = threading.Thread(target = self.predictAOE, args = (client, enemy, timeOfEffect, packet.pos1), daemon = True)
+				predictFutureThread = threading.Thread(target = self.predictAOE, args = (client, enemy, timeOfEffect, packet), daemon = True)
 				predictFutureThread.start()
 				print('thread started')
 
