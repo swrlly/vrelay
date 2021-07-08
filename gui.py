@@ -8,7 +8,7 @@ from tkinter import font
 from PluginManager import *
 from client import Client
 
-# declare exported functions for user32
+# declare exported functions from user32
 GetForegroundWindow = ctypes.WinDLL('User32').GetForegroundWindow
 GetForegroundWindow.restype = ctypes.c_void_p
 
@@ -481,8 +481,6 @@ class GUI:
 					self.swiftnessHandler()
 				elif GetAsyncKeyState(F6) & 1 and buf.value == "Valor":
 					self.noDebuffHandler()
-				elif GetAsyncKeyState(ESC) & 1 and buf.value == "Valor":
-					self.shutdownHandler()
 				elif GetAsyncKeyState(ESC) & 1 and buf.value == "Valor":
 					self.shutdownHandler()
 				#elif GetAsyncKeyState(SPACE) & 1 and buf.value == "Valor":

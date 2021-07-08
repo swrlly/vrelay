@@ -105,6 +105,7 @@ class Client:
 		# signal to tell proxy to connect to nexus
 		self.reconnectToNexus = False
 
+		self.blockAbilityUse = False
 
 		# inventory model
 		self.inventoryModel = [-1 for _ in range(16)]
@@ -453,12 +454,15 @@ class Client:
 
 		p, send = onPacketType(packet, send)
 
+		# if this certain packet has a hook present (meaning it's used by some plugin)
 		if packet.ID in self.pluginManager.hooks:
+
+			# then we search for the plugin, and whether if it's active or not.
 			for plugin in self.pluginManager.hooks[packet.ID]:
 				# if the plugin is active
 				if self.pluginManager.plugins[plugin]:
 					# at each step, we are editing the packet on the wire
-					# also make sure you're spelling your class methods correctly.
+					# important: make sure you're spelling your class methods correctly.
 					p, send = getattr(plugin, "on" + PacketTypes.reverseDict[packet.ID])(self, p, send)
 					modified = True
 
@@ -576,6 +580,8 @@ class Client:
 	def onUseItem(self, packet: Packet, send: bool) -> (UseItem, bool):
 		p = UseItem()
 		p.read(packet.data)
+		if self.blockAbilityUse and p.slotObject.slotID == 1:
+			send = False
 		return p, send
 
 	def onQuestObjectID(self, packet: Packet, send: bool) -> (QuestObjId, bool):

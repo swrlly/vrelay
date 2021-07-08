@@ -33,7 +33,7 @@ Watch this video for a demonstration of some vrelay features: https://www.youtub
 Each feature has a toggle key as shown in the image above.
 
 1. **Predictive Autonexus**: If you take damage that will put you under a certain threshold, you automatically join the nexus.
-    - ***Does NOT account*** for AoE right now. Working on collecting data to add predictive AoE autonexus.
+    - Accounts for most AoE's except for enemies with 2+ same color throws.
 2. **Godmode**: Immune to all bullet and ground damage. Does not block AoE damage.
 3. **No projectile**: Hides all projectiles from appearing; essentially another godmode (but very obvious to others as you do not know where to dodge).
     - Does not hide AoE damage (you will still take damage from AoE). 
