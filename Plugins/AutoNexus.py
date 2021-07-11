@@ -184,7 +184,6 @@ class AutoNexus(PluginInterface):
 					self.bulletsInTick += 1
 					# do damage calculation
 					defense = client.defense
-					print("enemy is", enemy, "damage is", client.aoeDictionary[enemy][packet.color]['damage'])
 					damage = client.aoeDictionary[enemy][packet.color]['damage']
 
 					# check if we are armored
@@ -239,7 +238,6 @@ class AutoNexus(PluginInterface):
 				timeOfEffect = time.time()
 				predictFutureThread = threading.Thread(target = self.predictAOE, args = (client, enemy, timeOfEffect, packet), daemon = True)
 				predictFutureThread.start()
-				print('thread started')
 
 		return packet, send
 

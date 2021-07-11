@@ -98,8 +98,8 @@ def main():
 	gui = GUI(plugins, client, proxy)
 	print("[Initializer]: GUI started!")
 
-	#logger = Logger()
-	#logFile = logger.openLogFile()
+	logger = Logger()
+	logFile = logger.openLogFile()
 	
 	gui.start()
 

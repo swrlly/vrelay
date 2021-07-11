@@ -419,8 +419,8 @@ class Client:
 				return
 
 			except OSError as e:
-				print(e, "(probably due to attempting to read from a socket that has been closed)")
-				#traceback.print_exc()
+				# print(e, "(probably due to attempting to read from a socket that has been closed)")
+				traceback.print_exc()
 				print("Restarting proxy...")				
 
 			# unused exception rn

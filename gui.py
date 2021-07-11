@@ -112,7 +112,7 @@ class GUI:
 		self.challengebtn.place(x = x, y = y)
 
 		x, y = 134, 32
-		self.version = Label(bd = 0, text = 'v3.2.4', bg = 'black', fg = self.TEXTCOL)
+		self.version = Label(bd = 0, text = 'v3.2.5', bg = 'black', fg = self.TEXTCOL)
 		self.version['font'] = self.keyFont
 		self.subimage(self.version, self.bg, x - 2, y - 2, x + self.version.winfo_reqwidth(), y + self.version.winfo_reqheight())
 		self.version.place(x = x, y = y)
