@@ -764,7 +764,6 @@ class Client:
 		p = Hello()
 		p.read(packet.data)
 		packet = CreatePacket(p)
-
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]
 		print("MapChange:", self.currentMap)

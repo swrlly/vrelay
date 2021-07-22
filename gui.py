@@ -103,6 +103,7 @@ class GUI:
 		self.vrelayLabel.place(x = x, y = y)
 		self.vrelayLabel.bind("<Button-1>", lambda e: webbrowser.open_new("https://github.com/swrlly/vrelay"))
 
+		"""
 		x, y = 259, self.sizey - 25
 		self.challengetxt = StringVar()
 		self.challengetxt.set("Normal Server")
@@ -110,9 +111,10 @@ class GUI:
 		self.challengebtn['font'] = self.keyFont#font.Font(family = globalFont, weight = "bold", size = 8)
 		self.subimage(self.challengebtn, self.bg, x - 2, y - 2, x + self.challengebtn.winfo_reqwidth(), y + self.challengebtn.winfo_reqheight())
 		self.challengebtn.place(x = x, y = y)
+		"""
 
 		x, y = 134, 32
-		self.version = Label(bd = 0, text = 'v3.2.5', bg = 'black', fg = self.TEXTCOL)
+		self.version = Label(bd = 0, text = 'v3.2.6', bg = 'black', fg = self.TEXTCOL)
 		self.version['font'] = self.keyFont
 		self.subimage(self.version, self.bg, x - 2, y - 2, x + self.version.winfo_reqwidth(), y + self.version.winfo_reqheight())
 		self.version.place(x = x, y = y)

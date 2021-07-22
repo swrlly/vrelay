@@ -4,7 +4,7 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 
 For any questions, join the discord: https://discord.gg/nfmQYtUaGS
 
-**Updated for Valor version 3.2.4.**
+**Updated for Valor version 3.2.6.**
 
 <p align="center">
   <img src="images/vrelay.png" />
