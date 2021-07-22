@@ -54,7 +54,7 @@ class AutoNexus(PluginInterface):
 	# here are some class variables that keep track of the internal state.
 	lock = threading.Lock()
 	internalHP = 0
-	secondsBeforeLand = 0.4
+	secondsBeforeLand = 0.5
 	threshold = 0.05
 	bulletsInTick = 0
 	displayMessage = False

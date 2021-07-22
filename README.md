@@ -16,10 +16,10 @@ For any questions, join the discord: https://discord.gg/nfmQYtUaGS
 1. Install Python 64-bit. You can find installations of Python [here](https://www.python.org/downloads/). Install the 64-bit version or the GUI will not work.
 2. Navigate to the right side of this page and look for `Releases`. Click on the latest release and download from `vrelay-v3.2.4.zip`. 
    - You can also clone this repository.
-3. There are two folders, `challenge` and `normal`. The `normal` folder contains the `Valor.swf` file for the normal server. Replace the original `Valor.swf` downloaded from Valor's website with the `Valor.swf` in this folder. In a similar fashion, the `challenge` folder contains a `Valor.swf` file for the challenge league.  Replace this as well (with the respective challenge league `swf`) if you wish to play the challenge league.
+3. There is a folder called `normal` which contains the `Valor.swf` file for the normal server. Replace the original `Valor.swf` downloaded from Valor's website with the `Valor.swf` in this folder.
      - This `.swf` file has been modded so you can connect to the proxy server. If you only see `Valor`, that means you have your file extensions off.
 4. Open the command line (type `Win ⊞ + r` and type in `cmd`, press enter. the command line will now be open), `cd` into the folder containing the code.
-    - This will involve typing `cd C:\path\to\folder` then pressing enter.
+    - This will involve typing `cd C:\path\to\folder` then pressing enter. **Note**: you need to replace `C:\path\to\folder` with your path to vrelay.
     - If you downloaded the hack in another drive, such as `Z:` or `D:`, then you need to type the drive name (`Z:` or `D:`, respectively) in order to tell command prompt you wish to be in that drive.
 5. Once you're in the folder in the command prompt, type `python proxy.py` in the command line to start the proxy. If you have previously installed Python, also try `py proxy.py` or `python3 proxy.py` if this does not work.
 6. Connect to the proxy server in the server list and you're good to go.
