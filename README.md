@@ -2,8 +2,6 @@
 
 A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, and many QoL plugins such as predictive autonexus.
 
-For any questions, join the discord: https://discord.gg/nfmQYtUaGS
-
 **Updated for Valor version 3.2.6.**
 
 <p align="center">
@@ -14,7 +12,7 @@ For any questions, join the discord: https://discord.gg/nfmQYtUaGS
 ## How to use
 
 1. Install Python 64-bit. You can find installations of Python [here](https://www.python.org/downloads/). Install the 64-bit version or the GUI will not work.
-2. Navigate to the right side of this page and look for `Releases`. Click on the latest release and download from `vrelay-v3.2.4.zip`. 
+2. Navigate to the right side of this page and look for `Releases`. Click on the latest release and download from `vrelay-v3.2.6.zip`. 
    - You can also clone this repository.
 3. There is a folder called `normal` which contains the `Valor.swf` file for the normal server. Replace the original `Valor.swf` downloaded from Valor's website with the `Valor.swf` in this folder.
      - This `.swf` file has been modded so you can connect to the proxy server. If you only see `Valor`, that means you have your file extensions off.
@@ -50,19 +48,13 @@ Each feature has a toggle key as shown in the image above.
 - `/safe`: disable all commands shown above and autonexus messages.
 
 ## Writing your own plugins
-Will document this section later. For now:
-
-- See `Plugins/Godmode.py` for an explanation on what functions to implement.
-- See `Plugins/Speedy.py` to see an in-depth example on how the `NewTick` packet was modified to apply speedy.
-- See `Plugins/AutoNexus.py` to see an extremely in-depth example on how to hook multiple packets and keep an internal HP state.
+[A README in the `plugins` folder](https://github.com/swrlly/vrelay/tree/main/Plugins) explains the necessary steps for writing plugins.
 
 ## Notes
 I will not be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software. You agree to use vrelay at your own risk and for educational purposes only.
 
+This repository contains the latest RotMG Valor hacks and hacked client. If you are looking for RotMG Exalt hacks or a RotMG Unity hacked client this is not the place.
+
 ## Credits
 - [JPEXS](https://www.free-decompiler.com/flash/download/) for reverse engineering and modifying the client. Huge help for being able to peek into the contents of `swf` files.
 - This project is inspired by [KRelay](https://github.com/TheKronks/KRelay), an open source proxy for production RotMG.
-
-#### TODO:
-- If Godmode and either Speedy/Swiftness are active, all negative status effects are cancelled (due to PlayerHit being blocked).
-- Block all status effects (by checking bullet type)
