@@ -372,7 +372,7 @@ class Client:
 						p.name = ""
 						p.host = ""
 						p.port = 2050
-						p.gameID = -2
+						p.gameID = -2 
 						p.keyTime = 0
 						p.key = []
 						p.isFromArena = False
@@ -756,13 +756,13 @@ class Client:
 		w.y = self.currenty
 		p.slotObject = i
 		p.itemUsePos = w
-		p.PrintString()
 		self.SendPacketToServer(CreatePacket(p))
 
 	def onHello(self, packet: Packet, send: bool) -> (Hello, bool):
 		# hello is always sent, try another map update name here
 		p = Hello()
 		p.read(packet.data)
+		#p.PrintString()
 		packet = CreatePacket(p)
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]

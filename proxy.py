@@ -36,8 +36,9 @@ class Proxy:
 		self.managerSocket.listen(3)
 		# always listening for client connect
 		while True:
+			#print("test")
 			self.client.gameSocket, addr = self.managerSocket.accept()
-			#print("new client")
+			print("new client")
 
 	def Start(self):
 		self.active = True
@@ -50,6 +51,8 @@ class Proxy:
 		# connect sockets first
 		self.client.ConnectRemote(self.client.remoteHostAddr, self.client.remoteHostPort)
 		self.client.connected = True
+
+		print("connected to the server")
 
 		# listen for packets
 		while True:

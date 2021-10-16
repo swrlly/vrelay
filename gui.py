@@ -114,7 +114,7 @@ class GUI:
 		"""
 
 		x, y = 134, 32
-		self.version = Label(bd = 0, text = 'v3.2.6', bg = 'black', fg = self.TEXTCOL)
+		self.version = Label(bd = 0, text = 'v3.3.2', bg = 'black', fg = self.TEXTCOL)
 		self.version['font'] = self.keyFont
 		self.subimage(self.version, self.bg, x - 2, y - 2, x + self.version.winfo_reqwidth(), y + self.version.winfo_reqheight())
 		self.version.place(x = x, y = y)
