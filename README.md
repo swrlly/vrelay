@@ -2,7 +2,7 @@
 
 A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, and many QoL plugins such as predictive autonexus.
 
-**Updated for Valor version 3.2.6.**
+**Updated for Valor version 3.3.3.**
 
 <p align="center">
   <img src="images/vrelay.png" />
@@ -12,7 +12,7 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 ## How to use
 
 1. Install Python 64-bit. You can find installations of Python [here](https://www.python.org/downloads/). Install the 64-bit version or the GUI will not work.
-2. Navigate to the right side of this page and look for `Releases`. Click on the latest release and download from `vrelay-v3.2.6.zip`. 
+2. Navigate to the right side of this page and look for `Releases`. Click on the latest release and download from `vrelay-v3.3.3.zip`. 
    - You can also clone this repository.
 3. There is a folder called `normal` which contains the `Valor.swf` file for the normal server. Replace the original `Valor.swf` downloaded from Valor's website with the `Valor.swf` in this folder.
      - This `.swf` file has been modded so you can connect to the proxy server. If you only see `Valor`, that means you have your file extensions off.
