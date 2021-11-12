@@ -344,6 +344,9 @@ class Client:
 
 		elif packet.ID == PacketTypes.Failure:
 			packet, send = self.routePacket(packet, send, self.onFailure)
+
+		elif packet.ID == PacketTypes.Text:
+			packet, send = self.routePacket(packet, send, self.onText)
 			
 		if send:
 			self.SendPacketToClient(packet)
@@ -491,6 +494,11 @@ class Client:
 	###################################################
 	# various necessary hooks to take care of packets #
 	###################################################
+
+	def onText(self, packet: Packet, send: bool) -> (Text, bool):
+		p = Text()
+		p.read(packet.data)
+		return p, send
 
 	def onDeath(self, packet: Packet, send: bool) -> (Death, bool):
 		p = Death()

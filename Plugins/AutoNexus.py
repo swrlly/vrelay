@@ -84,6 +84,7 @@ class AutoNexus(PluginInterface):
 			damage = 0
 			
 		# If user has protection, do not do any defense calculations.
+		if client.currentProtection > 0:
 			client.currentProtection = max(0, client.currentProtection - damage)
 
 		# else no prot
