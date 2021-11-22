@@ -1,0 +1,384 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: The Dojo
+MapChange: Ascended Dojo
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134226.3450108 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 9.813220024108887 y: 16.558080673217773
+x: 0.0 y: 0.0
+
+Aoe 1625134227.7253227 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 9.813220024108887 y: 16.558080673217773
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134229.5245137 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 14.719748497009277 y: 14.089069366455078
+x: 0.0 y: 0.0
+
+Aoe 1625134230.9277632 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 14.719748497009277 y: 14.089069366455078
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134232.7269552 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 4.840987682342529 y: 15.563353538513184
+x: 0.0 y: 0.0
+
+Aoe 1625134234.1262155 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 4.840987682342529 y: 15.563353538513184
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134235.9293966 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 14.545400619506836 y: 11.443440437316895
+x: 0.0 y: 0.0
+
+Aoe 1625134237.3306527 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 14.545400619506836 y: 11.443440437316895
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134239.1308403 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 14.710600852966309 y: 19.9044132232666
+x: 0.0 y: 0.0
+
+Aoe 1625134240.5340903 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 14.710600852966309 y: 19.9044132232666
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134242.3382685 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 8.725106239318848 y: 22.645652770996094
+x: 0.0 y: 0.0
+
+Aoe 1625134243.7554808 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 8.725106239318848 y: 22.645652770996094
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625134245.5357234 effectType 4 targetObjectID 6888591 color -65536 duration 0.0
+x: 17.883493423461914 y: 21.931730270385742
+x: 0.0 y: 0.0
+
+Aoe 1625134246.9270048 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 17.883493423461914 y: 21.931730270385742
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134381.9561992 effectType 4 targetObjectID 6966575 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134402.9650517 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 13.7018404006958 y: 63.28468704223633
+x: 0.0 y: 0.0
+
+Aoe 1625134404.369299 radius 6.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 13.7018404006958 y: 63.28468704223633
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134405.166169 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 7.893882751464844 y: 60.66036605834961
+x: 0.0 y: 0.0
+
+Aoe 1625134406.5773976 radius 6.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 7.893882751464844 y: 60.66036605834961
+
+Aoe 1625134418.7857702 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 15.066428184509277 y: 28.46599769592285
+
+enemy 22047 name Zanarich
+ShowEffect 1625134421.5733218 effectType 4 targetObjectID 6998224 color -65536 duration 0.0
+x: 16.49020004272461 y: 34.33146667480469
+x: 0.0 y: 0.0
+
+Aoe 1625134422.9825542 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 16.49020004272461 y: 34.33146667480469
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134428.5716178 effectType 4 targetObjectID 6966575 color 255 duration 0.0
+x: 15.86239242553711 y: 28.5778751373291
+x: 0.0 y: 0.0
+
+Aoe 1625134429.9778593 radius 2.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.86239242553711 y: 28.5778751373291
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134430.7737315 effectType 4 targetObjectID 6966575 color 255 duration 0.0
+x: 21.349380493164062 y: 22.965959548950195
+x: 0.0 y: 0.0
+
+Aoe 1625134432.1799738 radius 2.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 21.349380493164062 y: 22.965959548950195
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134432.9698627 effectType 4 targetObjectID 6966575 color 255 duration 0.0
+x: 16.173355102539062 y: 27.117578506469727
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134433.7697253 effectType 4 targetObjectID 6966575 color -16640 duration 0.0
+x: 22.24216079711914 y: 20.97089385986328
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625134434.1706533 effectType 4 targetObjectID 6998224 color -65536 duration 0.0
+x: 11.09420394897461 y: 28.57023048400879
+x: 0.0 y: 0.0
+
+Aoe 1625134434.377102 radius 2.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.173355102539062 y: 27.117578506469727
+
+Aoe 1625134435.583877 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 11.09420394897461 y: 28.57023048400879
+
+enemy 22047 name Zanarich
+ShowEffect 1625134438.3704295 effectType 4 targetObjectID 6998224 color -65536 duration 0.0
+x: 17.78516960144043 y: 30.989999771118164
+x: 0.0 y: 0.0
+
+Aoe 1625134439.7826555 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 17.78516960144043 y: 30.989999771118164
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134444.3783734 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.866394996643066 y: 27.993070602416992
+x: 0.0 y: 0.0
+
+Aoe 1625134445.7886045 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.866394996643066 y: 27.993070602416992
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134446.578493 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.514829635620117 y: 32.1771354675293
+x: 0.0 y: 0.0
+
+Aoe 1625134447.9827473 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.514829635620117 y: 32.1771354675293
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134448.7855947 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 17.368865966796875 y: 34.50997543334961
+x: 0.0 y: 0.0
+
+Aoe 1625134450.184855 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 17.368865966796875 y: 34.50997543334961
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134453.1858354 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.5 y: 33.69700622558594
+x: 0.0 y: 0.0
+
+Aoe 1625134454.5930748 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.5 y: 33.69700622558594
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134455.3879495 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.5 y: 37.7259635925293
+x: 0.0 y: 0.0
+
+Aoe 1625134456.789205 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.5 y: 37.7259635925293
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134457.58807 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 17.36605453491211 y: 34.603553771972656
+x: 0.0 y: 0.0
+
+Aoe 1625134458.9923172 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 17.36605453491211 y: 34.603553771972656
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134461.9873128 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 16.79351806640625 y: 31.604557037353516
+x: 0.0 y: 0.0
+
+Aoe 1625134463.3905623 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.79351806640625 y: 31.604557037353516
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134466.3875532 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.85046672821045 y: 32.234962463378906
+x: 0.0 y: 0.0
+
+Aoe 1625134467.7937956 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.85046672821045 y: 32.234962463378906
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134472.9909053 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 12.162068367004395 y: 25.785810470581055
+x: 0.0 y: 0.0
+
+Aoe 1625134474.4061244 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 12.162068367004395 y: 25.785810470581055
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134475.5899594 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 17.589792251586914 y: 26.43844985961914
+x: 0.0 y: 0.0
+
+Aoe 1625134476.9971986 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 17.589792251586914 y: 26.43844985961914
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134477.791077 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 16.107858657836914 y: 30.638771057128906
+x: 0.0 y: 0.0
+
+Aoe 1625134479.1993134 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.107858657836914 y: 30.638771057128906
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134479.9901993 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.136112213134766 y: 24.79768180847168
+x: 0.0 y: 0.0
+
+Aoe 1625134481.3994331 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.136112213134766 y: 24.79768180847168
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134482.1903193 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.5 y: 33.05050277709961
+x: 0.0 y: 0.0
+
+Aoe 1625134483.5995536 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.5 y: 33.05050277709961
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134486.591557 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 16.683792114257812 y: 15.13697624206543
+x: 0.0 y: 0.0
+
+Aoe 1625134487.9948072 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.683792114257812 y: 15.13697624206543
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134488.7946696 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.245223045349121 y: 30.47039222717285
+x: 0.0 y: 0.0
+
+Aoe 1625134490.1969223 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.245223045349121 y: 30.47039222717285
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134491.7886677 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 17.581823348999023 y: 17.076913833618164
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625134492.9964404 effectType 4 targetObjectID 6998224 color -65536 duration 0.0
+x: 16.942903518676758 y: 29.927751541137695
+x: 0.0 y: 0.0
+
+Aoe 1625134493.2038858 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 17.581823348999023 y: 17.076913833618164
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134493.9957688 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 15.866180419921875 y: 22.580322265625
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625134494.392708 effectType 4 targetObjectID 7027088 color -65536 duration 0.0
+x: 16.554174423217773 y: 32.059391021728516
+x: 0.0 y: 0.0
+
+Aoe 1625134494.3986928 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 16.942903518676758 y: 29.927751541137695
+
+Aoe 1625134495.4030085 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.866180419921875 y: 22.580322265625
+
+Aoe 1625134495.8029397 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 16.554174423217773 y: 32.059391021728516
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134496.1938946 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 12.559104919433594 y: 15.345947265625
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625134497.195219 effectType 4 targetObjectID 6998224 color -65536 duration 0.0
+x: 17.558799743652344 y: 19.885648727416992
+x: 0.0 y: 0.0
+
+Aoe 1625134497.602132 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 12.559104919433594 y: 15.345947265625
+
+enemy 22047 name Zanarich
+ShowEffect 1625134498.5974712 effectType 4 targetObjectID 7027088 color -65536 duration 0.0
+x: 20.002830505371094 y: 25.082061767578125
+x: 0.0 y: 0.0
+
+Aoe 1625134498.6034555 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 17.558799743652344 y: 19.885648727416992
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134498.9914184 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 8.47488021850586 y: 11.715607643127441
+x: 0.0 y: 0.0
+
+Aoe 1625134500.005708 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 20.002830505371094 y: 25.082061767578125
+
+Aoe 1625134500.4066367 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 8.47488021850586 y: 11.715607643127441
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134501.393 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 8.427875518798828 y: 22.888015747070312
+x: 0.0 y: 0.0
+
+Aoe 1625134502.8042285 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 8.427875518798828 y: 22.888015747070312
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625134503.5951145 effectType 4 targetObjectID 6966575 color 65280 duration 0.0
+x: 9.853279113769531 y: 26.330310821533203
+x: 0.0 y: 0.0
+
+Aoe 1625134505.003352 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 9.853279113769531 y: 26.330310821533203
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1625134524.1898565 effectType 4 targetObjectID 6718949 color -16640 duration 0.0
+x: 1585.5567626953125 y: 1428.8013916015625
+x: 0.0 y: 0.0
+
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1625134524.190854 effectType 4 targetObjectID 6718949 color -16640 duration 0.0
+x: 1582.5567626953125 y: 1425.8013916015625
+x: 0.0 y: 0.0
+
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1625134524.190854 effectType 4 targetObjectID 6718949 color -16640 duration 0.0
+x: 1582.5567626953125 y: 1431.8013916015625
+x: 0.0 y: 0.0
+
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1625134524.190854 effectType 4 targetObjectID 6718949 color -16640 duration 0.0
+x: 1579.5567626953125 y: 1428.8013916015625
+x: 0.0 y: 0.0
+
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1625134527.5917647 effectType 4 targetObjectID 6718949 color -16640 duration 0.0
+x: 1582.279052734375 y: 1423.416748046875
+x: 0.0 y: 0.0
+
+MapChange: Galactic Plateau
+MapChange: The Regolith
+enemy 18637 name The Alien King
+ShowEffect 1625134702.8656168 effectType 4 targetObjectID 7174784 color -16640 duration 0.0
+x: 23.055896759033203 y: 22.975955963134766
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 7187232
+
+Aoe 1625134705.8715837 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 23.115293502807617 y: 24.067352294921875
+
+MapChange: Realm
+MapChange: Realm
+MapChange: Nexus
+Closed GUI. Shutting down proxy.

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<Objects>
+    <Object type="0x50a" id="atst Wall">
+        <Class>Wall</Class>
+        <Texture>
+            <File>lofiEnvironment2</File>
+            <Index>0x161</Index>
+        </Texture>
+        <Top>
+            <Texture>
+                <File>lofiEnvironment2</File>
+                <Index>0x161</Index>
+            </Texture>
+        </Top>
+        <HitSound>monster/stone_walls_hit</HitSound>
+        <DeathSound>monster/stone_walls_death</DeathSound>
+        <Static/>
+        <FullOccupy/>
+        <OccupySquare/>
+        <EnemyOccupySquare/>
+        <BlocksSight/>
+    </Object>
+    <Object type="0x741a" id="atst Low Range Obj">
+        <Enemy/>
+        <Class>Character</Class>
+        <AnimatedTexture>
+            <File>chars8x8rHero1</File>
+            <Index>0x01</Index>
+        </AnimatedTexture>
+        <HitSound>monster/skeletons_hit</HitSound>
+        <DeathSound>monster/skeletons_death</DeathSound>
+        <Size>100</Size>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>0</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Blue Star</ObjectId>
+            <Speed>25</Speed>
+            <Damage>1</Damage>
+            <LifetimeMS>5000</LifetimeMS>
+        </Projectile>
+    </Object>
+</Objects>

@@ -1,0 +1,85 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625363122.795136 effectType 4 targetObjectID 16476744 color -65536 duration 0.0
+x: 1020.2794189453125 y: 908.7001953125
+x: 0.0 y: 0.0
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625363122.795136 effectType 4 targetObjectID 16476745 color -65536 duration 0.0
+x: 1020.2794189453125 y: 908.7001953125
+x: 0.0 y: 0.0
+
+Aoe 1625363124.2058487 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 1020.2794189453125 y: 908.7001953125
+
+Aoe 1625363124.2058487 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 1020.2794189453125 y: 908.7001953125
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625363133.2106943 effectType 4 targetObjectID 16476746 color -65536 duration 0.0
+x: 1016.2181396484375 y: 906.8695068359375
+x: 0.0 y: 0.0
+
+Aoe 1625363134.6326098 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 1016.2181396484375 y: 906.8695068359375
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625363158.633831 effectType 4 targetObjectID 16373298 color -65536 duration 0.0
+x: 1016.2666625976562 y: 904.6427612304688
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625363158.633831 effectType 4 targetObjectID 16373298 color -16640 duration 0.0
+x: 1019.8145751953125 y: 906.5075073242188
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625363159.835767 effectType 4 targetObjectID 16373298 color -65536 duration 0.0
+x: 1016.05615234375 y: 900.9658813476562
+x: 0.0 y: 0.0
+
+Aoe 1625363160.0521858 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1016.2666625976562 y: 904.6427612304688
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625363161.0349495 effectType 4 targetObjectID 16373298 color -65536 duration 0.0
+x: 1015.5520629882812 y: 904.1498413085938
+x: 0.0 y: 0.0
+
+Aoe 1625363161.2677429 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1016.05615234375 y: 900.9658813476562
+
+Aoe 1625363162.4617991 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1015.5520629882812 y: 904.1498413085938
+
+enemy 1620 name Medusa
+ShowEffect 1625363189.044383 effectType 4 targetObjectID 16473006 color -65536 duration 0.0
+x: 990.1343994140625 y: 929.560791015625
+x: 0.0 y: 0.0
+
+Aoe 1625363190.4636493 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 990.1343994140625 y: 929.560791015625
+
+enemy 21479 name Fallen Light Gatekeeper
+ShowEffect 1625363196.8539584 effectType 4 targetObjectID 16507665 color -65536 duration 0.0
+x: 964.7071533203125 y: 923.76171875
+x: 0.0 y: 0.0
+
+Aoe 1625363198.2754922 radius 12.0 damage 50 effect 0 duration 0.0 origType 21479
+x: 964.7071533203125 y: 923.76171875
+
+enemy 21479 name Fallen Light Gatekeeper
+ShowEffect 1625363199.0599458 effectType 4 targetObjectID 16507665 color -65536 duration 0.0
+x: 963.035888671875 y: 928.1199951171875
+x: 0.0 y: 0.0
+
+Aoe 1625363200.4807231 radius 12.0 damage 50 effect 0 duration 0.0 origType 21479
+x: 963.035888671875 y: 928.1199951171875
+
+MapChange: Tunnel of Pain
+MapChange: Realm
+MapChange: Concealment of the Dreadnought
+MapChange: Nexus
+Connection was reset
+Closed GUI. Shutting down proxy.

@@ -1,0 +1,1241 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Galactic Plateau
+Connection was aborted: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624601159.3608668 effectType 4 targetObjectID 13249192 color -65536 duration 0.0
+x: 1331.9903564453125 y: 1126.9267578125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601160.1599123 effectType 4 targetObjectID 13093854 color -65536 duration 0.0
+x: 1333.2459716796875 y: 1130.52734375
+x: 0.0 y: 0.0
+
+Aoe 1624601160.777948 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1331.9903564453125 y: 1126.9267578125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601161.3559809 effectType 4 targetObjectID 13093853 color -65536 duration 0.0
+x: 1325.934326171875 y: 1129.0430908203125
+x: 0.0 y: 0.0
+
+Aoe 1624601161.5759935 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1333.2459716796875 y: 1130.52734375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601162.5560493 effectType 4 targetObjectID 13249192 color -65536 duration 0.0
+x: 1326.01416015625 y: 1122.7999267578125
+x: 0.0 y: 0.0
+
+Aoe 1624601162.7680616 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1325.934326171875 y: 1129.0430908203125
+
+Aoe 1624601163.9691305 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1326.01416015625 y: 1122.7999267578125
+
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624601295.5826583 effectType 4 targetObjectID 13093127 color -65536 duration 0.0
+x: 1067.0611572265625 y: 1203.3231201171875
+x: 0.0 y: 0.0
+
+Aoe 1624601296.9877386 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1067.0611572265625 y: 1203.3231201171875
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601298.7838414 effectType 4 targetObjectID 13093127 color -65536 duration 0.0
+x: 1050.877197265625 y: 1196.2550048828125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601298.9828527 effectType 4 targetObjectID 13093126 color -65536 duration 0.0
+x: 1049.77880859375 y: 1197.0352783203125
+x: 0.0 y: 0.0
+
+Aoe 1624601300.1989222 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1050.877197265625 y: 1196.2550048828125
+
+Aoe 1624601300.3879333 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1049.77880859375 y: 1197.0352783203125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601301.9850245 effectType 4 targetObjectID 13093127 color -65536 duration 0.0
+x: 1046.9798583984375 y: 1194.882080078125
+x: 0.0 y: 0.0
+
+Aoe 1624601303.3971052 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1046.9798583984375 y: 1194.882080078125
+
+MapChange: Sprite World
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.401622 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 88.74263763427734 y: 69.74263763427734
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4026222 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 80.25736236572266 y: 69.74263763427734
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4036222 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 80.25736236572266 y: 61.25735855102539
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4046223 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 88.74263763427734 y: 61.25735855102539
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4046223 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 91.5710678100586 y: 72.5710678100586
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4056222 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 77.4289321899414 y: 72.5710678100586
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4066224 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 77.4289321899414 y: 58.428932189941406
+x: 0.0 y: 0.0
+
+this is enemy 3334 name Limon the Sprite God
+ShowEffect 1624601347.4066224 effectType 4 targetObjectID 13346320 color -16640 duration 0.0
+x: 91.5710678100586 y: 58.428932189941406
+x: 0.0 y: 0.0
+
+MapChange: Ascended Sprite Ruins
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601362.1994686 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601362.2004685 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601362.2014687 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601362.2024686 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601365.3996515 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.70604133605957 y: 12.895994186401367
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601377.8043609 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 19.035533905029297 y: 20.035531997680664
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601377.8083613 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 11.964466094970703 y: 20.035531997680664
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601377.8093615 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 11.964466094970703 y: 12.96446418762207
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601377.8093615 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 19.035533905029297 y: 12.96446418762207
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601380.8075328 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.5 y: 11.999998092651367
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601380.808533 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.5 y: 20.999998092651367
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601390.8061047 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.655566215515137 y: 15.130135536193848
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601403.2038138 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 18.621318817138672 y: 19.621320724487305
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601403.2048137 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 11.550251960754395 y: 19.621320724487305
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601403.2058141 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 11.550251960754395 y: 12.550252914428711
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601403.2058141 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 18.621318817138672 y: 12.550252914428711
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601406.2039855 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.085785865783691 y: 11.585786819458008
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601406.2069857 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.085785865783691 y: 20.585786819458008
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624601416.2055576 effectType 4 targetObjectID 13358910 color -16640 duration 0.0
+x: 15.21012020111084 y: 13.982702255249023
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Vault
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Aspect Hall
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Vault
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624601675.688399 effectType 4 targetObjectID 13093928 color -65536 duration 0.0
+x: 1236.4339599609375 y: 982.5716552734375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601676.0804214 effectType 4 targetObjectID 13404922 color -65536 duration 0.0
+x: 1237.6492919921875 y: 984.6672973632812
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601676.6974566 effectType 4 targetObjectID 13093929 color -65536 duration 0.0
+x: 1242.522705078125 y: 986.5643920898438
+x: 0.0 y: 0.0
+
+Aoe 1624601677.0894792 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1236.4339599609375 y: 982.5716552734375
+
+Aoe 1624601677.4925022 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1237.6492919921875 y: 984.6672973632812
+
+Aoe 1624601678.0945368 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1242.522705078125 y: 986.5643920898438
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601686.285005 effectType 4 targetObjectID 13093929 color -65536 duration 0.0
+x: 1246.212646484375 y: 992.7582397460938
+x: 0.0 y: 0.0
+
+Aoe 1624601687.6870854 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1246.212646484375 y: 992.7582397460938
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601688.4811308 effectType 4 targetObjectID 13093928 color -65536 duration 0.0
+x: 1235.0009765625 y: 986.1043701171875
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601688.8851538 effectType 4 targetObjectID 13404922 color -65536 duration 0.0
+x: 1235.8170166015625 y: 983.6015014648438
+x: 0.0 y: 0.0
+
+Aoe 1624601689.8872113 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1235.0009765625 y: 986.1043701171875
+
+Aoe 1624601690.2932343 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1235.8170166015625 y: 983.6015014648438
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601691.6813138 effectType 4 targetObjectID 13093928 color -65536 duration 0.0
+x: 1237.7620849609375 y: 989.3058471679688
+x: 0.0 y: 0.0
+
+Aoe 1624601693.0913942 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1237.7620849609375 y: 989.3058471679688
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601694.2814624 effectType 4 targetObjectID 13406475 color -65536 duration 0.0
+x: 1225.8990478515625 y: 981.5443115234375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624601694.881497 effectType 4 targetObjectID 13093928 color -65536 duration 0.0
+x: 1222.1939697265625 y: 982.989501953125
+x: 0.0 y: 0.0
+
+Aoe 1624601695.6955433 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1225.8990478515625 y: 981.5443115234375
+
+Aoe 1624601696.300578 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1222.1939697265625 y: 982.989501953125
+
+MapChange: Concealment of the Dreadnought
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601815.3163853 effectType 4 targetObjectID 13422456 color -65536 duration 0.0
+x: 52.5 y: 118.89087677001953
+x: 0.0 y: 0.0
+
+Aoe 1624601816.7264657 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 52.5 y: 118.89087677001953
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601823.1198316 effectType 4 targetObjectID 13422405 color -65536 duration 0.0
+x: 92.83198547363281 y: 79.5
+x: 0.0 y: 0.0
+
+Aoe 1624601824.520912 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 92.83198547363281 y: 79.5
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601826.3160143 effectType 4 targetObjectID 13422405 color -65536 duration 0.0
+x: 94.5 y: 76.06816101074219
+x: 0.0 y: 0.0
+
+Aoe 1624601827.7320955 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 94.5 y: 76.06816101074219
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601837.3216438 effectType 4 targetObjectID 13422351 color -65536 duration 0.0
+x: 56.05418014526367 y: 62.28881072998047
+x: 0.0 y: 0.0
+
+Aoe 1624601838.7257242 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 56.05418014526367 y: 62.28881072998047
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601840.521827 effectType 4 targetObjectID 13422351 color -65536 duration 0.0
+x: 57.27567672729492 y: 60.90428924560547
+x: 0.0 y: 0.0
+
+Aoe 1624601841.923907 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 57.27567672729492 y: 60.90428924560547
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601856.5257423 effectType 4 targetObjectID 13422352 color -65536 duration 0.0
+x: 57.11796188354492 y: 61.4943733215332
+x: 0.0 y: 0.0
+
+Aoe 1624601857.9278226 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 57.11796188354492 y: 61.4943733215332
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601885.7324128 effectType 4 targetObjectID 13422432 color -65536 duration 0.0
+x: 154.32388305664062 y: 101.59119415283203
+x: 0.0 y: 0.0
+
+Aoe 1624601887.1364932 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 154.32388305664062 y: 101.59119415283203
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601902.5383742 effectType 4 targetObjectID 13422402 color -65536 duration 0.0
+x: 243.8922576904297 y: 80.5
+x: 0.0 y: 0.0
+
+Aoe 1624601903.9414544 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 243.8922576904297 y: 80.5
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601922.1464956 effectType 4 targetObjectID 13422350 color -65536 duration 0.0
+x: 276.7624816894531 y: 42.36133575439453
+x: 0.0 y: 0.0
+
+Aoe 1624601923.5555763 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 276.7624816894531 y: 42.36133575439453
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601976.7606194 effectType 4 targetObjectID 13422549 color -65536 duration 0.0
+x: 251.7569580078125 y: 144.99000549316406
+x: 0.0 y: 0.0
+
+Aoe 1624601978.1797004 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 251.7569580078125 y: 144.99000549316406
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601982.3579395 effectType 4 targetObjectID 13422511 color -65536 duration 0.0
+x: 275.5 y: 140.5
+x: 0.0 y: 0.0
+
+Aoe 1624601983.7590199 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 275.5 y: 140.5
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601984.758077 effectType 4 targetObjectID 13422519 color -65536 duration 0.0
+x: 264.5 y: 139.5
+x: 0.0 y: 0.0
+
+Aoe 1624601986.1711576 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 264.5 y: 139.5
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601987.9632602 effectType 4 targetObjectID 13422519 color -65536 duration 0.0
+x: 260.6055603027344 y: 134.99000549316406
+x: 0.0 y: 0.0
+
+Aoe 1624601989.3623402 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 260.6055603027344 y: 134.99000549316406
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601989.5583513 effectType 4 targetObjectID 13422549 color -65536 duration 0.0
+x: 252.77957153320312 y: 137.99000549316406
+x: 0.0 y: 0.0
+
+Aoe 1624601990.9634316 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 252.77957153320312 y: 137.99000549316406
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624601992.7615347 effectType 4 targetObjectID 13422549 color -65536 duration 0.0
+x: 250.5 y: 142.1165008544922
+x: 0.0 y: 0.0
+
+Aoe 1624601994.1656148 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 250.5 y: 142.1165008544922
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602057.5932426 effectType 4 targetObjectID 13422441 color -65536 duration 0.0
+x: 217.00259399414062 y: 109.03998565673828
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602070.3909748 effectType 4 targetObjectID 13422499 color -65536 duration 0.0
+x: 137.5 y: 129.7298126220703
+x: 0.0 y: 0.0
+
+Aoe 1624602071.7900546 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 137.5 y: 129.7298126220703
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602084.99281 effectType 4 targetObjectID 13422449 color -65536 duration 0.0
+x: 70.5 y: 114.01280975341797
+x: 0.0 y: 0.0
+
+Aoe 1624602086.4258919 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 70.5 y: 114.01280975341797
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602129.614362 effectType 4 targetObjectID 13422496 color -65536 duration 0.0
+x: 94.1563491821289 y: 141.64315795898438
+x: 0.0 y: 0.0
+
+Aoe 1624602131.0184424 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 94.1563491821289 y: 141.64315795898438
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602132.831546 effectType 4 targetObjectID 13422496 color -65536 duration 0.0
+x: 95.50505828857422 y: 142.9918670654297
+x: 0.0 y: 0.0
+
+Aoe 1624602134.2366264 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 95.50505828857422 y: 142.9918670654297
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602161.831205 effectType 4 targetObjectID 13422449 color -65536 duration 0.0
+x: 65.24512481689453 y: 115.4092788696289
+x: 0.0 y: 0.0
+
+Aoe 1624602163.2372851 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 65.24512481689453 y: 115.4092788696289
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602172.0237877 effectType 4 targetObjectID 13422405 color -65536 duration 0.0
+x: 105.98999786376953 y: 81.5
+x: 0.0 y: 0.0
+
+Aoe 1624602173.4298682 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 105.98999786376953 y: 81.5
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602177.2240853 effectType 4 targetObjectID 13422432 color -65536 duration 0.0
+x: 153.50917053222656 y: 99.5
+x: 0.0 y: 0.0
+
+Aoe 1624602178.6331658 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 153.50917053222656 y: 99.5
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602223.6477404 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 185.74691772460938 y: 15.818550109863281
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602224.0437632 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 185.74691772460938 y: 15.818550109863281
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602224.444786 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 185.74691772460938 y: 15.818550109863281
+x: 0.0 y: 0.0
+
+Aoe 1624602225.0428205 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 185.74691772460938 y: 15.818550109863281
+
+Aoe 1624602225.4608443 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 185.74691772460938 y: 15.818550109863281
+
+Aoe 1624602225.8428662 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 185.74691772460938 y: 15.818550109863281
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602246.453045 effectType 4 targetObjectID 13422346 color -65536 duration 0.0
+x: 195.9541778564453 y: 15.624192237854004
+x: 0.0 y: 0.0
+
+Aoe 1624602247.8491247 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 195.9541778564453 y: 15.624192237854004
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602249.6492279 effectType 4 targetObjectID 13422346 color -65536 duration 0.0
+x: 196.57666015625 y: 13.56801700592041
+x: 0.0 y: 0.0
+
+Aoe 1624602251.0583084 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 196.57666015625 y: 13.56801700592041
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602252.8474107 effectType 4 targetObjectID 13422346 color -65536 duration 0.0
+x: 195.9640655517578 y: 12.935656547546387
+x: 0.0 y: 0.0
+
+Aoe 1624602254.2494907 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 195.9640655517578 y: 12.935656547546387
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602256.1395988 effectType 4 targetObjectID 13422346 color -65536 duration 0.0
+x: 195.9640655517578 y: 12.935656547546387
+x: 0.0 y: 0.0
+
+Aoe 1624602257.4586744 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 195.9640655517578 y: 12.935656547546387
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602267.8522687 effectType 4 targetObjectID 13422347 color -65536 duration 0.0
+x: 175.0 y: 24.85250473022461
+x: 0.0 y: 0.0
+
+Aoe 1624602269.253349 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 175.0 y: 24.85250473022461
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602293.4607337 effectType 4 targetObjectID 13422347 color -65536 duration 0.0
+x: 168.29446411132812 y: 27.838699340820312
+x: 0.0 y: 0.0
+
+Aoe 1624602294.867814 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 168.29446411132812 y: 27.838699340820312
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602298.4660199 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.08216857910156 y: 27.409236907958984
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602298.8670428 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 173.60134887695312 y: 27.58869743347168
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602299.2640655 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 173.60134887695312 y: 27.58869743347168
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602299.6630883 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 173.7904815673828 y: 29.14927864074707
+x: 0.0 y: 0.0
+
+Aoe 1624602299.8731003 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.08216857910156 y: 27.409236907958984
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602300.0681117 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 173.82579040527344 y: 29.440587997436523
+x: 0.0 y: 0.0
+
+Aoe 1624602300.267123 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 173.60134887695312 y: 27.58869743347168
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602300.4701345 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 173.9859161376953 y: 30.76188087463379
+x: 0.0 y: 0.0
+
+Aoe 1624602300.6831467 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 173.60134887695312 y: 27.58869743347168
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602300.8761578 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 174.11767578125 y: 31.849084854125977
+x: 0.0 y: 0.0
+
+Aoe 1624602301.0701687 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 173.7904815673828 y: 29.14927864074707
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602301.2731805 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.168212890625 y: 30.544837951660156
+x: 0.0 y: 0.0
+
+Aoe 1624602301.4651914 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 173.82579040527344 y: 29.440587997436523
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602301.6642027 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.04884338378906 y: 29.5599365234375
+x: 0.0 y: 0.0
+
+Aoe 1624602301.8662145 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 173.9859161376953 y: 30.76188087463379
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602302.0652258 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.04884338378906 y: 29.5599365234375
+x: 0.0 y: 0.0
+
+Aoe 1624602302.2642372 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 174.11767578125 y: 31.849084854125977
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602302.470249 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.04884338378906 y: 29.5599365234375
+x: 0.0 y: 0.0
+
+Aoe 1624602302.684261 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.168212890625 y: 30.544837951660156
+
+Aoe 1624602303.067283 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.04884338378906 y: 29.5599365234375
+
+Aoe 1624602303.4693062 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.04884338378906 y: 29.5599365234375
+
+Aoe 1624602303.8663285 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.04884338378906 y: 29.5599365234375
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602337.472251 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 180.1280517578125 y: 32.654518127441406
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602337.8692737 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 179.33084106445312 y: 33.0111083984375
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602338.2692964 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 179.33084106445312 y: 33.0111083984375
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602338.6883204 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 178.80023193359375 y: 31.82485008239746
+x: 0.0 y: 0.0
+
+Aoe 1624602338.924334 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 180.1280517578125 y: 32.654518127441406
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602339.078343 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 177.02273559570312 y: 30.0500431060791
+x: 0.0 y: 0.0
+
+Aoe 1624602339.2793543 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 179.33084106445312 y: 33.0111083984375
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602339.4843662 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.0196990966797 y: 29.977876663208008
+x: 0.0 y: 0.0
+
+Aoe 1624602339.6733768 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 179.33084106445312 y: 33.0111083984375
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602339.8803885 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.0196990966797 y: 29.977876663208008
+x: 0.0 y: 0.0
+
+Aoe 1624602340.0834002 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 178.80023193359375 y: 31.82485008239746
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602340.271411 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 175.49786376953125 y: 28.05069923400879
+x: 0.0 y: 0.0
+
+Aoe 1624602340.4734225 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 177.02273559570312 y: 30.0500431060791
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602340.6774342 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 176.43936157226562 y: 27.288618087768555
+x: 0.0 y: 0.0
+
+Aoe 1624602340.8764458 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.0196990966797 y: 29.977876663208008
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602341.076457 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 178.98202514648438 y: 27.2918758392334
+x: 0.0 y: 0.0
+
+Aoe 1624602341.2794688 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.0196990966797 y: 29.977876663208008
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624602341.4724798 effectType 4 targetObjectID 13422345 color -65536 duration 0.0
+x: 179.75213623046875 y: 26.94740867614746
+x: 0.0 y: 0.0
+
+Aoe 1624602341.6774914 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 175.49786376953125 y: 28.05069923400879
+
+Aoe 1624602342.0765142 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 176.43936157226562 y: 27.288618087768555
+
+Aoe 1624602342.476537 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 178.98202514648438 y: 27.2918758392334
+
+Aoe 1624602342.8775601 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 179.75213623046875 y: 26.94740867614746
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624602421.095034 effectType 4 targetObjectID 13483674 color -65536 duration 0.0
+x: 1364.093017578125 y: 1104.064453125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602422.300103 effectType 4 targetObjectID 13483673 color -65536 duration 0.0
+x: 1370.8648681640625 y: 1101.1002197265625
+x: 0.0 y: 0.0
+
+Aoe 1624602422.5061145 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1364.093017578125 y: 1104.064453125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602423.65118 effectType 4 targetObjectID 13484426 color -65536 duration 0.0
+x: 1375.019775390625 y: 1107.98681640625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602423.6971827 effectType 4 targetObjectID 13483672 color -65536 duration 0.0
+x: 1375.019775390625 y: 1107.98681640625
+x: 0.0 y: 0.0
+
+Aoe 1624602423.8001888 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1370.8648681640625 y: 1101.1002197265625
+
+Aoe 1624602424.9192524 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1375.019775390625 y: 1107.98681640625
+
+Aoe 1624602424.9202526 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1375.019775390625 y: 1107.98681640625
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602425.5072863 effectType 4 targetObjectID 13483673 color -65536 duration 0.0
+x: 1369.9490966796875 y: 1118.068359375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602425.7062976 effectType 4 targetObjectID 13484424 color -65536 duration 0.0
+x: 1368.57275390625 y: 1118.068359375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602426.6993544 effectType 4 targetObjectID 13484426 color -65536 duration 0.0
+x: 1365.092041015625 y: 1115.84521484375
+x: 0.0 y: 0.0
+
+Aoe 1624602426.9263675 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1369.9490966796875 y: 1118.068359375
+
+Aoe 1624602427.127379 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1368.57275390625 y: 1118.068359375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602428.1024346 effectType 4 targetObjectID 13484427 color -65536 duration 0.0
+x: 1363.3052978515625 y: 1122.58642578125
+x: 0.0 y: 0.0
+
+Aoe 1624602428.1184356 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1365.092041015625 y: 1115.84521484375
+
+Aoe 1624602429.509515 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1363.3052978515625 y: 1122.58642578125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602440.904167 effectType 4 targetObjectID 13484425 color -65536 duration 0.0
+x: 1374.19873046875 y: 1131.0335693359375
+x: 0.0 y: 0.0
+
+Aoe 1624602442.3362489 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1374.19873046875 y: 1131.0335693359375
+
+this is enemy 1605 name Ogre King
+ShowEffect 1624602472.913998 effectType 4 targetObjectID 13483531 color -65536 duration 0.0
+x: 1251.13525390625 y: 1161.130126953125
+x: 0.0 y: 0.0
+
+Aoe 1624602474.3280785 radius 2.4000000953674316 damage 55 effect 0 duration 0.0 origType 1605
+x: 1251.13525390625 y: 1161.130126953125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602496.8103645 effectType 4 targetObjectID 13484375 color -65536 duration 0.0
+x: 1125.39990234375 y: 1141.7879638671875
+x: 0.0 y: 0.0
+
+Aoe 1624602498.288449 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1125.39990234375 y: 1141.7879638671875
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602500.4325716 effectType 4 targetObjectID 13483611 color -65536 duration 0.0
+x: 1116.2637939453125 y: 1148.3431396484375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602500.4335718 effectType 4 targetObjectID 13484376 color -65536 duration 0.0
+x: 1116.2637939453125 y: 1148.3431396484375
+x: 0.0 y: 0.0
+
+Aoe 1624602501.6156392 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1116.2637939453125 y: 1148.3431396484375
+
+Aoe 1624602501.6156392 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1116.2637939453125 y: 1148.3431396484375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602503.1217253 effectType 4 targetObjectID 13483612 color -65536 duration 0.0
+x: 1101.76904296875 y: 1155.4796142578125
+x: 0.0 y: 0.0
+
+Aoe 1624602504.526806 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1101.76904296875 y: 1155.4796142578125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602519.7236753 effectType 4 targetObjectID 13483721 color -65536 duration 0.0
+x: 1020.158203125 y: 1153.6641845703125
+x: 0.0 y: 0.0
+
+Aoe 1624602521.1307557 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1020.158203125 y: 1153.6641845703125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602522.9278584 effectType 4 targetObjectID 13483721 color -65536 duration 0.0
+x: 1019.5851440429688 y: 1163.8126220703125
+x: 0.0 y: 0.0
+
+Aoe 1624602524.3289385 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1019.5851440429688 y: 1163.8126220703125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602535.7305908 effectType 4 targetObjectID 13483722 color -65536 duration 0.0
+x: 1019.300537109375 y: 1161.15283203125
+x: 0.0 y: 0.0
+
+Aoe 1624602537.1606724 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1019.300537109375 y: 1161.15283203125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602538.617756 effectType 4 targetObjectID 13483901 color -65536 duration 0.0
+x: 1006.437255859375 y: 1153.9505615234375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602538.6187558 effectType 4 targetObjectID 13483900 color -65536 duration 0.0
+x: 1006.437255859375 y: 1153.9505615234375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602538.9797766 effectType 4 targetObjectID 13483722 color -65536 duration 0.0
+x: 1008.46337890625 y: 1153.9505615234375
+x: 0.0 y: 0.0
+
+Aoe 1624602539.9418314 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1006.437255859375 y: 1153.9505615234375
+
+Aoe 1624602539.9428315 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1006.437255859375 y: 1153.9505615234375
+
+Aoe 1624602540.3308537 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1008.46337890625 y: 1153.9505615234375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624602541.7309337 effectType 4 targetObjectID 13483901 color -65536 duration 0.0
+x: 1017.82275390625 y: 1157.6488037109375
+x: 0.0 y: 0.0
+
+MapChange: Concealment of the Dreadnought
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602569.1365013 effectType 4 targetObjectID 13625665 color -65536 duration 0.0
+x: 68.83975982666016 y: 139.91444396972656
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602622.7485678 effectType 4 targetObjectID 13625612 color -65536 duration 0.0
+x: 53.923553466796875 y: 116.64163208007812
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602645.1608496 effectType 4 targetObjectID 13625484 color -65536 duration 0.0
+x: 58.871315002441406 y: 62.84764099121094
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602645.1618495 effectType 4 targetObjectID 13625485 color -65536 duration 0.0
+x: 58.871315002441406 y: 62.84764099121094
+x: 0.0 y: 0.0
+
+Aoe 1624602646.56493 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 58.871315002441406 y: 62.84764099121094
+
+Aoe 1624602646.56593 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 58.871315002441406 y: 62.84764099121094
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602648.368033 effectType 4 targetObjectID 13625484 color -65536 duration 0.0
+x: 58.16520690917969 y: 63.2366943359375
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602648.369033 effectType 4 targetObjectID 13625485 color -65536 duration 0.0
+x: 58.16520690917969 y: 63.2366943359375
+x: 0.0 y: 0.0
+
+Aoe 1624602649.7671132 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 58.16520690917969 y: 63.2366943359375
+
+Aoe 1624602649.7681131 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 58.16520690917969 y: 63.2366943359375
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602651.5672162 effectType 4 targetObjectID 13625485 color -65536 duration 0.0
+x: 55.90501022338867 y: 62.70560836791992
+x: 0.0 y: 0.0
+
+Aoe 1624602652.9692965 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 55.90501022338867 y: 62.70560836791992
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602709.576534 effectType 4 targetObjectID 13625574 color -65536 duration 0.0
+x: 211.0361328125 y: 105.5
+x: 0.0 y: 0.0
+
+Aoe 1624602711.008616 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 211.0361328125 y: 105.5
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602730.3887246 effectType 4 targetObjectID 13625483 color -65536 duration 0.0
+x: 271.78656005859375 y: 36.02471923828125
+x: 0.0 y: 0.0
+
+Aoe 1624602731.7998052 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 271.78656005859375 y: 36.02471923828125
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602733.5909076 effectType 4 targetObjectID 13625483 color -65536 duration 0.0
+x: 271.78656005859375 y: 36.02471923828125
+x: 0.0 y: 0.0
+
+Aoe 1624602734.9909878 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 271.78656005859375 y: 36.02471923828125
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602736.7880907 effectType 4 targetObjectID 13625483 color -65536 duration 0.0
+x: 271.78656005859375 y: 36.02471923828125
+x: 0.0 y: 0.0
+
+Aoe 1624602738.2051713 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 271.78656005859375 y: 36.02471923828125
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602739.993274 effectType 4 targetObjectID 13625483 color -65536 duration 0.0
+x: 271.78656005859375 y: 36.02471923828125
+x: 0.0 y: 0.0
+
+Aoe 1624602741.3943539 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 271.78656005859375 y: 36.02471923828125
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602743.1924567 effectType 4 targetObjectID 13625483 color -65536 duration 0.0
+x: 271.78656005859375 y: 36.02471923828125
+x: 0.0 y: 0.0
+
+Aoe 1624602744.6025374 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 271.78656005859375 y: 36.02471923828125
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602787.8010082 effectType 4 targetObjectID 13625705 color -65536 duration 0.0
+x: 250.5 y: 152.63034057617188
+x: 0.0 y: 0.0
+
+Aoe 1624602789.211089 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 250.5 y: 152.63034057617188
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602874.4479642 effectType 4 targetObjectID 13625567 color -65536 duration 0.0
+x: 179.37118530273438 y: 106.30625915527344
+x: 0.0 y: 0.0
+
+Aoe 1624602875.828043 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 179.37118530273438 y: 106.30625915527344
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602888.6287751 effectType 4 targetObjectID 13625537 color -65536 duration 0.0
+x: 77.29613494873047 y: 85.20411682128906
+x: 0.0 y: 0.0
+
+Aoe 1624602890.0618572 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 77.29613494873047 y: 85.20411682128906
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602907.8338737 effectType 4 targetObjectID 13625629 color -65536 duration 0.0
+x: 93.864501953125 y: 131.5017547607422
+x: 0.0 y: 0.0
+
+Aoe 1624602909.2349539 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 93.864501953125 y: 131.5017547607422
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602911.0340567 effectType 4 targetObjectID 13625629 color -65536 duration 0.0
+x: 93.33056640625 y: 132.73178100585938
+x: 0.0 y: 0.0
+
+Aoe 1624602912.4581382 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 93.33056640625 y: 132.73178100585938
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602956.651666 effectType 4 targetObjectID 13625582 color -65536 duration 0.0
+x: 74.30817413330078 y: 114.58869171142578
+x: 0.0 y: 0.0
+
+Aoe 1624602958.0577464 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 74.30817413330078 y: 114.58869171142578
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602958.4497688 effectType 4 targetObjectID 13625612 color -65536 duration 0.0
+x: 52.5 y: 120.59098815917969
+x: 0.0 y: 0.0
+
+Aoe 1624602959.8538492 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 52.5 y: 120.59098815917969
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602964.4521122 effectType 4 targetObjectID 13625665 color -65536 duration 0.0
+x: 70.05728149414062 y: 140.99000549316406
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602987.860451 effectType 4 targetObjectID 13625662 color -65536 duration 0.0
+x: 192.2895965576172 y: 139.34922790527344
+x: 0.0 y: 0.0
+
+Aoe 1624602989.262531 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 192.2895965576172 y: 139.34922790527344
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602990.2625885 effectType 4 targetObjectID 13625702 color -65536 duration 0.0
+x: 194.32493591308594 y: 143.30494689941406
+x: 0.0 y: 0.0
+
+Aoe 1624602991.6586683 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 194.32493591308594 y: 143.30494689941406
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602993.457771 effectType 4 targetObjectID 13625702 color -65536 duration 0.0
+x: 193.77162170410156 y: 143.85826110839844
+x: 0.0 y: 0.0
+
+Aoe 1624602994.8588514 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 193.77162170410156 y: 143.85826110839844
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602996.6609545 effectType 4 targetObjectID 13625702 color -65536 duration 0.0
+x: 193.77162170410156 y: 143.85826110839844
+x: 0.0 y: 0.0
+
+Aoe 1624602998.0630345 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 193.77162170410156 y: 143.85826110839844
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624602999.8651376 effectType 4 targetObjectID 13625702 color -65536 duration 0.0
+x: 193.77162170410156 y: 143.85826110839844
+x: 0.0 y: 0.0
+
+Aoe 1624603001.2662177 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 193.77162170410156 y: 143.85826110839844
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603003.0613205 effectType 4 targetObjectID 13625702 color -65536 duration 0.0
+x: 193.77162170410156 y: 143.85826110839844
+x: 0.0 y: 0.0
+
+Aoe 1624603004.4674008 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 193.77162170410156 y: 143.85826110839844
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603006.2655036 effectType 4 targetObjectID 13625702 color -65536 duration 0.0
+x: 192.98117065429688 y: 144.64871215820312
+x: 0.0 y: 0.0
+
+Aoe 1624603007.6695838 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 192.98117065429688 y: 144.64871215820312
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603030.8649106 effectType 4 targetObjectID 13625656 color -65536 duration 0.0
+x: 174.51441955566406 y: 144.53370666503906
+x: 0.0 y: 0.0
+
+Aoe 1624603032.270991 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 174.51441955566406 y: 144.53370666503906
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603048.2699063 effectType 4 targetObjectID 13625665 color -65536 duration 0.0
+x: 68.16642761230469 y: 140.93528747558594
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603051.0750666 effectType 4 targetObjectID 13625638 color -65536 duration 0.0
+x: 48.063507080078125 y: 139.98593139648438
+x: 0.0 y: 0.0
+
+Aoe 1624603052.480147 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 48.063507080078125 y: 139.98593139648438
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603054.2702494 effectType 4 targetObjectID 13625589 color -65536 duration 0.0
+x: 53.89927291870117 y: 115.86056518554688
+x: 0.0 y: 0.0
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603069.6761305 effectType 4 targetObjectID 13625632 color -65536 duration 0.0
+x: 133.43011474609375 y: 132.02261352539062
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603121.6911058 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 191.193115234375 y: 16.664962768554688
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603122.0961287 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 193.64166259765625 y: 17.485485076904297
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603122.4911513 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 194.10842895507812 y: 19.52720069885254
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603122.8991747 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 194.2607879638672 y: 20.654027938842773
+x: 0.0 y: 0.0
+
+Aoe 1624603123.095186 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 191.193115234375 y: 16.664962768554688
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603123.2921972 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 194.89761352539062 y: 21.47762680053711
+x: 0.0 y: 0.0
+
+Aoe 1624603123.5162098 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 193.64166259765625 y: 17.485485076904297
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603123.6912203 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 194.58689880371094 y: 22.72523307800293
+x: 0.0 y: 0.0
+
+Aoe 1624603123.8922315 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 194.10842895507812 y: 19.52720069885254
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603124.092243 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 193.3719940185547 y: 23.749364852905273
+x: 0.0 y: 0.0
+
+Aoe 1624603124.299255 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 194.2607879638672 y: 20.654027938842773
+
+Aoe 1624603124.7082782 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 194.89761352539062 y: 21.47762680053711
+
+Aoe 1624603125.0943005 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 194.58689880371094 y: 22.72523307800293
+
+Aoe 1624603125.4943233 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 193.3719940185547 y: 23.749364852905273
+
+this is enemy 20784 name Mystical Basilisk
+ShowEffect 1624603135.5038958 effectType 4 targetObjectID 13625479 color -65536 duration 0.0
+x: 195.49253845214844 y: 24.1092586517334
+x: 0.0 y: 0.0
+
+Aoe 1624603136.9109762 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 195.49253845214844 y: 24.1092586517334
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603162.309429 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 195.64361572265625 y: 14.7833251953125
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603162.7074516 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 193.3039093017578 y: 12.024778366088867
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603163.1094747 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 192.78146362304688 y: 9.520062446594238
+x: 0.0 y: 0.0
+
+Aoe 1624603163.7225099 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 195.64361572265625 y: 14.7833251953125
+
+Aoe 1624603164.1085317 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 193.3039093017578 y: 12.024778366088867
+
+Aoe 1624603164.5155551 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 192.78146362304688 y: 9.520062446594238
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603198.1204772 effectType 4 targetObjectID 13625478 color -65536 duration 0.0
+x: 191.8583221435547 y: 8.381390571594238
+x: 0.0 y: 0.0
+
+this is enemy 20777 name The Dreadnought
+ShowEffect 1624603198.5154998 effectType 4 targetObjectID 13625478 color -65536 

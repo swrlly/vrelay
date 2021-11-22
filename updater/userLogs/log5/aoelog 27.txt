@@ -1,0 +1,1053 @@
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6378667 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1320.5 y: 959.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6378667 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1318.74267578125 y: 963.7426147460938
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6378667 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1314.5 y: 965.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6388636 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1310.25732421875 y: 963.7426147460938
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6388636 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1308.5 y: 959.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6388636 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1310.25732421875 y: 955.2573852539062
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6419003 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1314.5 y: 953.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625356702.6419003 effectType 4 targetObjectID 10609198 color -16640 duration 0.0
+x: 1318.74267578125 y: 955.2573852539062
+x: 0.0 y: 0.0
+
+MapChange: OceanTrench
+MapChange: Ascended Ocean
+MapChange: Nexus
+MapChange: Realm
+MapChange: Realm
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356764.7940278 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1699.300048828125 y: 993.6998291015625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356766.6048338 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1694.9000244140625 y: 990.89990234375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356770.0097923 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1698.9000244140625 y: 995.699951171875
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356771.2776136 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1690.0999755859375 y: 996.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356771.8760128 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1693.2999267578125 y: 993.300048828125
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625356774.1251855 effectType 4 targetObjectID 10833585 color 65280 duration 0.0
+x: 1691.9232177734375 y: 975.7836303710938
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625356774.5271049 effectType 4 targetObjectID 10833585 color 65280 duration 0.0
+x: 1691.9232177734375 y: 975.7836303710938
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625356775.1971467 effectType 4 targetObjectID 10833585 color 65280 duration 0.0
+x: 1692.622314453125 y: 975.5833129882812
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356775.695562 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1696.89990234375 y: 997.7000732421875
+x: 0.0 y: 0.0
+
+Aoe 1625356775.9612532 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1691.9232177734375 y: 975.7836303710938
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625356776.1402833 effectType 4 targetObjectID 10833585 color 65280 duration 0.0
+x: 1691.9232177734375 y: 975.7836303710938
+x: 0.0 y: 0.0
+
+Aoe 1625356776.3405392 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1691.9232177734375 y: 975.7836303710938
+
+Aoe 1625356776.8028467 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1692.622314453125 y: 975.5833129882812
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625356776.9889839 effectType 4 targetObjectID 10833585 color 65280 duration 0.0
+x: 1693.5 y: 973.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356777.0229032 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1689.699951171875 y: 996.9000244140625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356777.4374657 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1693.699951171875 y: 992.9000244140625
+x: 0.0 y: 0.0
+
+Aoe 1625356777.681303 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1691.9232177734375 y: 975.7836303710938
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625356777.9008248 effectType 4 targetObjectID 10833585 color 65280 duration 0.0
+x: 1691.9232177734375 y: 975.7836303710938
+x: 0.0 y: 0.0
+
+Aoe 1625356778.2346375 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1693.5 y: 973.5
+
+Aoe 1625356779.0090683 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1691.9232177734375 y: 975.7836303710938
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356780.9545772 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1697.699951171875 y: 996.9000244140625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356786.9597304 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1694.0999755859375 y: 1000.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356787.5789359 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1690.0999755859375 y: 996.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356788.3468437 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1693.699951171875 y: 992.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356796.723089 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1698.5 y: 994.4998779296875
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356797.524321 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1693.699951171875 y: 998.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356798.1252916 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1689.699951171875 y: 994.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625356798.9256115 effectType 4 targetObjectID 10389736 color -16640 duration 0.0
+x: 1694.5 y: 990.9000244140625
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625356893.1846228 radius 3.0 damage 60 effect 0 duration 0.0 origType 1605
+x: 673.2998657226562 y: 1192.716064453125
+
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625356901.5560787 effectType 4 targetObjectID 10404955 color -65536 duration 0.0
+x: 554.080078125 y: 1086.915283203125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625356902.011201 effectType 4 targetObjectID 10404956 color -65536 duration 0.0
+x: 554.0664672851562 y: 1085.1036376953125
+x: 0.0 y: 0.0
+
+Aoe 1625356902.8516922 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 554.080078125 y: 1086.915283203125
+
+Aoe 1625356903.447349 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 554.0664672851562 y: 1085.1036376953125
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625356957.5069754 effectType 4 targetObjectID 11073603 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625356963.5398948 effectType 4 targetObjectID 11100082 color -65536 duration 0.0
+x: 18.5 y: 13.5
+x: 0.0 y: 0.0
+
+Aoe 1625356964.992817 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 18.5 y: 13.5
+
+MapChange: Realm
+MapChange: Hunter Cave
+MapChange: Hunter Cave
+MapChange: Twisted Trials
+ShowEffect had KeyError: 11198674
+
+Aoe 1625357061.2606435 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 46.21385192871094 y: 21.598329544067383
+
+ShowEffect had KeyError: 11198664
+
+ShowEffect had KeyError: 11198664
+
+ShowEffect had KeyError: 11198675
+
+Aoe 1625357065.6358137 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 33.46733093261719 y: 19.669374465942383
+
+ShowEffect had KeyError: 11198675
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8360696 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 51.5029411315918 y: 47.35114669799805
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8360696 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 49.745582580566406 y: 51.593788146972656
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8360696 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 45.5029411315918 y: 53.35114669799805
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8360696 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 41.26029968261719 y: 51.593788146972656
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8360696 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 39.5029411315918 y: 47.35114669799805
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8360696 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 41.26029968261719 y: 43.10850524902344
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8371005 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 45.5029411315918 y: 41.35114669799805
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357066.8371005 effectType 4 targetObjectID 11198698 color -16640 duration 0.0
+x: 49.745582580566406 y: 43.10850524902344
+x: 0.0 y: 0.0
+
+Aoe 1625357066.8420832 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 34.5 y: 22.989999771118164
+
+Aoe 1625357066.8420832 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 34.5 y: 22.989999771118164
+
+ShowEffect had KeyError: 11198675
+
+Aoe 1625357068.0390139 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 33.841835021972656 y: 22.990699768066406
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625357069.0357568 effectType 4 targetObjectID 11198675 color -65536 duration 0.0
+x: 40.47932815551758 y: 28.76886749267578
+x: 0.0 y: 0.0
+
+Aoe 1625357069.2429848 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 33.560272216796875 y: 24.689355850219727
+
+Aoe 1625357070.4526734 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 40.47932815551758 y: 28.76886749267578
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625357071.0458863 effectType 4 targetObjectID 11198698 color -65536 duration 0.0
+x: 45.152427673339844 y: 45.55845642089844
+x: 0.0 y: 0.0
+
+Aoe 1625357072.443789 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 45.152427673339844 y: 45.55845642089844
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625357078.9574053 effectType 4 targetObjectID 11198703 color -65536 duration 0.0
+x: 43.36421203613281 y: 52.062557220458984
+x: 0.0 y: 0.0
+
+Aoe 1625357080.3423798 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 43.36421203613281 y: 52.062557220458984
+
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357179.3954258 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357179.3954258 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357179.3954258 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357179.3954258 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357182.6035283 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 13.567605018615723 y: 20.840810775756836
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357185.2010815 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 18.107177734375 y: 19.107177734375
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357185.2010815 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 11.036109924316406 y: 19.107177734375
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357185.2010815 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 11.036109924316406 y: 12.036109924316406
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625357185.2010815 effectType 4 targetObjectID 11309139 color -16640 duration 0.0
+x: 18.107177734375 y: 12.036109924316406
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Tunnel of Pain
+MapChange: Realm
+MapChange: Undead Lair
+MapChange: Ascended Undead Lair
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Nexus
+MapChange: Realm
+MapChange: The Genisus
+enemy 17900 name Time Turret 1
+ShowEffect 1625357316.4638524 effectType 4 targetObjectID 11462222 color -65536 duration 0.0
+x: 114.94347381591797 y: 95.00961303710938
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357317.4650602 effectType 4 targetObjectID 11462222 color -65536 duration 0.0
+x: 114.88644409179688 y: 94.02062225341797
+x: 0.0 y: 0.0
+
+Aoe 1625357317.8689833 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.94347381591797 y: 95.00961303710938
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357318.4631908 effectType 4 targetObjectID 11462222 color -65536 duration 0.0
+x: 114.93141174316406 y: 94.80039978027344
+x: 0.0 y: 0.0
+
+Aoe 1625357318.8688948 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.88644409179688 y: 94.02062225341797
+
+Aoe 1625357319.8700502 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.93141174316406 y: 94.80039978027344
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357339.8933077 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 112.45149993896484 y: 71.62068176269531
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357340.8911135 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 113.6756820678711 y: 69.5
+x: 0.0 y: 0.0
+
+Aoe 1625357341.3129776 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 112.45149993896484 y: 71.62068176269531
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357341.9015324 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 109.74505615234375 y: 74.384521484375
+x: 0.0 y: 0.0
+
+Aoe 1625357342.3033524 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.6756820678711 y: 69.5
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357342.905229 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 115.13418579101562 y: 70.90045166015625
+x: 0.0 y: 0.0
+
+Aoe 1625357343.3124108 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 109.74505615234375 y: 74.384521484375
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357343.8977876 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.36810302734375 y: 69.61766815185547
+x: 0.0 y: 0.0
+
+Aoe 1625357344.312644 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 115.13418579101562 y: 70.90045166015625
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357344.90322 effectType 4 targetObjectID 11462119 color -65536 duration 0.0
+x: 116.01862335205078 y: 74.8377914428711
+x: 0.0 y: 0.0
+
+Aoe 1625357345.3114302 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.36810302734375 y: 69.61766815185547
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357345.942632 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.0792236328125 y: 71.1810302734375
+x: 0.0 y: 0.0
+
+Aoe 1625357346.3125405 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 116.01862335205078 y: 74.8377914428711
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357346.8988812 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.30728149414062 y: 71.19692993164062
+x: 0.0 y: 0.0
+
+Aoe 1625357347.315672 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.0792236328125 y: 71.1810302734375
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357347.9107974 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.47840881347656 y: 70.43915557861328
+x: 0.0 y: 0.0
+
+Aoe 1625357348.3037772 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.30728149414062 y: 71.19692993164062
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357348.8998857 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.25619506835938 y: 69.52674102783203
+x: 0.0 y: 0.0
+
+Aoe 1625357349.3121276 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.47840881347656 y: 70.43915557861328
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357349.8965392 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.86318969726562 y: 72.44173431396484
+x: 0.0 y: 0.0
+
+Aoe 1625357350.3148265 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.25619506835938 y: 69.52674102783203
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357350.9760108 effectType 4 targetObjectID 11461834 color -65536 duration 0.0
+x: 114.77031707763672 y: 59.57804870605469
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357350.9790337 effectType 4 targetObjectID 11461991 color -65536 duration 0.0
+x: 114.36810302734375 y: 71.27313995361328
+x: 0.0 y: 0.0
+
+Aoe 1625357351.4870474 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.86318969726562 y: 72.44173431396484
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357352.012958 effectType 4 targetObjectID 11461834 color -65536 duration 0.0
+x: 114.11897277832031 y: 54.88285827636719
+x: 0.0 y: 0.0
+
+Aoe 1625357352.2187686 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.36810302734375 y: 71.27313995361328
+
+Aoe 1625357352.2198 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.77031707763672 y: 59.57804870605469
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357353.011774 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.35541534423828 y: 49.59062957763672
+x: 0.0 y: 0.0
+
+Aoe 1625357353.4224222 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.11897277832031 y: 54.88285827636719
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357354.02197 effectType 4 targetObjectID 11461834 color -65536 duration 0.0
+x: 111.17736053466797 y: 57.09751510620117
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357354.02197 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 115.18089294433594 y: 53.10560607910156
+x: 0.0 y: 0.0
+
+Aoe 1625357354.4223588 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.35541534423828 y: 49.59062957763672
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357355.0208502 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 114.56961822509766 y: 49.09981155395508
+x: 0.0 y: 0.0
+
+Aoe 1625357355.417314 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 115.18089294433594 y: 53.10560607910156
+
+Aoe 1625357355.418346 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 111.17736053466797 y: 57.09751510620117
+
+Aoe 1625357356.4262476 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.56961822509766 y: 49.09981155395508
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357357.01967 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.906982421875 y: 50.2640266418457
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357358.0126796 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 114.825439453125 y: 47.714900970458984
+x: 0.0 y: 0.0
+
+Aoe 1625357358.426564 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.906982421875 y: 50.2640266418457
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357359.009304 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 116.46246337890625 y: 47.603919982910156
+x: 0.0 y: 0.0
+
+Aoe 1625357359.4281874 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.825439453125 y: 47.714900970458984
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357360.0191379 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.89283752441406 y: 50.038169860839844
+x: 0.0 y: 0.0
+
+Aoe 1625357360.4186583 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 116.46246337890625 y: 47.603919982910156
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357360.8249636 effectType 4 targetObjectID 11461834 color -65536 duration 0.0
+x: 113.43992614746094 y: 53.98075866699219
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357361.0114207 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 115.64533233642578 y: 45.6346549987793
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357361.2297502 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 110.8943099975586 y: 35.70668029785156
+x: 0.0 y: 0.0
+
+Aoe 1625357361.415345 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.89283752441406 y: 50.038169860839844
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357362.0110457 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 114.56865692138672 y: 50.93743896484375
+x: 0.0 y: 0.0
+
+Aoe 1625357362.2138844 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.43992614746094 y: 53.98075866699219
+
+Aoe 1625357362.4276962 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 115.64533233642578 y: 45.6346549987793
+
+Aoe 1625357362.6269662 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 110.8943099975586 y: 35.70668029785156
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357363.0220838 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.28013610839844 y: 49.73849868774414
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357363.2125742 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 112.39258575439453 y: 39.22675704956055
+x: 0.0 y: 0.0
+
+Aoe 1625357363.4148624 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.56865692138672 y: 50.93743896484375
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357364.011079 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 115.98859405517578 y: 46.64530563354492
+x: 0.0 y: 0.0
+
+Aoe 1625357364.4291291 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.28013610839844 y: 49.73849868774414
+
+Aoe 1625357364.6246374 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 112.39258575439453 y: 39.22675704956055
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357365.0272717 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 114.8093032836914 y: 49.641273498535156
+x: 0.0 y: 0.0
+
+Aoe 1625357365.431812 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 115.98859405517578 y: 46.64530563354492
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357366.0318768 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 114.90339660644531 y: 47.91975784301758
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357366.2135062 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 113.5 y: 40.13029098510742
+x: 0.0 y: 0.0
+
+Aoe 1625357366.4302802 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.8093032836914 y: 49.641273498535156
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357367.0214686 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.50526428222656 y: 47.84334182739258
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357367.2139668 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 109.5 y: 35.064517974853516
+x: 0.0 y: 0.0
+
+Aoe 1625357367.4243507 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.90339660644531 y: 47.91975784301758
+
+Aoe 1625357367.6306102 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.5 y: 40.13029098510742
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357368.015018 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.74972534179688 y: 49.196903228759766
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357368.223293 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 108.5 y: 35.7056884765625
+x: 0.0 y: 0.0
+
+Aoe 1625357368.4547796 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.50526428222656 y: 47.84334182739258
+
+Aoe 1625357368.630345 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 109.5 y: 35.064517974853516
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357369.0218472 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.50526428222656 y: 47.84334182739258
+x: 0.0 y: 0.0
+
+Aoe 1625357369.4290013 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.74972534179688 y: 49.196903228759766
+
+Aoe 1625357369.6179368 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 108.5 y: 35.7056884765625
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357370.0239825 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.50526428222656 y: 47.84334182739258
+x: 0.0 y: 0.0
+
+Aoe 1625357370.43002 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.50526428222656 y: 47.84334182739258
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357371.0173182 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 113.50526428222656 y: 47.84334182739258
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357371.214594 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 112.5 y: 41.61018753051758
+x: 0.0 y: 0.0
+
+Aoe 1625357371.4303985 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.50526428222656 y: 47.84334182739258
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357372.0232205 effectType 4 targetObjectID 11461581 color -65536 duration 0.0
+x: 115.38260650634766 y: 49.09764862060547
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357372.2144156 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 110.93604278564453 y: 35.27158737182617
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357372.2154152 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 114.5205307006836 y: 35.86357498168945
+x: 0.0 y: 0.0
+
+Aoe 1625357372.4266865 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.50526428222656 y: 47.84334182739258
+
+Aoe 1625357372.6230686 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 112.5 y: 41.61018753051758
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357373.3132179 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 109.53239440917969 y: 34.95163345336914
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357373.3132179 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 116.43809509277344 y: 34.20294952392578
+x: 0.0 y: 0.0
+
+Aoe 1625357373.692252 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.5205307006836 y: 35.86357498168945
+
+Aoe 1625357373.692252 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 110.93604278564453 y: 35.27158737182617
+
+Aoe 1625357373.692252 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 115.38260650634766 y: 49.09764862060547
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357374.4571598 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 109.53239440917969 y: 34.95163345336914
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357374.4571598 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 117.59048461914062 y: 34.222999572753906
+x: 0.0 y: 0.0
+
+Aoe 1625357374.6526716 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 116.43809509277344 y: 34.20294952392578
+
+Aoe 1625357374.6526716 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 109.53239440917969 y: 34.95163345336914
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357375.435577 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 110.7222900390625 y: 34.55472183227539
+x: 0.0 y: 0.0
+
+Aoe 1625357375.8594542 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 117.59048461914062 y: 34.222999572753906
+
+Aoe 1625357375.8594542 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 109.53239440917969 y: 34.95163345336914
+
+Aoe 1625357376.844868 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 110.7222900390625 y: 34.55472183227539
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357377.4514844 effectType 4 targetObjectID 11461333 color -65536 duration 0.0
+x: 110.538818359375 y: 34.543277740478516
+x: 0.0 y: 0.0
+
+Aoe 1625357378.8471043 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 110.538818359375 y: 34.543277740478516
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357397.1153882 effectType 4 targetObjectID 11461329 color -65536 duration 0.0
+x: 72.03865051269531 y: 35.71967697143555
+x: 0.0 y: 0.0
+
+Aoe 1625357398.2298715 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 72.03865051269531 y: 35.71967697143555
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357405.3330908 effectType 4 targetObjectID 11461329 color -65536 duration 0.0
+x: 67.98773956298828 y: 35.65944290161133
+x: 0.0 y: 0.0
+
+Aoe 1625357406.747593 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 67.98773956298828 y: 35.65944290161133
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357407.3353794 effectType 4 targetObjectID 11461329 color -65536 duration 0.0
+x: 69.08717346191406 y: 35.659751892089844
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357408.7433076 effectType 4 targetObjectID 11461031 color -65536 duration 0.0
+x: 74.22860717773438 y: 31.835906982421875
+x: 0.0 y: 0.0
+
+Aoe 1625357408.748252 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 69.08717346191406 y: 35.659751892089844
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357409.7480228 effectType 4 targetObjectID 11461329 color -65536 duration 0.0
+x: 68.23371124267578 y: 35.27785873413086
+x: 0.0 y: 0.0
+
+Aoe 1625357410.159733 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 74.22860717773438 y: 31.835906982421875
+
+Aoe 1625357410.9615622 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 68.23371124267578 y: 35.27785873413086
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357415.77956 effectType 4 targetObjectID 11460810 color -65536 duration 0.0
+x: 45.04356002807617 y: 19.069812774658203
+x: 0.0 y: 0.0
+
+Aoe 1625357417.2508266 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 45.04356002807617 y: 19.069812774658203
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357423.0797777 effectType 4 targetObjectID 11460809 color -65536 duration 0.0
+x: 27.190732955932617 y: 19.855426788330078
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357424.097232 effectType 4 targetObjectID 11460809 color -65536 duration 0.0
+x: 29.97381019592285 y: 17.63157844543457
+x: 0.0 y: 0.0
+
+Aoe 1625357424.5031238 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 27.190732955932617 y: 19.855426788330078
+
+Aoe 1625357425.4917173 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 29.97381019592285 y: 17.63157844543457
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357439.651775 effectType 4 targetObjectID 11461591 color -65536 duration 0.0
+x: 8.80688762664795 y: 51.2652702331543
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357440.647077 effectType 4 targetObjectID 11461591 color -65536 duration 0.0
+x: 12.5 y: 52.5
+x: 0.0 y: 0.0
+
+Aoe 1625357441.058149 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 8.80688762664795 y: 51.2652702331543
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357441.7176988 effectType 4 targetObjectID 11461591 color -65536 duration 0.0
+x: 8.699896812438965 y: 55.20546340942383
+x: 0.0 y: 0.0
+
+Aoe 1625357442.0944242 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 12.5 y: 52.5
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357442.6885152 effectType 4 targetObjectID 11461591 color -65536 duration 0.0
+x: 8.65440559387207 y: 54.06061553955078
+x: 0.0 y: 0.0
+
+Aoe 1625357443.0889127 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 8.699896812438965 y: 55.20546340942383
+
+Aoe 1625357444.0868852 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 8.65440559387207 y: 54.06061553955078
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357475.6775513 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 116.62132263183594 y: 12.621320724487305
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357475.6785488 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 112.37867736816406 y: 12.621320724487305
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357475.6785488 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 112.37867736816406 y: 8.378679275512695
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357475.6795464 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 116.62132263183594 y: 8.378679275512695
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357478.8446531 effectType 4 targetObjectID 11460639 color -65536 duration 0.0
+x: 112.36296081542969 y: 14.746810913085938
+x: 0.0 y: 0.0
+
+Aoe 1625357480.2647316 radius 2.0 damage 60 effect 0 duration 0.0 origType 25785
+x: 112.36296081542969 y: 14.746810913085938
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357481.038977 effectType 4 targetObjectID 11460639 color -65536 duration 0.0
+x: 112.36296081542969 y: 14.746810913085938
+x: 0.0 y: 0.0
+
+Aoe 1625357482.4535964 radius 2.0 damage 60 effect 0 duration 0.0 origType 25785
+x: 112.36296081542969 y: 14.746810913085938
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357483.2337987 effectType 4 targetObjectID 11460639 color -65536 duration 0.0
+x: 116.66578674316406 y: 14.085862159729004
+x: 0.0 y: 0.0
+
+Aoe 1625357484.6516864 radius 2.0 damage 60 effect 0 duration 0.0 origType 25785
+x: 116.66578674316406 y: 14.085862159729004
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357485.4456246 effectType 4 targetObjectID 11460639 color -65536 duration 0.0
+x: 113.56867218017578 y: 15.381648063659668
+x: 0.0 y: 0.0
+
+Aoe 1625357486.856235 radius 2.0 damage 60 effect 0 duration 0.0 origType 25785
+x: 113.56867218017578 y: 15.381648063659668
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357487.6461203 effectType 4 targetObjectID 11460639 color -65536 duration 0.0
+x: 114.81381225585938 y: 15.094884872436523
+x: 0.0 y: 0.0
+
+Aoe 1625357489.046465 radius 2.0 damage 60 effect 0 duration 0.0 origType 25785
+x: 114.81381225585938 y: 15.094884872436523
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357489.6407847 effectType 4 targetObjectID 11460639 color 65280 duration 0.0
+x: 112.36190032958984 y: 14.230995178222656
+x: 0.0 y: 0.0
+
+Aoe 1625357491.0653276 radius 4.0 damage 80 effect 0 duration 0.0 origType 25785
+x: 112.36190032958984 y: 14.230995178222656
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357491.849245 effectType 4 targetObjectID 11460639 color 65280 duration 0.0
+x: 114.22132110595703 y: 14.290340423583984
+x: 0.0 y: 0.0
+
+Aoe 1625357493.2555509 radius 4.0 damage 80 effect 0 duration 0.0 origType 25785
+x: 114.22132110595703 y: 14.290340423583984
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357494.0450864 effectType 4 targetObjectID 11460639 color 65280 duration 0.0
+x: 114.15088653564453 y: 13.985685348510742
+x: 0.0 y: 0.0
+
+Aoe 1625357495.4596102 radius 4.0 damage 80 effect 0 duration 0.0 origType 25785
+x: 114.15088653564453 y: 13.985685348510742
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357499.6534507 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 117.23419189453125 y: 14.323976516723633
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357499.6534507 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 111.57733154296875 y: 14.323976516723633
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357499.6534507 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 111.57733154296875 y: 8.667121887207031
+x: 0.0 y: 0.0
+
+enemy 25785 name Codename G-24, Nitrostorm
+ShowEffect 1625357499.6534507 effectType 4 targetObjectID 11460639 color -16640 duration 0.0
+x: 117.23419189453125 y: 8.667121887207031
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357502.2636285 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 113.7958984375 y: 32.09014129638672
+x: 0.0 y: 0.0
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357503.2649183 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 114.29016876220703 y: 33.337364196777344
+x: 0.0 y: 0.0
+
+Aoe 1625357503.676203 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 113.7958984375 y: 32.09014129638672
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357504.2542348 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 114.29016876220703 y: 33.337364196777344
+x: 0.0 y: 0.0
+
+Aoe 1625357504.6614852 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.29016876220703 y: 33.337364196777344
+
+enemy 17900 name Time Turret 1
+ShowEffect 1625357505.260934 effectType 4 targetObjectID 11461196 color -65536 duration 0.0
+x: 114.91558837890625 y: 30.97298240661621
+x: 0.0 y: 0.0
+
+Aoe 1625357505.6787694 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.29016876220703 y: 33.337364196777344
+
+Aoe 1625357506.6841345 radius 4.0 damage 75 effect 0 duration 0.0 origType 17900
+x: 114.91558837890625 y: 30.97298240661621
+
+MapChange: Realm
+MapChange: Galactic Plateau
+enemy 18616 name Alien UFO
+ShowEffect 1625357593.0146492 effectType 4 targetObjectID 11810002 color -65536 duration 0.0
+x: 54.23588180541992 y: 57.69304275512695
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625357593.0156457 effectType 4 targetObjectID 11809999 color -65536 duration 0.0
+x: 54.23588180541992 y: 57.69304275512695
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625357593.152828 effectType 4 targetObjectID 11810003 color -65536 duration 0.0
+x: 51.86730194091797 y: 55.324466705322266
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625357593.5506973 effectType 4 targetObjectID 11809996 color -65536 duration 0.0
+x: 48.01057434082031 y: 51.467735290527344
+x: 0.0 y: 0.0
+
+Aoe 1625357594.1851182 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 54.23588180541992 y: 57.69304275512695
+
+Aoe 1625357594.1851182 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 54.23588180541992 y: 57.69304275512695
+
+Aoe 1625357594.8074076 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 51.86730194091797 y: 55.324466705322266
+
+Aoe 1625357595.14107 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 48.01057434082031 y: 51.467735290527344
+
+MapChange: Realm

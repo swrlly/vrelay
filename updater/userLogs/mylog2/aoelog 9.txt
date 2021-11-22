@@ -1,0 +1,183 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Storm Palace
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Garden of Chaos
+objectID: 4352925 slotID: 1 itemData: 
+x: 351.5 y: 401.6889343261719
+time 0 useType 1
+
+x: 406 y: 264
+objectID 4352925 tickID 0 time 0
+records:
+
+objectID: 4352925 slotID: 1 itemData: 
+x: 406 y: 264
+time 0 useType 1
+
+enemy 26452 name Vitalia
+ShowEffect 1635073777.9896283 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.5 y: 239.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073777.9896283 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 402.5 y: 235.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073777.9896283 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.5 y: 231.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073777.9896283 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 410.5 y: 235.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073785.7889662 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.5 y: 239.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073785.7899969 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 402.5 y: 235.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073785.7899969 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.5 y: 231.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073785.7899969 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 410.5 y: 235.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073787.9914415 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 402.9644775390625 y: 239.03553771972656
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073787.9914415 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 410.0355224609375 y: 231.96446228027344
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073803.0188394 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 410.0355224609375 y: 239.03553771972656
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073803.0188394 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 402.9644775390625 y: 231.96446228027344
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073808.3972592 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.2525939941406 y: 235.94937133789062
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073824.8187973 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.59283447265625 y: 239.0288543701172
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073825.012235 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.59283447265625 y: 239.0288543701172
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073825.012235 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.59283447265625 y: 239.0288543701172
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073825.2196054 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.59283447265625 y: 239.0288543701172
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073825.2196054 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.59283447265625 y: 239.0288543701172
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1635073825.220602 effectType 4 targetObjectID 4352268 color -16640 duration 0.0
+x: 406.59283447265625 y: 239.0288543701172
+x: 0.0 y: 0.0
+
+x: 388 y: 310
+objectID 4352925 tickID 0 time 0
+records:
+
+objectID: 4352925 slotID: 1 itemData: 
+x: 388 y: 310
+time 0 useType 1
+
+enemy 26520 name Granithia
+ShowEffect 1635073883.8250134 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 390.0788879394531 y: 316.1839904785156
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073883.8250134 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 387.2504577636719 y: 317.3555603027344
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073883.8250134 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 392.9073181152344 y: 317.3555603027344
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073891.8424857 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 393.32843017578125 y: 319.67156982421875
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073891.8424857 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 394.5 y: 322.5
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073891.8434498 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 393.32843017578125 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073899.858154 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 393.32843017578125 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073899.8591375 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 390.5 y: 326.5
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073899.8591375 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 387.67156982421875 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073907.8386738 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 387.67156982421875 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073907.8397167 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 386.5 y: 322.5
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1635073907.8397167 effectType 4 targetObjectID 4352435 color -16640 duration 0.0
+x: 387.67156982421875 y: 319.67156982421875
+x: 0.0 y: 0.0
+

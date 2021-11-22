@@ -1,0 +1,1346 @@
+MapChange: Nexus
+MapChange: Realm
+Aoe 1635076478.3357155 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1132.1844482421875 y: 1033.773193359375
+
+enemy 1620 name Medusa
+ShowEffect 1635076547.9819887 effectType 4 targetObjectID 285219 color -65536 duration 1.5
+x: 1220.0794677734375 y: 1004.3494873046875
+x: 0.0 y: 0.0
+
+Aoe 1635076549.3921757 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1220.0794677734375 y: 1004.3494873046875
+
+enemy 26584 name Garutious
+ShowEffect 1635076571.3923826 effectType 4 targetObjectID 307265 color -16640 duration 0.0
+x: 1253.7857666015625 y: 1079.9234619140625
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1635076571.3923826 effectType 4 targetObjectID 307265 color -16640 duration 0.0
+x: 1248.7857666015625 y: 1084.9234619140625
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1635076571.3933804 effectType 4 targetObjectID 307265 color -16640 duration 0.0
+x: 1243.7857666015625 y: 1079.9234619140625
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1635076571.3933804 effectType 4 targetObjectID 307265 color -16640 duration 0.0
+x: 1248.7857666015625 y: 1074.9234619140625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076578.8869166 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1551907 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.156157 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1571536 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1571536 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1581483 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1581483 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1591477 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1671262 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1681223 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.169121 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1701171 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1701171 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1711144 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.1711144 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.172111 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076579.1741056 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.1741056 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.1741056 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.1741056 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.1741056 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.175103 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.175103 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076579.175103 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.2967799 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.2977884 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.2977884 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.2988064 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.2988064 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.299774 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.299774 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.300769 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076579.3027966 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.3037596 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.3037596 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.3037596 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.3037596 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.3037596 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.3037596 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076579.3037596 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3087478 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3097436 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3107402 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3107402 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3117375 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3127356 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.3127356 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.313734 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076579.3167267 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.3167267 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.3167267 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.3167267 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.3177218 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.3177218 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.3177218 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076579.3177218 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4354136 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4354136 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.436405 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4374027 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4374027 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4384255 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4384255 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076579.4394267 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076579.441391 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.4424155 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076579.4424155 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.4424155 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076579.4424155 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.4424155 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076579.443414 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076579.443414 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.2076733 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.2086701 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.2097037 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.210699 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.210699 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.2116976 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.2126608 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076581.2126608 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076581.408724 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076581.408724 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076581.408724 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076581.408724 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076581.408724 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076581.408724 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076581.408724 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076581.408724 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.3980875 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.3980875 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.3990843 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.3990843 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.4000819 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.4000819 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.543087 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.543087 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076582.609913 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076582.609913 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076582.6109083 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076582.6109083 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076582.710639 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076582.710639 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076582.710639 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076582.710639 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.7980783 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.7980783 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.7990794 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.7990794 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.8000758 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.8010733 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.8010733 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076582.8020682 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076583.0194972 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076583.0194972 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076583.0194972 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076583.0194972 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076583.0194972 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076583.0194972 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076583.0205288 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076583.0205288 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.5991867 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.600139 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.600139 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.601136 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.601136 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.602133 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.602133 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.6031308 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076583.8175597 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076583.8185554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076583.8185554 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076583.8185554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076583.8185554 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076583.8185554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076583.8185554 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076583.8185554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.9996562 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076583.9996562 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.0006535 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.0016787 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.0016787 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.002672 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.0036452 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.0036452 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076584.2121282 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076584.2121282 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076584.2200766 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076584.2200766 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076584.2210648 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076584.2210648 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076584.2210648 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076584.2210648 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.7988405 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.7998369 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.7998369 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.800836 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.800836 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.8018394 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.802833 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076584.8038297 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076585.018784 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076585.0197814 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076585.0197814 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076585.0197814 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076585.0197814 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076585.0197814 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076585.0197814 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076585.0197814 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.2072816 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.2072816 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.2082813 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.2082813 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.209283 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.2102733 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.211275 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076585.211275 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076586.6968021 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076586.6968021 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076586.6968021 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076586.6968021 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076586.6978002 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076586.6978002 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076586.6978002 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076586.6978002 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8234637 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.824462 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.824462 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.825461 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.826457 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.826457 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1240.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8274527 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8284504 effectType 4 targetObjectID 461490 color 255 duration 1.5
+x: 1246.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076586.8304448 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076586.8304448 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076586.8304448 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076586.8304448 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076586.8304448 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076586.8314419 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1240.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076586.8314419 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076586.8314419 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1246.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8314419 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8324397 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8334377 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8344436 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.8344436 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.835469 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.9241943 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.9251919 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076586.9271865 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076586.9281838 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076586.9281838 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076586.9281838 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076586.9281838 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076586.9281838 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076586.9281838 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076586.9281838 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076586.9970012 effectType 4 targetObjectID 461491 color -16640 duration 0.0
+x: 1248.7857666015625 y: 1087.9234619140625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076587.0259743 effectType 4 targetObjectID 461491 color -16640 duration 0.0
+x: 1248.7857666015625 y: 1081.9234619140625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076589.999431 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.000429 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.000429 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.001426 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.10219 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.1031518 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.1031518 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076590.1041877 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076590.255743 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076590.255743 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076590.255743 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076590.255743 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076590.255743 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076590.255743 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076590.255743 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076590.255743 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.2002726 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.2002726 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.2012653 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.2012653 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.202262 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.202262 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.2032592 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076591.2032592 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076591.4193716 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076591.4203691 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076591.4203691 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076591.4203691 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076591.4203691 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076591.4203691 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076591.4203691 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076591.5026557 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4083989 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4213605 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4223583 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4223583 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4233549 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4243543 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.4243543 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076592.42535 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076592.613848 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076592.613848 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076592.6148455 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076592.6148455 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076592.6148455 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076592.6148455 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076592.6148455 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076592.6148455 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.6040037 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.6049576 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.6049576 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.605956 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.605956 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.6069522 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.6069522 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076593.6079638 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076593.8213007 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076593.8213007 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076593.8213007 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076593.8213007 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076593.8223011 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076593.8223011 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076593.8223011 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076593.8223011 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.8011692 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.8011692 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.8021588 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.8021588 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.803156 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.803156 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.8041584 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076594.8041584 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076595.013632 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076595.013632 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076595.0145922 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076595.0145922 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076595.0145922 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076595.0145922 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076595.0145922 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076595.0145922 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0018551 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0028188 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0038233 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0038233 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1082.7518310546875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0048156 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0048156 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1250.9573974609375 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0058107 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1635076596.0058107 effectType 4 targetObjectID 461492 color 255 duration 1.5
+x: 1256.6141357421875 y: 1077.0950927734375
+x: 0.0 y: 0.0
+
+Aoe 1635076596.2222326 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076596.2222326 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076596.2222326 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076596.2222326 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076596.2222326 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076596.2222326 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076596.2222326 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076596.2222326 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076597.417258 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076597.417258 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1077.0950927734375
+
+Aoe 1635076597.4182553 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076597.4182553 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1077.0950927734375
+
+Aoe 1635076597.4182553 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076597.4182553 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1250.9573974609375 y: 1082.7518310546875
+
+Aoe 1635076597.4182553 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+Aoe 1635076597.4182553 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1256.6141357421875 y: 1082.7518310546875
+
+MapChange: Nexus
+MapChange: Realm
+enemy 1755 name Kage Kami
+ShowEffect 1635076659.044494 effectType 4 targetObjectID 281146 color -16640 duration 0.0
+x: 1109.7135009765625 y: 831.1311645507812
+x: 0.0 y: 0.0
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1635076735.9594162 effectType 4 targetObjectID 561593 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1635076746.1476202 effectType 4 targetObjectID 574721 color -65536 duration 1.5
+x: 15.548147201538086 y: 20.84007453918457
+x: 0.0 y: 0.0
+
+internal HP is now 358
+Aoe 1635076750.1990688 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 15.548147201538086 y: 20.84007453918457
+
+MapChange: Realm

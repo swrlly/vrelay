@@ -1,0 +1,484 @@
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619868.5761168 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619868.6221166 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619868.6321168 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619868.6371167 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619871.759117 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 11.18377685546875 y: 16.0567684173584
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619878.1491168 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 19.94975471496582 y: 20.94975471496582
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619878.1491168 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 12.878686904907227 y: 20.94975471496582
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619878.1501167 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 12.878686904907227 y: 13.878686904907227
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619878.1501167 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 19.94975471496582 y: 13.878686904907227
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619881.1571167 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 16.414220809936523 y: 12.914220809936523
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625619881.1581166 effectType 4 targetObjectID 3579734 color -16640 duration 0.0
+x: 16.414220809936523 y: 21.914220809936523
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Ancient Depths
+ShowEffect had KeyError: 802
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625626525.7349167 effectType 4 targetObjectID 9895866 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625626534.7889168 effectType 4 targetObjectID 9895866 color 65280 duration 0.0
+x: 16.4865779876709 y: 21.87296485900879
+x: 0.0 y: 0.0
+
+Aoe 1625626536.1769168 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.4865779876709 y: 21.87296485900879
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Superhuman Hideout
+MapChange: Realm
+enemy 2384 name Shambling Sludge
+ShowEffect 1625626698.0169168 effectType 4 targetObjectID 8954418 color -16640 duration 0.0
+x: 1150.319091796875 y: 1629.5260009765625
+x: 0.0 y: 0.0
+
+enemy 2384 name Shambling Sludge
+ShowEffect 1625626698.0169168 effectType 4 targetObjectID 8954418 color -16640 duration 0.0
+x: 1147.395263671875 y: 1631.4981689453125
+x: 0.0 y: 0.0
+
+enemy 2384 name Shambling Sludge
+ShowEffect 1625626698.0179167 effectType 4 targetObjectID 8954418 color -16640 duration 0.0
+x: 1144.6162109375 y: 1629.326904296875
+x: 0.0 y: 0.0
+
+enemy 2384 name Shambling Sludge
+ShowEffect 1625626698.0189166 effectType 4 targetObjectID 8954418 color -16640 duration 0.0
+x: 1145.8223876953125 y: 1626.012939453125
+x: 0.0 y: 0.0
+
+enemy 2384 name Shambling Sludge
+ShowEffect 1625626698.0199168 effectType 4 targetObjectID 8954418 color -16640 duration 0.0
+x: 1149.346923828125 y: 1626.135986328125
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625626706.0459166 effectType 4 targetObjectID 8939370 color -16640 duration 0.0
+x: 1169.28466796875 y: 1544.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625626706.6709166 effectType 4 targetObjectID 8939370 color -16640 duration 0.0
+x: 1165.28466796875 y: 1548.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625626707.2449167 effectType 4 targetObjectID 8939370 color -16640 duration 0.0
+x: 1160.8846435546875 y: 1544.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625626707.8179166 effectType 4 targetObjectID 8939370 color -16640 duration 0.0
+x: 1164.8846435546875 y: 1540.0999755859375
+x: 0.0 y: 0.0
+
+MapChange: Marketplace
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625627582.0579166 effectType 4 targetObjectID 10502063 color -65536 duration 0.0
+x: 1407.0955810546875 y: 973.02490234375
+x: 0.0 y: 0.0
+
+Aoe 1625627583.4949167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1407.0955810546875 y: 973.02490234375
+
+MapChange: Lab
+enemy 2422 name Dr Terrible
+ShowEffect 1625627647.6819167 effectType 4 targetObjectID 10757152 color -16640 duration 0.0
+x: 324.1950378417969 y: 147.7039031982422
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625627649.9399168 effectType 4 targetObjectID 10757152 color -16640 duration 0.0
+x: 326.2673645019531 y: 143.997802734375
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625627652.1229167 effectType 4 targetObjectID 10757152 color -16640 duration 0.0
+x: 324.457763671875 y: 143.62660217285156
+x: 0.0 y: 0.0
+
+MapChange: Ascended Lab
+MapChange: Nexus
+MapChange: Vault
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627849.3539166 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627849.3549166 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627849.3549166 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627849.3559167 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627852.5529168 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 15.306962966918945 y: 17.896333694458008
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627857.8129168 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 19.19927978515625 y: 20.19927978515625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627857.8189166 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 12.128211975097656 y: 20.19927978515625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627857.8189166 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 12.128211975097656 y: 13.128211975097656
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627857.8199167 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 19.19927978515625 y: 13.128211975097656
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627860.8359168 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 15.663745880126953 y: 12.163745880126953
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625627860.8369167 effectType 4 targetObjectID 11016011 color -16640 duration 0.0
+x: 15.663745880126953 y: 21.163745880126953
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625628101.0599167 effectType 4 targetObjectID 11197553 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625628115.4619167 effectType 4 targetObjectID 11212547 color -65536 duration 0.0
+x: 19.256376266479492 y: 18.428356170654297
+x: 0.0 y: 0.0
+
+Aoe 1625628116.879917 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 19.256376266479492 y: 18.428356170654297
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625628181.9969168 effectType 4 targetObjectID 11236709 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 11259746
+
+Aoe 1625628185.3069167 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 27.375900268554688 y: 7.255417346954346
+
+enemy 22047 name Zanarich
+ShowEffect 1625628192.2979167 effectType 4 targetObjectID 11259746 color -65536 duration 0.0
+x: 13.5079927444458 y: 22.557645797729492
+x: 0.0 y: 0.0
+
+Aoe 1625628193.7669165 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 13.5079927444458 y: 22.557645797729492
+
+enemy 22047 name Zanarich
+ShowEffect 1625628200.7279167 effectType 4 targetObjectID 11259746 color -65536 duration 0.0
+x: 13.766924858093262 y: 19.953275680541992
+x: 0.0 y: 0.0
+
+Aoe 1625628202.1279168 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 13.766924858093262 y: 19.953275680541992
+
+MapChange: Nexus
+MapChange: Realm
+enemy 30616 name Uber Shrek
+ShowEffect 1625628252.8299167 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 852.4497680664062 y: 1700.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628252.8309166 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 842.5502319335938 y: 1700.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628252.8319168 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 842.5502319335938 y: 1690.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628252.8319168 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 852.4497680664062 y: 1690.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628254.0319169 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 852.4497680664062 y: 1700.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628254.0329168 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 842.5502319335938 y: 1700.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628254.0339167 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 842.5502319335938 y: 1690.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628254.0339167 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 852.4497680664062 y: 1690.55029296875
+x: 0.0 y: 0.0
+
+Aoe 1625628254.2469165 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 852.4497680664062 y: 1690.55029296875
+
+Aoe 1625628254.2469165 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 842.5502319335938 y: 1690.55029296875
+
+Aoe 1625628254.2479167 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 842.5502319335938 y: 1700.44970703125
+
+Aoe 1625628254.2489166 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 852.4497680664062 y: 1700.44970703125
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628255.2289166 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 852.4497680664062 y: 1700.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628255.2299166 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 842.5502319335938 y: 1700.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628255.2309165 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 842.5502319335938 y: 1690.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625628255.231917 effectType 4 targetObjectID 11255368 color -65536 duration 0.0
+x: 852.4497680664062 y: 1690.55029296875
+x: 0.0 y: 0.0
+
+Aoe 1625628255.4449167 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 852.4497680664062 y: 1690.55029296875
+
+Aoe 1625628255.4459167 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 842.5502319335938 y: 1690.55029296875
+
+Aoe 1625628255.4469166 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 842.5502319335938 y: 1700.44970703125
+
+Aoe 1625628255.4469166 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 852.4497680664062 y: 1700.44970703125
+
+Aoe 1625628256.6429167 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 852.4497680664062 y: 1690.55029296875
+
+Aoe 1625628256.6449168 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 842.5502319335938 y: 1690.55029296875
+
+Aoe 1625628256.6459167 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 842.5502319335938 y: 1700.44970703125
+
+Aoe 1625628256.6469166 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 852.4497680664062 y: 1700.44970703125
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625628323.8459167 effectType 4 targetObjectID 11284139 color 65280 duration 0.0
+x: 794.2911987304688 y: 1334.9208984375
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1625628324.2559168 effectType 4 targetObjectID 11284139 color 65280 duration 0.0
+x: 794.2911987304688 y: 1334.9208984375
+x: 0.0 y: 0.0
+
+Aoe 1625628325.267917 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 794.2911987304688 y: 1334.9208984375
+
+Aoe 1625628325.6629167 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 794.2911987304688 y: 1334.9208984375
+
+MapChange: Gileon's Return
+MapChange: Realm
+MapChange: Storm Palace
+MapChange: Nexus
+Connection was aborted: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+MapChange: Ascended Lab
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628584.3765166 effectType 4 targetObjectID 11547217 color -65536 duration 0.0
+x: 12.606793403625488 y: 9.767814636230469
+x: 0.0 y: 0.0
+
+Aoe 1625628584.4025168 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 12.606793403625488 y: 9.767814636230469
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625628585.457517 effectType 4 targetObjectID 11554178 color -16640 duration 0.0
+x: 13.304272651672363 y: 16.71254539489746
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628588.8565166 effectType 4 targetObjectID 11547217 color -16640 duration 0.0
+x: 9.715178489685059 y: 12.583826065063477
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628590.2715166 effectType 4 targetObjectID 11547217 color -16640 duration 0.0
+x: 10.135107040405273 y: 16.337221145629883
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628590.8515167 effectType 4 targetObjectID 11547217 color -65536 duration 0.0
+x: 10.305870056152344 y: 21.82975196838379
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628590.8515167 effectType 4 targetObjectID 11547217 color -65536 duration 0.0
+x: 6.305870056152344 y: 17.82975196838379
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628590.8525167 effectType 4 targetObjectID 11547217 color -65536 duration 0.0
+x: 10.305870056152344 y: 13.829751968383789
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628590.8535168 effectType 4 targetObjectID 11547217 color -65536 duration 0.0
+x: 14.305870056152344 y: 17.82975196838379
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628590.8555167 effectType 4 targetObjectID 11547217 color -16640 duration 0.0
+x: 9.310290336608887 y: 18.11646842956543
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625628592.2665167 effectType 4 targetObjectID 11547217 color -16640 duration 0.0
+x: 4.873815536499023 y: 16.76392364501953
+x: 0.0 y: 0.0
+
+Aoe 1625628592.2695167 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 14.305870056152344 y: 17.82975196838379
+
+Aoe 1625628592.2695167 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 10.305870056152344 y: 13.829751968383789
+
+Aoe 1625628592.2705166 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 6.305870056152344 y: 17.82975196838379
+
+Aoe 1625628592.2715166 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 10.305870056152344 y: 21.82975196838379
+
+MapChange: Nexus
+MapChange: Vault
+Closed GUI. Shutting down proxy.

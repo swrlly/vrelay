@@ -1,0 +1,42 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634708080.1463232 effectType 4 targetObjectID 9391975 color -65536 duration 1.5
+x: 1138.6162109375 y: 911.3765258789062
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634708081.3396852 effectType 4 targetObjectID 8758711 color -65536 duration 1.5
+x: 1143.938232421875 y: 915.383544921875
+x: 0.0 y: 0.0
+
+Aoe 1634708081.5562706 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1138.6162109375 y: 911.3765258789062
+
+Aoe 1634708082.7503314 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1143.938232421875 y: 915.383544921875
+
+enemy 1620 name Medusa
+ShowEffect 1634708083.3400922 effectType 4 targetObjectID 9391975 color -65536 duration 1.5
+x: 1147.5377197265625 y: 922.2425537109375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634708083.538967 effectType 4 targetObjectID 9389979 color -65536 duration 1.5
+x: 1145.415283203125 y: 923.164306640625
+x: 0.0 y: 0.0
+
+internal HP is now 237
+enemy 1620 name Medusa
+ShowEffect 1634708084.5406961 effectType 4 targetObjectID 8758711 color -65536 duration 1.5
+x: 1141.4896240234375 y: 923.1463623046875
+x: 0.0 y: 0.0
+
+Aoe 1634708084.7558117 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1147.5377197265625 y: 922.2425537109375
+
+Aoe 1634708084.9555202 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1145.415283203125 y: 923.164306640625
+
+internal HP is now 107
+MapChange: Nexus

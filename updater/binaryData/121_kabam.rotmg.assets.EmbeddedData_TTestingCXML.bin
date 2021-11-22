@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+	<Object type="0x54f9" id="Elemental Phantom Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>41</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Elemental Phantom Assassin Skin.</Description>
+        <Activate objType="0x8823">UnlockSkin</Activate>
+        <Consumable/>
+<ExtraTooltipData>
+	<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Elemental Phantom Skin</DisplayId>
+    </Object>
+	<Object type="0x54f8" id="Gilded Jackal Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>41</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Gilded Jackal Samurai Skin.</Description>
+        <Activate objType="0x8822">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Gilded Jackal Skin</DisplayId>
+    </Object>
+	<Object type="0x54f7" id="Reaper Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>40</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Reaper Templar Skin.</Description>
+        <Activate objType="0x8821">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Reaper Skin</DisplayId>
+    </Object>
+	<Object type="0x54f6" id="Inquisitor Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>39</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Inquisitor Warrior Skin.</Description>
+        <Activate objType="0x8820">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Inquisitor Skin</DisplayId>
+    </Object>
+	<Object type="0x54f5" id="Monkey Ninja Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>38</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Monkey Ninja Skin.</Description>
+        <Activate objType="0x8819">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Monkey Ninja Skin</DisplayId>
+    </Object>
+	<Object type="0x54f4" id="Zol Adept Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>37</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Zol Adept Drakzix Skin.</Description>
+        <Activate objType="0x8818">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Zol Adept Skin</DisplayId>
+    </Object>
+	<Object type="0x54f3" id="Ghost Paladin Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>36</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Ghost Paladin Skin.</Description>
+        <Activate objType="0x8817">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Ghost Paladin Skin</DisplayId>
+    </Object>
+	<Object type="0x54f2" id="Mini Drannol Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>35</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Spooky Mini Drannol Mechanic Skin.</Description>
+        <Activate objType="0x8816">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Mini Drannol Skin</DisplayId>
+    </Object>
+	<Object type="0x54f1" id="Spooky Scarecrow Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>34</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Spooky Scarecrow Trickster Skin.</Description>
+        <Activate objType="0x8815">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Spooky Scarecrow Skin</DisplayId>
+    </Object>
+	<Object type="0x73f1" id="Men In Black Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>33</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Men In Black Pirate Skin.</Description>
+        <Activate objType="0x8814">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Men In Black Skin</DisplayId>
+    </Object>
+	<Object type="0x73e9" id="Thunderskull Sorcerer Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>32</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Thunderskull Sorcerer Skin.</Description>
+        <Activate objType="0x8813">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Thunderskull Sorcerer Skin</DisplayId>
+    </Object>
+	<Object type="0x73e8" id="Bloodshot Huntress Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>31</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Bloodshot Huntress Skin.</Description>
+        <Activate objType="0x8812">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Bloodshot Huntress Skin</DisplayId>
+    </Object>   
+	<Object type="0x73e7" id="Hell Hunter Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>30</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Hell Hunter Blademaster Skin.</Description>
+        <Activate objType="0x8811">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Hell Hunter Skin</DisplayId>
+    </Object>   
+	<Object type="0x73e6" id="Dreadskull Necromancer Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>29</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Dreadskull Necromancer Skin.</Description>
+        <Activate objType="0x8810">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Dreadskull Necromancer Skin</DisplayId>
+    </Object>   
+ 
+	<Object type="0x73e5" id="Funny Clown Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>28</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Funny Clown Gambler Skin.</Description>
+        <Activate objType="0x8809">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Funny Clown Skin</DisplayId>
+    </Object>   
+ 
+	<Object type="0x73f2" id="Witcharc Emote">
+		<Description>This item will unlock you the :witch: emote.</Description>
+		<Class>Equipment</Class>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<SlotType>10</SlotType>
+		<Texture>
+			<File>emotesCustom</File>
+			<Index>39</Index>
+		</Texture>
+		<ScaleValue>3</ScaleValue>
+		<Activate id=":witcharc:">UnlockEmote</Activate>
+		<Consumable/>
+		<BagType>6</BagType>
+	</Object>
+	<Object type="0x54e3" id="Gravestone Emote">
+		<Description>This item will unlock you the :grave: emote.</Description>
+		<Class>Equipment</Class>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<SlotType>10</SlotType>
+		<Texture>
+			<File>emotesCustom</File>
+			<Index>42</Index>
+		</Texture>
+		<ScaleValue>3</ScaleValue>
+		<Activate id=":grave:">UnlockEmote</Activate>
+		<Consumable/>
+		<BagType>6</BagType>
+	</Object>
+	<Object type="0x55a2" id="Scary Clown Emote">
+		<Description>This item will unlock you the :clownscary: emote.</Description>
+		<Class>Equipment</Class>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<SlotType>10</SlotType>
+		<Texture>
+			<File>emotesCustom</File>
+			<Index>41</Index>
+		</Texture>
+		<ScaleValue>3</ScaleValue>
+		<Activate id=":clownscary:">UnlockEmote</Activate>
+		<Consumable/>
+		<BagType>6</BagType>
+	</Object>
+	<Object type="0x55a1" id="Boo Emote">
+		<Description>This item will unlock you the :boo: emote.</Description>
+		<Class>Equipment</Class>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<SlotType>10</SlotType>
+		<Texture>
+			<File>emotesCustom</File>
+			<Index>40</Index>
+		</Texture>
+		<ScaleValue>3</ScaleValue>
+		<Activate id=":boo:">UnlockEmote</Activate>
+		<Consumable/>
+		<BagType>6</BagType>
+	</Object>
+    <Object type="0x52f7" id="Pumpkin Knight Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>27</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Pumpkin Knight Skin.</Description>
+        <Activate objType="0x8808">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Pumpkin Knight Skin</DisplayId>
+    </Object>   
+    <Object type="0x52f6" id="Flaming Spirit Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>26</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Flaming Spirit - Spirit Hunter Skin.</Description>
+        <Activate objType="0x8807">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Flaming Spirit - Spirit Hunter Skin</DisplayId>
+    </Object>   
+    <Object type="0x52f5" id="Vampire Priest Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>25</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Vampire Priest Skin.</Description>
+        <Activate objType="0x8806">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Vampire Priest Skin</DisplayId>
+    </Object>   
+    <Object type="0x52f4" id="Pumpkin Horror Wizard Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>24</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Pumpkin Horror Wizard Skin.</Description>
+        <Activate objType="0x8805">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Pumpkin Horror Wizard Skin</DisplayId>
+    </Object>   
+    <Object type="0x52f8" id="Mini Phylactery Mystic Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>23</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Mini Phylactery Mystic Skin.</Description>
+        <Activate objType="0x8804">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Mini Phylactery Mystic Skin</DisplayId>
+    </Object>   
+
+    <Object type="0x52f3" id="Susy Rogue Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>22</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Susy Rogue Skin.</Description>
+        <Activate objType="0x8803">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Susy Rogue Skin</DisplayId>
+    </Object>   
+
+    <Object type="0x52f2" id="Blood Blade Shrine Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>21</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Blood Blade Shrine Skin.</Description>
+        <Activate objType="0x8802">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Blood Blade Shrine Skin</DisplayId>
+    </Object>   
+	<Object type="0x52f1" id="Pumpkin Archer Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>20</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Pumpkin Archer Skin.</Description>
+        <Activate objType="0x8801">UnlockSkin</Activate>
+        <Consumable/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Limited/>
+        <BagType>10</BagType>
+        <DisplayId>Pumpkin Archer Skin</DisplayId>
+    </Object>
+	<Object type="0x52e9" id="Skin Effect Insignia Scatter">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Insignia Scatter">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Insignia Scatter</DisplayId>
+	</Object>
+	<Object type="0x73e4" id="Skin Effect Ring of Fire">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Ascended">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Ascension</DisplayId>
+	</Object>
+	<Object type="0x73e3" id="Skin Effect Ascension">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Ring Of Fire">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Ring Of Fire</DisplayId>
+	</Object>
+	<Object type="0x73e2" id="Skin Effect Ducky Days">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Ducky Days">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Ducky Days</DisplayId>
+	</Object>
+	<Object type="0x72e5" id="Skin Effect Glamarous Gems">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Glamarous Gems">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Glamarous Gems</DisplayId>
+	</Object>
+	<Object type="0x73e1" id="Skin Effect Magic Hats">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Magic Hats">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Magic Hats</DisplayId>
+	</Object>
+	<Object type="0x52e3" id="Skin Effect Golden Aegis">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Golden Aegis">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Golden Aegis</DisplayId>
+	</Object>
+	<Object type="0x52e2" id="Skin Effect Spooky Ghosts">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Spooky Ghosts">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Spooky Ghosts</DisplayId>
+	</Object>
+	<Object type="0x52e1" id="Skin Effect Realm Riches">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x18d</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Applies the specified skin effect. A one use item.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<feedPower>250</feedPower>
+		<Soulbound/>
+		<Consumable/>
+		<Activate id="Realm Riches">ApplySkinEffect</Activate>
+		<DisplayId>Skin Effect - Realm Riches</DisplayId>
+	</Object>
+	<Object type="0x51f9" id="Candy Sack Large">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+            <File>realmLegendaries8x8Embed</File>
+			<Index>0x59</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Holds your Halloween Candy!</Description>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<Soulbound/>
+		<InvUse/>
+		<DisplayId>Candy Sack</DisplayId>
+		<Limited/>
+	</Object>
+	<Object type="0x51f8" id="Candy Sack Medium">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+            <File>realmLegendaries8x8Embed</File>
+			<Index>0x5a</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Holds your Halloween Candy!</Description>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<Soulbound/>
+		<InvUse/>
+		<DisplayId>Candy Sack</DisplayId>
+		<Limited/>
+	</Object>
+	<Object type="0x51f7" id="Candy Sack">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+            <File>realmLegendaries8x8Embed</File>
+			<Index>0x5b</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Holds your Halloween Candy!</Description>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<Soulbound/>
+		<InvUse/>
+		<Limited/>
+	</Object>
+	<Object type="0x51f6" id="Hell Candy">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+            <File>realmLegendaries8x8Embed</File>
+			<Index>0x58</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>A special treat! Not advised to eat if you aren't part scary demon..</Description>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<Soulbound/>
+		<Consumable/>
+		<Limited/>
+		<Activate amount="3">CandyBag</Activate>
+	</Object>
+	<Object type="0x51f5" id="Fire Lolipop">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+            <File>realmLegendaries8x8Embed</File>
+			<Index>0x57</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>These candies have a fiery kick! Quite literally..</Description>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<Soulbound/>
+		<Consumable/>
+		<Limited/>
+		<Activate amount="2">CandyBag</Activate>
+	</Object>
+	<Object type="0x51f4" id="Chocolate White Bag">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+            <File>realmLegendaries8x8Embed</File>
+			<Index>0x56</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>A halloween favorite! A white-bag made out of chocolate.</Description>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the 2021 Halloween Festival."/>
+		</ExtraTooltipData>
+		<Sound>use_potion</Sound>
+		<BagType>5</BagType>
+		<Soulbound/>
+		<Consumable/>
+		<Limited/>
+		<Activate amount="1">CandyBag</Activate>
+	</Object>
+	<Object type="0x51f3" id="Garden of Chaos Key">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>ancient8x8Embed</File>
+			<Index>0x3f</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>A key which opens to the Garden of Chaos.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Soulbound/>
+		<Activate id="Garden of Chaos">Create</Activate>
+		<DisplayId>Garden of Chaos Key</DisplayId>
+	</Object>
+	<Object type="0x51f2" id="Concealment of the Dreadnought Key">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>ancient8x8Embed</File>
+			<Index>0x3f</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>A key which opens the Concealment of the Dreadnought.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Soulbound/>
+		<Activate id="Concealment of the Dreadnought">Create</Activate>
+		<DisplayId>Concealment of the Dreadnought Key</DisplayId>
+	</Object>
+	<Object type="0x51f1" id="Giggsmans Hideout Key">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>ancient8x8Embed</File>
+			<Index>0x3f</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>A key which opens the Giggsmans Hideout.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Soulbound/>
+		<Activate id="Superhuman Hideout">Create</Activate>
+		<DisplayId>Giggsman's Hideout</DisplayId>
+	</Object>
+
+	
+    <Object type="0x099b" id="Jeebs">
+        <Class>Character</Class>
+        <Group>Mad Lab</Group>
+        <RemoteTexture>
+            <Instance>testing</Instance>
+            <Id>7632526</Id>
+            <Right/>
+        </RemoteTexture>
+        <HitSound>monster/slimes_death</HitSound>
+        <DeathSound>monster/flying_brain_death</DeathSound>
+        <Size>200</Size>
+        <ShadowSize>50</ShadowSize>
+        <Defense>10</Defense>
+    </Object>
+    <Object type="0x1670" id="Storm Palace Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Storm Palace</DungeonName>
+        <Texture>
+            <File>lofiProjs</File>
+            <Index>0xa1</Index>
+        </Texture>
+    </Object>
+    <Object type="0x1856" id="Elemental Ruins Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Elemental Ruins</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x4f</Index>
+        </Texture>
+    </Object>
+    <Object type="0x167f" id="Crimson Showdown Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Crimson Showdown</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x1f</Index>
+        </Texture>
+    </Object>
+    <Object type="0x199f" id="Tunnel of Pain Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Tunnel of Pain</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x8e</Index>
+        </Texture>
+        <Animation prob="1" period="1">
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x8e</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x8f</Index>
+                </Texture>
+            </Frame>
+        </Animation>
+        <DisplayId>Tunnel of Pain Portal</DisplayId>
+    </Object>
+    <Object type="0x155a" id="Hidden Temple Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Hidden Temple</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x9f</Index>
+        </Texture>
+        <DisplayId>Hidden Temple Portal</DisplayId>
+    </Object>
+    <Object type="0x5049" id="The Unspeakable Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Unspeakable</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0xa9</Index>
+        </Texture>
+        <DisplayId>The Unspeakable Portal</DisplayId>
+    </Object>
+    <Object type="0x5051" id="Domain of the Dark Knight Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Domain of the Dark Knight</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0xa9</Index>
+        </Texture>
+        <DisplayId>Domain of the Dark Knight Portal</DisplayId>
+    </Object>
+    <Object type="0x5085" id="Fun Park Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Fun Park</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0xb6</Index>
+        </Texture>
+        <DisplayId>Fun Park Portal</DisplayId>
+    </Object>
+    <Object type="0x511c" id="The Stronghold Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Stronghold</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0xee</Index>
+        </Texture>
+        <DisplayId>The Stronghold Portal</DisplayId>
+    </Object>
+    <Object type="0x5120" id="Concealment of the Dreadnought Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Concealment of the Dreadnought</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0xf3</Index>
+        </Texture>
+        <DisplayId>Concealment of the Dreadnought Portal</DisplayId>
+    </Object>
+    <Object type="0x5148" id="Heavenly Rift Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Heavenly Rift</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0xb8</Index>
+        </Texture>
+        <DisplayId>Heavenly Rift Portal</DisplayId>
+    </Object>
+    <Object type="0x521a" id="The Catacombs Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Catacombs</DungeonName>
+        <Texture>
+            <File>lofiProjs</File>
+            <Index>0xbd</Index>
+        </Texture>
+    </Object>
+    <Object type="0x5225" id="The Dojo Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Dojo</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x131</Index>
+        </Texture>
+        <Animation prob="1" period="1">
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x132</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x133</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x134</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x134</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x135</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x136</Index>
+                </Texture>
+            </Frame>
+        </Animation>
+        <DisplayId>The Dojo Portal</DisplayId>
+    </Object>
+    <Object type="0x57ca" id="Cornfield of Peril Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Cornfield of Peril</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x17b</Index>
+        </Texture>
+        <DisplayId>Cornfield of Peril Portal</DisplayId>
+    </Object>
+    <Object type="0x42e4" id="The Crypt Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Crypt of the Fallen</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x1d0</Index>
+        </Texture>
+        <DisplayId>The Crypt Portal</DisplayId>
+    </Object>
+	
+    <Object type="0x22c3" id="Aldragine's Hideout Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Aldragine's Hideout</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x202</Index>
+        </Texture>
+        <Animation prob="1" period="1">
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x203</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.20">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x204</Index>
+                </Texture>
+            </Frame>
+        </Animation>
+        <DisplayId>Aldragine's Hideout Portal</DisplayId>
+    </Object>
+    <Object type="0x22c4" id="Sincryer's Gate Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Sincryer's Gate</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x202</Index>
+        </Texture>
+        <DisplayId>Sincryer's Gate Portal</DisplayId>
+    </Object>
+    <Object type="0x22c5" id="The Nontridus Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Nontridus</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x203</Index>
+        </Texture>
+        <DisplayId>The Nontridus Portal</DisplayId>
+    </Object>
+    <Object type="0x22c6" id="Core of the Hideout Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Core of the Hideout</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x202</Index>
+        </Texture>
+        <DisplayId>Core of the Hideout Portal</DisplayId>
+    </Object>
+    <Object type="0x22c7" id="Keeping of Aldragine Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Keeping of Aldragine</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x204</Index>
+        </Texture>
+        <DisplayId>Keeping of Aldragine Portal</DisplayId>
+    </Object>
+    <Object type="0x23a8" id="Treasure of Zol Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Treasure of Zol</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x1a4</Index>
+        </Texture>
+        <DisplayId>Treasure of Zol Portal</DisplayId>
+    </Object>
+    <Object type="0x44f7" id="Pork Hut Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Pork Hut</DungeonName>
+        <Texture>
+            <File>lofiProjs</File>
+            <Index>0xbf</Index>
+        </Texture>
+        <DisplayId>Pork Hut Portal</DisplayId>
+    </Object>
+    <Object type="0x45dd" id="Prison of Time Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Prison of Time</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x270</Index>
+        </Texture>
+        <DisplayId>Prison of Time Portal</DisplayId>
+    </Object>
+    <Object type="0x46fa" id="The Hive Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Hive</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x2c2</Index>
+        </Texture>
+        <DisplayId>The Hive Portal</DisplayId>
+    </Object>
+    <Object type="0x47a9" id="Admins Arena Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Admins Arena</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x2e0</Index>
+        </Texture>
+        <DisplayId>Admins Arena</DisplayId>
+    </Object>
+    <Object type="0x47b3" id="Abandoned Basement Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Abandoned Basement</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x2ed</Index>
+        </Texture>
+        <DisplayId>Abandoned Basement Portal</DisplayId>
+    </Object>
+    <Object type="0x47fe" id="Galactic Plateau Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Galactic Plateau</DungeonName>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x291</Index>
+        </Texture>
+        <Animation prob="1" period="0.4">
+            <Frame time="0.2">
+                <Texture>
+                    <File>d3LofiObjEmbed</File>
+                    <Index>0x292</Index>
+                </Texture>
+            </Frame>
+        </Animation>
+        <DisplayId>Galactic Plateau Portal</DisplayId>
+    </Object>
+    <Object type="0x48a1" id="The Regolith Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Regolith</DungeonName>
+        <Texture>
+            <File>lofiObj6</File>
+            <Index>0x7a</Index>
+        </Texture>
+        <DisplayId>The Regolith Portal</DisplayId>
+    </Object>
+
+</Objects>

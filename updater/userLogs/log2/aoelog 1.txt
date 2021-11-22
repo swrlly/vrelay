@@ -1,0 +1,695 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 22180 name Yazanahar
+ShowEffect 1624784687.4233153 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1085.7244873046875 y: 1456.5203857421875
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784688.6250112 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1085.7244873046875 y: 1456.5203857421875
+x: 0.0 y: 0.0
+
+Aoe 1624784688.838051 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1085.7244873046875 y: 1456.5203857421875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784689.8247173 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1080.5556640625 y: 1452.594970703125
+x: 0.0 y: 0.0
+
+Aoe 1624784690.033222 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1085.7244873046875 y: 1456.5203857421875
+
+Aoe 1624784691.2384484 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1080.5556640625 y: 1452.594970703125
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784699.0260918 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1085.1151123046875 y: 1456.4161376953125
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784700.2226775 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.0657958984375 y: 1452.3822021484375
+x: 0.0 y: 0.0
+
+Aoe 1624784700.4370053 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1085.1151123046875 y: 1456.4161376953125
+
+Aoe 1624784701.6398556 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.0657958984375 y: 1452.3822021484375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784702.6309674 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1086.8328857421875 y: 1455.989990234375
+x: 0.0 y: 0.0
+
+Aoe 1624784704.0422175 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1086.8328857421875 y: 1455.989990234375
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Undead Lair
+ShowEffect had KeyError: 38173940
+
+Aoe 1624784789.5512617 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 128.8460235595703 y: 25.063613891601562
+
+ShowEffect had KeyError: 38173940
+
+ShowEffect had KeyError: 38173940
+
+Aoe 1624784791.9445674 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 126.38758850097656 y: 21.281536102294922
+
+MapChange: Realm
+enemy 22180 name Yazanahar
+ShowEffect 1624784888.764635 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.027099609375 y: 1453.4300537109375
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784889.9695477 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.027099609375 y: 1453.4300537109375
+x: 0.0 y: 0.0
+
+Aoe 1624784890.1660328 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.027099609375 y: 1453.4300537109375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784891.1627452 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.06884765625 y: 1456.50634765625
+x: 0.0 y: 0.0
+
+Aoe 1624784891.3662508 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.027099609375 y: 1453.4300537109375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784892.3658853 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.06884765625 y: 1456.50634765625
+x: 0.0 y: 0.0
+
+Aoe 1624784892.5662916 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.06884765625 y: 1456.50634765625
+
+Aoe 1624784893.7811968 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.06884765625 y: 1456.50634765625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784900.3766885 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1083.459716796875 y: 1458.6121826171875
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784901.5753112 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1083.459716796875 y: 1458.6121826171875
+x: 0.0 y: 0.0
+
+Aoe 1624784901.7777257 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1083.459716796875 y: 1458.6121826171875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784902.8144767 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.5 y: 1450.7933349609375
+x: 0.0 y: 0.0
+
+Aoe 1624784902.9770744 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1083.459716796875 y: 1458.6121826171875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624784903.9737673 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.5 y: 1450.7933349609375
+x: 0.0 y: 0.0
+
+Aoe 1624784904.1802163 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.5 y: 1450.7933349609375
+
+Aoe 1624784905.3787694 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.5 y: 1450.7933349609375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785003.623584 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.989990234375 y: 1450.323974609375
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785004.224332 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.5552978515625 y: 1450.1270751953125
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785004.8228993 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.59033203125 y: 1450.920654296875
+x: 0.0 y: 0.0
+
+Aoe 1624785005.0433125 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1082.989990234375 y: 1450.323974609375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785005.422583 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1080.508056640625 y: 1452.248291015625
+x: 0.0 y: 0.0
+
+Aoe 1624785005.6373484 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1082.5552978515625 y: 1450.1270751953125
+
+Death 1624785005.6393766 accountID 1207848 charID 6 killedBy Yazanahar
+enemy 22180 name Yazanahar
+ShowEffect 1624785006.0223632 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.4061279296875 y: 1455.1728515625
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 22180 name Yazanahar
+ShowEffect 1624785108.4889612 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.4306640625 y: 1450.4735107421875
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785109.687606 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.4306640625 y: 1450.4735107421875
+x: 0.0 y: 0.0
+
+Aoe 1624785109.9103432 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.4306640625 y: 1450.4735107421875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785110.8912144 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1089.5 y: 1460.1441650390625
+x: 0.0 y: 0.0
+
+Aoe 1624785111.0996406 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.4306640625 y: 1450.4735107421875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785112.0879586 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1089.5 y: 1460.1441650390625
+x: 0.0 y: 0.0
+
+Aoe 1624785112.3062787 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1089.5 y: 1460.1441650390625
+
+Aoe 1624785113.5010557 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1089.5 y: 1460.1441650390625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785120.0999014 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.5643310546875 y: 1453.6678466796875
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785121.295733 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.8095703125 y: 1452.7808837890625
+x: 0.0 y: 0.0
+
+Aoe 1624785121.509162 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.5643310546875 y: 1453.6678466796875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785122.5029101 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1086.921630859375 y: 1457.2003173828125
+x: 0.0 y: 0.0
+
+Aoe 1624785122.774944 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.8095703125 y: 1452.7808837890625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785123.6908937 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.7718505859375 y: 1457.0
+x: 0.0 y: 0.0
+
+Aoe 1624785123.9053533 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1086.921630859375 y: 1457.2003173828125
+
+Aoe 1624785125.1130683 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1084.7718505859375 y: 1457.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785224.1451926 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1085.666259765625 y: 1456.87890625
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785224.74592 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1083.52490234375 y: 1454.191650390625
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785225.347391 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1083.138427734375 y: 1454.2703857421875
+x: 0.0 y: 0.0
+
+Aoe 1624785225.5685906 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1085.666259765625 y: 1456.87890625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785225.940619 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.7742919921875 y: 1455.6612548828125
+x: 0.0 y: 0.0
+
+Aoe 1624785226.166991 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1083.52490234375 y: 1454.191650390625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785226.542352 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.1387939453125 y: 1455.95166015625
+x: 0.0 y: 0.0
+
+Aoe 1624785226.7721329 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1083.138427734375 y: 1454.2703857421875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785227.1512523 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1085.05810546875 y: 1455.32421875
+x: 0.0 y: 0.0
+
+Aoe 1624785227.3763404 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1084.7742919921875 y: 1455.6612548828125
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785227.7427337 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.702392578125 y: 1455.3023681640625
+x: 0.0 y: 0.0
+
+Aoe 1624785227.9654782 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1084.1387939453125 y: 1455.95166015625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785228.3423288 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1087.5 y: 1459.2918701171875
+x: 0.0 y: 0.0
+
+Aoe 1624785228.567284 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1085.05810546875 y: 1455.32421875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785228.9526815 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1087.49169921875 y: 1458.3873291015625
+x: 0.0 y: 0.0
+
+Aoe 1624785229.1707168 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1084.702392578125 y: 1455.3023681640625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785229.5539446 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.2606201171875 y: 1451.7880859375
+x: 0.0 y: 0.0
+
+Aoe 1624785229.7668993 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1087.5 y: 1459.2918701171875
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785230.1519756 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.2606201171875 y: 1451.7880859375
+x: 0.0 y: 0.0
+
+Aoe 1624785230.37369 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1087.49169921875 y: 1458.3873291015625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785230.7437453 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.0828857421875 y: 1458.92431640625
+x: 0.0 y: 0.0
+
+Aoe 1624785230.9603758 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1081.2606201171875 y: 1451.7880859375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785231.3429706 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.0936279296875 y: 1456.316162109375
+x: 0.0 y: 0.0
+
+Aoe 1624785231.560388 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1081.2606201171875 y: 1451.7880859375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785231.9513524 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1087.185791015625 y: 1458.3011474609375
+x: 0.0 y: 0.0
+
+Aoe 1624785232.1696932 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1084.0828857421875 y: 1458.92431640625
+
+Aoe 1624785232.7683978 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1082.0936279296875 y: 1456.316162109375
+
+Aoe 1624785233.3622303 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1087.185791015625 y: 1458.3011474609375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785326.5752838 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.989990234375 y: 1452.5
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785327.7694428 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.989990234375 y: 1452.5
+x: 0.0 y: 0.0
+
+Aoe 1624785328.0070167 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.989990234375 y: 1452.5
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785328.9679239 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.74658203125 y: 1454.6925048828125
+x: 0.0 y: 0.0
+
+Aoe 1624785329.1940663 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.989990234375 y: 1452.5
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785330.1699226 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.67822265625 y: 1450.989990234375
+x: 0.0 y: 0.0
+
+Aoe 1624785330.393318 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.74658203125 y: 1454.6925048828125
+
+Aoe 1624785331.587691 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1081.67822265625 y: 1450.989990234375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785338.1694744 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.2835693359375 y: 1456.460693359375
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785339.369723 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1084.4344482421875 y: 1455.7122802734375
+x: 0.0 y: 0.0
+
+Aoe 1624785339.5965374 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1084.2835693359375 y: 1456.460693359375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785340.5779588 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.989990234375 y: 1452.5
+x: 0.0 y: 0.0
+
+Aoe 1624785340.800782 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1084.4344482421875 y: 1455.7122802734375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785341.777924 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.989990234375 y: 1453.1456298828125
+x: 0.0 y: 0.0
+
+Aoe 1624785341.9915662 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.989990234375 y: 1452.5
+
+Aoe 1624785343.2026217 radius 1.0 damage 500 effect 0 duration 0.0 origType 22180
+x: 1082.989990234375 y: 1453.1456298828125
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785384.3937333 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.52099609375 y: 1452.5
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785384.9981506 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.52099609375 y: 1452.5
+x: 0.0 y: 0.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785385.5934746 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1082.52099609375 y: 1452.5
+x: 0.0 y: 0.0
+
+Aoe 1624785385.8188577 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1082.52099609375 y: 1452.5
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785386.1948526 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1086.5 y: 1451.989990234375
+x: 0.0 y: 0.0
+
+Aoe 1624785386.4153583 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1082.52099609375 y: 1452.5
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785386.7952244 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1086.0875244140625 y: 1449.924072265625
+x: 0.0 y: 0.0
+
+Aoe 1624785387.0526264 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1082.52099609375 y: 1452.5
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785387.4019904 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1086.89404296875 y: 1447.0
+x: 0.0 y: 0.0
+
+Aoe 1624785387.625718 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1086.5 y: 1451.989990234375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785388.00203 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1085.28564453125 y: 1447.15087890625
+x: 0.0 y: 0.0
+
+Aoe 1624785388.2152448 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1086.0875244140625 y: 1449.924072265625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785388.595224 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1080.0853271484375 y: 1456.005859375
+x: 0.0 y: 0.0
+
+Aoe 1624785388.817653 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1086.89404296875 y: 1447.0
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785389.1956408 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1080.9593505859375 y: 1455.49853515625
+x: 0.0 y: 0.0
+
+Aoe 1624785389.4174669 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1085.28564453125 y: 1447.15087890625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785389.7943566 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1081.7127685546875 y: 1455.06103515625
+x: 0.0 y: 0.0
+
+Aoe 1624785390.0167627 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1080.0853271484375 y: 1456.005859375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785390.402288 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1089.79052734375 y: 1448.1068115234375
+x: 0.0 y: 0.0
+
+Aoe 1624785390.627651 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1080.9593505859375 y: 1455.49853515625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785390.9945033 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1088.5 y: 1450.5364990234375
+x: 0.0 y: 0.0
+
+Aoe 1624785391.2258825 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1081.7127685546875 y: 1455.06103515625
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785391.5990925 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1089.5 y: 1452.8516845703125
+x: 0.0 y: 0.0
+
+Aoe 1624785391.8185575 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1089.79052734375 y: 1448.1068115234375
+
+enemy 22180 name Yazanahar
+ShowEffect 1624785392.1965272 effectType 4 targetObjectID 37612054 color -65536 duration 0.0
+x: 1089.5 y: 1452.989990234375
+x: 0.0 y: 0.0
+
+Aoe 1624785392.4189334 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1088.5 y: 1450.5364990234375
+
+Aoe 1624785393.0159261 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1089.5 y: 1452.8516845703125
+
+Aoe 1624785393.620956 radius 2.0 damage 400 effect 0 duration 0.0 origType 22180
+x: 1089.5 y: 1452.989990234375
+
+MapChange: {oryx.OryxAPOSs_Castle}
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624785997.1456983 effectType 4 targetObjectID 38908264 color -65536 duration 0.0
+x: 888.9970092773438 y: 1432.5938720703125
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624785997.150685 effectType 4 targetObjectID 38908264 color -16640 duration 0.0
+x: 884.642822265625 y: 1425.2447509765625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624785998.3461916 effectType 4 targetObjectID 38908264 color -65536 duration 0.0
+x: 890.8755493164062 y: 1429.299072265625
+x: 0.0 y: 0.0
+
+Aoe 1624785998.5629513 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 888.9970092773438 y: 1432.5938720703125
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624785999.5511837 effectType 4 targetObjectID 38908264 color -65536 duration 0.0
+x: 888.1300048828125 y: 1425.7679443359375
+x: 0.0 y: 0.0
+
+Aoe 1624785999.7711525 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 890.8755493164062 y: 1429.299072265625
+
+Aoe 1624786000.962802 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 888.1300048828125 y: 1425.7679443359375
+
+MapChange: Sincryer's Gate
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2113068 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 20.481773376464844 y: 9.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2113068 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 18.72441291809082 y: 13.742640495300293
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2123039 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.481772422790527 y: 15.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2123039 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 10.239131927490234 y: 13.742640495300293
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2123039 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 8.481772422790527 y: 9.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2133012 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 10.239131927490234 y: 5.257359504699707
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2133012 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.481772422790527 y: 3.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2133012 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 18.72441291809082 y: 5.257359504699707
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.214335 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 23.481773376464844 y: 9.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2152977 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.481772422790527 y: 18.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2152977 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 5.481772422790527 y: 9.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786078.2152977 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.481772422790527 y: 0.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.210257 effectType 4 targetObjectID 39011315 color -16640 duration 0.0
+x: 14.58586311340332 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.2112563 effectType 4 targetObjectID 39011314 color -16640 duration 0.0
+x: 14.58586311340332 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.2112563 effectType 4 targetObjectID 39011313 color -16640 duration 0.0
+x: 14.706036567687988 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.2112563 effectType 4 targetObjectID 39011311 color -16640 duration 0.0
+x: 22.055936813354492 y: 16.78653335571289
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.2112563 effectType 4 targetObjectID 39011312 color -16640 duration 0.0
+x: 14.706036567687988 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.2122526 effectType 4 targetObjectID 39011317 color -16640 duration 0.0
+x: 14.628949165344238 y: 19.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786082.2122526 effectType 4 targetObjectID 39011316 color -16640 duration 0.0
+x: 10.363032341003418 y: 20.504234313964844
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786083.0073583 effectType 4 targetObjectID 39011310 color -16640 duration 0.0
+x: 12.412752151489258 y: 14.854856491088867
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624786086.4126346 effectType 4 targetObjectID 39011310 color -16640 duration 0.0
+x: 7.994210243225098 y: 20.639875411987305
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786097.8138187 effectType 4 targetObjectID 38966597 color -65536 duration 0.0
+x: 22.42540740966797 y: 16.66935920715332
+x: 0.0 y: 0.0
+
+Aoe 1624786099.221736 radius 4.0 damage 300 effect 0 duration 0.0 origType 8952
+x: 22.42540740966797 y: 16.66935920715332
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786126.8248007 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.51827621459961 y: 9.989999771118164
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786128.030294 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.51827621459961 y: 9.989999771118164
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786129.2386956 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 11.054368019104004 y: 12.60148811340332
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786130.440587 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.826809883117676 y: 19.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624786131.6271987 effectType 4 targetObjectID 38966597 color -16640 duration 0.0
+x: 14.191067695617676 y: 19.75505256652832
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm

@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+    <Object type="0x0300" id="Rogue">
+        <Class>Player</Class>
+        <Description>{players.The_rogue_relies_on_his_speed_to_deal_damage_at_medium_ra}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>0</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>2, 13, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa18, 0xadb, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="680">110</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="55">10</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="75">15</Speed>
+        <Dexterity max="75">15</Dexterity>
+        <HpRegen max="40">15</HpRegen>
+        <MpRegen max="55">13</MpRegen>
+        <Might max="60">2</Might>
+        <Luck max="75">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="0" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">Might</LevelIncrease>
+        <LevelIncrease min="0" max="2">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="5" type="0x0307">Archer</UnlockLevel>
+        <UnlockCost>199</UnlockCost>
+        <DisplayId>Rogue</DisplayId>
+    </Object>
+    <Object type="0x0307" id="Archer">
+        <Class>Player</Class>
+        <Description>{players.The_archer_has_a_long-range_attack_and_can_acquire_very_p}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>1</Index>
+        </AnimatedTexture>
+        <HitSound>player/archer_hit</HitSound>
+        <DeathSound>player/archer_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>3, 15, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa3a, 0xade, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="680">130</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="75">12</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="50">12</Speed>
+        <Dexterity max="50">12</Dexterity>
+        <HpRegen max="40">12</HpRegen>
+        <MpRegen max="50">10</MpRegen>
+        <Might max="80">2</Might>
+        <Luck max="40">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="1">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="5" type="0x0310">Priest</UnlockLevel>
+        <UnlockCost>199</UnlockCost>
+        <DisplayId>Archer</DisplayId>
+    </Object>
+    <Object type="0x030e" id="Wizard">
+        <Class>Player</Class>
+        <Description>{players.The_wizard_deals_damage_from_a_long_distance_and_blasts_e}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>2</Index>
+        </AnimatedTexture>
+        <HitSound>player/wizard_hit</HitSound>
+        <DeathSound>player/wizard_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>17, 11, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa9e, 0xad5, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="630">80</MaxHitPoints>
+        <MaxMagicPoints max="385">100</MaxMagicPoints>
+        <Attack max="75">15</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="50">10</Speed>
+        <Dexterity max="75">20</Dexterity>
+        <HpRegen max="40">12</HpRegen>
+        <MpRegen max="60">12</MpRegen>
+        <Might max="30">2</Might>
+        <Luck max="20">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="5" max="15">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockCost>0</UnlockCost>
+        <DisplayId>Wizard</DisplayId>
+    </Object>
+    <Object type="0x0310" id="Priest">
+        <Class>Player</Class>
+        <Description>{players.The_priest_attacks_at_long_range_and_can_heal_himself_and}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>3</Index>
+        </AnimatedTexture>
+        <HitSound>player/priest_hit</HitSound>
+        <DeathSound>player/priest_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>8, 4, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xae0, 0xad8, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="630">80</MaxHitPoints>
+        <MaxMagicPoints max="385">100</MaxMagicPoints>
+        <Attack max="65">15</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="55">12</Speed>
+        <Dexterity max="60">13</Dexterity>
+        <HpRegen max="40">10</HpRegen>
+        <MpRegen max="75">15</MpRegen>
+        <Might max="40">2</Might>
+        <Luck max="70">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="60">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="5" max="15">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="0" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="5" type="0x030e">Wizard</UnlockLevel>
+        <UnlockCost>50</UnlockCost>
+        <DisplayId>Priest</DisplayId>
+    </Object>
+    <Object type="0x031d" id="Warrior">
+        <Class>Player</Class>
+        <Description>{players.The_warrior_wears_strong_armor_and_uses_his_magic_helmet_}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>4</Index>
+        </AnimatedTexture>
+        <HitSound>player/warrior_hit</HitSound>
+        <DeathSound>player/warrior_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>1, 16, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa02, 0x0a69, 0xadf, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="830">180</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="75">15</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="50">7</Speed>
+        <Dexterity max="50">10</Dexterity>
+        <HpRegen max="75">10</HpRegen>
+        <MpRegen max="50">10</MpRegen>
+        <Might max="50">2</Might>
+        <Luck max="10">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="1" max="2">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="0">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="5" type="0x0300">Rogue</UnlockLevel>
+        <UnlockCost>199</UnlockCost>
+        <DisplayId>Warrior</DisplayId>
+    </Object>
+    <Object type="0x031e" id="Knight">
+        <Class>Player</Class>
+        <Description>{players.The_knight_fights_at_close_range,_wears_very_heavy_armor,}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>5</Index>
+        </AnimatedTexture>
+        <HitSound>player/knight_hit</HitSound>
+        <DeathSound>player/knight_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>1, 5, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa02, 0xacf, 0xadf, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="950">210</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="50">15</Attack>
+        <Defense max="40">0</Defense>
+        <Speed max="50">7</Speed>
+        <Dexterity max="50">10</Dexterity>
+        <HpRegen max="75">10</HpRegen>
+        <MpRegen max="50">10</MpRegen>
+        <Might max="50">5</Might>
+        <Luck max="15">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="40">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="1" max="2">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="0">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x031d">Warrior</UnlockLevel>
+        <UnlockCost>499</UnlockCost>
+        <DisplayId>Knight</DisplayId>
+    </Object>
+    <Object type="0x031f" id="Paladin">
+        <Class>Player</Class>
+        <Description>{players.The_paladin_can_deal_damage_at_close_range,_wear_armor_an}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>6</Index>
+        </AnimatedTexture>
+        <HitSound>player/paladin_hit</HitSound>
+        <DeathSound>player/paladin_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>1, 12, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa02, 0xada, 0xadf, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="820">170</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="50">12</Attack>
+        <Defense max="30">0</Defense>
+        <Speed max="55">12</Speed>
+        <Dexterity max="45">10</Dexterity>
+        <HpRegen max="40">10</HpRegen>
+        <MpRegen max="75">10</MpRegen>
+        <Might max="30">2</Might>
+        <Luck max="10">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="50">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="0">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x031e">Knight</UnlockLevel>
+        <UnlockLevel level="20" type="0x0310">Priest</UnlockLevel>
+        <UnlockCost>499</UnlockCost>
+        <DisplayId>Paladin</DisplayId>
+    </Object>
+    <Object type="0x0320" id="Assassin">
+        <Class>Player</Class>
+        <Description>{players.The_assassin_fights_from_medium_range_and_uses_poison_to_}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>7</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>2, 18, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa18, 0xaa7, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="680">130</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="65">12</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="75">15</Speed>
+        <Dexterity max="75">15</Dexterity>
+        <HpRegen max="50">15</HpRegen>
+        <MpRegen max="75">10</MpRegen>
+        <Might max="80">2</Might>
+        <Luck max="80">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="0" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
+        <UnlockLevel level="20" type="0x030e">Wizard</UnlockLevel>
+        <UnlockCost>499</UnlockCost>
+        <DisplayId>Assassin</DisplayId>
+    </Object>
+    <Object type="0x0321" id="Necromancer">
+        <Class>Player</Class>
+        <Description>{players.The_necromancer_drains_life_from_his_enemies_to_heal_hims}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>8</Index>
+        </AnimatedTexture>
+        <HitSound>player/wizard_hit</HitSound>
+        <DeathSound>player/wizard_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>17, 19, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa9e, 0xaad, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="630">80</MaxHitPoints>
+        <MaxMagicPoints max="385">100</MaxMagicPoints>
+        <Attack max="65">12</Attack>
+        <Defense max="30">0</Defense>
+        <Speed max="50">10</Speed>
+        <Dexterity max="60">15</Dexterity>
+        <HpRegen max="65">10</HpRegen>
+        <MpRegen max="75">12</MpRegen>
+        <Might max="45">2</Might>
+        <Luck max="20">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="40">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="5" max="15">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x030e">Wizard</UnlockLevel>
+        <UnlockLevel level="20" type="0x0310">Priest</UnlockLevel>
+        <UnlockCost>499</UnlockCost>
+        <DisplayId>Necromancer</DisplayId>
+    </Object>
+    <Object type="0x0322" id="Huntress">
+        <Class>Player</Class>
+        <Description>{players.The_huntress_uses_arrows_and_traps_to_defeat_her_enemies.}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>9</Index>
+        </AnimatedTexture>
+        <HitSound>player/archer_hit</HitSound>
+        <DeathSound>player/archer_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>3, 20, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa3a, 0xab4, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="660">110</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="75">12</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="55">12</Speed>
+        <Dexterity max="50">12</Dexterity>
+        <HpRegen max="35">12</HpRegen>
+        <MpRegen max="50">10</MpRegen>
+        <Might max="70">2</Might>
+        <Luck max="50">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="1">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
+        <UnlockLevel level="20" type="0x0307">Archer</UnlockLevel>
+        <UnlockCost>499</UnlockCost>
+        <DisplayId>Huntress</DisplayId>
+    </Object>
+    <Object type="0x0323" id="Mystic">
+        <Class>Player</Class>
+        <Description>{players.The_mystic_fights_with_a_staff_and_uses_her_crystal_orb_t}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>10</Index>
+        </AnimatedTexture>
+        <HitSound>player/wizard_hit</HitSound>
+        <DeathSound>player/wizard_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>17, 21, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa9e, 0xa44, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="630">80</MaxHitPoints>
+        <MaxMagicPoints max="385">100</MaxMagicPoints>
+        <Attack max="60">10</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="60">12</Speed>
+        <Dexterity max="55">10</Dexterity>
+        <HpRegen max="40">15</HpRegen>
+        <MpRegen max="75">15</MpRegen>
+        <Might max="40">2</Might>
+        <Luck max="50">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="50">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="5" max="15">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0322">Huntress</UnlockLevel>
+        <UnlockLevel level="20" type="0x0321">Necromancer</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Mystic</DisplayId>
+    </Object>
+    <Object type="0x0324" id="Trickster">
+        <Class>Player</Class>
+        <Description>{players.The_trickster_fights_with_a_dagger_while_using_her_magica}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>11</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>2, 22, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa18, 0xb1e, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="680">130</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="85">5</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="80">12</Speed>
+        <Dexterity max="65">12</Dexterity>
+        <HpRegen max="50">12</HpRegen>
+        <MpRegen max="60">12</MpRegen>
+        <Might max="80">2</Might>
+        <Luck max="25">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="40">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="3">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0320">Assassin</UnlockLevel>
+        <UnlockLevel level="20" type="0x031f">Paladin</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Trickster</DisplayId>
+    </Object>
+    <Object type="0x0325" id="Sorcerer">
+        <Class>Player</Class>
+        <Description>{players.The_sorcerer_uses_his_scepter_to_fire_blasts_of_chain_lig}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>12</Index>
+        </AnimatedTexture>
+        <HitSound>player/priest_hit</HitSound>
+        <DeathSound>player/priest_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>8, 23, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xae0, 0xb30, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="670">100</MaxHitPoints>
+        <MaxMagicPoints max="425">100</MaxMagicPoints>
+        <Attack max="70">10</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="60">12</Speed>
+        <Dexterity max="65">12</Dexterity>
+        <HpRegen max="75">10</HpRegen>
+        <MpRegen max="80">15</MpRegen>
+        <Might max="50">2</Might>
+        <Luck max="45">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="5" max="15">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="0" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="1" max="2">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0321">Necromancer</UnlockLevel>
+        <UnlockLevel level="20" type="0x0320">Assassin</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Sorcerer</DisplayId>
+    </Object>
+    <Object type="0x0326" id="Ninja">
+        <Class>Player</Class>
+        <Description>{players.The_ninja_relies_on_speed_and_skill,_using_katanas_and_ni}</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>13</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>24, 25, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xc4b, 0xc57, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="680">130</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="80">15</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="65">10</Speed>
+        <Dexterity max="80">12</Dexterity>
+        <HpRegen max="35">10</HpRegen>
+        <MpRegen max="70">12</MpRegen>
+        <Might max="70">2</Might>
+        <Luck max="95">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
+        <UnlockLevel level="20" type="0x031d">Warrior</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Ninja</DisplayId>
+    </Object>
+    <Object type="0x0327" id="Samurai">
+        <Class>Player</Class>
+        <Description>The samurai uses his sheath to slice up foes at incredible speeds and finish off with a devastating blow.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>14</Index>
+        </AnimatedTexture>
+        <HitSound>player/samurai_hit</HitSound>
+        <DeathSound>player/samurai_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>24, 27, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xc4b, 0x185d, 0xadf, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="760">130</MaxHitPoints>
+        <MaxMagicPoints max="225">100</MaxMagicPoints>
+        <Attack max="75">15</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="55">10</Speed>
+        <Dexterity max="75">12</Dexterity>
+        <HpRegen max="70">10</HpRegen>
+        <MpRegen max="45">12</MpRegen>
+        <Might max="80">2</Might>
+        <Luck max="80">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0300">Necromancer</UnlockLevel>
+        <UnlockLevel level="20" type="0x031d">Ninja</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Samurai</DisplayId>
+    </Object>
+    <Object type="0x0328" id="Templar">
+        <Class>Player</Class>
+        <Description>The holy templar fights only for justice. He uses his banner to invigorate allies by it and strikes down his opponents with ease.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>15</Index>
+        </AnimatedTexture>
+        <HitSound>player/paladin_hit</HitSound>
+        <DeathSound>player/paladin_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>29, 28, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0x52b8, 0x51ad, 0xadf, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="880">180</MaxHitPoints>
+        <MaxMagicPoints max="125">72</MaxMagicPoints>
+        <Attack max="75">15</Attack>
+        <Defense max="20">0</Defense>
+        <Speed max="65">10</Speed>
+        <Dexterity max="45">12</Dexterity>
+        <HpRegen max="80">10</HpRegen>
+        <MpRegen max="30">4</MpRegen>
+        <Might max="40">2</Might>
+        <Luck max="40">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="60">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0310">Priest</UnlockLevel>
+        <UnlockLevel level="20" type="0x0327">Samurai</UnlockLevel>
+        <UnlockLevel level="20" type="0x031e">Knight</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Templar</DisplayId>
+    </Object>
+    <Object type="0x0329" id="Drakzix">
+        <Class>Player</Class>
+        <Description>Ancient species that live in the depths of the unspeakable who have turned on their lord, Oryx. They have the ability to hold infinite power and seek vengeance.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>16</Index>
+        </AnimatedTexture>
+        <HitSound>monster/abyss_demons_hit</HitSound>
+        <DeathSound>monster/demons_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>8, 30, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xae0, 0x52cd, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="600">110</MaxHitPoints>
+        <MaxMagicPoints max="900">200</MaxMagicPoints>
+        <Attack max="50">15</Attack>
+        <Defense max="20">0</Defense>
+        <Speed max="40">5</Speed>
+        <Dexterity max="55">12</Dexterity>
+        <HpRegen max="35">2</HpRegen>
+        <MpRegen max="80">2</MpRegen>
+        <Might max="50">2</Might>
+        <Luck max="30">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="8" max="12">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="5" max="10">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="1">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0325">Sorcerer</UnlockLevel>
+        <UnlockLevel level="20" type="0x0327">Templar</UnlockLevel>
+        <UnlockCost>999</UnlockCost>
+        <DisplayId>Drakzix</DisplayId>
+    </Object>
+    <Object type="0x582a" id="Shrine Maiden">
+        <Class>Player</Class>
+        <Description>The Shrine Maiden uses her mystical charms to weaken her enemys, and her katana to rend them to bits.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>18</Index>
+        </AnimatedTexture>
+        <HitSound>player/warrior_hit</HitSound>
+        <DeathSound>player/warrior_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>24, 32, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xc4b, 0x5813, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="650">110</MaxHitPoints>
+        <MaxMagicPoints max="410">100</MaxMagicPoints>
+        <Attack max="75">10</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="65">10</Speed>
+        <Dexterity max="75">12</Dexterity>
+        <HpRegen max="60">10</HpRegen>
+        <MpRegen max="75">15</MpRegen>
+        <Might max="60">2</Might>
+        <Luck max="85">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="75">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="1" max="2">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="1">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20">Priest</UnlockLevel>
+        <UnlockLevel level="20">Samurai</UnlockLevel>
+        <DisplayId>Shrine Maiden</DisplayId>
+    </Object>
+    <Object type="0x5826" id="Gambler">
+        <Class>Player</Class>
+        <Description>The Gambler fights with daggers, wears leather armor and uses his magical dice to give him a variety of powers.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>19</Index>
+        </AnimatedTexture>
+        <HitSound>player/wizard_hit</HitSound>
+        <DeathSound>player/wizard_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>2, 33, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa18, 0x583c, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="580">80</MaxHitPoints>
+        <MaxMagicPoints max="385">100</MaxMagicPoints>
+        <Attack max="70">10</Attack>
+        <Defense max="25">0</Defense>
+        <Speed max="55">10</Speed>
+        <Dexterity max="55">12</Dexterity>
+        <HpRegen max="40">10</HpRegen>
+        <MpRegen max="75">15</MpRegen>
+        <Might max="100">2</Might>
+        <Luck max="150">20</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="0" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="1" max="2">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">Might</LevelIncrease>
+        <LevelIncrease min="1" max="2">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20">Assassin</UnlockLevel>
+        <UnlockLevel level="20">Shrine Maiden</UnlockLevel>
+        <DisplayId>Gambler</DisplayId>
+    </Object>
+    <Object type="0x6140" id="Blademaster">
+        <Class>Player</Class>
+        <Description>The Blademaster brawls with dual blades and uses his jacket utilize the powers of both of his ancient blades.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>20</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>34, 35, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0x614f, 0x6144, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="720">150</MaxHitPoints>
+        <MaxMagicPoints max="252">100</MaxMagicPoints>
+        <Attack max="40">10</Attack>
+        <Defense max="15">0</Defense>
+        <Speed max="100">15</Speed>
+        <Dexterity max="95">15</Dexterity>
+        <HpRegen max="40">15</HpRegen>
+        <MpRegen max="50">10</MpRegen>
+        <Might max="80">2</Might>
+        <Luck max="80">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="25">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="0" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="3">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="3">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="1">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20">Gambler</UnlockLevel>
+        <UnlockLevel level="20">Templar</UnlockLevel>
+        <DisplayId>Blademaster</DisplayId>
+    </Object>
+    <Object type="0x55b9" id="Spirithunter">
+        <Class>Player</Class>
+        <Description>The Spirithunter uses dark Talismans in order to summon souls to fight along with him.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>21</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>3, 36, 14, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa3a, 0x670b, 0xa5f, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="660">100</MaxHitPoints>
+        <MaxMagicPoints max="280">120</MaxMagicPoints>
+        <Attack max="60">15</Attack>
+        <Defense max="18">0</Defense>
+        <Speed max="65">10</Speed>
+        <Dexterity max="60">12</Dexterity>
+        <HpRegen max="50">10</HpRegen>
+        <MpRegen max="75">12</MpRegen>
+        <Might max="50">2</Might>
+        <Luck max="50">2</Luck>
+        <Restoration max="60">10</Restoration>
+        <Protection max="75">4</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0325">Sorcerer</UnlockLevel>
+        <UnlockLevel level="20" type="0x0307">Archer</UnlockLevel>
+        <DisplayId>Spirithunter</DisplayId>
+    </Object>
+
+	<Object type="0x66c2" id="Pirate Class">
+        <Class>Player</Class>
+        <Description>The Pirate carries a mighty Anchor with them, which they sling around in battle.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>23</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>1, 38, 6, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0xa02, 0x36f3, 0xad2, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="660">100</MaxHitPoints>
+        <MaxMagicPoints max="190">100</MaxMagicPoints>
+        <Attack max="65">12</Attack>
+        <Defense max="15">0</Defense>
+        <Speed max="55">10</Speed>
+        <Dexterity max="60">12</Dexterity>
+        <HpRegen max="50">12</HpRegen>
+        <MpRegen max="45">16</MpRegen>
+        <Might max="45">3</Might>
+        <Luck max="25">2</Luck>
+        <Restoration max="65">15</Restoration>
+        <Protection max="50">5</Protection>
+        <LevelIncrease min="20" max="40">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="6">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="1" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="0">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="1">Protection</LevelIncrease>
+        <UnlockLevel level="20" type="0x0325">Warrior</UnlockLevel>
+        <UnlockLevel level="20" type="0x0307">Knight</UnlockLevel>
+		<UnlockLevel level="20" type="0x0307">Paladin</UnlockLevel>
+        <DisplayId>Pirate</DisplayId>
+    </Object>
+	  <Object type="0x66c3" id="Mechanic">
+        <Class>Player</Class>
+        <Description>The Mechanic is not the greatest Brawler but is a quite skiled in the art of Construction.</Description>
+        <AnimatedTexture>
+            <File>players</File>
+            <Index>17</Index>
+        </AnimatedTexture>
+        <HitSound>player/rogue_hit</HitSound>
+        <DeathSound>player/rogue_death</DeathSound>
+        <Player/>
+        <BloodProb>1.0</BloodProb>
+        <SlotTypes>29, 31, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+        <Equipment>0x52b8, 0x55c4, 0xadf, 0xabd, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+        <MaxHitPoints max="700">130</MaxHitPoints>
+        <MaxMagicPoints max="250">130</MaxMagicPoints>
+        <Attack max="65">12</Attack>
+        <Defense max="15">0</Defense>
+        <Speed max="70">15</Speed>
+        <Dexterity max="50">15</Dexterity>
+        <HpRegen max="45">10</HpRegen>
+        <MpRegen max="70">17</MpRegen>
+        <Might max="50">3</Might>
+        <Luck max="65">3</Luck>
+        <Restoration max="45">12</Restoration>
+        <Protection max="75">5</Protection>
+        <LevelIncrease min="20" max="30">MaxHitPoints</LevelIncrease>
+        <LevelIncrease min="2" max="8">MaxMagicPoints</LevelIncrease>
+        <LevelIncrease min="0" max="2">Attack</LevelIncrease>
+        <LevelIncrease min="0" max="0">Defense</LevelIncrease>
+        <LevelIncrease min="1" max="3">Speed</LevelIncrease>
+        <LevelIncrease min="1" max="3">Dexterity</LevelIncrease>
+        <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
+        <LevelIncrease min="0" max="1">Might</LevelIncrease>
+        <LevelIncrease min="0" max="1">Luck</LevelIncrease>
+        <LevelIncrease min="0" max="1">Restoration</LevelIncrease>
+        <LevelIncrease min="0" max="0">Protection</LevelIncrease>
+        <UnlockLevel level="20">Gambler</UnlockLevel>
+        <UnlockLevel level="20">Templar</UnlockLevel>
+        <DisplayId>Mechanic</DisplayId>
+    </Object>
+</Objects>

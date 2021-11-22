@@ -1,0 +1,324 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625178834.1170552 effectType 4 targetObjectID 28258135 color -65536 duration 0.0
+x: 942.609375 y: 953.3595581054688
+x: 0.0 y: 0.0
+
+Aoe 1625178835.5328276 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 942.609375 y: 953.3595581054688
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Superhuman Hideout
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179891.843282 effectType 4 targetObjectID 29601057 color -65536 duration 0.0
+x: 31.744409561157227 y: 9.527326583862305
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179892.4423847 effectType 4 targetObjectID 29601057 color -65536 duration 0.0
+x: 31.256399154663086 y: 7.411911964416504
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179892.8450756 effectType 4 targetObjectID 29601089 color -65536 duration 0.0
+x: 36.37913513183594 y: 17.858047485351562
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179893.0465024 effectType 4 targetObjectID 29601083 color -65536 duration 0.0
+x: 35.4841194152832 y: 9.932882308959961
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179893.0465024 effectType 4 targetObjectID 29601057 color -65536 duration 0.0
+x: 35.4841194152832 y: 9.932882308959961
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179893.0465024 effectType 4 targetObjectID 29601089 color -65536 duration 0.0
+x: 36.316593170166016 y: 20.02994728088379
+x: 0.0 y: 0.0
+
+Aoe 1625179893.2658172 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 31.744409561157227 y: 9.527326583862305
+
+Aoe 1625179893.8575306 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 31.256399154663086 y: 7.411911964416504
+
+Aoe 1625179894.2689605 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 36.37913513183594 y: 17.858047485351562
+
+Aoe 1625179894.4595182 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 36.316593170166016 y: 20.02994728088379
+
+Aoe 1625179894.4595182 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 35.4841194152832 y: 9.932882308959961
+
+Aoe 1625179894.4595182 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 35.4841194152832 y: 9.932882308959961
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179896.0491226 effectType 4 targetObjectID 29601119 color -65536 duration 0.0
+x: 36.086849212646484 y: 36.37350845336914
+x: 0.0 y: 0.0
+
+Aoe 1625179896.0610886 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 39.596961975097656 y: 32.576045989990234
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179896.8429666 effectType 4 targetObjectID 29601083 color -65536 duration 0.0
+x: 31.434221267700195 y: 21.434200286865234
+x: 0.0 y: 0.0
+
+Aoe 1625179896.8569741 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 36.344024658203125 y: 30.96902084350586
+
+Aoe 1625179897.0715961 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 36.25202560424805 y: 32.90240478515625
+
+Aoe 1625179897.464687 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 36.086849212646484 y: 36.37350845336914
+
+ShowEffect had KeyError: 29601182
+
+Aoe 1625179898.2562218 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 31.434221267700195 y: 21.434200286865234
+
+Aoe 1625179899.0656447 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 31.309703826904297 y: 48.907142639160156
+
+Aoe 1625179899.6697483 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 30.221782684326172 y: 53.957054138183594
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179901.657985 effectType 4 targetObjectID 29601182 color -65536 duration 0.0
+x: 37.394466400146484 y: 52.73454284667969
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179901.658983 effectType 4 targetObjectID 29601241 color -65536 duration 0.0
+x: 37.394466400146484 y: 52.73454284667969
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179901.658983 effectType 4 targetObjectID 29601195 color -65536 duration 0.0
+x: 37.394466400146484 y: 52.73454284667969
+x: 0.0 y: 0.0
+
+Aoe 1625179903.0915766 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 6.774270057678223 y: 63.86762619018555
+
+Aoe 1625179903.0915766 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 37.394466400146484 y: 52.73454284667969
+
+Aoe 1625179903.0915766 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 37.394466400146484 y: 52.73454284667969
+
+Aoe 1625179903.0915766 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 37.394466400146484 y: 52.73454284667969
+
+Aoe 1625179904.4687612 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 13.430540084838867 y: 73.61160278320312
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179905.8614538 effectType 4 targetObjectID 29601274 color -65536 duration 0.0
+x: 16.699663162231445 y: 60.88899230957031
+x: 0.0 y: 0.0
+
+Aoe 1625179907.272854 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 16.699663162231445 y: 60.88899230957031
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179907.6638927 effectType 4 targetObjectID 29601272 color -65536 duration 0.0
+x: 19.03795623779297 y: 70.8128433227539
+x: 0.0 y: 0.0
+
+Aoe 1625179909.0724287 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 19.03795623779297 y: 70.8128433227539
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179912.6631377 effectType 4 targetObjectID 29601389 color -65536 duration 0.0
+x: 55.04432678222656 y: 67.39590454101562
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179912.6631377 effectType 4 targetObjectID 29601386 color -65536 duration 0.0
+x: 49.44268798828125 y: 67.806640625
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179914.108656 effectType 4 targetObjectID 29601386 color -65536 duration 0.0
+x: 52.41685104370117 y: 64.66529083251953
+x: 0.0 y: 0.0
+
+Aoe 1625179914.1186285 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.44268798828125 y: 67.806640625
+
+Aoe 1625179914.1186285 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 55.04432678222656 y: 67.39590454101562
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179914.6612313 effectType 4 targetObjectID 29601389 color -65536 duration 0.0
+x: 61.0545539855957 y: 74.44993591308594
+x: 0.0 y: 0.0
+
+Aoe 1625179915.5181177 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 52.41685104370117 y: 64.66529083251953
+
+ShowEffect had KeyError: 29601232
+
+Aoe 1625179916.0659106 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 61.0545539855957 y: 74.44993591308594
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179918.661517 effectType 4 targetObjectID 29601389 color -65536 duration 0.0
+x: 52.6663932800293 y: 65.87446594238281
+x: 0.0 y: 0.0
+
+Aoe 1625179920.0787525 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 52.6663932800293 y: 65.87446594238281
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625179921.6674619 effectType 4 targetObjectID 29601417 color -65536 duration 0.0
+x: 48.96116638183594 y: 82.19562530517578
+x: 0.0 y: 0.0
+
+Aoe 1625179923.0888643 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 48.96116638183594 y: 82.19562530517578
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: The Catacombs
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 20997 name Tridorno
+ShowEffect 1625180305.6078794 effectType 4 targetObjectID 29847316 color -65536 duration 0.0
+x: 153.7201385498047 y: 206.6723175048828
+x: 0.0 y: 0.0
+
+Aoe 1625180307.065388 radius 4.0 damage 175 effect 0 duration 0.0 origType 20997
+x: 153.7201385498047 y: 206.6723175048828
+
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+MapChange: Galactic Plateau
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: The Regolith
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Concealment of the Dreadnought
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625181292.6710045 effectType 4 targetObjectID 31084451 color -65536 duration 0.0
+x: 190.47071838378906 y: 150.92791748046875
+x: 0.0 y: 0.0
+
+Aoe 1625181294.0832484 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 190.47071838378906 y: 150.92791748046875
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625181295.874573 effectType 4 targetObjectID 31084451 color -65536 duration 0.0
+x: 194.91311645507812 y: 150.92791748046875
+x: 0.0 y: 0.0
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625181295.874573 effectType 4 targetObjectID 31084408 color -65536 duration 0.0
+x: 194.91311645507812 y: 150.92791748046875
+x: 0.0 y: 0.0
+
+Aoe 1625181297.27579 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 194.91311645507812 y: 150.92791748046875
+
+Aoe 1625181297.27579 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 194.91311645507812 y: 150.92791748046875
+
+Connection was reset
+MapChange: Nexus

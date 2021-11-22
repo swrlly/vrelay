@@ -1,0 +1,100 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635487769.7556753 effectType 4 targetObjectID 18790654 color -65536 duration 1.5
+x: 944.2826538085938 y: 894.35498046875
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635487769.7586308 effectType 4 targetObjectID 18790654 color -16640 duration 0.0
+x: 942.3141479492188 y: 894.24560546875
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635487770.9572802 effectType 4 targetObjectID 18790654 color -65536 duration 1.5
+x: 944.1416015625 y: 894.6541748046875
+x: 0.0 y: 0.0
+
+Aoe 1635487771.1759388 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 944.2826538085938 y: 894.35498046875
+
+Aoe 1635487772.3773808 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 944.1416015625 y: 894.6541748046875
+
+MapChange: Concealment of the Dreadnought
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Forbidden Jungle
+MapChange: Realm
+MapChange: Puppet Master's Theatre
+objectID: 19183368 slotID: 1 itemData: 
+x: 95.5 y: 115.5
+time 0 useType 1
+
+x: 35 y: 67
+objectID 19183368 tickID 0 time 0
+records:
+
+objectID: 19183368 slotID: 1 itemData: 
+x: 35 y: 67
+time 0 useType 1
+
+MapChange: Realm
+enemy 1605 name Ogre King
+ShowEffect 1635488469.8340867 effectType 4 targetObjectID 19119749 color -65536 duration 1.5
+x: 1050.4658203125 y: 835.9207763671875
+x: 0.0 y: 0.0
+
+Aoe 1635488471.2518482 radius 3.0 damage 60 effect 0 duration 0.0 origType 1605
+x: 1050.4658203125 y: 835.9207763671875
+
+MapChange: The Catacombs
+x: 276 y: 172
+objectID 19222111 tickID 0 time 0
+records:
+
+objectID: 19222111 slotID: 1 itemData: 
+x: 276 y: 172
+time 0 useType 1
+
+x: 376 y: 125
+objectID 19222111 tickID 0 time 0
+records:
+
+objectID: 19222111 slotID: 1 itemData: 
+x: 376 y: 125
+time 0 useType 1
+
+x: 317 y: 51
+objectID 19222111 tickID 0 time 0
+records:
+
+objectID: 19222111 slotID: 1 itemData: 
+x: 317 y: 51
+time 0 useType 1
+
+x: 155 y: 219
+objectID 19222111 tickID 0 time 0
+records:
+
+objectID: 19222111 slotID: 1 itemData: 
+x: 155 y: 219
+time 0 useType 1
+
+x: 53 y: 58
+objectID 19222111 tickID 0 time 0
+records:
+
+objectID: 19222111 slotID: 1 itemData: 
+x: 53 y: 58
+time 0 useType 1
+
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus

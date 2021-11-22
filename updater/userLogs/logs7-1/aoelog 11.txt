@@ -1,0 +1,492 @@
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+ShowEffect had KeyError: 28945350
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625179298.166074 effectType 4 targetObjectID 28941459 color -16640 duration 0.0
+x: 23.209354400634766 y: 18.59331512451172
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625179316.7540178 effectType 4 targetObjectID 28941459 color -16640 duration 0.0
+x: 26.165748596191406 y: 23.00551986694336
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 29003371
+
+Aoe 1625179328.254773 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 45.33148193359375 y: 20.989999771118164
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625179347.3443713 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 46.51246643066406 y: 45.87759017944336
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625179353.7697353 effectType 4 targetObjectID 29003400 color -65536 duration 0.0
+x: 45.12586975097656 y: 55.259674072265625
+x: 0.0 y: 0.0
+
+Aoe 1625179353.8235905 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 51.24761199951172 y: 58.58946990966797
+
+Aoe 1625179355.2369144 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 45.12586975097656 y: 55.259674072265625
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625179356.3696458 effectType 4 targetObjectID 29003406 color -65536 duration 0.0
+x: 45.58622360229492 y: 63.14764404296875
+x: 0.0 y: 0.0
+
+Aoe 1625179357.8412237 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 45.58622360229492 y: 63.14764404296875
+
+MapChange: Twisted Domain
+ShowEffect had KeyError: 24848
+
+Aoe 1625179430.9482284 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 28.64520835876465 y: 24.453449249267578
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625179460.3045063 effectType 4 targetObjectID 29102118 color -65536 duration 0.0
+x: 20.585437774658203 y: 33.493892669677734
+x: 0.0 y: 0.0
+
+Aoe 1625179461.7464526 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.585437774658203 y: 33.493892669677734
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: The Steps 2
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179508.5332055 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 17.134185791015625 y: 26.93563461303711
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179509.7335382 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 19.534027099609375 y: 28.063474655151367
+x: 0.0 y: 0.0
+
+Aoe 1625179509.968908 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 17.134185791015625 y: 26.93563461303711
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179510.92486 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 19.534027099609375 y: 28.063474655151367
+x: 0.0 y: 0.0
+
+Aoe 1625179511.1761878 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.534027099609375 y: 28.063474655151367
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179512.1395252 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 19.279626846313477 y: 28.063474655151367
+x: 0.0 y: 0.0
+
+Aoe 1625179512.3788846 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.534027099609375 y: 28.063474655151367
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179513.3459506 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 19.279626846313477 y: 28.063474655151367
+x: 0.0 y: 0.0
+
+Aoe 1625179513.5902123 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.279626846313477 y: 28.063474655151367
+
+Aoe 1625179514.7863848 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.279626846313477 y: 28.063474655151367
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179515.3419006 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 19.279626846313477 y: 28.063474655151367
+x: 0.0 y: 0.0
+
+Aoe 1625179516.7819953 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.279626846313477 y: 28.063474655151367
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179517.9468803 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 14.046967506408691 y: 27.86086654663086
+x: 0.0 y: 0.0
+
+Aoe 1625179519.3967445 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 14.046967506408691 y: 27.86086654663086
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625179524.9729006 effectType 4 targetObjectID 29167667 color 65535 duration 0.0
+x: 15.731237411499023 y: 19.70472526550293
+x: 0.0 y: 0.0
+
+Aoe 1625179526.4175706 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.731237411499023 y: 19.70472526550293
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 25765 name The Horrific
+ShowEffect 1625185021.1769514 effectType 4 targetObjectID 35220327 color 0 duration 0.0
+x: 837.7215576171875 y: 881.0038452148438
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+Aoe 1625185022.594878 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 837.7215576171875 y: 881.0038452148438
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 25765 name The Horrific
+ShowEffect 1625185023.3767636 effectType 4 targetObjectID 35220327 color 0 duration 0.0
+x: 837.7438354492188 y: 879.4710693359375
+x: 0.0 y: 0.0
+
+Aoe 1625185024.7998707 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 837.7438354492188 y: 879.4710693359375
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 25765 name The Horrific
+ShowEffect 1625185025.5759654 effectType 4 targetObjectID 35220327 color 0 duration 0.0
+x: 837.7438354492188 y: 879.4710693359375
+x: 0.0 y: 0.0
+
+Aoe 1625185026.995113 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 837.7438354492188 y: 879.4710693359375
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625186565.0960836 effectType 4 targetObjectID 36571334 color -65536 duration 0.0
+x: 846.6783447265625 y: 1006.2647094726562
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625186566.489666 effectType 4 targetObjectID 36571332 color -65536 duration 0.0
+x: 840.21044921875 y: 994.557861328125
+x: 0.0 y: 0.0
+
+Aoe 1625186566.5136023 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 846.6783447265625 y: 1006.2647094726562
+
+Aoe 1625186567.909513 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 840.21044921875 y: 994.557861328125
+
+enemy 1620 name Medusa
+ShowEffect 1625186569.09308 effectType 4 targetObjectID 36571397 color -65536 duration 0.0
+x: 828.8975830078125 y: 972.3985595703125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625186569.09308 effectType 4 targetObjectID 36571399 color -65536 duration 0.0
+x: 828.8975830078125 y: 972.3985595703125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625186569.09308 effectType 4 targetObjectID 36571398 color -65536 duration 0.0
+x: 828.8975830078125 y: 972.3985595703125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625186570.4957972 effectType 4 targetObjectID 36574961 color -65536 duration 0.0
+x: 824.414794921875 y: 960.0089111328125
+x: 0.0 y: 0.0
+
+Aoe 1625186570.5107572 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 828.8975830078125 y: 972.3985595703125
+
+Aoe 1625186570.5107572 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 828.8975830078125 y: 972.3985595703125
+
+Aoe 1625186570.5107572 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 828.8975830078125 y: 972.3985595703125
+
+Aoe 1625186571.9219913 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 824.414794921875 y: 960.0089111328125
+
+enemy 1620 name Medusa
+ShowEffect 1625186592.7084923 effectType 4 targetObjectID 36570762 color -65536 duration 0.0
+x: 943.074462890625 y: 1036.0244140625
+x: 0.0 y: 0.0
+
+Aoe 1625186594.1218014 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 943.074462890625 y: 1036.0244140625
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 2344 name Ghost King
+ShowEffect 1625187162.334468 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 538.7256469726562 y: 974.6602172851562
+x: 0.0 y: 0.0
+
+enemy 2344 name Ghost King
+ShowEffect 1625187162.335465 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 536.7256469726562 y: 978.1243286132812
+x: 0.0 y: 0.0
+
+enemy 2344 name Ghost King
+ShowEffect 1625187162.335465 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 532.7256469726562 y: 978.1243286132812
+x: 0.0 y: 0.0
+
+enemy 2344 name Ghost King
+ShowEffect 1625187162.335465 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 530.7256469726562 y: 974.6602172851562
+x: 0.0 y: 0.0
+
+enemy 2344 name Ghost King
+ShowEffect 1625187162.3364623 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 532.7256469726562 y: 971.1961059570312
+x: 0.0 y: 0.0
+
+enemy 2344 name Ghost King
+ShowEffect 1625187162.3364623 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 536.7256469726562 y: 971.1961059570312
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 29517 name shtrs Defense System
+ShowEffect 1625187166.1357794 effectType 4 targetObjectID 37208373 color -16640 duration 0.0
+x: 560.5 y: 970.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 2344 name Ghost King
+ShowEffect 1625187192.5615833 effectType 4 targetObjectID 36543584 color -16640 duration 0.0
+x: 538.7256469726562 y: 974.6602172851562
+x: 0.0 y: 0.0
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187231.2963862 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187231.2963862 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187231.2963862 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187231.2963862 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187239.1197307 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 19.035533905029297 y: 18.99553680419922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187239.1207135 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 11.964466094970703 y: 18.99553680419922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187239.1207135 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 11.964466094970703 y: 11.924468994140625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187239.1207135 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 19.035533905029297 y: 11.924468994140625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187242.1277099 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 15.5 y: 10.960002899169922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625187242.1277099 effectType 4 targetObjectID 37360915 color -16640 duration 0.0
+x: 15.5 y: 19.960002899169922
+x: 0.0 y: 0.0
+
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Ancient Depths
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625187305.3287773 effectType 4 targetObjectID 37401067 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625187313.5222538 effectType 4 targetObjectID 37401067 color 65280 duration 0.0
+x: 13.902947425842285 y: 20.059741973876953
+x: 0.0 y: 0.0
+
+Aoe 1625187314.9513888 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 13.902947425842285 y: 20.059741973876953
+
+enemy 22047 name Zanarich
+ShowEffect 1625187318.328234 effectType 4 targetObjectID 37414126 color -65536 duration 0.0
+x: 13.75556468963623 y: 15.54161548614502
+x: 0.0 y: 0.0
+
+Aoe 1625187319.7620003 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 13.75556468963623 y: 15.54161548614502
+
+MapChange: Realm
+Aoe 1625187365.9965699 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1240.0689697265625 y: 891.376220703125
+
+enemy 1620 name Medusa
+ShowEffect 1625187367.3769202 effectType 4 targetObjectID 37337927 color -65536 duration 0.0
+x: 1230.420166015625 y: 889.3104858398438
+x: 0.0 y: 0.0
+
+Aoe 1625187368.7969747 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1230.420166015625 y: 889.3104858398438
+
+MapChange: Realm
+Aoe 1625187401.412854 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 1104.2012939453125 y: 742.6526489257812
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625187402.1962645 effectType 4 targetObjectID 37460287 color -65536 duration 0.0
+x: 1107.5791015625 y: 745.1187133789062
+x: 0.0 y: 0.0
+
+Aoe 1625187403.6131182 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 1107.5791015625 y: 745.1187133789062
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625187404.40101 effectType 4 targetObjectID 37460287 color -65536 duration 0.0
+x: 1109.326171875 y: 739.9138793945312
+x: 0.0 y: 0.0
+
+Aoe 1625187405.818816 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 1109.326171875 y: 739.9138793945312
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625187406.597733 effectType 4 targetObjectID 37460287 color -65536 duration 0.0
+x: 1107.5791015625 y: 745.1187133789062
+x: 0.0 y: 0.0
+
+Aoe 1625187408.0213401 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 1107.5791015625 y: 745.1187133789062
+
+MapChange: Galactic Plateau
+MapChange: The Regolith
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+enemy 3522 name Great Coil Snake
+ShowEffect 1625187656.0334463 effectType 4 targetObjectID 36544993 color -16640 duration 0.0
+x: 533.599853515625 y: 1327.2001953125
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625187656.633841 effectType 4 targetObjectID 36544993 color -16640 duration 0.0
+x: 529.599853515625 y: 1332.000244140625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625187661.2353423 effectType 4 targetObjectID 36544993 color -16640 duration 0.0
+x: 535.0529174804688 y: 1327.641357421875
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625187661.831751 effectType 4 targetObjectID 36544993 color -16640 duration 0.0
+x: 530.6528930664062 y: 1332.0413818359375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625187666.4339614 effectType 4 

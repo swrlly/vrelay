@@ -1,0 +1,12 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 22217 name Stone Gargoyle
+ShowEffect 1635028155.7988982 effectType 4 targetObjectID 2368990 color -65536 duration 1.5
+x: 1033.998046875 y: 1680.868408203125
+x: 0.0 y: 0.0
+
+Aoe 1635028157.4981818 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 1033.998046875 y: 1680.868408203125
+
+Restarting proxy...
+Connection was reset

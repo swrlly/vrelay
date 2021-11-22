@@ -1,0 +1,528 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Concealment of the Dreadnought
+objectID: 34210329 slotID: 1 itemData: 
+x: 101.04727172851562 y: 190.013427734375
+time 0 useType 1
+
+x: 190 y: 150
+objectID 34210329 tickID 0 time 0
+records:
+
+objectID: 34210329 slotID: 1 itemData: 
+x: 190 y: 150
+time 0 useType 1
+
+x: 11 y: 124
+objectID 34210329 tickID 0 time 0
+records:
+
+objectID: 34210329 slotID: 1 itemData: 
+x: 11 y: 124
+time 0 useType 1
+
+x: 100 y: 138
+objectID 34210329 tickID 0 time 0
+records:
+
+objectID: 34210329 slotID: 1 itemData: 
+x: 100 y: 138
+time 0 useType 1
+
+x: 65 y: 68
+objectID 34210329 tickID 0 time 0
+records:
+
+objectID: 34210329 slotID: 1 itemData: 
+x: 65 y: 68
+time 0 useType 1
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1635127636.7010794 effectType 4 targetObjectID 34209325 color -65536 duration 1.5
+x: 56.9981689453125 y: 58.90071105957031
+x: 0.0 y: 0.0
+
+internal HP is now 791
+x: 266 y: 38
+objectID 34210329 tickID 0 time 0
+records:
+
+objectID: 34210329 slotID: 1 itemData: 
+x: 266 y: 38
+time 0 useType 1
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1635127641.306769 effectType 4 targetObjectID 34209321 color -65536 duration 1.5
+x: 275.4842529296875 y: 32.77621841430664
+x: 0.0 y: 0.0
+
+internal HP is now 791
+Aoe 1635127642.7100194 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 275.4842529296875 y: 32.77621841430664
+
+x: 296 y: 151
+objectID 34210329 tickID 0 time 0
+records:
+
+objectID: 34210329 slotID: 1 itemData: 
+x: 296 y: 151
+time 0 useType 1
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 22217 name Stone Gargoyle
+ShowEffect 1635127996.2077963 effectType 4 targetObjectID 34672845 color -65536 duration 1.5
+x: 593.1409912109375 y: 1305.3511962890625
+x: 0.0 y: 0.0
+
+Aoe 1635127997.6110637 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 593.1409912109375 y: 1305.3511962890625
+
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Fallen Grotto
+enemy 8689 name Large Titan
+ShowEffect 1635128800.028984 effectType 4 targetObjectID 35474578 color -65536 duration 1.5
+x: 133.3468780517578 y: 129.18511962890625
+x: 0.0 y: 0.0
+
+enemy 8689 name Large Titan
+ShowEffect 1635128800.8368251 effectType 4 targetObjectID 35474578 color -65536 duration 1.5
+x: 132.84161376953125 y: 129.3355255126953
+x: 0.0 y: 0.0
+
+internal HP is now 1363
+Aoe 1635128801.561928 radius 5.0 damage 100 effect 0 duration 0.0 origType 8689
+x: 133.3468780517578 y: 129.18511962890625
+
+internal HP is now 1404
+Aoe 1635128802.270037 radius 5.0 damage 125 effect 0 duration 0.0 origType 8689
+x: 132.84161376953125 y: 129.3355255126953
+
+MapChange: Fallen Cave
+MapChange: Fallen Lava Crawl
+enemy 14053 name Ascended Fire Wizard
+ShowEffect 1635129016.9427335 effectType 4 targetObjectID 35634634 color -65536 duration 1.5
+x: 10.035533905029297 y: 94.03553771972656
+x: 0.0 y: 0.0
+
+enemy 14053 name Ascended Fire Wizard
+ShowEffect 1635129016.947722 effectType 4 targetObjectID 35634634 color -65536 duration 1.5
+x: 2.964466094970703 y: 94.03553771972656
+x: 0.0 y: 0.0
+
+enemy 14053 name Ascended Fire Wizard
+ShowEffect 1635129016.948763 effectType 4 targetObjectID 35634634 color -65536 duration 1.5
+x: 2.964466094970703 y: 86.96446228027344
+x: 0.0 y: 0.0
+
+enemy 14053 name Ascended Fire Wizard
+ShowEffect 1635129016.9497516 effectType 4 targetObjectID 35634634 color -65536 duration 1.5
+x: 10.035533905029297 y: 86.96446228027344
+x: 0.0 y: 0.0
+
+internal HP is now 1225
+internal HP is now 1176
+Aoe 1635129018.3709538 radius 4.0 damage 100 effect 0 duration 0.0 origType 14053
+x: 10.035533905029297 y: 86.96446228027344
+
+Aoe 1635129018.3709538 radius 4.0 damage 100 effect 0 duration 0.0 origType 14053
+x: 2.964466094970703 y: 86.96446228027344
+
+Aoe 1635129018.376936 radius 4.0 damage 100 effect 0 duration 0.0 origType 14053
+x: 2.964466094970703 y: 94.03553771972656
+
+Aoe 1635129018.376936 radius 4.0 damage 100 effect 0 duration 0.0 origType 14053
+x: 10.035533905029297 y: 94.03553771972656
+
+MapChange: Titan's Rest
+MapChange: Fallen Warp
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.6230822 effectType 4 targetObjectID 35808435 color -16640 duration 0.0
+x: 22.97332000732422 y: 14.319463729858398
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.6271143 effectType 4 targetObjectID 35808435 color -16640 duration 0.0
+x: 17.527278900146484 y: 12.33726692199707
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.6271143 effectType 4 targetObjectID 35808435 color -16640 duration 0.0
+x: 19.248008728027344 y: 9.879810333251953
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8275685 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 23.344289779663086 y: 15.42716121673584
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8405027 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 23.344289779663086 y: 15.42716121673584
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8424947 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 17.687437057495117 y: 15.42716121673584
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8424947 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 17.687437057495117 y: 15.42716121673584
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8434942 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 17.687437057495117 y: 9.770306587219238
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8445427 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 17.687437057495117 y: 9.770306587219238
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8454907 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 23.344289779663086 y: 9.770306587219238
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129104.8454907 effectType 4 targetObjectID 35808435 color 255 duration 1.5
+x: 23.344289779663086 y: 9.770306587219238
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129106.2118342 effectType 4 targetObjectID 35808435 color -16640 duration 0.0
+x: 20.5158634185791 y: 15.598733901977539
+x: 0.0 y: 0.0
+
+enemy 14309 name Merganus, The Fallen Titan
+ShowEffect 1635129106.2128956 effectType 4 targetObjectID 35808435 color -16640 duration 0.0
+x: 17.5158634185791 y: 12.598733901977539
+x: 0.0 y: 0.0
+
+Aoe 1635129106.2766628 radius 2.5 damage 0 effect 0 duration 0.0 origType 14309
+x: 23.344289779663086 y: 9.770306587219238
+
+Aoe 1635129106.2766628 radius 2.5 damage 125 effect 0 duration 0.0 origType 14309
+x: 23.344289779663086 y: 9.770306587219238
+
+Aoe 1635129106.2776666 radius 2.5 damage 0 effect 0 duration 0.0 origType 14309
+x: 17.687437057495117 y: 9.770306587219238
+
+Aoe 1635129106.2776666 radius 2.5 damage 125 effect 0 duration 0.0 origType 14309
+x: 17.687437057495117 y: 9.770306587219238
+
+Aoe 1635129106.2776666 radius 2.5 damage 0 effect 0 duration 0.0 origType 14309
+x: 17.687437057495117 y: 15.42716121673584
+
+Aoe 1635129106.2776666 radius 2.5 damage 125 effect 0 duration 0.0 origType 14309
+x: 17.687437057495117 y: 15.42716121673584
+
+Aoe 1635129106.2776666 radius 2.5 damage 0 effect 0 duration 0.0 origType 14309
+x: 23.344289779663086 y: 15.42716121673584
+
+Aoe 1635129106.2786598 radius 2.5 damage 125 effect 0 duration 0.0 origType 14309
+x: 23.344289779663086 y: 15.42716121673584
+
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Vault
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Gileon's Return
+Connection was reset
+MapChange: Nexus
+MapChange: Gileon's Return
+enemy 29975 name Zegaell
+ShowEffect 1635129785.6229582 effectType 4 targetObjectID 36403473 color -16640 duration 0.0
+x: 154.43553161621094 y: 74.23554992675781
+x: 0.0 y: 0.0
+
+enemy 29975 name Zegaell
+ShowEffect 1635129785.6229582 effectType 4 targetObjectID 36403473 color -16640 duration 0.0
+x: 150.89999389648438 y: 75.70001220703125
+x: 0.0 y: 0.0
+
+enemy 29975 name Zegaell
+ShowEffect 1635129785.6229582 effectType 4 targetObjectID 36403473 color -16640 duration 0.0
+x: 145.89999389648438 y: 70.70001220703125
+x: 0.0 y: 0.0
+
+enemy 29975 name Zegaell
+ShowEffect 1635129785.6229582 effectType 4 targetObjectID 36403473 color -16640 duration 0.0
+x: 147.3644561767578 y: 67.16447448730469
+x: 0.0 y: 0.0
+
+enemy 29975 name Zegaell
+ShowEffect 1635129785.6229582 effectType 4 targetObjectID 36403473 color -16640 duration 0.0
+x: 150.89999389648438 y: 65.70001220703125
+x: 0.0 y: 0.0
+
+enemy 29975 name Zegaell
+ShowEffect 1635129785.6239512 effectType 4 targetObjectID 36403473 color -16640 duration 0.0
+x: 155.89999389648438 y: 70.70001220703125
+x: 0.0 y: 0.0
+
+MapChange: Gileon's Courtyard
+MapChange: The Obituary Arena
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1635130080.787104 effectType 4 targetObjectID 36651118 color -65536 duration 1.5
+x: 1106.4884033203125 y: 947.54248046875
+x: 0.0 y: 0.0
+
+Aoe 1635130082.1843355 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1106.4884033203125 y: 947.54248046875
+
+enemy 1620 name Medusa
+ShowEffect 1635130083.9815757 effectType 4 targetObjectID 36651117 color -65536 duration 1.5
+x: 1094.4560546875 y: 940.9987182617188
+x: 0.0 y: 0.0
+
+Aoe 1635130088.6999214 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1086.1998291015625 y: 932.1845092773438
+
+enemy 1620 name Medusa
+ShowEffect 1635130090.888069 effectType 4 targetObjectID 36650224 color -65536 duration 1.5
+x: 1080.263671875 y: 938.3400268554688
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1635130091.1134667 effectType 4 targetObjectID 36650223 color -65536 duration 1.5
+x: 1078.3179931640625 y: 938.872314453125
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130233.4207613 effectType 4 targetObjectID 36852459 color -65536 duration 1.5
+x: 1626.5 y: 1439.5
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130233.4217424 effectType 4 targetObjectID 36852459 color -16640 duration 0.0
+x: 1625.822265625 y: 1443.543701171875
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130234.6693778 effectType 4 targetObjectID 36852459 color -65536 duration 1.5
+x: 1626.5 y: 1439.5
+x: 0.0 y: 0.0
+
+Aoe 1635130234.839966 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1626.5 y: 1439.5
+
+Aoe 1635130236.044746 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1626.5 y: 1439.5
+
+enemy 2391 name Urgle
+ShowEffect 1635130246.7308486 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 986.7059936523438 y: 829.2589111328125
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130246.7318463 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 982.4910888671875 y: 836.1533203125
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130246.7318463 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 985.5966796875 y: 841.9384155273438
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130247.940615 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 984.3683471679688 y: 831.8939819335938
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130247.940615 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 986.8858642578125 y: 825.9698486328125
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130247.940615 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 993.6223754882812 y: 824.7820434570312
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130247.940615 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 998.0142211914062 y: 829.4878540039062
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130249.0316992 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 983.607666015625 y: 826.3519287109375
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1635130249.0316992 effectType 4 targetObjectID 36649862 color -16640 duration 0.0
+x: 987.1432495117188 y: 829.8875122070312
+x: 0.0 y: 0.0
+
+MapChange: Realm
+ShowEffect had KeyError: 36621735
+
+AutoNexus: haven't seen the enemy yet.
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130295.4626937 effectType 4 targetObjectID 36981511 color -65536 duration 1.5
+x: 768.8670654296875 y: 704.6564331054688
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130295.463692 effectType 4 targetObjectID 36981511 color -16640 duration 0.0
+x: 778.6130981445312 y: 703.6333618164062
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130296.575725 effectType 4 targetObjectID 36981511 color -65536 duration 1.5
+x: 772.7816162109375 y: 705.96337890625
+x: 0.0 y: 0.0
+
+Aoe 1635130296.815081 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 768.8670654296875 y: 704.6564331054688
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130297.7984934 effectType 4 targetObjectID 36981511 color -65536 duration 1.5
+x: 771.0491333007812 y: 707.4108276367188
+x: 0.0 y: 0.0
+
+Aoe 1635130298.0178642 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 772.7816162109375 y: 705.96337890625
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1635130298.9783545 effectType 4 targetObjectID 36981511 color -65536 duration 1.5
+x: 776.1209716796875 y: 706.4673461914062
+x: 0.0 y: 0.0
+
+Aoe 1635130299.2186549 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 771.0491333007812 y: 707.4108276367188
+
+Aoe 1635130300.4095044 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 776.1209716796875 y: 706.4673461914062
+
+Aoe 1635130317.7144299 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 778.1054077148438 y: 1181.425537109375
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1635130389.3136337 effectType 4 targetObjectID 37088211 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1635130399.5343404 effectType 4 targetObjectID 37114174 color -65536 duration 1.5
+x: 10.921152114868164 y: 20.769065856933594
+x: 0.0 y: 0.0
+
+Aoe 1635130400.944548 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 10.921152114868164 y: 20.769065856933594
+
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1635130535.0107281 effectType 4 targetObjectID 37192577 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1635130542.4228618 effectType 4 targetObjectID 37192577 color 65280 duration 1.5
+x: 15.59769344329834 y: 20.569700241088867
+x: 0.0 y: 0.0
+
+internal HP is now 653
+Aoe 1635130543.8161407 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.59769344329834 y: 20.569700241088867
+
+enemy 22047 name Zanarich
+ShowEffect 1635130545.184448 effectType 4 targetObjectID 37208808 color -65536 duration 1.5
+x: 11.140362739562988 y: 19.459280014038086
+x: 0.0 y: 0.0
+
+internal HP is now 611
+Aoe 1635130546.6306086 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 11.140362739562988 y: 19.459280014038086
+
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+enemy 1605 name Ogre King
+ShowEffect 1635130685.5591276 effectType 4 targetObjectID 36650038 color -65536 duration 1.5
+x: 1426.4793701171875 y: 958.9383544921875
+x: 0.0 y: 0.0
+
+Aoe 1635130687.0500982 radius 3.0 damage 60 effect 0 duration 0.0 origType 1605
+x: 1426.4793701171875 y: 958.9383544921875
+
+MapChange: The Catacombs
+x: 276 y: 172
+objectID 37322808 tickID 0 time 0
+records:
+
+objectID: 37322808 slotID: 1 itemData: 
+x: 276 y: 172
+time 0 useType 1
+
+x: 376 y: 125
+objectID 37322808 tickID 0 time 0
+records:
+
+objectID: 37322808 slotID: 1 itemData: 
+x: 376 y: 125
+time 0 useType 1
+
+x: 317 y: 51
+objectID 37322808 tickID 0 time 0
+records:
+
+objectID: 37322808 slotID: 1 itemData: 
+x: 317 y: 51
+time 0 useType 1
+
+MapChange: Nexus
+MapChange: Chamber of Malgor
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+Closed GUI. Shutting down proxy.

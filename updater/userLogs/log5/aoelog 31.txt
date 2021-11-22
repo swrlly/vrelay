@@ -1,0 +1,955 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625364657.4847434 effectType 4 targetObjectID 17685880 color -65536 duration 0.0
+x: 940.5772094726562 y: 933.756103515625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625364657.4856963 effectType 4 targetObjectID 17685881 color -65536 duration 0.0
+x: 940.5772094726562 y: 933.756103515625
+x: 0.0 y: 0.0
+
+Aoe 1625364658.9060502 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 940.5772094726562 y: 933.756103515625
+
+Aoe 1625364658.9060502 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 940.5772094726562 y: 933.756103515625
+
+enemy 1620 name Medusa
+ShowEffect 1625364674.097139 effectType 4 targetObjectID 17474090 color -65536 duration 0.0
+x: 717.0245971679688 y: 1055.238525390625
+x: 0.0 y: 0.0
+
+Aoe 1625364678.5240045 radius 2.4000000953674316 damage 55 effect 0 duration 0.0 origType 1605
+x: 618.115478515625 y: 863.4802856445312
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364688.3266869 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 591.1998291015625 y: 858.8001708984375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364688.9258676 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 586.3997802734375 y: 862.0001220703125
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364689.5265822 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 582.7998046875 y: 858.400146484375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364690.1395702 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 585.999755859375 y: 853.60009765625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364693.548999 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 589.8244018554688 y: 857.900390625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364694.13185 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 586.2244262695312 y: 861.5003662109375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364694.7372193 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 583.0244750976562 y: 857.5003662109375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625364695.3288965 effectType 4 targetObjectID 16938984 color -16640 duration 0.0
+x: 587.4244995117188 y: 853.900390625
+x: 0.0 y: 0.0
+
+MapChange: The Catacombs
+x: 276 y: 172
+objectID 17951106 tickID 0 time 0
+records:
+
+objectID: 17951106 slotID: 1 itemData: 
+x: 276 y: 172
+time 0 useType 1
+
+x: 376 y: 125
+objectID 17951106 tickID 0 time 0
+records:
+
+objectID: 17951106 slotID: 1 itemData: 
+x: 376 y: 125
+time 0 useType 1
+
+x: 376 y: 125
+objectID 17951106 tickID 0 time 0
+records:
+
+objectID: 17951106 slotID: 1 itemData: 
+x: 376 y: 125
+time 0 useType 1
+
+x: 376 y: 125
+objectID 17951106 tickID 0 time 0
+records:
+
+objectID: 17951106 slotID: 1 itemData: 
+x: 376 y: 125
+time 0 useType 1
+
+x: 155 y: 219
+objectID 17951106 tickID 0 time 0
+records:
+
+objectID: 17951106 slotID: 1 itemData: 
+x: 155 y: 219
+time 0 useType 1
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Vault
+MapChange: Lab
+enemy 2422 name Dr Terrible
+ShowEffect 1625365034.1987298 effectType 4 targetObjectID 18305021 color -16640 duration 0.0
+x: 177.5 y: 35.5
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625365036.3937306 effectType 4 targetObjectID 18305021 color -16640 duration 0.0
+x: 175.1418914794922 y: 35.0367546081543
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625365038.5875804 effectType 4 targetObjectID 18305021 color -16640 duration 0.0
+x: 174.26573181152344 y: 35.1729736328125
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625365040.7964907 effectType 4 targetObjectID 18305021 color -16640 duration 0.0
+x: 172.73057556152344 y: 34.97275161743164
+x: 0.0 y: 0.0
+
+MapChange: Ascended Lab
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625365060.8277452 effectType 4 targetObjectID 18336385 color -16640 duration 0.0
+x: 12.6174898147583 y: 12.91733169555664
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625365061.031172 effectType 4 targetObjectID 18336385 color -65536 duration 0.0
+x: 13.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625365061.031172 effectType 4 targetObjectID 18336385 color -65536 duration 0.0
+x: 9.5 y: 12.5
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625365061.031172 effectType 4 targetObjectID 18336385 color -65536 duration 0.0
+x: 13.5 y: 8.5
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625365061.031172 effectType 4 targetObjectID 18336385 color -65536 duration 0.0
+x: 17.5 y: 12.5
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625365061.031172 effectType 4 targetObjectID 18336385 color -16640 duration 0.0
+x: 12.6174898147583 y: 12.91733169555664
+x: 0.0 y: 0.0
+
+Aoe 1625365062.4235876 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 17.5 y: 12.5
+
+Aoe 1625365062.4235876 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 13.5 y: 8.5
+
+Aoe 1625365062.4245656 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 9.5 y: 12.5
+
+Aoe 1625365062.4245656 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 13.5 y: 16.5
+
+MapChange: Realm
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2307484 effectType 4 targetObjectID 18316250 color -65536 duration 0.0
+x: 874.611572265625 y: 1026.578857421875
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2367766 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 875.5 y: 1027.5
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 874.3284301757812 y: 1030.328369140625
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 871.5 y: 1031.5
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 868.6715698242188 y: 1030.328369140625
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 867.5 y: 1027.5
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 868.6715698242188 y: 1024.671630859375
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 871.5 y: 1023.5
+x: 0.0 y: 0.0
+
+enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1625365073.2377408 effectType 4 targetObjectID 18316250 color -16640 duration 0.0
+x: 874.3284301757812 y: 1024.671630859375
+x: 0.0 y: 0.0
+
+Aoe 1625365074.6622617 radius 5.0 damage 160 effect 0 duration 0.0 origType 22226
+x: 874.611572265625 y: 1026.578857421875
+
+enemy 1620 name Medusa
+ShowEffect 1625365127.2847815 effectType 4 targetObjectID 18339954 color -65536 duration 0.0
+x: 1035.3905029296875 y: 958.1033325195312
+x: 0.0 y: 0.0
+
+Aoe 1625365128.7031384 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1035.3905029296875 y: 958.1033325195312
+
+MapChange: The Dojo
+MapChange: Ascended Dojo
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365158.5332375 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 11.74070930480957 y: 18.23340606689453
+x: 0.0 y: 0.0
+
+Aoe 1625365159.9284053 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 11.74070930480957 y: 18.23340606689453
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365161.8412833 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 6.017127513885498 y: 13.883562088012695
+x: 0.0 y: 0.0
+
+Aoe 1625365163.1443508 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 6.017127513885498 y: 13.883562088012695
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365164.9462702 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 8.380025863647461 y: 18.45852279663086
+x: 0.0 y: 0.0
+
+Aoe 1625365166.347826 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 8.380025863647461 y: 18.45852279663086
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365168.1393754 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 9.470048904418945 y: 10.097562789916992
+x: 0.0 y: 0.0
+
+Aoe 1625365169.543389 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 9.470048904418945 y: 10.097562789916992
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365171.3349128 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 6.1230854988098145 y: 18.683897018432617
+x: 0.0 y: 0.0
+
+Aoe 1625365172.7485108 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 6.1230854988098145 y: 18.683897018432617
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365174.5330932 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 7.14396333694458 y: 16.05231285095215
+x: 0.0 y: 0.0
+
+Aoe 1625365175.9332895 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 7.14396333694458 y: 16.05231285095215
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365177.732026 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 12.822514533996582 y: 12.626090049743652
+x: 0.0 y: 0.0
+
+Aoe 1625365179.1306956 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 12.822514533996582 y: 12.626090049743652
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365180.944008 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 12.196296691894531 y: 18.44911003112793
+x: 0.0 y: 0.0
+
+Aoe 1625365182.3375645 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 12.196296691894531 y: 18.44911003112793
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365184.1715481 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 17.886266708374023 y: 7.801728248596191
+x: 0.0 y: 0.0
+
+Aoe 1625365185.5712287 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 17.886266708374023 y: 7.801728248596191
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365187.363708 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 10.404458045959473 y: 14.028402328491211
+x: 0.0 y: 0.0
+
+Aoe 1625365188.7651434 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 10.404458045959473 y: 14.028402328491211
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365190.5753148 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 11.516536712646484 y: 15.779870986938477
+x: 0.0 y: 0.0
+
+Aoe 1625365191.9667969 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 11.516536712646484 y: 15.779870986938477
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365193.7881844 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 11.53870677947998 y: 12.603812217712402
+x: 0.0 y: 0.0
+
+Aoe 1625365195.1845813 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 11.53870677947998 y: 12.603812217712402
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365196.9705691 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 9.650163650512695 y: 14.74992847442627
+x: 0.0 y: 0.0
+
+Aoe 1625365198.3712292 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 9.650163650512695 y: 14.74992847442627
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365200.1903713 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 11.345052719116211 y: 9.07530689239502
+x: 0.0 y: 0.0
+
+Aoe 1625365201.60429 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 11.345052719116211 y: 9.07530689239502
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365203.4081316 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 10.622781753540039 y: 20.722291946411133
+x: 0.0 y: 0.0
+
+Aoe 1625365204.8070629 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 10.622781753540039 y: 20.722291946411133
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365206.6069918 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 18.128482818603516 y: 9.68871021270752
+x: 0.0 y: 0.0
+
+Aoe 1625365208.008001 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 18.128482818603516 y: 9.68871021270752
+
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1625365209.8115208 effectType 4 targetObjectID 18425568 color -65536 duration 0.0
+x: 5.2195868492126465 y: 15.059246063232422
+x: 0.0 y: 0.0
+
+Aoe 1625365211.224872 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 5.2195868492126465 y: 15.059246063232422
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Ultra Aldragine's Hideout
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365327.2726097 effectType 4 targetObjectID 18559921 color -65536 duration 0.0
+x: 62.94451141357422 y: 61.75645065307617
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365327.2735658 effectType 4 targetObjectID 18559898 color -65536 duration 0.0
+x: 62.94451141357422 y: 61.75645065307617
+x: 0.0 y: 0.0
+
+Aoe 1625365328.6804938 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 62.94451141357422 y: 61.75645065307617
+
+Aoe 1625365328.6814904 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 62.94451141357422 y: 61.75645065307617
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365330.8726163 effectType 4 targetObjectID 18559941 color -65536 duration 0.0
+x: 65.49492645263672 y: 61.02843475341797
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365330.8726163 effectType 4 targetObjectID 18559921 color -65536 duration 0.0
+x: 65.49492645263672 y: 61.02843475341797
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365330.887581 effectType 4 targetObjectID 18559898 color -65536 duration 0.0
+x: 65.49492645263672 y: 61.02843475341797
+x: 0.0 y: 0.0
+
+Aoe 1625365332.2758157 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 65.49492645263672 y: 61.02843475341797
+
+Aoe 1625365332.2758157 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 65.49492645263672 y: 61.02843475341797
+
+Aoe 1625365332.2758157 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 65.49492645263672 y: 61.02843475341797
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365367.442062 effectType 4 targetObjectID 18559897 color -65536 duration 0.0
+x: 60.2208137512207 y: 63.50391387939453
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365367.442062 effectType 4 targetObjectID 18559920 color -65536 duration 0.0
+x: 60.2208137512207 y: 63.50391387939453
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365367.4430592 effectType 4 targetObjectID 18559890 color -65536 duration 0.0
+x: 60.2208137512207 y: 63.50391387939453
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365368.663164 effectType 4 targetObjectID 18559897 color -65536 duration 0.0
+x: 60.2208137512207 y: 63.375274658203125
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365368.663164 effectType 4 targetObjectID 18559920 color -65536 duration 0.0
+x: 60.2208137512207 y: 63.375274658203125
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625365368.663164 effectType 4 targetObjectID 18559890 color -65536 duration 0.0
+x: 60.2208137512207 y: 63.375274658203125
+x: 0.0 y: 0.0
+
+Aoe 1625365368.8586998 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 60.2208137512207 y: 63.50391387939453
+
+Aoe 1625365368.8586998 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 60.2208137512207 y: 63.50391387939453
+
+Aoe 1625365368.8586998 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 60.2208137512207 y: 63.50391387939453
+
+Death 1625365368.8646514 accountID 1207848 charID 12 killedBy AH Feral of the Zol
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+MapChange: Twisted Trials
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625365888.500016 effectType 4 targetObjectID 19087210 color -65536 duration 0.0
+x: 34.28824996948242 y: 22.943986892700195
+x: 0.0 y: 0.0
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625365888.500016 effectType 4 targetObjectID 19087221 color -65536 duration 0.0
+x: 34.28824996948242 y: 22.943986892700195
+x: 0.0 y: 0.0
+
+Aoe 1625365889.9045253 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.28824996948242 y: 22.943986892700195
+
+Aoe 1625365889.9045253 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.28824996948242 y: 22.943986892700195
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.7068188 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 50.82004165649414 y: 50.88701248168945
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.7068188 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 49.06268310546875 y: 55.12965393066406
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.7187967 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 44.82004165649414 y: 56.88701248168945
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.719794 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 40.57740020751953 y: 55.12965393066406
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.719794 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 38.82004165649414 y: 50.88701248168945
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.719794 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 40.57740020751953 y: 46.644371032714844
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.7207503 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 44.82004165649414 y: 44.88701248168945
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365897.7207503 effectType 4 targetObjectID 19087244 color -16640 duration 0.0
+x: 49.06268310546875 y: 46.644371032714844
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365901.9083617 effectType 4 targetObjectID 19087244 color -65536 duration 0.0
+x: 48.5 y: 45.228145599365234
+x: 0.0 y: 0.0
+
+Aoe 1625365903.3316684 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 48.5 y: 45.228145599365234
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625365906.1132946 effectType 4 targetObjectID 19087244 color -65536 duration 0.0
+x: 43.5 y: 41.467037200927734
+x: 0.0 y: 0.0
+
+Aoe 1625365907.5265758 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 43.5 y: 41.467037200927734
+
+MapChange: Twisted Domain
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625366033.5824568 effectType 4 targetObjectID 19155682 color -65536 duration 0.0
+x: 25.951828002929688 y: 24.215309143066406
+x: 0.0 y: 0.0
+
+Aoe 1625366035.0090725 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 25.951828002929688 y: 24.215309143066406
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1625366037.7772713 effectType 4 targetObjectID 19155682 color -65536 duration 0.0
+x: 25.50646209716797 y: 24.591854095458984
+x: 0.0 y: 0.0
+
+Aoe 1625366039.1962929 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 25.50646209716797 y: 24.591854095458984
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366054.588058 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 18.932188034057617 y: 29.067018508911133
+x: 0.0 y: 0.0
+
+Aoe 1625366056.0098176 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 18.932188034057617 y: 29.067018508911133
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366059.3896854 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 21.786781311035156 y: 28.29987144470215
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366060.5925143 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 22.04391098022461 y: 27.464265823364258
+x: 0.0 y: 0.0
+
+Aoe 1625366060.8078961 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 21.786781311035156 y: 28.29987144470215
+
+Aoe 1625366062.0126624 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 22.04391098022461 y: 27.464265823364258
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366064.1918852 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 21.930421829223633 y: 27.000524520874023
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366065.392991 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 21.930421829223633 y: 27.000524520874023
+x: 0.0 y: 0.0
+
+Aoe 1625366065.612183 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 21.930421829223633 y: 27.000524520874023
+
+Aoe 1625366066.8036227 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 21.930421829223633 y: 27.000524520874023
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366094.4095445 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 20.66245460510254 y: 29.891265869140625
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366095.6120684 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 20.339202880859375 y: 28.35662078857422
+x: 0.0 y: 0.0
+
+Aoe 1625366095.8275537 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.66245460510254 y: 29.891265869140625
+
+Aoe 1625366097.0691633 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.339202880859375 y: 28.35662078857422
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366099.2165256 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 16.271320343017578 y: 27.56873893737793
+x: 0.0 y: 0.0
+
+Aoe 1625366100.6272066 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 16.271320343017578 y: 27.56873893737793
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366104.0308008 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 20.572525024414062 y: 27.781232833862305
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625366105.2171328 effectType 4 targetObjectID 19155687 color -65536 duration 0.0
+x: 19.472524642944336 y: 28.181232452392578
+x: 0.0 y: 0.0
+
+Aoe 1625366105.4255664 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.572525024414062 y: 27.781232833862305
+
+Aoe 1625366106.6291814 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 19.472524642944336 y: 28.181232452392578
+
+MapChange: The Steps 2
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366148.8772595 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 23.775325775146484 y: 7.162680149078369
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366150.0946057 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 22.032608032226562 y: 7.241100788116455
+x: 0.0 y: 0.0
+
+Aoe 1625366150.3043573 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 23.775325775146484 y: 7.162680149078369
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366151.327712 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 21.589689254760742 y: 7.041635990142822
+x: 0.0 y: 0.0
+
+Aoe 1625366151.5790455 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 22.032608032226562 y: 7.241100788116455
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366152.5693877 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 21.589689254760742 y: 7.041635990142822
+x: 0.0 y: 0.0
+
+Aoe 1625366152.7917936 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.589689254760742 y: 7.041635990142822
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366153.7821803 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 21.125064849853516 y: 6.1169023513793945
+x: 0.0 y: 0.0
+
+Aoe 1625366154.0953774 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.589689254760742 y: 7.041635990142822
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366155.000921 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 19.198328018188477 y: 7.71244478225708
+x: 0.0 y: 0.0
+
+Aoe 1625366155.19939 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.125064849853516 y: 6.1169023513793945
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366156.1875007 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 21.544363021850586 y: 5.916954517364502
+x: 0.0 y: 0.0
+
+Aoe 1625366156.39898 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.198328018188477 y: 7.71244478225708
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366157.3789582 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 21.544363021850586 y: 5.916954517364502
+x: 0.0 y: 0.0
+
+Aoe 1625366157.5973415 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.544363021850586 y: 5.916954517364502
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366158.5778537 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 21.544363021850586 y: 5.916954517364502
+x: 0.0 y: 0.0
+
+Aoe 1625366158.7901924 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.544363021850586 y: 5.916954517364502
+
+Aoe 1625366160.0071285 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.544363021850586 y: 5.916954517364502
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366165.399426 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 14.938281059265137 y: 20.787832260131836
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625366166.011278 effectType 4 targetObjectID 19206061 color 65535 duration 0.0
+x: 14.284357070922852 y: 22.379098892211914
+x: 0.0 y: 0.0
+
+Aoe 1625366166.8258023 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 14.938281059265137 y: 20.787832260131836
+
+Aoe 1625366167.4252148 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 14.284357070922852 y: 22.379098892211914
+
+MapChange: Summoning Point
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3285036 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3295004 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3295004 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3295004 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3295004 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3304977 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3304977 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.3314953 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.5296443 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 48.400001525878906 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.5296443 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 47.22842788696289 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.5306785 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 44.400001525878906 y: 44.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.5306785 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.57157516479492 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.5306785 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 40.400001525878906 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.531679 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.57157516479492 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.531679 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 44.400001525878906 y: 36.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366222.5326757 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 47.22842788696289 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366241.5393043 effectType 4 targetObjectID 19231750 color -65536 duration 0.0
+x: 44.15333938598633 y: 43.464786529541016
+x: 0.0 y: 0.0
+
+Aoe 1625366242.9579856 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 44.15333938598633 y: 43.464786529541016
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366257.9330502 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366257.9330502 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 19273792
+
+ShowEffect had KeyError: 19273791
+
+Aoe 1625366260.9507904 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 46.24284744262695 y: 45.55039596557617
+
+Aoe 1625366260.9507904 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 41.54212951660156 y: 45.425506591796875
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625366261.7317128 effectType 4 targetObjectID 19273792 color 16776960 duration 0.0
+x: 46.53738784790039 y: 45.460750579833984
+x: 0.0 y: 0.0
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625366261.7317128 effectType 4 targetObjectID 19273791 color 16776960 duration 0.0
+x: 41.71589279174805 y: 45.30482864379883
+x: 0.0 y: 0.0
+
+Aoe 1625366263.1656828 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 41.71589279174805 y: 45.30482864379883
+
+Aoe 1625366263.1656828 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 46.53738784790039 y: 45.460750579833984
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625366263.9268758 effectType 4 targetObjectID 19273791 color 16776960 duration 0.0
+x: 45.29471969604492 y: 46.04673767089844
+x: 0.0 y: 0.0
+
+Aoe 1625366265.352581 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 45.29471969604492 y: 46.04673767089844
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625366266.1404412 effectType 4 targetObjectID 19273791 color 16776960 duration 0.0
+x: 42.87733840942383 y: 43.781394958496094
+x: 0.0 y: 0.0
+
+Aoe 1625366267.5643296 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 42.87733840942383 y: 43.781394958496094
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.33843 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.33843 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.3393838 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.3393838 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.3404217 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.3404217 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.4451494 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.4451494 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.4451494 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.4461305 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 39.05025100708008 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.4461305 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 39.05025100708008 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366272.4461305 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 48.94974899291992 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366276.5417333 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 49.052364349365234 y: 46.947120666503906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366276.5417333 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 39.15286636352539 y: 46.947120666503906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366276.5426877 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 39.15286636352539 y: 37.04762268066406
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625366276.641423 effectType 4 targetObjectID 19231750 color -16640 duration 0.0
+x: 49.052364349365234 y: 37.04762268066406
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Concealment of the Dreadnought
+MapChange: Realm
+Closed GUI. Shutting down proxy.

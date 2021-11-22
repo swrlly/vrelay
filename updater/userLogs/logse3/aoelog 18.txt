@@ -1,0 +1,1832 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+enemy 21678 name The Illusionist
+ShowEffect 1625651923.2561166 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 199.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651923.5391169 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 191.5 y: 117.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651923.5401168 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 183.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651923.5411167 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 191.5 y: 101.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651928.4601166 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 192.8642120361328 y: 111.37025451660156
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651928.4611168 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 192.8642120361328 y: 111.37025451660156
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651968.0771167 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 190.35714721679688 y: 107.8567123413086
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651976.6811166 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 197.779052734375 y: 110.70718383789062
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651980.6901166 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 197.71641540527344 y: 108.40730285644531
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625651980.6911168 effectType 4 targetObjectID 27996281 color -16640 duration 0.0
+x: 197.71641540527344 y: 108.40730285644531
+x: 0.0 y: 0.0
+
+MapChange: Marketplace
+MapChange: Vault
+MapChange: Marketplace
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625652322.4831169 effectType 4 targetObjectID 27517229 color -65536 duration 0.0
+x: 957.8074340820312 y: 1300.769287109375
+x: 0.0 y: 0.0
+
+Aoe 1625652323.8921168 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 957.8074340820312 y: 1300.769287109375
+
+enemy 1620 name Medusa
+ShowEffect 1625652328.0851166 effectType 4 targetObjectID 27076301 color -65536 duration 0.0
+x: 959.2716674804688 y: 1319.2880859375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625652328.8891168 effectType 4 targetObjectID 27517229 color -65536 duration 0.0
+x: 954.6260986328125 y: 1313.1025390625
+x: 0.0 y: 0.0
+
+Aoe 1625652329.499117 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 959.2716674804688 y: 1319.2880859375
+
+Aoe 1625652330.2931166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 954.6260986328125 y: 1313.1025390625
+
+enemy 1620 name Medusa
+ShowEffect 1625652332.1081166 effectType 4 targetObjectID 27517229 color -65536 duration 0.0
+x: 947.446044921875 y: 1307.087890625
+x: 0.0 y: 0.0
+
+Aoe 1625652333.4931166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 947.446044921875 y: 1307.087890625
+
+enemy 1620 name Medusa
+ShowEffect 1625652334.4901166 effectType 4 targetObjectID 27075789 color -65536 duration 0.0
+x: 940.181396484375 y: 1294.5794677734375
+x: 0.0 y: 0.0
+
+Aoe 1625652335.8941166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 940.181396484375 y: 1294.5794677734375
+
+enemy 1620 name Medusa
+ShowEffect 1625652337.6991167 effectType 4 targetObjectID 27076301 color -65536 duration 0.0
+x: 955.0178833007812 y: 1320.3951416015625
+x: 0.0 y: 0.0
+
+Aoe 1625652339.1051166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 955.0178833007812 y: 1320.3951416015625
+
+enemy 1620 name Medusa
+ShowEffect 1625652348.3041167 effectType 4 targetObjectID 27517230 color -65536 duration 0.0
+x: 941.0702514648438 y: 1295.314208984375
+x: 0.0 y: 0.0
+
+Aoe 1625652349.7071168 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 941.0702514648438 y: 1295.314208984375
+
+MapChange: Sprite World
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.7891166 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 61.313629150390625 y: 74.10137176513672
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.7901165 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 52.828346252441406 y: 74.10137176513672
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.7901165 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 52.828346252441406 y: 65.61609649658203
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.7911167 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 61.313629150390625 y: 65.61609649658203
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.8041167 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 64.14205932617188 y: 76.92980194091797
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.8101165 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 49.99991989135742 y: 76.92980194091797
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.8111167 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 49.99991989135742 y: 62.78766632080078
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625652378.8111167 effectType 4 targetObjectID 28377309 color -16640 duration 0.0
+x: 64.14205932617188 y: 62.78766632080078
+x: 0.0 y: 0.0
+
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652422.3861165 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652422.387117 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652422.387117 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652422.3881168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652425.6321168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 15.716651916503906 y: 16.805164337158203
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652438.0991168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 19.64753532409668 y: 19.219539642333984
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652438.0991168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 12.576467514038086 y: 19.219539642333984
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652438.1001167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 12.576467514038086 y: 12.148472785949707
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652438.1011167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 19.64753532409668 y: 12.148472785949707
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652441.1301167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 16.112001419067383 y: 11.184006690979004
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652441.1311169 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 16.112001419067383 y: 20.184005737304688
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652451.1451166 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 15.791903495788574 y: 15.75261116027832
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652463.6481168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 17.496051788330078 y: 19.104644775390625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652463.6491168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 10.424983978271484 y: 19.104644775390625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652463.6491168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 10.424983978271484 y: 12.033576965332031
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652463.6501167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 17.496051788330078 y: 12.033576965332031
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652466.6481168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 13.960517883300781 y: 11.069110870361328
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652466.6491168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 13.960517883300781 y: 20.069110870361328
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652476.6531167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 14.792673110961914 y: 15.632473945617676
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652489.1581166 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 18.686744689941406 y: 19.59807586669922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652489.1591167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 11.615677833557129 y: 19.59807586669922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652489.1631167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 11.615677833557129 y: 12.527008056640625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652489.1631167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 18.686744689941406 y: 12.527008056640625
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652492.1801167 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 15.151211738586426 y: 11.562541961669922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652492.1811166 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 15.151211738586426 y: 20.562541961669922
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625652503.0361168 effectType 4 targetObjectID 28449846 color -16640 duration 0.0
+x: 19.606197357177734 y: 20.56942367553711
+x: 0.0 y: 0.0
+
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625652528.0761168 effectType 4 targetObjectID 28545668 color -65536 duration 0.0
+x: 1363.159912109375 y: 999.1705932617188
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625652528.0771167 effectType 4 targetObjectID 28545669 color -65536 duration 0.0
+x: 1363.159912109375 y: 999.1705932617188
+x: 0.0 y: 0.0
+
+Aoe 1625652529.5151167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1363.159912109375 y: 999.1705932617188
+
+Aoe 1625652529.5161166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1363.159912109375 y: 999.1705932617188
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Abyss
+MapChange: Ascended Abyss
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652735.1721168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652735.1721168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652735.1731167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652735.1741166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652736.3701167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652736.3711169 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652736.3711169 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652736.3721168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625652736.5631168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625652736.5751169 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625652736.5781167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625652736.5781167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652737.5861166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652737.5871167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652737.5871167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652737.5881166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625652737.7601168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625652737.7601168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625652737.7611167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625652737.7611167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652738.7571166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652738.7581167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652738.759117 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652738.7601168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625652738.9591167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625652738.9601166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625652738.9601166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625652738.9611168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652739.9651167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652739.9661167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652739.9671168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652739.9671168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625652740.1721168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625652740.1731167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625652740.1741166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625652740.1891167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652741.1891167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652741.1951168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652741.1951168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652741.1961167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625652741.3661165 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625652741.3661165 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625652741.3671167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625652741.3671167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+Aoe 1625652742.5901165 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625652742.5901165 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625652742.591117 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625652742.591117 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652745.5841167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652745.9771166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652746.4211166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652746.8261166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652747.0111167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652747.2361166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652747.4541166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652747.6021166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652747.8231168 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652748.0131166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652748.2191167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652748.4151168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652748.6031168 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652748.8211167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652749.0251167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652749.2451167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652749.4241168 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652749.6591167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652749.8301165 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652750.0161166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652750.2221167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652750.4351168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 11.197165489196777 y: 15.11474323272705
+x: 0.0 y: 0.0
+
+Aoe 1625652750.6101167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+Aoe 1625652751.0151167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+Aoe 1625652751.4141166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+Aoe 1625652751.8651166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.197165489196777 y: 15.11474323272705
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652763.8541167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652763.8561168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652763.8571167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652763.8581166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+Aoe 1625652765.2691166 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 11.004026412963867
+
+Aoe 1625652765.2691166 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 11.004026412963867
+
+Aoe 1625652765.2701166 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 18.07509422302246
+
+Aoe 1625652765.2711167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 18.07509422302246
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652765.6491168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652765.6521168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652766.0541167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652766.055117 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+Aoe 1625652767.0591168 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 11.004026412963867
+
+Aoe 1625652767.0601168 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 18.07509422302246
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652767.4511168 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652767.4521167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+Aoe 1625652767.4541166 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 11.004026412963867
+
+Aoe 1625652767.4541166 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 18.07509422302246
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652768.2721167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652768.2731166 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+Aoe 1625652768.8731167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 11.004026412963867
+
+Aoe 1625652768.8741167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 18.07509422302246
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652769.2681167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 15.275668144226074 y: 18.07509422302246
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625652769.2681167 effectType 4 targetObjectID 28771099 color -65536 duration 0.0
+x: 8.20460033416748 y: 11.004026412963867
+x: 0.0 y: 0.0
+
+Aoe 1625652769.6571167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 11.004026412963867
+
+Aoe 1625652769.6581166 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 18.07509422302246
+
+Aoe 1625652770.6861167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.20460033416748 y: 11.004026412963867
+
+Aoe 1625652770.6881168 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.275668144226074 y: 18.07509422302246
+
+MapChange: Vault
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Nexus
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+MapChange: Nexus
+MapChange: Realm
+enemy 25765 name The Horrific
+ShowEffect 1625653032.2491167 effectType 4 targetObjectID 28984094 color 0 duration 0.0
+x: 735.1918334960938 y: 971.5282592773438
+x: 0.0 y: 0.0
+
+Aoe 1625653033.6711168 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 735.1918334960938 y: 971.5282592773438
+
+enemy 25765 name The Horrific
+ShowEffect 1625653034.4491167 effectType 4 targetObjectID 28984094 color 0 duration 0.0
+x: 735.3626708984375 y: 971.2233276367188
+x: 0.0 y: 0.0
+
+Aoe 1625653035.8761168 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 735.3626708984375 y: 971.2233276367188
+
+enemy 25765 name The Horrific
+ShowEffect 1625653036.6581166 effectType 4 targetObjectID 28984094 color 0 duration 0.0
+x: 735.3626708984375 y: 971.2233276367188
+x: 0.0 y: 0.0
+
+Aoe 1625653038.0671167 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 735.3626708984375 y: 971.2233276367188
+
+Aoe 1625653085.4831169 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 815.384033203125 y: 1025.2227783203125
+
+enemy 1620 name Medusa
+ShowEffect 1625653087.2791169 effectType 4 targetObjectID 28544955 color -65536 duration 0.0
+x: 808.603271484375 y: 1009.935546875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625653088.6741166 effectType 4 targetObjectID 29131400 color -65536 duration 0.0
+x: 805.3958129882812 y: 1013.1430053710938
+x: 0.0 y: 0.0
+
+Aoe 1625653088.6871169 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 808.603271484375 y: 1009.935546875
+
+enemy 1620 name Medusa
+ShowEffect 1625653089.2771168 effectType 4 targetObjectID 28544954 color -65536 duration 0.0
+x: 808.8418579101562 y: 1009.6969604492188
+x: 0.0 y: 0.0
+
+Aoe 1625653090.0931168 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 805.3958129882812 y: 1013.1430053710938
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653148.5441167 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653148.5491166 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653148.5581167 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653148.5591168 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653151.7451167 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 13.83903694152832 y: 13.674881935119629
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653164.1501167 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 18.614246368408203 y: 20.45682144165039
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653164.1511168 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 11.54317855834961 y: 20.45682144165039
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653164.1521168 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 11.54317855834961 y: 13.385753631591797
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653164.1521168 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 18.614246368408203 y: 13.385753631591797
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653167.147117 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 15.078712463378906 y: 12.421287536621094
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653167.1481168 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 15.078712463378906 y: 21.421287536621094
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625653177.1371167 effectType 4 targetObjectID 29159922 color -16640 duration 0.0
+x: 17.26815414428711 y: 14.458517074584961
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625653341.4041166 effectType 4 targetObjectID 28639455 color -65536 duration 0.0
+x: 1457.6473388671875 y: 1045.662109375
+x: 0.0 y: 0.0
+
+Aoe 1625653342.8181167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1457.6473388671875 y: 1045.662109375
+
+MapChange: Heavenly Rift
+MapChange: Ascended Rift
+MapChange: Marketplace
+MapChange: Realm
+Aoe 1625653891.3601167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 626.8467407226562 y: 1121.3870849609375
+
+Aoe 1625653891.3611166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 626.8467407226562 y: 1121.3870849609375
+
+Aoe 1625653891.3611166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 626.8467407226562 y: 1121.3870849609375
+
+enemy 1620 name Medusa
+ShowEffect 1625653893.1291168 effectType 4 targetObjectID 29643416 color -65536 duration 0.0
+x: 626.22900390625 y: 1121.535888671875
+x: 0.0 y: 0.0
+
+Aoe 1625653894.5441167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 626.22900390625 y: 1121.535888671875
+
+enemy 1620 name Medusa
+ShowEffect 1625653908.9341166 effectType 4 targetObjectID 29643230 color -65536 duration 0.0
+x: 658.9546508789062 y: 1090.3045654296875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625653910.1371167 effectType 4 targetObjectID 29643231 color -65536 duration 0.0
+x: 654.711181640625 y: 1088.8450927734375
+x: 0.0 y: 0.0
+
+Aoe 1625653910.3431168 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 658.9546508789062 y: 1090.3045654296875
+
+Aoe 1625653911.5661166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 654.711181640625 y: 1088.8450927734375
+
+enemy 1620 name Medusa
+ShowEffect 1625653912.1371167 effectType 4 targetObjectID 29643230 color -65536 duration 0.0
+x: 657.0870361328125 y: 1082.4697265625
+x: 0.0 y: 0.0
+
+Aoe 1625653913.5511167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 657.0870361328125 y: 1082.4697265625
+
+enemy 1620 name Medusa
+ShowEffect 1625653915.3371167 effectType 4 targetObjectID 29643232 color -65536 duration 0.0
+x: 663.123291015625 y: 1085.566650390625
+x: 0.0 y: 0.0
+
+Aoe 1625653916.7491167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 663.123291015625 y: 1085.566650390625
+
+enemy 1620 name Medusa
+ShowEffect 1625653918.535117 effectType 4 targetObjectID 29643232 color -65536 duration 0.0
+x: 661.9669799804688 y: 1079.9796142578125
+x: 0.0 y: 0.0
+
+Aoe 1625653919.9541166 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 661.9669799804688 y: 1079.9796142578125
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654003.2131166 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654003.2131166 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654003.2141166 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654003.2151167 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654006.4171166 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 15.326799392700195 y: 16.06964874267578
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654018.8171167 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 19.26387596130371 y: 19.46468734741211
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654018.8181167 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 12.192808151245117 y: 19.46468734741211
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654018.8191168 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 12.192808151245117 y: 12.393619537353516
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654018.8201168 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 19.26387596130371 y: 12.393619537353516
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654021.8141167 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 15.728342056274414 y: 11.429153442382812
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625654021.815117 effectType 4 targetObjectID 29762341 color -16640 duration 0.0
+x: 15.728342056274414 y: 20.429153442382812
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Heavenly Rift
+MapChange: Ascended Rift
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Storm Palace
+Aoe 1625654557.2381165 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1625654557.239117 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1625654557.239117 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1625654557.2411168 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625654559.0331166 effectType 4 targetObjectID 30122052 color -65536 duration 0.0
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625654559.0331166 effectType 4 targetObjectID 30122052 color -65536 duration 0.0
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625654559.0341165 effectType 4 targetObjectID 30122052 color -65536 duration 0.0
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625654559.0341165 effectType 4 targetObjectID 30122052 color -65536 duration 0.0
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1625654560.4341166 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1625654560.4341166 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1625654560.4351168 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1625654560.4361167 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+enemy 2422 name Dr Terrible
+ShowEffect 1625654710.3681166 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 202.51312255859375 y: 97.2171401977539
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625654712.5711167 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 202.6097412109375 y: 93.29083251953125
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625654714.7821167 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 202.5310516357422 y: 96.48883819580078
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625654716.9871168 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 202.5 y: 97.75055694580078
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625654719.5851166 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 202.5310516357422 y: 96.48883819580078
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625654721.7931166 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 202.56260681152344 y: 95.20630645751953
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1625654722.3881168 effectType 4 targetObjectID 30245102 color -16640 duration 0.0
+x: 201.713134765625 y: 95.1854019165039
+x: 0.0 y: 0.0
+
+MapChange: Ascended Lab
+enemy 28705 name Ascended Hallucinating Clone 1
+ShowEffect 1625654739.0181167 effectType 4 targetObjectID 30302194 color -65536 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654739.2361166 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+Aoe 1625654740.4251168 radius 3.0 damage 70 effect 0 duration 0.0 origType 28705
+x: 12.431314468383789 y: 13.159347534179688
+
+Aoe 1625654740.6221166 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 12.431314468383789 y: 13.159347534179688
+
+enemy 28705 name Ascended Hallucinating Clone 1
+ShowEffect 1625654740.8161168 effectType 4 targetObjectID 30302194 color -65536 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654741.0121167 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+enemy 28705 name Ascended Hallucinating Clone 1
+ShowEffect 1625654742.2131166 effectType 4 targetObjectID 30302194 color -16640 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+Aoe 1625654742.2151167 radius 3.0 damage 70 effect 0 duration 0.0 origType 28705
+x: 12.431314468383789 y: 13.159347534179688
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654742.4291167 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625654742.4301167 effectType 4 targetObjectID 30302195 color -16640 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+Aoe 1625654742.4321167 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 12.431314468383789 y: 13.159347534179688
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654743.8221166 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625654743.8231168 effectType 4 targetObjectID 30302195 color -16640 duration 0.0
+x: 12.431314468383789 y: 13.159347534179688
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654747.4251168 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 7.5653510093688965 y: 13.665945053100586
+x: 0.0 y: 0.0
+
+Aoe 1625654748.831117 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 7.5653510093688965 y: 13.665945053100586
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654749.2181165 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 8.554983139038086 y: 12.676312446594238
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654750.6181166 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.6890549659729 y: 13.542241096496582
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625654750.6191168 effectType 4 targetObjectID 30302195 color -16640 duration 0.0
+x: 7.6890549659729 y: 13.542241096496582
+x: 0.0 y: 0.0
+
+Aoe 1625654750.6201167 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 8.554983139038086 y: 12.676312446594238
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654752.111117 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.6890549659729 y: 13.542241096496582
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625654752.1121168 effectType 4 targetObjectID 30302195 color -16640 duration 0.0
+x: 7.6890549659729 y: 13.542241096496582
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654760.4831169 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.891162872314453 y: 13.903316497802734
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654761.8841166 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.891162872314453 y: 13.903316497802734
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654763.3291166 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.853456020355225 y: 15.435694694519043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654764.6991167 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.853456020355225 y: 15.435694694519043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654766.0961168 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.853456020355225 y: 15.435694694519043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654766.4981165 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 8.127829551696777 y: 18.8740234375
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654766.499117 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 4.127829551696777 y: 14.874024391174316
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654766.5001168 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 8.127829551696777 y: 10.874024391174316
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654766.5001168 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 12.127829551696777 y: 14.874024391174316
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654766.5011168 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.853456020355225 y: 15.435694694519043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654767.9151168 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.811957836151123 y: 17.12214469909668
+x: 0.0 y: 0.0
+
+Aoe 1625654767.9171166 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 12.127829551696777 y: 14.874024391174316
+
+Aoe 1625654767.9181166 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 8.127829551696777 y: 10.874024391174316
+
+Aoe 1625654767.9191167 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 4.127829551696777 y: 14.874024391174316
+
+Aoe 1625654767.9191167 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 8.127829551696777 y: 18.8740234375
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654768.6981165 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 8.181097030639648 y: 21.18702507019043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654768.6981165 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 4.181097030639648 y: 17.18702507019043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654768.6991167 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 8.181097030639648 y: 13.18702507019043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654768.6991167 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 12.181097030639648 y: 17.18702507019043
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654769.3031168 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.760623455047607 y: 19.208345413208008
+x: 0.0 y: 0.0
+
+Aoe 1625654770.1001167 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 12.181097030639648 y: 17.18702507019043
+
+Aoe 1625654770.1011167 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 8.181097030639648 y: 13.18702507019043
+
+Aoe 1625654770.1021166 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 4.181097030639648 y: 17.18702507019043
+
+Aoe 1625654770.1021166 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 8.181097030639648 y: 21.18702507019043
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654770.6981165 effectType 4 targetObjectID 30297229 color -16640 duration 0.0
+x: 7.760623455047607 y: 19.208345413208008
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654770.9081168 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 7.7695722579956055 y: 22.314254760742188
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654770.9091167 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 3.7695722579956055 y: 18.314254760742188
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654770.9101167 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 7.7695722579956055 y: 14.314254760742188
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625654770.9101167 effectType 4 targetObjectID 30297229 color -65536 duration 0.0
+x: 11.769572257995605 y: 18.314254760742188
+x: 0.0 y: 0.0
+
+Aoe 1625654772.2941165 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.769572257995605 y: 18.314254760742188
+
+Aoe 1625654772.295117 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.7695722579956055 y: 14.314254760742188
+
+Aoe 1625654772.295117 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 3.7695722579956055 y: 18.314254760742188
+
+Aoe 1625654772.2961168 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.7695722579956055 y: 22.314254760742188
+
+MapChange: Realm
+MapChange: Tunnel of Pain
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625654973.7421167 effectType 4 targetObjectID 30451263 color -65536 duration 0.0
+x: 1129.6429443359375 y: 1074.268798828125
+x: 0.0 y: 0.0
+
+Aoe 1625654975.2021165 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1129.6429443359375 y: 1074.268798828125
+
+enemy 1620 name Medusa
+ShowEffect 1625654981.0151167 effectType 4 targetObjectID 30049951 color -65536 duration 0.0
+x: 1125.648193359375 y: 1084.746337890625
+x: 0.0 y: 0.0
+
+Aoe 1625654982.4321167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1125.648193359375 y: 1084.746337890625
+
+enemy 1620 name Medusa
+ShowEffect 1625654984.4291167 effectType 4 targetObjectID 30049952 color -65536 duration 0.0
+x: 1120.166748046875 y: 1081.82275390625
+x: 0.0 y: 0.0
+
+Aoe 1625654985.8411167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1120.166748046875 y: 1081.82275390625
+
+enemy 1620 name Medusa
+ShowEffect 1625654990.6291168 effectType 4 targetObjectID 30050376 color -65536 duration 0.0
+x: 1112.5968017578125 y: 1104.338134765625
+x: 0.0 y: 0.0
+
+Aoe 1625654992.0441167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1112.5968017578125 y: 1104.338134765625
+
+enemy 1620 name Medusa
+ShowEffect 1625654993.8321168 effectType 4 targetObjectID 30050376 color -65536 duration 0.0
+x: 1110.864013671875 y: 1104.736328125
+x: 0.0 y: 0.0
+
+Aoe 1625654995.2491167 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1110.864013671875 y: 1104.736328125
+
+MapChange: Abyss
+MapChange: Ascended Abyss
+MapChange: Ascended Abyss
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655110.4081168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655110.4091167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655110.4091167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655110.4101167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655111.6171167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655111.6181166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655111.6191168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655111.6191168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625655111.8221166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625655111.8221166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625655111.8231168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625655111.8231168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655112.8461165 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655112.8471167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655112.8471167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655112.8481166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625655113.0461166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625655113.0471168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625655113.0481167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625655113.0481167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655114.0431168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655114.0441167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655114.0451167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655114.0451167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625655114.2471168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625655114.2481167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625655114.2481167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625655114.2491167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655115.2521167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655115.2561166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 19.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655115.2581167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 7.964466094970703 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655115.2581167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.035533905029297 y: 11.964466094970703
+x: 0.0 y: 0.0
+
+Aoe 1625655115.4561167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625655115.4561167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625655115.4571166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625655115.4571166 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+Aoe 1625655116.6551168 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 11.964466094970703
+
+Aoe 1625655116.6561167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 11.964466094970703
+
+Aoe 1625655116.6561167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.964466094970703 y: 19.035533905029297
+
+Aoe 1625655116.6571167 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.035533905029297 y: 19.035533905029297
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655119.4641168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655119.8491166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655120.2531166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655120.6491168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655120.8481166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655121.0471168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655121.2521167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655121.443117 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655121.6551168 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655121.8491166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655122.0521166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655122.2551167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655122.4491167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655122.6501167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655122.8601167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655123.0811167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655123.2761168 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655123.4621167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655123.6641166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655123.8921168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.228608131408691 y: 14.478941917419434
+x: 0.0 y: 0.0
+
+Aoe 1625655124.0961168 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655124.2931166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 11.207878112792969 y: 13.462811470031738
+x: 0.0 y: 0.0
+
+Aoe 1625655124.4921167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+Aoe 1625655124.9011166 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+Aoe 1625655125.3041167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.228608131408691 y: 14.478941917419434
+
+Aoe 1625655125.7161167 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 11.207878112792969 y: 13.462811470031738
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655136.9261167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.291967391967773 y: 19.995899200439453
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655136.9271169 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 8.22089958190918 y: 19.995899200439453
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655136.9281168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 8.22089958190918 y: 12.92483139038086
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655136.9281168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.291967391967773 y: 12.92483139038086
+x: 0.0 y: 0.0
+
+Aoe 1625655138.3401167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.291967391967773 y: 12.92483139038086
+
+Aoe 1625655138.3401167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.22089958190918 y: 12.92483139038086
+
+Aoe 1625655138.3411167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.22089958190918 y: 19.995899200439453
+
+Aoe 1625655138.3411167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.291967391967773 y: 19.995899200439453
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655138.7271168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.291967391967773 y: 19.995899200439453
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655138.7281168 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 8.22089958190918 y: 12.92483139038086
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655139.1261165 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 8.22089958190918 y: 19.995899200439453
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655139.127117 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.291967391967773 y: 12.92483139038086
+x: 0.0 y: 0.0
+
+Aoe 1625655140.1351168 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.22089958190918 y: 12.92483139038086
+
+Aoe 1625655140.1361167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.291967391967773 y: 19.995899200439453
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655140.5291166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.291967391967773 y: 19.995899200439453
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655140.5301166 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 8.22089958190918 y: 12.92483139038086
+x: 0.0 y: 0.0
+
+Aoe 1625655140.5311167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.291967391967773 y: 12.92483139038086
+
+Aoe 1625655140.5321167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.22089958190918 y: 19.995899200439453
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655141.3401167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 8.22089958190918 y: 19.995899200439453
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625655141.3411167 effectType 4 targetObjectID 30568615 color -65536 duration 0.0
+x: 15.291967391967773 y: 12.92483139038086
+x: 0.0 y: 0.0
+
+Aoe 1625655141.9351168 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.22089958190918 y: 12.92483139038086
+
+Aoe 1625655141.9361167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.291967391967773 y: 19.995899200439453
+
+Aoe 1625655142.7311168 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 15.291967391967773 y: 12.92483139038086
+
+Aoe 1625655142.7321167 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 8.22089958190918 y: 19.995899200439453
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Galactic Plateau
+MapChange: The Regolith
+MapChange: The Regolith
+enemy 18637 name The Alien King
+ShowEffect 1625655420.7361166 effectType 4 targetObjectID 30744365 color -16640 duration 0.0
+x: 23.613122940063477 y: 24.941797256469727
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 30772593
+
+Aoe 1625655423.7491167 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 20.412853240966797 y: 24.34694480895996
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: The Catacombs
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Vault
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1625655781.5151167 effectType 4 targetObjectID 31062329 color -65536 duration 0.0
+x: 178.35516357421875 y: 145.5
+x: 0.0 y: 0.0
+
+Aoe 1625655782.9181166 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 178.35516357421875 y: 145.5
+
+enemy 21678 name The Illusionist
+ShowEffect 1625655796.3391168 effectType 4 targetObjectID 31062277 color -16640 duration 0.0
+x: 199.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625655796.3401167 effectType 4 targetObjectID 31062277 color -16640 duration 0.0
+x: 191.5 y: 117.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625655796.3401167 effectType 4 targetObjectID 31062277 color -16640 duration 0.0
+x: 183.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625655796.3411167 effectType 4 targetObjectID 31062277 color -16640 duration 0.0
+x: 191.5 y: 101.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625655801.5681167 effectType 4 targetObjectID 31062277 color -16640 duration 0.0
+x: 190.94468688964844 y: 110.22692108154297
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625655801.5691166 effectType 4 targetObjectID 31062277 color -16640 duration 0.0
+x: 190.94468688964844 y: 110.22692108154297
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Tunnel of Pain
+MapChange: Realm
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625655903.8711169 effectType 4 targetObjectID 31131090 color -16640 duration 0.0
+x: 833.3455810546875 y: 1690.7286376953125
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625655903.8721168 effectType 4 targetObjectID 31131090 color -16640 duration 0.0
+x: 829.3455810546875 y: 1694.7286376953125
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625655903.8721168 effectType 4 targetObjectID 31131090 color -16640 duration 0.0
+x: 825.3455810546875 y: 1690.7286376953125
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625655903.8731167 effectType 4 targetObjectID 31131090 color -16640 duration 0.0
+x: 829.3455810546875 y: 1686.7286376953125
+x: 0.0 y: 0.0
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625655910.7651167 effectType 4 targetObjectID 31163737 color -65536 duration 0.0
+x: 824.991455078125 y: 1697.412841796875
+x: 0.0 y: 0.0
+
+Aoe 1625655912.1391168 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 824.991455078125 y: 1697.412841796875
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625655921.1531167 effectType 4 targetObjectID 31163735 color -65536 duration 0.0
+x: 825.1703491210938 y: 1697.524169921875
+x: 0.0 y: 0.0
+
+Aoe 1625655922.591117 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 825.1703491210938 y: 1697.524169921875
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625655926.3751168 effectType 4 targetObjectID 31163736 color -65536 duration 0.0
+x: 822.100830078125 y: 1692.748291015625
+x: 0.0 y: 0.0
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625655926.3751168 effectType 4 targetObjectID 31163734 color -65536 duration 0.0
+x: 832.2903442382812 y: 1689.0162353515625
+x: 0.0 y: 0.0
+
+Aoe 1625655927.8131168 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 832.2903442382812 y: 1689.0162353515625
+
+Aoe 1625655927.8141167 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 822.100830078125 y: 1692.748291015625
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625655939.0171168 effectType 4 targetObjectID 30906242 color -65536 duration 0.0
+x: 828.1802978515625 y: 1691.0328369140625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625655939.0181167 effectType 4 targetObjectID 30906242 color -16640 duration 0.0
+x: 825.6201782226562 y: 1686.093017578125
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+Closed GUI. Shutting down proxy.

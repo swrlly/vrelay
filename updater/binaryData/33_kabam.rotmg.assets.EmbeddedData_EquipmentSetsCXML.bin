@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EquipmentSets>
+  <EquipmentSet type="0x0001" id="Oryx Awesome Set">
+    <Setpiece slot="2" itemtype="0x2337">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x2339">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x2338">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x2302">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x0401" size="70" color="0x92A9BA">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0002" id="Priest of Geb Set">
+    <Setpiece slot="0" itemtype="0x235F">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x235E">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x235C">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x235D">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x745A" size="70" color="0x92A9BA" bulletType="Great Geb Shot">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="50">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="50">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="8">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0005" id="Skuld 2 The ReGhostening Set">
+    <Setpiece slot="0" itemtype="0x21a0">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x21a2">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x21a1">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x21a3">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x21a6" size="70" color="0x92A9BA" bulletType="Spooky Sparkle 9000">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="80">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="30">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="6">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="1">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0006" id="Twilight Archmage Set">
+    <Setpiece slot="0" itemtype="0x21a7">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x21a9">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x21a8">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x21aa">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x804b" size="70" color="0x92A9BA" bulletType="Morer Ancienter Magic">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="40">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="15">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="2">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="2">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="2">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0003" id="Swoll Paladin Set">
+    <Setpiece slot="0" itemtype="0x2367">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x2366">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x2364">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x2365">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x8674" size="70" color="0x92A9BA" bulletType="Fairy Bolt">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="50">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="50">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="2">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0004" id="Phylactery Mystic Set">
+    <Setpiece slot="0" itemtype="0x2363">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x2362">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x2360">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x2361">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x745B" size="70" color="0x92A9BA" bulletType="Soul Vortex">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="25">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="25">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="1">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="1">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0007" id="Dark Knight Set">
+    <Setpiece slot="0" itemtype="0x1600">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x1601">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x1602">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x1603">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x1604" size="70" color="0x12A2BF" bulletType="Bloodshed Swipe">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="100">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="10">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="10">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0008" id="Woodland Sorcerer Set">
+    <Setpiece slot="0" itemtype="0xff4">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0xff5">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0xff6">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0xff7">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0xff10" size="70" color="0x92A9BA" bulletType="WoodLand Proj Ult">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="20">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="20">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="26" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="27" amount="3">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0009" id="Ancient Colossus Set">
+    <Setpiece slot="0" itemtype="0xffb">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0xffc">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0xffd">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0xffe">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0xff17" size="280" color="0x92A9BA" bulletType="Titanic Sword Proj Ult">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="60">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="30">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="26" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="27" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0010" id="The Spider Queen Set">
+    <Setpiece slot="0" itemtype="0x17da">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x17db">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x17dc">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x17dd">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x17ea" size="70" color="0xFFFFFF" bulletType="Super Wunder Web">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="22" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="26" amount="3">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x27A" id="Captain America Set">
+    <Setpiece slot="2" itemtype="0x6018">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x6020">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x6019">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x6017">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x6042" size="70">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x27B" id="Invisible Man Set">
+    <Setpiece slot="2" itemtype="0x6023">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x6022">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x6024">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x6021">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x6043" size="70">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x27C" id="Ninja Assassin Set">
+    <Setpiece slot="2" itemtype="0x6030">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x6031">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x6032">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x7024">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x7030" size="70">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x27D" id="Necromancer Set">
+    <Setpiece slot="2" itemtype="0x6026">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x911">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x6027">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x6025">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x13a" size="70">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x796B" id="Frunza Set">
+    <Setpiece slot="2" itemtype="0x795E">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x795D">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x795F">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x795C">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x793D" size="70">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x798F" id="Sottler Set">
+    <Setpiece slot="2" itemtype="0x798C">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x798B">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x798D">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x798A">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x799A" size="70" color="0x000000">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x808B" id="Sanic Set">
+    <ActivateOnEquipAll skinType="0x808A" size="70">ChangeSkin</ActivateOnEquipAll>
+    <Setpiece slot="1" itemtype="0x799F">Equipment</Setpiece>
+  </EquipmentSet>
+  <EquipmentSet type="0x0011" id="Pizza Set">
+    <Setpiece slot="2" itemtype="0x782C">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x782D">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x782B">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x781F">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x16F" size="70">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x236" id="Leprechauns Set">
+    <Setpiece slot="2" itemtype="0x213">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x211">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x212">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x214">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x235" size="100" color="0x00CC00">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="102" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x22D" id="Spectacles Set">
+    <Setpiece slot="3" itemtype="0x22C">Equipment</Setpiece>
+    <ActivateOnEquipAll effect="PartyVision">ConditionEffectSelf</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x243" id="Fire Trix Set">
+    <Setpiece slot="2" itemtype="0x241">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x240">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x242">Equipment</Setpiece>
+    <Setpiece slot="0" itemtype="0x23A">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x23F" size="100">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x244" id="Eesben Set">
+    <Setpiece slot="0" itemtype="0x766">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x767">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x237">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x239">Equipment</Setpiece>
+    <ActivateOnEquipAll stat="22" amount="-10">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x24D" id="Coral Set">
+    <Setpiece slot="0" itemtype="0xc10">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0xc1c">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0xc18">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0xc13">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x24C" size="100" color="0xFF69B4">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x251" id="Lab Set">
+    <Setpiece slot="0" itemtype="0xc33">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0xc30">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0xc32">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0xc31">Equipment</Setpiece>
+    <ActivateOnEquipAll stat="21" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x252" id="Lab Set2">
+    <Setpiece slot="0" itemtype="0x793E">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x793F">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x794A">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x794B">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x294" size="70">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="3">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x342" id="Manor Set">
+    <Setpiece slot="0" itemtype="0xc1d">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0xc09">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0xc1f">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0xc20">Equipment</Setpiece>
+    <ActivateOnEquipAll stat="28" amount="3">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="3">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x253" id="Avatar Set">
+    <Setpiece slot="0" itemtype="0x797B">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0xb41">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x797D">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x797E">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x24F" size="100">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x25A" id="HalloWeen Set Skin">
+    <Setpiece slot="0" itemtype="0x25F">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x252">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x253">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x254">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x25B" size="100">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x269" id="The One Ring Set">
+    <Setpiece slot="3" itemtype="0x268">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x25D" size="50">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="1">FixedStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x26E" id="Entman Set Skin">
+    <Setpiece slot="0" itemtype="0x269">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x26C">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x26A">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x26B">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x26F" size="90">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="10">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="8">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="26" amount="6">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="27" amount="2">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="1">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="2">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x28F" id="Trump Set Skin">
+    <Setpiece slot="3" itemtype="0x290">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x28E" size="90">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x2BA" id="Sky Guardian Set">
+    <Setpiece slot="0" itemtype="0x2BF">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x2BE">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x2BD">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x2BC">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x2BB" size="85">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0014" id="Lunarologist Set">
+    <Setpiece slot="0" itemtype="0x42fc">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x44c2">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x44c3">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x44c4">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x8677" size="60">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="150">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="110">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="10">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="10">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="15">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="114" amount="20">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0015" id="Mad God Bruiser Set">
+    <Setpiece slot="0" itemtype="0x67e0">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x67e1">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x67e2">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x67e3">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x8824" size="75">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="20" isPerc="true">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="21" amount="25" isPerc="true">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="26" amount="25" isPerc="true">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="20">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0016" id="Corrupted Conjurer Set">
+    <Setpiece slot="0" itemtype="0x67cf">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x67d0">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x67d1">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x67d2">Equipment</Setpiece>
+  </EquipmentSet>
+  <EquipmentSet type="0x0017" id="Loaded Garutious Set">
+    <Setpiece slot="0" itemtype="0x67d9">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x67d9">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x67d1">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x67d2">Equipment</Setpiece>
+    <ActivateOnEquipAll size="100">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0018" id="Cataclysmic Set">
+    <Setpiece slot="0" itemtype="0x42c5">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x48fd">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x44c5">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x44c6">Equipment</Setpiece>
+    <ActivateOnEquipAll size="75" skinType="0x8676">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="0" amount="100">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="3" amount="100">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="50">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="27" amount="25">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="112" amount="35">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x0019" id="Blizzard Set">
+    <Setpiece slot="0" itemtype="0x67eb">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x67ed">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x67ee">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x67ef">Equipment</Setpiece>
+    <ActivateOnEquipAll size="100">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+   <EquipmentSet type="0x0020" id="Jester Set">
+    <Setpiece slot="3" itemtype="0x1A2D">Equipment</Setpiece>
+    <ActivateOnEquipAll skinType="0x8734" size="100">ChangeSkin</ActivateOnEquipAll>
+  </EquipmentSet>
+   <EquipmentSet type="0x0021" id="Deep Sea Fishing Set">
+    <Setpiece slot="0" itemtype="0x68e3">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x68e4">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x12B3">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x12B4">Equipment</Setpiece>
+	<ActivateOnEquipAll skinType="0x8793" size="60">ChangeSkin</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="102" amount="5">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+    <EquipmentSet type="0x6af8" id="Righteous Trials Set">
+    <Setpiece slot="0" itemtype="0x79ac">Equipment</Setpiece>
+    <Setpiece slot="1" itemtype="0x79ad">Equipment</Setpiece>
+    <Setpiece slot="2" itemtype="0x12B2">Equipment</Setpiece>
+    <Setpiece slot="3" itemtype="0x68e5">Equipment</Setpiece>
+    <ActivateOnEquipAll stat="22" amount="15">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="114" amount="100" isPerc="true">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="112" amount="50">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="20" amount="10">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="10">IncrementStat</ActivateOnEquipAll>
+  </EquipmentSet>
+  <EquipmentSet type="0x6af5" id="Trial of Blackwood Set">
+	<Setpiece slot="0" itemtype="0x6af1">Equipment</Setpiece>
+	<Setpiece slot="1" itemtype="0x6af2">Equipment</Setpiece>
+	<Setpiece slot="2" itemtype="0x6af3">Equipment</Setpiece>
+	<Setpiece slot="3" itemtype="0x6af4">Equipment</Setpiece>
+	<ActivateOnEquipAll stat="0" amount="75">IncrementStat</ActivateOnEquipAll>
+	<ActivateOnEquipAll stat="20" amount="40">IncrementStat</ActivateOnEquipAll>
+	<ActivateOnEquipAll stat="22" amount="23">IncrementStat</ActivateOnEquipAll>
+	<ActivateOnEquipAll stat="3" amount="100">IncrementStat</ActivateOnEquipAll>
+    <ActivateOnEquipAll stat="28" amount="15">IncrementStat</ActivateOnEquipAll>
+	<ActivateOnEquipAll skinType="0x8824" size="60">ChangeSkin</ActivateOnEquipAll>
+	</EquipmentSet>
+</EquipmentSets>
+

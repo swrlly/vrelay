@@ -1,0 +1,138 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Sprite World
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.4225419 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 56.74264144897461 y: 56.74264144897461
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.423542 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 48.25735855102539 y: 56.74264144897461
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.423542 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 48.25735855102539 y: 48.25735855102539
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.424542 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 56.74264144897461 y: 48.25735855102539
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.424542 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 59.571067810058594 y: 59.571067810058594
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.4255419 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 45.428932189941406 y: 59.571067810058594
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.4255419 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 45.428932189941406 y: 45.428932189941406
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1625527152.426542 effectType 4 targetObjectID 23932906 color -16640 duration 0.0
+x: 59.571067810058594 y: 45.428932189941406
+x: 0.0 y: 0.0
+
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527164.7272456 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527164.7272456 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527164.7282457 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527164.7282457 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527167.9184282 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 14.226971626281738 y: 15.114959716796875
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527180.4931474 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 19.814632415771484 y: 21.593753814697266
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527180.4941473 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 12.74356460571289 y: 21.593753814697266
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527180.4951475 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 12.74356460571289 y: 14.522686004638672
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527180.4961474 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 19.814632415771484 y: 14.522686004638672
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527183.5193205 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 16.279098510742188 y: 13.558219909667969
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625527183.5203204 effectType 4 targetObjectID 23983406 color -16640 duration 0.0
+x: 16.279098510742188 y: 22.55821990966797
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625527248.2620234 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 964.8114013671875 y: 1274.817138671875
+
+enemy 1620 name Medusa
+ShowEffect 1625527248.462035 effectType 4 targetObjectID 22858141 color -65536 duration 0.0
+x: 959.5 y: 1277.989990234375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625527248.4660351 effectType 4 targetObjectID 22858139 color -65536 duration 0.0
+x: 959.5 y: 1277.5
+x: 0.0 y: 0.0
+
+Aoe 1625527249.42209 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 959.5 y: 1277.989990234375
+
+Aoe 1625527249.7161067 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 959.5 y: 1277.5
+
+enemy 1620 name Medusa
+ShowEffect 1625527251.397203 effectType 4 targetObjectID 22858141 color -65536 duration 0.0
+x: 959.8063354492188 y: 1271.07470703125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625527252.0302389 effectType 4 targetObjectID 22858139 color -65536 duration 0.0
+x: 959.8063354492188 y: 1271.07470703125
+x: 0.0 y: 0.0
+
+Aoe 1625527253.2923112 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 959.8063354492188 y: 1271.07470703125
+
+Aoe 1625527253.2953115 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 959.8063354492188 y: 1271.07470703125
+
+ListenToServer: Triggered header reread
+Closed GUI. Shutting down proxy.

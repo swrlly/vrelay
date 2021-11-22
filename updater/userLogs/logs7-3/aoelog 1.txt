@@ -1,0 +1,405 @@
+MapChange: Nexus
+MapChange: Realm
+this is enemy 802 name Huntress
+ShowEffect 1624735800.4974542 effectType 4 targetObjectID 35963308 color -7339777 duration 0.0
+x: 618.5 y: 1155.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624735800.4974542 effectType 4 targetObjectID 35963308 color -7339777 duration 0.0
+x: 618.5 y: 1155.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624735880.4554067 effectType 4 targetObjectID 35963308 color -7339777 duration 0.0
+x: 620.5 y: 1155.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624735880.4554067 effectType 4 targetObjectID 35963308 color -7339777 duration 0.0
+x: 620.5 y: 1155.5
+x: 0.0 y: 0.0
+
+MapChange: Trial of the Illusionist
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624735984.3797529 effectType 4 targetObjectID 36248731 color -65536 duration 0.0
+x: 76.88662719726562 y: 146.5125274658203
+x: 0.0 y: 0.0
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624735984.7823818 effectType 4 targetObjectID 36248756 color -65536 duration 0.0
+x: 76.70603942871094 y: 146.83311462402344
+x: 0.0 y: 0.0
+
+Aoe 1624735985.9123569 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 76.88662719726562 y: 146.5125274658203
+
+Aoe 1624735986.2662652 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 76.70603942871094 y: 146.83311462402344
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624735986.6743622 effectType 4 targetObjectID 36248731 color -65536 duration 0.0
+x: 80.5 y: 143.84280395507812
+x: 0.0 y: 0.0
+
+Aoe 1624735987.9681885 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 80.5 y: 143.84280395507812
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624736014.057822 effectType 4 targetObjectID 36248747 color -65536 duration 0.0
+x: 88.07817840576172 y: 133.6186065673828
+x: 0.0 y: 0.0
+
+Aoe 1624736015.5238235 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 88.07817840576172 y: 133.6186065673828
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624736190.6814299 effectType 4 targetObjectID 36248683 color -65536 duration 0.0
+x: 93.00626373291016 y: 103.42750549316406
+x: 0.0 y: 0.0
+
+Aoe 1624736192.0833948 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 93.00626373291016 y: 103.42750549316406
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624736451.2968552 effectType 4 targetObjectID 36248678 color -65536 duration 0.0
+x: 104.83808135986328 y: 89.5
+x: 0.0 y: 0.0
+
+Aoe 1624736452.717601 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 104.83808135986328 y: 89.5
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624736490.76891 effectType 4 targetObjectID 36248646 color -65536 duration 0.0
+x: 131.4586639404297 y: 85.63737487792969
+x: 0.0 y: 0.0
+
+Aoe 1624736492.1735692 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 131.4586639404297 y: 85.63737487792969
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624737427.4954352 effectType 4 targetObjectID 36248560 color -65536 duration 0.0
+x: 40.66523742675781 y: 37.9900016784668
+x: 0.0 y: 0.0
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624737428.1135385 effectType 4 targetObjectID 36248556 color -65536 duration 0.0
+x: 37.514095306396484 y: 35.14461135864258
+x: 0.0 y: 0.0
+
+Aoe 1624737428.8987842 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 40.66523742675781 y: 37.9900016784668
+
+Aoe 1624737429.5103204 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 37.514095306396484 y: 35.14461135864258
+
+this is enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624737429.7082498 effectType 4 targetObjectID 36248560 color -65536 duration 0.0
+x: 44.2534294128418 y: 36.55339050292969
+x: 0.0 y: 0.0
+
+Aoe 1624737431.1103542 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 44.2534294128418 y: 36.55339050292969
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737449.04559 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 21.5 y: 29.5
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737449.04559 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 13.5 y: 37.5
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737449.04559 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 5.5 y: 29.5
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737449.04559 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 13.5 y: 21.5
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737454.317547 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 18.188030242919922 y: 35.16220474243164
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737454.317547 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 18.188030242919922 y: 35.16220474243164
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737491.5093243 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 8.225685119628906 y: 23.54501724243164
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737498.8704133 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 2.4037253856658936 y: 38.11619186401367
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737498.8704133 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 2.4037253856658936 y: 38.11619186401367
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737534.5020316 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 11.032768249511719 y: 23.828445434570312
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737538.6807902 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 20.467037200927734 y: 22.306669235229492
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737542.666215 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 25.290128707885742 y: 31.934507369995117
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737542.666215 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 25.290128707885742 y: 31.934507369995117
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737593.249093 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 8.23563289642334 y: 27.505935668945312
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737593.249093 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 8.23563289642334 y: 27.505935668945312
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737622.0185812 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 13.73052978515625 y: 34.30486297607422
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737626.2034442 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 3.663355827331543 y: 37.43907928466797
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737630.2059612 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 6.2576446533203125 y: 39.70262145996094
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737630.2059612 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 6.2576446533203125 y: 39.70262145996094
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737670.195641 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 23.695384979248047 y: 35.73530960083008
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737673.7673461 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 23.307416915893555 y: 40.521121978759766
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737673.7673461 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 23.307416915893555 y: 40.521121978759766
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737709.441707 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 18.745647430419922 y: 31.835769653320312
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737713.6446512 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 10.395341873168945 y: 19.345840454101562
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737717.6464314 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 19.58159828186035 y: 24.60708999633789
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737717.6464314 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 19.58159828186035 y: 24.60708999633789
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737764.5634825 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 19.35854148864746 y: 35.06886672973633
+x: 0.0 y: 0.0
+
+this is enemy 21678 name The Illusionist
+ShowEffect 1624737764.5634825 effectType 4 targetObjectID 36248555 color -16640 duration 0.0
+x: 19.35854148864746 y: 35.06886672973633
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Realm
+MapChange: Tunnel of Pain
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624738194.8120208 effectType 4 targetObjectID 37376178 color -65536 duration 0.0
+x: 963.801513671875 y: 1166.2066650390625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738196.0680208 effectType 4 targetObjectID 39109402 color -65536 duration 0.0
+x: 965.4176025390625 y: 1171.2451171875
+x: 0.0 y: 0.0
+
+Aoe 1624738196.2820206 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 963.801513671875 y: 1166.2066650390625
+
+Aoe 1624738197.4780204 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 965.4176025390625 y: 1171.2451171875
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738198.069021 effectType 4 targetObjectID 37376178 color -65536 duration 0.0
+x: 957.541259765625 y: 1172.9134521484375
+x: 0.0 y: 0.0
+
+Aoe 1624738199.4800205 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 957.541259765625 y: 1172.9134521484375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738205.0710216 effectType 4 targetObjectID 39108346 color -65536 duration 0.0
+x: 962.1229858398438 y: 1172.8319091796875
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738205.6780214 effectType 4 targetObjectID 38991940 color -65536 duration 0.0
+x: 962.5115356445312 y: 1175.4986572265625
+x: 0.0 y: 0.0
+
+Aoe 1624738206.4800212 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 962.1229858398438 y: 1172.8319091796875
+
+Aoe 1624738207.086021 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 962.5115356445312 y: 1175.4986572265625
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738208.391157 effectType 4 targetObjectID 39108346 color -65536 duration 0.0
+x: 958.5869750976562 y: 1171.0472412109375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738208.9941564 effectType 4 targetObjectID 38991940 color -65536 duration 0.0
+x: 961.723388671875 y: 1172.080810546875
+x: 0.0 y: 0.0
+
+Aoe 1624738209.802153 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 958.5869750976562 y: 1171.0472412109375
+
+Aoe 1624738210.4111543 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 961.723388671875 y: 1172.080810546875
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738228.5795426 effectType 4 targetObjectID 38662820 color -65536 duration 0.0
+x: 951.96240234375 y: 1166.8397216796875
+x: 0.0 y: 0.0
+
+Aoe 1624738230.157571 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 951.96240234375 y: 1166.8397216796875
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738234.570541 effectType 4 targetObjectID 37376177 color -65536 duration 0.0
+x: 944.3807983398438 y: 1167.4346923828125
+x: 0.0 y: 0.0
+
+Aoe 1624738235.7515404 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 944.3807983398438 y: 1167.4346923828125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738237.949573 effectType 4 targetObjectID 37376177 color -65536 duration 0.0
+x: 949.3241577148438 y: 1174.2369384765625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738238.5485442 effectType 4 targetObjectID 39109401 color -65536 duration 0.0
+x: 932.413818359375 y: 1176.195556640625
+x: 0.0 y: 0.0
+
+Aoe 1624738239.3625426 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 949.3241577148438 y: 1174.2369384765625
+
+Aoe 1624738239.9585667 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 932.413818359375 y: 1176.195556640625
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738241.1495445 effectType 4 targetObjectID 37376177 color -65536 duration 0.0
+x: 944.3143310546875 y: 1172.1854248046875
+x: 0.0 y: 0.0
+
+Aoe 1624738242.5595405 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 944.3143310546875 y: 1172.1854248046875
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738255.1956835 effectType 4 targetObjectID 37911902 color -65536 duration 0.0
+x: 925.66552734375 y: 1156.931884765625
+x: 0.0 y: 0.0
+
+Aoe 1624738256.5926516 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 925.66552734375 y: 1156.931884765625
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738256.7976506 effectType 4 targetObjectID 38819495 color -65536 duration 0.0
+x: 910.1710815429688 y: 1161.635986328125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738257.9396486 effectType 4 targetObjectID 37911903 color -65536 duration 0.0
+x: 923.8187255859375 y: 1164.9771728515625
+x: 0.0 y: 0.0
+
+Aoe 1624738258.2756498 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 910.1710815429688 y: 1161.635986328125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738258.5596743 effectType 4 targetObjectID 39155875 color -65536 duration 0.0
+x: 908.1856689453125 y: 1161.2152099609375
+x: 0.0 y: 0.0
+
+Aoe 1624738259.1586514 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 923.8187255859375 y: 1164.9771728515625
+
+Aoe 1624738260.0156498 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 908.1856689453125 y: 1161.2152099609375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738260.1946483 effectType 4 targetObjectID 38819495 color -65536 duration 0.0
+x: 921.1373291015625 y: 1164.831787109375
+x: 0.0 y: 0.0
+
+Aoe 1624738261.6046505 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 921.1373291015625 y: 1164.831787109375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738263.401651 effectType 4 targetObjectID 38819495 color -65536 duration 0.0
+x: 917.9964599609375 y: 1173.9361572265625
+x: 0.0 y: 0.0
+
+Aoe 1624738264.9266493 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 917.9964599609375 y: 1173.9361572265625
+
+this is enemy 1620 name Medusa
+ShowEffect 1624738265.1816504 effectType 4 targetObjectID 39155875 color -65536 duration 0.0
+x: 915.3455810546875 y: 1173.037109375
+x: 0.0 y: 0.0
+
+Aoe 1624738266.5886493 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 915.3455810546875 y: 1173.037109375
+
+MapChange: Heavenly Rift
+MapChange: Ascended Rift

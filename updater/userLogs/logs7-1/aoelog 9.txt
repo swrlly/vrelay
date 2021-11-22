@@ -1,0 +1,4232 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625164419.937942 effectType 4 targetObjectID 9296455 color -65536 duration 0.0
+x: 1147.3468017578125 y: 1040.6494140625
+x: 0.0 y: 0.0
+
+Aoe 1625164421.3391945 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1147.3468017578125 y: 1040.6494140625
+
+enemy 1620 name Medusa
+ShowEffect 1625164423.1284087 effectType 4 targetObjectID 9296454 color -65536 duration 0.0
+x: 1130.127685546875 y: 1021.77099609375
+x: 0.0 y: 0.0
+
+Aoe 1625164424.5346484 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1130.127685546875 y: 1021.77099609375
+
+ShowEffect had KeyError: 802
+
+enemy 1620 name Medusa
+ShowEffect 1625164426.3298469 effectType 4 targetObjectID 9296454 color -65536 duration 0.0
+x: 1127.349609375 y: 1021.4443969726562
+x: 0.0 y: 0.0
+
+Aoe 1625164427.738079 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1127.349609375 y: 1021.4443969726562
+
+enemy 1620 name Medusa
+ShowEffect 1625164429.7237685 effectType 4 targetObjectID 9296454 color -65536 duration 0.0
+x: 1127.08984375 y: 1013.5048217773438
+x: 0.0 y: 0.0
+
+Aoe 1625164431.1330004 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1127.08984375 y: 1013.5048217773438
+
+enemy 1620 name Medusa
+ShowEffect 1625164431.9238844 effectType 4 targetObjectID 10494647 color -65536 duration 0.0
+x: 1127.0042724609375 y: 1011.04736328125
+x: 0.0 y: 0.0
+
+Aoe 1625164433.3301234 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1127.0042724609375 y: 1011.04736328125
+
+ShowEffect had KeyError: 802
+
+Connection was reset
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625164500.6870341 effectType 4 targetObjectID 10518499 color -16640 duration 0.0
+x: 24.204803466796875 y: 26.628908157348633
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625164519.2763152 effectType 4 targetObjectID 10518499 color -16640 duration 0.0
+x: 23.3504581451416 y: 25.7415771484375
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 10599499
+
+Aoe 1625164537.5665054 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 45.74949645996094 y: 25.1009578704834
+
+Aoe 1625164537.5675025 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 45.74949645996094 y: 25.1009578704834
+
+Aoe 1625164537.568499 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 35.03628921508789 y: 20.989999771118164
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625164548.7807815 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 47.974308013916016 y: 40.118675231933594
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625164553.002491 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 45.22123718261719 y: 43.14872741699219
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 805
+
+MapChange: Twisted Domain
+ShowEffect had KeyError: 24848
+
+Aoe 1625164632.948737 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 19.269210815429688 y: 26.74951171875
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625164655.9202967 effectType 4 targetObjectID 10701487 color -65536 duration 0.0
+x: 21.708141326904297 y: 33.75336837768555
+x: 0.0 y: 0.0
+
+Aoe 1625164657.3764024 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 21.708141326904297 y: 33.75336837768555
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625164684.559697 effectType 4 targetObjectID 10701487 color -65536 duration 0.0
+x: 17.931001663208008 y: 30.53152847290039
+x: 0.0 y: 0.0
+
+Aoe 1625164686.0068262 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 17.931001663208008 y: 30.53152847290039
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+MapChange: The Steps 2
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164731.114821 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 10.24796199798584 y: 22.8533935546875
+x: 0.0 y: 0.0
+
+Aoe 1625164732.4612193 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 10.24796199798584 y: 22.8533935546875
+
+ShowEffect had KeyError: 805
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164733.9163275 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 10.490915298461914 y: 26.168365478515625
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164735.1131265 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 9.64885139465332 y: 25.39830207824707
+x: 0.0 y: 0.0
+
+Aoe 1625164735.39238 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 10.490915298461914 y: 26.168365478515625
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164736.3109229 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 8.96926212310791 y: 25.423439025878906
+x: 0.0 y: 0.0
+
+Aoe 1625164736.5682344 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 9.64885139465332 y: 25.39830207824707
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164737.51969 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 8.96926212310791 y: 25.423439025878906
+x: 0.0 y: 0.0
+
+Aoe 1625164737.7680264 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.96926212310791 y: 25.423439025878906
+
+ShowEffect had KeyError: 802
+
+Aoe 1625164738.9688144 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.96926212310791 y: 25.423439025878906
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164740.3132188 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 8.96926212310791 y: 25.423439025878906
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625164741.7663314 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.96926212310791 y: 25.423439025878906
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625164747.6655533 effectType 4 targetObjectID 10814884 color 65535 duration 0.0
+x: 15.241479873657227 y: 20.03961753845215
+x: 0.0 y: 0.0
+
+Aoe 1625164749.1555684 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.241479873657227 y: 20.03961753845215
+
+MapChange: Summoning Point
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.6786325 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.6806264 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.6816237 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.6826212 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.6846175 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.685614 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.6866107 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.688605 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8741095 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 47.599998474121094 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8751073 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 46.42842483520508 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8761044 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 43.599998474121094 y: 44.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8780982 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 40.77157211303711 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8790965 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 39.599998474121094 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8800945 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 40.77157211303711 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.882088 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 43.599998474121094 y: 36.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164801.8830857 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 46.42842483520508 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164820.8962324 effectType 4 targetObjectID 10886834 color -65536 duration 0.0
+x: 44.16997146606445 y: 43.17737579345703
+x: 0.0 y: 0.0
+
+Aoe 1625164822.3972182 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 44.16997146606445 y: 43.17737579345703
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164832.9140892 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164832.9160838 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 11049792
+
+ShowEffect had KeyError: 11049791
+
+Aoe 1625164835.980887 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 46.52415084838867 y: 42.53295135498047
+
+Aoe 1625164835.9868703 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 40.71034622192383 y: 43.425132751464844
+
+ShowEffect had KeyError: 802
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625164836.7248964 effectType 4 targetObjectID 11049791 color 16776960 duration 0.0
+x: 41.70240020751953 y: 39.01372146606445
+x: 0.0 y: 0.0
+
+Aoe 1625164838.2149115 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 41.70240020751953 y: 39.01372146606445
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7095408 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7105389 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.711537 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.713531 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7155252 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7165232 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7195141 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7195141 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7205114 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7225068 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 39.05025100708008 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7235036 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 39.05025100708008 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164844.7254984 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 48.94974899291992 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164848.9202785 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 48.76959228515625 y: 46.941627502441406
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164848.9212759 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 38.870094299316406 y: 46.941627502441406
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164848.9222734 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 38.870094299316406 y: 37.04212951660156
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625164848.9232705 effectType 4 targetObjectID 10886834 color -16640 duration 0.0
+x: 48.76959228515625 y: 37.04212951660156
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625164853.5169842 radius 3.0 damage 537 effect 0 duration 0.0 origType 25841
+x: 47.35767364501953 y: 50.70929718017578
+
+Aoe 1625164855.318167 radius 3.0 damage 547 effect 0 duration 0.0 origType 25841
+x: 43.91791915893555 y: 48.56329345703125
+
+Aoe 1625164855.3201618 radius 3.0 damage 547 effect 0 duration 0.0 origType 25841
+x: 43.91791915893555 y: 48.56329345703125
+
+Aoe 1625164857.7197437 radius 3.0 damage 501 effect 0 duration 0.0 origType 25841
+x: 44.26415252685547 y: 57.3574104309082
+
+Aoe 1625164860.12531 radius 3.0 damage 529 effect 0 duration 0.0 origType 25841
+x: 47.394073486328125 y: 59.44774627685547
+
+Aoe 1625164860.127304 radius 3.0 damage 529 effect 0 duration 0.0 origType 25841
+x: 47.394073486328125 y: 59.44774627685547
+
+Aoe 1625164860.1292987 radius 3.0 damage 529 effect 0 duration 0.0 origType 25841
+x: 47.394073486328125 y: 59.44774627685547
+
+Aoe 1625164862.1259587 radius 3.0 damage 512 effect 0 duration 0.0 origType 25841
+x: 50.53287887573242 y: 65.48999786376953
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625164950.316677 effectType 4 targetObjectID 10944359 color -65536 duration 0.0
+x: 1079.53857421875 y: 1094.298095703125
+x: 0.0 y: 0.0
+
+Aoe 1625164951.582292 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1079.53857421875 y: 1094.298095703125
+
+enemy 1620 name Medusa
+ShowEffect 1625164977.6834815 effectType 4 targetObjectID 10943878 color -65536 duration 0.0
+x: 891.6705932617188 y: 1105.847900390625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625164977.8859396 effectType 4 targetObjectID 10943877 color -65536 duration 0.0
+x: 891.782470703125 y: 1103.894775390625
+x: 0.0 y: 0.0
+
+Aoe 1625164979.0228982 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 891.6705932617188 y: 1105.847900390625
+
+Aoe 1625164979.2163808 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 891.782470703125 y: 1103.894775390625
+
+Connection was aborted: [WinError 10053] An established connection was aborted by the software in your host machine
+MapChange: Nexus
+MapChange: Realm
+enemy 29517 name shtrs Defense System
+ShowEffect 1625165026.520029 effectType 4 targetObjectID 11206786 color -16640 duration 0.0
+x: 607.5 y: 1178.5
+x: 0.0 y: 0.0
+
+enemy 29517 name shtrs Defense System
+ShowEffect 1625165026.520029 effectType 4 targetObjectID 11206786 color -16640 duration 0.0
+x: 606.0355224609375 y: 1182.0355224609375
+x: 0.0 y: 0.0
+
+enemy 29517 name shtrs Defense System
+ShowEffect 1625165026.520029 effectType 4 targetObjectID 11206786 color -16640 duration 0.0
+x: 602.5 y: 1183.5
+x: 0.0 y: 0.0
+
+enemy 29517 name shtrs Defense System
+ShowEffect 1625165026.5210264 effectType 4 targetObjectID 11206786 color -16640 duration 0.0
+x: 602.5 y: 1173.5
+x: 0.0 y: 0.0
+
+enemy 29517 name shtrs Defense System
+ShowEffect 1625165026.5210264 effectType 4 targetObjectID 11206786 color -16640 duration 0.0
+x: 606.0355224609375 y: 1174.9644775390625
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625165047.3519442 effectType 4 targetObjectID 11292372 color -16640 duration 0.0
+x: 24.193605422973633 y: 25.008548736572266
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625165064.5399733 effectType 4 targetObjectID 11292372 color -16640 duration 0.0
+x: 24.193605422973633 y: 26.146629333496094
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625165084.4467301 effectType 4 targetObjectID 11292372 color -16640 duration 0.0
+x: 23.069717407226562 y: 24.53023338317871
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 11345294
+
+ShowEffect had KeyError: 11345330
+
+ShowEffect had KeyError: 11345313
+
+ShowEffect had KeyError: 11345304
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165100.7857575 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 46.20307159423828 y: 25.809492111206055
+
+Aoe 1625165100.7857575 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.490638732910156 y: 21.989999771118164
+
+Aoe 1625165100.7857575 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 46.20307159423828 y: 25.809492111206055
+
+Aoe 1625165100.7857575 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.490638732910156 y: 21.989999771118164
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+MapChange: Drannol Secret Shop
+MapChange: Twisted Trials Cont
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Domain
+ShowEffect had KeyError: 11445239
+
+ShowEffect had KeyError: 11445239
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625165211.9639907 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 18.433212280273438 y: 25.387422561645508
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625165234.7228086 effectType 4 targetObjectID 11445244 color -65536 duration 0.0
+x: 15.508378028869629 y: 32.716163635253906
+x: 0.0 y: 0.0
+
+Aoe 1625165236.2058423 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 15.508378028869629 y: 32.716163635253906
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625165263.1916654 effectType 4 targetObjectID 11445244 color -65536 duration 0.0
+x: 20.316938400268555 y: 32.06788635253906
+x: 0.0 y: 0.0
+
+Aoe 1625165264.6936483 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.316938400268555 y: 32.06788635253906
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: The Steps 2
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165307.2556403 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 21.161134719848633 y: 26.999143600463867
+x: 0.0 y: 0.0
+
+Aoe 1625165308.7149239 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.161134719848633 y: 26.999143600463867
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165309.4630182 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 24.107242584228516 y: 25.8778018951416
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165310.6619647 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 24.107242584228516 y: 25.8778018951416
+x: 0.0 y: 0.0
+
+Aoe 1625165310.9233 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 24.107242584228516 y: 25.8778018951416
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165311.8629055 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 25.520998001098633 y: 24.807714462280273
+x: 0.0 y: 0.0
+
+Aoe 1625165312.1302245 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 24.107242584228516 y: 25.8778018951416
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165313.0708282 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 25.520998001098633 y: 24.807714462280273
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165313.3351555 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 25.520998001098633 y: 24.807714462280273
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165314.27177 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 25.520998001098633 y: 24.807714462280273
+x: 0.0 y: 0.0
+
+Aoe 1625165314.5350995 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 25.520998001098633 y: 24.807714462280273
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165315.4776983 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 25.520998001098633 y: 24.807714462280273
+x: 0.0 y: 0.0
+
+Aoe 1625165315.755989 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 25.520998001098633 y: 24.807714462280273
+
+Aoe 1625165316.9708958 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 25.520998001098633 y: 24.807714462280273
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625165323.9461281 effectType 4 targetObjectID 11562636 color 65535 duration 0.0
+x: 14.472726821899414 y: 20.92928695678711
+x: 0.0 y: 0.0
+
+Aoe 1625165325.210907 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 14.472726821899414 y: 20.92928695678711
+
+MapChange: Summoning Point
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7087667 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7097638 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7117589 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7127566 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7137537 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7147508 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.7167456 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.717744 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.908258 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 48.400001525878906 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.9092557 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 47.22842788696289 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.910253 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 44.400001525878906 y: 44.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.9122481 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.57157516479492 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.914243 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 40.400001525878906 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.9172356 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.57157516479492 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.9172356 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 44.400001525878906 y: 36.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165380.918233 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 47.22842788696289 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165399.0719936 effectType 4 targetObjectID 11639694 color -65536 duration 0.0
+x: 43.0553092956543 y: 41.45378494262695
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165400.55821 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 43.0553092956543 y: 41.45378494262695
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165411.6828725 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165411.6848676 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 11752069
+
+ShowEffect had KeyError: 11752068
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165414.7161472 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 44.078155517578125 y: 40.49521255493164
+
+Aoe 1625165414.7181418 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 40.84516906738281 y: 42.14495086669922
+
+ShowEffect had KeyError: 802
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625165415.638797 effectType 4 targetObjectID 11752068 color 16776960 duration 0.0
+x: 41.8929443359375 y: 41.06828689575195
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165417.1240137 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 41.8929443359375 y: 41.06828689575195
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4359365 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4379318 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4429202 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4449139 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4469092 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4479065 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.448904 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4499018 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4518964 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4528937 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 39.05025100708008 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4548888 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 39.05025100708008 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165423.4558861 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 48.94974899291992 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165427.661175 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 49.194610595703125 y: 46.93471145629883
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165427.662172 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 39.29511260986328 y: 46.93471145629883
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165427.6631699 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 39.29511260986328 y: 37.035213470458984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625165427.665165 effectType 4 targetObjectID 11639694 color -16640 duration 0.0
+x: 49.194610595703125 y: 37.035213470458984
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Ultra Aldragine's Hideout
+ShowEffect had KeyError: 805
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165498.9131749 effectType 4 targetObjectID 11829856 color -65536 duration 0.0
+x: 65.20380401611328 y: 59.94657516479492
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625165499.129622 effectType 4 targetObjectID 11829840 color -16640 duration 0.0
+x: 66.19022369384766 y: 59.94657516479492
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165499.3061733 effectType 4 targetObjectID 11829879 color -65536 duration 0.0
+x: 66.19022369384766 y: 59.94657516479492
+x: 0.0 y: 0.0
+
+Aoe 1625165500.3535054 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 65.20380401611328 y: 59.94657516479492
+
+Aoe 1625165500.8093445 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 66.19022369384766 y: 59.94657516479492
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165502.9199684 effectType 4 targetObjectID 11829856 color -65536 duration 0.0
+x: 69.6220703125 y: 62.02978515625
+x: 0.0 y: 0.0
+
+Aoe 1625165504.3672822 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 69.6220703125 y: 62.02978515625
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165504.7173903 effectType 4 targetObjectID 11829878 color -65536 duration 0.0
+x: 58.5 y: 62.99394989013672
+x: 0.0 y: 0.0
+
+Aoe 1625165506.1686933 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 58.5 y: 62.99394989013672
+
+Aoe 1625165506.5706694 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 65.93433380126953 y: 37.57394027709961
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625165514.9154148 effectType 4 targetObjectID 11829755 color -16640 duration 0.0
+x: 70.5 y: 27.92302894592285
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165525.2042089 effectType 4 targetObjectID 11829765 color -65536 duration 0.0
+x: 70.79672241210938 y: 24.36525535583496
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165526.6854918 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 70.79672241210938 y: 24.36525535583496
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625165534.0067875 effectType 4 targetObjectID 11829756 color -16640 duration 0.0
+x: 70.51335144042969 y: 23.886154174804688
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625165543.6472328 effectType 4 targetObjectID 11829734 color -16640 duration 0.0
+x: 69.28509521484375 y: 15.18361759185791
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165544.0492096 effectType 4 targetObjectID 11829764 color -65536 duration 0.0
+x: 60.13837814331055 y: 20.838794708251953
+x: 0.0 y: 0.0
+
+Aoe 1625165545.5304358 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 60.13837814331055 y: 20.838794708251953
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165545.6551182 effectType 4 targetObjectID 11829759 color -65536 duration 0.0
+x: 72.4856185913086 y: 20.886962890625
+x: 0.0 y: 0.0
+
+Aoe 1625165547.1144016 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 72.4856185913086 y: 20.886962890625
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165549.517281 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 72.68074035644531 y: 6.7883429527282715
+
+Aoe 1625165549.5182788 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 72.68074035644531 y: 6.7883429527282715
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165550.4648685 effectType 4 targetObjectID 11829720 color -65536 duration 0.0
+x: 68.69795227050781 y: 11.81100082397461
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165550.4658654 effectType 4 targetObjectID 11829719 color -65536 duration 0.0
+x: 68.69795227050781 y: 11.81100082397461
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625165550.6454077 effectType 4 targetObjectID 11829727 color -16640 duration 0.0
+x: 66.87997436523438 y: 12.456525802612305
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165551.644862 effectType 4 targetObjectID 11829719 color -65536 duration 0.0
+x: 67.65596771240234 y: 12.454087257385254
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 11829753
+
+Aoe 1625165551.9291377 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 68.69795227050781 y: 11.81100082397461
+
+Aoe 1625165551.9301355 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 68.69795227050781 y: 11.81100082397461
+
+Aoe 1625165553.1360636 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 67.65596771240234 y: 12.454087257385254
+
+ShowEffect had KeyError: 11829754
+
+ShowEffect had KeyError: 802
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165558.4944162 effectType 4 targetObjectID 11829720 color -65536 duration 0.0
+x: 68.02816772460938 y: 9.018972396850586
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165561.9047291 effectType 4 targetObjectID 11829797 color -65536 duration 0.0
+x: 50.60643005371094 y: 34.93600082397461
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165563.1106586 effectType 4 targetObjectID 11829797 color -65536 duration 0.0
+x: 52.31391906738281 y: 35.76879119873047
+x: 0.0 y: 0.0
+
+Aoe 1625165563.4019167 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 50.60643005371094 y: 34.93600082397461
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165564.2976353 effectType 4 targetObjectID 11829797 color -65536 duration 0.0
+x: 52.771705627441406 y: 35.71805191040039
+x: 0.0 y: 0.0
+
+Aoe 1625165564.5769238 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 52.31391906738281 y: 35.76879119873047
+
+ShowEffect had KeyError: 802
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625165565.5145357 effectType 4 targetObjectID 11829797 color -65536 duration 0.0
+x: 54.363868713378906 y: 37.5
+x: 0.0 y: 0.0
+
+Aoe 1625165565.7668922 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 52.771705627441406 y: 35.71805191040039
+
+ShowEffect had KeyError: 805
+
+Aoe 1625165566.9518738 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 54.363868713378906 y: 37.5
+
+ShowEffect had KeyError: 11829773
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5174148 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 590.5 y: 676.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5184126 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 588.7426147460938 y: 680.7426147460938
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5184126 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 584.5 y: 682.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5184126 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 580.2573852539062 y: 680.7426147460938
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5194101 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 578.5 y: 676.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5194101 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 580.2573852539062 y: 672.2573852539062
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5194101 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 584.5 y: 670.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1625165806.5194101 effectType 4 targetObjectID 12141142 color -16640 duration 0.0
+x: 588.7426147460938 y: 672.2573852539062
+x: 0.0 y: 0.0
+
+MapChange: OceanTrench
+enemy 5900 name Giant Squid
+ShowEffect 1625165824.582671 effectType 4 targetObjectID 12206988 color -16640 duration 0.0
+x: 57.45106887817383 y: 52.85336685180664
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1625165825.8125389 effectType 4 targetObjectID 12206988 color -16640 duration 0.0
+x: 56.77573013305664 y: 55.657588958740234
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 12206961
+
+enemy 5900 name Giant Squid
+ShowEffect 1625165826.9965234 effectType 4 targetObjectID 12206988 color -16640 duration 0.0
+x: 55.58112716674805 y: 53.12688064575195
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1625165827.1911106 effectType 4 targetObjectID 12206961 color -16640 duration 0.0
+x: 55.58112716674805 y: 53.12688064575195
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1625165828.402941 effectType 4 targetObjectID 12206961 color -16640 duration 0.0
+x: 53.227298736572266 y: 54.91339874267578
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1625165829.599892 effectType 4 targetObjectID 12206961 color -16640 duration 0.0
+x: 58.95839309692383 y: 53.05048370361328
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Ancient Depths
+ShowEffect had KeyError: 802
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165919.9921553 effectType 4 targetObjectID 12292817 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 22047 name Zanarich
+ShowEffect 1625165930.2510247 effectType 4 targetObjectID 12347164 color -65536 duration 0.0
+x: 14.944672584533691 y: 22.06420135498047
+x: 0.0 y: 0.0
+
+Aoe 1625165931.645473 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 14.944672584533691 y: 22.06420135498047
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165938.3733366 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 13.985827445983887 y: 19.031633377075195
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1625165938.700503 effectType 4 targetObjectID 12347164 color -65536 duration 0.0
+x: 12.988495826721191 y: 19.84743309020996
+x: 0.0 y: 0.0
+
+Aoe 1625165939.6889853 radius 6.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 13.985827445983887 y: 19.031633377075195
+
+Aoe 1625165940.2126527 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 12.988495826721191 y: 19.84743309020996
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165940.5886939 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 16.229877471923828 y: 25.28280258178711
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165945.0373626 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 14.370434761047363 y: 18.71623420715332
+x: 0.0 y: 0.0
+
+Aoe 1625165946.4497654 radius 6.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 14.370434761047363 y: 18.71623420715332
+
+enemy 22047 name Zanarich
+ShowEffect 1625165955.648337 effectType 4 targetObjectID 12347164 color -65536 duration 0.0
+x: 15.763169288635254 y: 25.712316513061523
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165955.8508203 effectType 4 targetObjectID 12292817 color 255 duration 0.0
+x: 15.634812355041504 y: 20.23101806640625
+x: 0.0 y: 0.0
+
+Aoe 1625165957.059742 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 15.763169288635254 y: 25.712316513061523
+
+Aoe 1625165957.2532482 radius 2.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.634812355041504 y: 20.23101806640625
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165958.060193 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 20.408100128173828 y: 18.609935760498047
+x: 0.0 y: 0.0
+
+Aoe 1625165959.6920364 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 20.408100128173828 y: 18.609935760498047
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165960.2745523 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 10.256587982177734 y: 12.671897888183594
+x: 0.0 y: 0.0
+
+Aoe 1625165961.669999 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 10.256587982177734 y: 12.671897888183594
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165963.4604375 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 5.0720415115356445 y: 18.689889907836914
+x: 0.0 y: 0.0
+
+Aoe 1625165964.8768299 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 5.0720415115356445 y: 18.689889907836914
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165965.707714 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 8.551922798156738 y: 16.213041305541992
+x: 0.0 y: 0.0
+
+Aoe 1625165967.1061528 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 8.551922798156738 y: 16.213041305541992
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165969.1140387 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 8.028639793395996 y: 15.608948707580566
+x: 0.0 y: 0.0
+
+Aoe 1625165970.5204556 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 8.028639793395996 y: 15.608948707580566
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165971.298474 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 11.550312995910645 y: 14.23815631866455
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625165972.7009048 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 11.550312995910645 y: 14.23815631866455
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165973.7163148 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 7.10882043838501 y: 20.10462760925293
+x: 0.0 y: 0.0
+
+Aoe 1625165975.209512 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 7.10882043838501 y: 20.10462760925293
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625165975.9127219 effectType 4 targetObjectID 12292817 color 65280 duration 0.0
+x: 11.408590316772461 y: 19.27489471435547
+x: 0.0 y: 0.0
+
+Aoe 1625165977.3730018 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 11.408590316772461 y: 19.27489471435547
+
+MapChange: Realm
+Aoe 1625166006.1005046 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 758.668212890625 y: 1096.2906494140625
+
+enemy 1620 name Medusa
+ShowEffect 1625166010.9800758 effectType 4 targetObjectID 10944536 color -65536 duration 0.0
+x: 740.1800537109375 y: 1119.4779052734375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625166011.1825602 effectType 4 targetObjectID 12460311 color -65536 duration 0.0
+x: 738.2439575195312 y: 1119.0076904296875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625166012.1810172 effectType 4 targetObjectID 10944537 color -65536 duration 0.0
+x: 733.9161376953125 y: 1120.7110595703125
+x: 0.0 y: 0.0
+
+Aoe 1625166012.386494 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 740.1800537109375 y: 1119.4779052734375
+
+Aoe 1625166012.593965 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 738.2439575195312 y: 1119.0076904296875
+
+Aoe 1625166013.5904272 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 733.9161376953125 y: 1120.7110595703125
+
+ShowEffect had KeyError: 802
+
+MapChange: Galactic Plateau
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625166157.3124578 effectType 4 targetObjectID 12643510 color -16640 duration 0.0
+x: 22.835750579833984 y: 24.89130210876465
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625166175.5280612 effectType 4 targetObjectID 12643510 color -16640 duration 0.0
+x: 22.869211196899414 y: 24.316802978515625
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 805
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625166191.5751944 effectType 4 targetObjectID 12707529 color -65536 duration 0.0
+x: 55.58355712890625 y: 29.510677337646484
+x: 0.0 y: 0.0
+
+Aoe 1625166193.0374699 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 55.58355712890625 y: 29.510677337646484
+
+ShowEffect had KeyError: 12707553
+
+ShowEffect had KeyError: 12707553
+
+ShowEffect had KeyError: 12707553
+
+Aoe 1625166202.0654747 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 45.5 y: 39.12261199951172
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Domain
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166298.2794113 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 22.000343322753906 y: 32.38446807861328
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625166324.1807642 effectType 4 targetObjectID 12844887 color -65536 duration 0.0
+x: 20.085346221923828 y: 30.77324104309082
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166325.3686953 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.085346221923828 y: 30.77324104309082
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625166354.9273345 effectType 4 targetObjectID 12844887 color -65536 duration 0.0
+x: 19.768293380737305 y: 34.147151947021484
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625166356.1172607 effectType 4 targetObjectID 12844887 color -65536 duration 0.0
+x: 16.698698043823242 y: 29.67747688293457
+x: 0.0 y: 0.0
+
+Aoe 1625166356.4045184 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 19.768293380737305 y: 34.147151947021484
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166357.604418 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 16.698698043823242 y: 29.67747688293457
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: The Steps 2
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625166401.4735513 effectType 4 targetObjectID 12969594 color 65535 duration 0.0
+x: 16.990087509155273 y: 30.071855545043945
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625166402.6844234 effectType 4 targetObjectID 12969594 color 65535 duration 0.0
+x: 19.169649124145508 y: 28.236377716064453
+x: 0.0 y: 0.0
+
+Aoe 1625166402.9467452 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 16.990087509155273 y: 30.071855545043945
+
+Aoe 1625166404.142656 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 19.169649124145508 y: 28.236377716064453
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625166405.6786876 effectType 4 targetObjectID 12969594 color 65535 duration 0.0
+x: 12.451736450195312 y: 29.67720603942871
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166407.1907825 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 12.451736450195312 y: 29.67720603942871
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625166411.260268 effectType 4 targetObjectID 12969594 color 65535 duration 0.0
+x: 14.597412109375 y: 29.11848258972168
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166412.7155085 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 14.597412109375 y: 29.11848258972168
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625166418.0656872 effectType 4 targetObjectID 12969594 color 65535 duration 0.0
+x: 15.553346633911133 y: 19.89651870727539
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166419.548857 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.553346633911133 y: 19.89651870727539
+
+MapChange: Summoning Point
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4197712 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4227643 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4247582 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4267533 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4297457 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.431741 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4347332 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.4367285 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.620254 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.400001525878906 y: 39.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.6212509 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 47.22842788696289 y: 42.42842483520508
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.622249 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 44.400001525878906 y: 43.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.6242433 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.57157516479492 y: 42.42842483520508
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.6252408 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 40.400001525878906 y: 39.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.6272357 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.57157516479492 y: 36.77157211303711
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.628233 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 44.400001525878906 y: 35.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166472.6292303 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 47.22842788696289 y: 36.77157211303711
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166490.8282156 effectType 4 targetObjectID 13040339 color -65536 duration 0.0
+x: 43.55021667480469 y: 42.805477142333984
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166492.3423042 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 43.55021667480469 y: 42.805477142333984
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166502.7863233 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166502.7873206 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 13166448
+
+ShowEffect had KeyError: 13166447
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166505.8793325 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 46.32158660888672 y: 43.204402923583984
+
+Aoe 1625166505.8803306 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 41.46369552612305 y: 42.10121154785156
+
+ShowEffect had KeyError: 802
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625166506.6433594 effectType 4 targetObjectID 13166447 color 16776960 duration 0.0
+x: 46.67341232299805 y: 40.47761154174805
+x: 0.0 y: 0.0
+
+Aoe 1625166508.150466 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 46.67341232299805 y: 40.47761154174805
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2596834 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2626755 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2646701 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2676628 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2686605 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2696576 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2716527 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.27265 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2746444 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.2756422 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 39.05025100708008 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.277637 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 39.05025100708008 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166514.279632 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.94974899291992 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166518.4927478 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.87307357788086 y: 46.94828414916992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166518.4937453 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 38.973575592041016 y: 46.94828414916992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166518.4957402 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 38.973575592041016 y: 37.04878616333008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625166518.497735 effectType 4 targetObjectID 13040339 color -16640 duration 0.0
+x: 48.87307357788086 y: 37.04878616333008
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166522.6569903 radius 3.0 damage 517 effect 0 duration 0.0 origType 25841
+x: 44.58901596069336 y: 47.08872604370117
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166525.2602646 radius 3.0 damage 517 effect 0 duration 0.0 origType 25841
+x: 45.12461471557617 y: 50.12895584106445
+
+Aoe 1625166525.2622595 radius 3.0 damage 517 effect 0 duration 0.0 origType 25841
+x: 45.12461471557617 y: 50.12895584106445
+
+Aoe 1625166525.2632568 radius 3.0 damage 517 effect 0 duration 0.0 origType 25841
+x: 45.12461471557617 y: 50.12895584106445
+
+ShowEffect had KeyError: 805
+
+Aoe 1625166527.2700725 radius 3.0 damage 507 effect 0 duration 0.0 origType 25841
+x: 41.94036102294922 y: 51.852439880371094
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166529.467396 radius 3.0 damage 525 effect 0 duration 0.0 origType 25841
+x: 45.58877182006836 y: 52.751731872558594
+
+Aoe 1625166529.4693909 radius 3.0 damage 525 effect 0 duration 0.0 origType 25841
+x: 45.58877182006836 y: 52.751731872558594
+
+Aoe 1625166532.0736628 radius 3.0 damage 513 effect 0 duration 0.0 origType 25841
+x: 45.61045455932617 y: 59.408695220947266
+
+Aoe 1625166532.0756578 radius 3.0 damage 513 effect 0 duration 0.0 origType 25841
+x: 45.61045455932617 y: 59.408695220947266
+
+Aoe 1625166534.0705047 radius 3.0 damage 539 effect 0 duration 0.0 origType 25841
+x: 42.19231414794922 y: 59.56333541870117
+
+Aoe 1625166534.0715017 radius 3.0 damage 539 effect 0 duration 0.0 origType 25841
+x: 42.19231414794922 y: 59.56333541870117
+
+Aoe 1625166540.47496 radius 3.0 damage 542 effect 0 duration 0.0 origType 25841
+x: 44.34653854370117 y: 48.13851547241211
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166550.2876098 radius 3.0 damage 502 effect 0 duration 0.0 origType 25841
+x: 42.846038818359375 y: 54.65497970581055
+
+ShowEffect had KeyError: 802
+
+Aoe 1625166551.6929803 radius 3.0 damage 536 effect 0 duration 0.0 origType 25841
+x: 47.0775146484375 y: 48.34696578979492
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+MapChange: {oryx.OryxAPOSs_Castle}
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Woodland Labyrinth
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625166726.001712 effectType 4 targetObjectID 13371181 color -65536 duration 0.0
+x: 1025.0308837890625 y: 1037.819580078125
+x: 0.0 y: 0.0
+
+Aoe 1625166727.4429893 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1025.0308837890625 y: 1037.819580078125
+
+MapChange: The Crawling Depths
+MapChange: Realm
+MapChange: Undead Lair
+ShowEffect had KeyError: 13504278
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625166793.8337636 effectType 4 targetObjectID 13504298 color -65536 duration 0.0
+x: 72.69329833984375 y: 43.643157958984375
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625166794.0332491 effectType 4 targetObjectID 13504284 color -65536 duration 0.0
+x: 73.70854187011719 y: 46.23070526123047
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625166794.0342462 effectType 4 targetObjectID 13504295 color -65536 duration 0.0
+x: 73.70854187011719 y: 46.23070526123047
+x: 0.0 y: 0.0
+
+Aoe 1625166794.2287433 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 69.57262420654297 y: 29.654062271118164
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625166795.2151954 effectType 4 targetObjectID 13504279 color -65536 duration 0.0
+x: 84.0125961303711 y: 39.711055755615234
+x: 0.0 y: 0.0
+
+Aoe 1625166795.22118 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 72.69329833984375 y: 43.643157958984375
+
+Aoe 1625166795.425652 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 73.70854187011719 y: 46.23070526123047
+
+Aoe 1625166795.425652 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 73.70854187011719 y: 46.23070526123047
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625166796.2076313 effectType 4 targetObjectID 13504299 color -65536 duration 0.0
+x: 84.05571746826172 y: 53.49946212768555
+x: 0.0 y: 0.0
+
+Aoe 1625166797.6149955 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 84.05571746826172 y: 53.49946212768555
+
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625166852.0228765 effectType 4 targetObjectID 13553376 color -65536 duration 0.0
+x: 11.923800468444824 y: 14.433207511901855
+x: 0.0 y: 0.0
+
+Aoe 1625166853.4252534 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 11.923800468444824 y: 14.433207511901855
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625166854.2311726 effectType 4 targetObjectID 13553376 color -65536 duration 0.0
+x: 11.923800468444824 y: 16.647863388061523
+x: 0.0 y: 0.0
+
+Aoe 1625166855.6155953 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 11.923800468444824 y: 16.647863388061523
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625166904.4412894 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1371.6707763671875 y: 1002.7242431640625
+
+enemy 1620 name Medusa
+ShowEffect 1625166914.8397007 effectType 4 targetObjectID 13473916 color -65536 duration 0.0
+x: 1355.2073974609375 y: 979.7191772460938
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625166915.2406657 effectType 4 targetObjectID 13372374 color -65536 duration 0.0
+x: 1351.8948974609375 y: 982.0239868164062
+x: 0.0 y: 0.0
+
+Aoe 1625166916.2450697 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1355.2073974609375 y: 979.7191772460938
+
+Aoe 1625166916.6460342 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1351.8948974609375 y: 982.0239868164062
+
+enemy 1620 name Medusa
+ShowEffect 1625166918.0404315 effectType 4 targetObjectID 13473916 color -65536 duration 0.0
+x: 1347.8936767578125 y: 985.0479125976562
+x: 0.0 y: 0.0
+
+Aoe 1625166919.4547784 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1347.8936767578125 y: 985.0479125976562
+
+MapChange: Lab
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625167109.9043348 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1200.2935791015625 y: 1153.4857177734375
+
+Aoe 1625167109.9043348 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1200.2935791015625 y: 1153.4857177734375
+
+Aoe 1625167109.9043348 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1200.2935791015625 y: 1153.4857177734375
+
+enemy 1620 name Medusa
+ShowEffect 1625167117.3022242 effectType 4 targetObjectID 13371255 color -65536 duration 0.0
+x: 1165.697509765625 y: 1172.5777587890625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625167117.3032212 effectType 4 targetObjectID 13371256 color -65536 duration 0.0
+x: 1165.697509765625 y: 1172.5777587890625
+x: 0.0 y: 0.0
+
+Aoe 1625167118.6706886 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1165.697509765625 y: 1172.5777587890625
+
+Aoe 1625167118.671686 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1165.697509765625 y: 1172.5777587890625
+
+enemy 1620 name Medusa
+ShowEffect 1625167127.0620115 effectType 4 targetObjectID 13371257 color -65536 duration 0.0
+x: 1164.8494873046875 y: 1180.8336181640625
+x: 0.0 y: 0.0
+
+Aoe 1625167128.47137 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1164.8494873046875 y: 1180.8336181640625
+
+MapChange: Abyss
+MapChange: Ascended Abyss
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167219.6975148 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 15.022065162658691 y: 20.235458374023438
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167219.6975148 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.950997352600098 y: 20.235458374023438
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167219.6975148 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.950997352600098 y: 13.164390563964844
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167219.6985137 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 15.022065162658691 y: 13.164390563964844
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167220.9004066 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 15.022065162658691 y: 20.235458374023438
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167220.9004066 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.950997352600098 y: 20.235458374023438
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167220.9004066 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.950997352600098 y: 13.164390563964844
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167220.9004066 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 15.022065162658691 y: 13.164390563964844
+x: 0.0 y: 0.0
+
+Aoe 1625167221.0978963 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.022065162658691 y: 13.164390563964844
+
+Aoe 1625167221.098894 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.950997352600098 y: 13.164390563964844
+
+Aoe 1625167221.098894 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.950997352600098 y: 20.235458374023438
+
+Aoe 1625167221.098894 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.022065162658691 y: 20.235458374023438
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167222.109284 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.655513763427734 y: 21.378103256225586
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167222.109284 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.584445953369141 y: 21.378103256225586
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167222.109284 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.584445953369141 y: 14.307035446166992
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167222.109284 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.655513763427734 y: 14.307035446166992
+x: 0.0 y: 0.0
+
+Aoe 1625167222.306783 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.022065162658691 y: 13.164390563964844
+
+Aoe 1625167222.306783 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.950997352600098 y: 13.164390563964844
+
+Aoe 1625167222.306783 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.950997352600098 y: 20.235458374023438
+
+Aoe 1625167222.306783 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 15.022065162658691 y: 20.235458374023438
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167223.3041968 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.234915733337402 y: 22.50197982788086
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167223.3051937 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.163847923278809 y: 22.50197982788086
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167223.3051937 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.163847923278809 y: 15.430912017822266
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167223.3051937 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.234915733337402 y: 15.430912017822266
+x: 0.0 y: 0.0
+
+Aoe 1625167223.5026836 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.655513763427734 y: 14.307035446166992
+
+Aoe 1625167223.5026836 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.584445953369141 y: 14.307035446166992
+
+Aoe 1625167223.5026836 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.584445953369141 y: 21.378103256225586
+
+Aoe 1625167223.503682 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.655513763427734 y: 21.378103256225586
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167224.5868828 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.106468200683594 y: 23.695085525512695
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167224.5868828 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.035400390625 y: 23.695085525512695
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167224.5868828 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.035400390625 y: 16.6240177154541
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167224.5868828 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.106468200683594 y: 16.6240177154541
+x: 0.0 y: 0.0
+
+Aoe 1625167224.786368 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.234915733337402 y: 15.430912017822266
+
+Aoe 1625167224.786368 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.163847923278809 y: 15.430912017822266
+
+Aoe 1625167224.786368 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.163847923278809 y: 22.50197982788086
+
+Aoe 1625167224.7873654 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.234915733337402 y: 22.50197982788086
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167225.8745563 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.184613227844238 y: 24.89253807067871
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167225.875554 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.1135454177856445 y: 24.89253807067871
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167225.875554 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.1135454177856445 y: 17.821470260620117
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167225.875554 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.184613227844238 y: 17.821470260620117
+x: 0.0 y: 0.0
+
+Aoe 1625167226.0720465 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.106468200683594 y: 16.6240177154541
+
+Aoe 1625167226.0720465 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.035400390625 y: 16.6240177154541
+
+Aoe 1625167226.0720465 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.035400390625 y: 23.695085525512695
+
+Aoe 1625167226.0720465 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.106468200683594 y: 23.695085525512695
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167227.0824366 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.184613227844238 y: 24.89253807067871
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167227.0824366 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.1135454177856445 y: 24.89253807067871
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167227.0824366 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.1135454177856445 y: 17.821470260620117
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167227.0824366 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.184613227844238 y: 17.821470260620117
+x: 0.0 y: 0.0
+
+Aoe 1625167227.2809238 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.184613227844238 y: 17.821470260620117
+
+Aoe 1625167227.2809238 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.1135454177856445 y: 17.821470260620117
+
+Aoe 1625167227.2809238 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.1135454177856445 y: 24.89253807067871
+
+Aoe 1625167227.2819204 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.184613227844238 y: 24.89253807067871
+
+Aoe 1625167228.478829 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.184613227844238 y: 17.821470260620117
+
+Aoe 1625167228.478829 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.1135454177856445 y: 17.821470260620117
+
+Aoe 1625167228.478829 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.1135454177856445 y: 24.89253807067871
+
+Aoe 1625167228.478829 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.184613227844238 y: 24.89253807067871
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167232.8874393 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 9.7377290725708 y: 23.345199584960938
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167233.3781724 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 9.7377290725708 y: 23.869998931884766
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167233.7681653 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 10.37673282623291 y: 24.512876510620117
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167234.1681309 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 10.37673282623291 y: 24.512876510620117
+x: 0.0 y: 0.0
+
+Aoe 1625167234.1681309 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 9.7377290725708 y: 23.345199584960938
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167234.8753045 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 10.37673282623291 y: 24.512876510620117
+x: 0.0 y: 0.0
+
+Aoe 1625167234.8753045 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 9.7377290725708 y: 23.869998931884766
+
+Aoe 1625167235.2563202 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 10.37673282623291 y: 24.512876510620117
+
+Aoe 1625167235.6582818 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 10.37673282623291 y: 24.512876510620117
+
+Aoe 1625167236.0961502 radius 4.0 damage 25 effect 0 duration 0.0 origType 32943
+x: 10.37673282623291 y: 24.512876510620117
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167245.2325478 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.791913986206055 y: 19.996871948242188
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167245.2335455 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.720846176147461 y: 19.996871948242188
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167245.2335455 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.720846176147461 y: 12.925804138183594
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167245.2335455 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.791913986206055 y: 12.925804138183594
+x: 0.0 y: 0.0
+
+Aoe 1625167246.6389146 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 14.791913986206055 y: 12.925804138183594
+
+Aoe 1625167246.6389146 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 7.720846176147461 y: 12.925804138183594
+
+Aoe 1625167246.6399124 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 7.720846176147461 y: 19.996871948242188
+
+Aoe 1625167246.6399124 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 14.791913986206055 y: 19.996871948242188
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167247.0348916 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.791913986206055 y: 19.996871948242188
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167247.0348916 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.720846176147461 y: 12.925804138183594
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167247.4368544 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.720846176147461 y: 19.996871948242188
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167247.4368544 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.791913986206055 y: 12.925804138183594
+x: 0.0 y: 0.0
+
+Aoe 1625167248.438266 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 7.720846176147461 y: 12.925804138183594
+
+Aoe 1625167248.438266 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 14.791913986206055 y: 19.996871948242188
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167248.8352406 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.791913986206055 y: 19.996871948242188
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167248.8352406 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.720846176147461 y: 12.925804138183594
+x: 0.0 y: 0.0
+
+Aoe 1625167248.8352406 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 14.791913986206055 y: 12.925804138183594
+
+Aoe 1625167248.8352406 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 7.720846176147461 y: 19.996871948242188
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167249.639165 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 7.720846176147461 y: 19.996871948242188
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1625167249.6401618 effectType 4 targetObjectID 14051633 color -65536 duration 0.0
+x: 14.791913986206055 y: 12.925804138183594
+x: 0.0 y: 0.0
+
+Aoe 1625167250.2446 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 7.720846176147461 y: 12.925804138183594
+
+Aoe 1625167250.2446 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 14.791913986206055 y: 19.996871948242188
+
+Aoe 1625167251.041541 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 14.791913986206055 y: 12.925804138183594
+
+Aoe 1625167251.041541 radius 4.0 damage 100 effect 0 duration 0.0 origType 32943
+x: 7.720846176147461 y: 19.996871948242188
+
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Chamber of Malgor
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625168140.0904171 effectType 4 targetObjectID 14238015 color -65536 duration 0.0
+x: 986.1287841796875 y: 609.1740112304688
+x: 0.0 y: 0.0
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625168140.0914147 effectType 4 targetObjectID 14238014 color -65536 duration 0.0
+x: 994.2969360351562 y: 613.7428588867188
+x: 0.0 y: 0.0
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625168140.0914147 effectType 4 targetObjectID 14238012 color -65536 duration 0.0
+x: 986.1287841796875 y: 609.1740112304688
+x: 0.0 y: 0.0
+
+Aoe 1625168141.505725 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 986.1287841796875 y: 609.1740112304688
+
+Aoe 1625168141.505725 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 994.2969360351562 y: 613.7428588867188
+
+Aoe 1625168141.506722 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 986.1287841796875 y: 609.1740112304688
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168174.6572218 effectType 4 targetObjectID 14077297 color -65536 duration 0.0
+x: 978.6737670898438 y: 617.7210693359375
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168174.658218 effectType 4 targetObjectID 14077297 color -16640 duration 0.0
+x: 982.156005859375 y: 609.6597290039062
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168175.8580875 effectType 4 targetObjectID 14077297 color -65536 duration 0.0
+x: 981.0955810546875 y: 619.4666748046875
+x: 0.0 y: 0.0
+
+Aoe 1625168176.0735247 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 978.6737670898438 y: 617.7210693359375
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168177.059951 effectType 4 targetObjectID 14077297 color -65536 duration 0.0
+x: 976.377685546875 y: 613.3654174804688
+x: 0.0 y: 0.0
+
+Aoe 1625168177.2773836 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 981.0955810546875 y: 619.4666748046875
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168178.258823 effectType 4 targetObjectID 14077297 color -65536 duration 0.0
+x: 984.3007202148438 y: 619.1239013671875
+x: 0.0 y: 0.0
+
+Aoe 1625168178.4712687 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 976.377685546875 y: 613.3654174804688
+
+Aoe 1625168179.6990647 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 984.3007202148438 y: 619.1239013671875
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168187.051879 effectType 4 targetObjectID 14077297 color -16640 duration 0.0
+x: 984.8994140625 y: 613.625244140625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625168187.5964577 effectType 4 targetObjectID 14077297 color -16640 duration 0.0
+x: 987.5 y: 614.5
+x: 0.0 y: 0.0
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625168248.850084 effectType 4 targetObjectID 15249992 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625168248.850084 effectType 4 targetObjectID 15249992 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625168248.8510811 effectType 4 targetObjectID 15249992 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625168248.8510811 effectType 4 targetObjectID 15249992 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625168252.276145 effectType 4 targetObjectID 15249992 color -16640 duration 0.0
+x: 16.720998764038086 y: 16.336557388305664
+x: 0.0 y: 0.0
+
+MapChange: Realm
+Aoe 1625168267.1608593 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 601.7500610351562 y: 1762.9044189453125
+
+MapChange: Sincryer's Gate
+ShowEffect had KeyError: 802
+
+MapChange: Realm
+MapChange: {oryx.OryxAPOSs_Castle}
+ShowEffect had KeyError: 802
+
+MapChange: Oryx's Chamber
+ShowEffect had KeyError: 802
+
+MapChange: Wine Cellar
+ShowEffect had KeyError: 15476998
+
+ShowEffect had KeyError: 15476994
+
+ShowEffect had KeyError: 15476999
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 15479547
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 15479544
+
+ShowEffect had KeyError: 15479538
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 15481991
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 15481992
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 15484594
+
+ShowEffect had KeyError: 15484595
+
+ShowEffect had KeyError: 15481604
+
+ShowEffect had KeyError: 15486305
+
+ShowEffect had KeyError: 15487333
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 15484583
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 15482940
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168443.9909801 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 123.74021911621094 y: 68.86102294921875
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168445.1908493 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 123.36289978027344 y: 69.32610321044922
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168446.3907182 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 122.94371032714844 y: 69.72045135498047
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168447.5935795 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 122.63385772705078 y: 70.20646667480469
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168448.7934482 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 122.59947967529297 y: 70.77832794189453
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168449.9943147 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 122.41551971435547 y: 71.2605972290039
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625168451.1931865 effectType 4 targetObjectID 15476275 color -16640 duration 0.0
+x: 122.31512451171875 y: 71.43348693847656
+x: 0.0 y: 0.0
+
+MapChange: Temple
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625168863.3480144 effectType 4 targetObjectID 16067605 color -16640 duration 0.0
+x: 24.67502212524414 y: 26.454084396362305
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625168879.4855666 effectType 4 targetObjectID 16149740 color -65536 duration 0.0
+x: 34.61929702758789 y: 26.376176834106445
+x: 0.0 y: 0.0
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625168879.4865642 effectType 4 targetObjectID 16149751 color -65536 duration 0.0
+x: 34.61929702758789 y: 26.376176834106445
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 16149750
+
+Aoe 1625168880.9627125 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 46.7120246887207 y: 20.989999771118164
+
+Aoe 1625168880.96371 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.61929702758789 y: 26.376176834106445
+
+Aoe 1625168880.96371 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.61929702758789 y: 26.376176834106445
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625168898.6445746 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 46.53041458129883 y: 44.950279235839844
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625168903.1887174 effectType 4 targetObjectID 16149779 color -65536 duration 0.0
+x: 40.811553955078125 y: 59.55873489379883
+x: 0.0 y: 0.0
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625168903.9856381 effectType 4 targetObjectID 16149785 color -65536 duration 0.0
+x: 45.9522819519043 y: 54.417694091796875
+x: 0.0 y: 0.0
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625168904.390581 effectType 4 targetObjectID 16149779 color -65536 duration 0.0
+x: 45.65235900878906 y: 53.97274398803711
+x: 0.0 y: 0.0
+
+Aoe 1625168904.6439204 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 40.811553955078125 y: 59.55873489379883
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625168905.1805203 effectType 4 targetObjectID 16149785 color -65536 duration 0.0
+x: 46.398780822753906 y: 58.257164001464844
+x: 0.0 y: 0.0
+
+Aoe 1625168905.4308667 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 45.9522819519043 y: 54.417694091796875
+
+Aoe 1625168905.8308237 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 45.65235900878906 y: 53.97274398803711
+
+Aoe 1625168906.6456969 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 46.398780822753906 y: 58.257164001464844
+
+MapChange: Twisted Domain
+ShowEffect had KeyError: 16259735
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625168976.7378025 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 22.569974899291992 y: 25.40189552307129
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169001.0772924 effectType 4 targetObjectID 16259740 color -65536 duration 0.0
+x: 19.141399383544922 y: 31.110103607177734
+x: 0.0 y: 0.0
+
+Aoe 1625169002.5295029 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 19.141399383544922 y: 31.110103607177734
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169008.6984072 effectType 4 targetObjectID 16259740 color -65536 duration 0.0
+x: 24.31617546081543 y: 34.90251159667969
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169009.8883016 effectType 4 targetObjectID 16259740 color -65536 duration 0.0
+x: 22.719545364379883 y: 36.81696319580078
+x: 0.0 y: 0.0
+
+Aoe 1625169010.1416404 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 24.31617546081543 y: 34.90251159667969
+
+Aoe 1625169011.3514838 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 22.719545364379883 y: 36.81696319580078
+
+MapChange: The Steps 2
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169059.06716 effectType 4 targetObjectID 16341594 color 65535 duration 0.0
+x: 15.5 y: 19.5
+x: 0.0 y: 0.0
+
+Aoe 1625169060.5153816 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.5 y: 19.5
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169075.4932983 effectType 4 targetObjectID 16341594 color 65535 duration 0.0
+x: 15.5 y: 19.5
+x: 0.0 y: 0.0
+
+Aoe 1625169076.975432 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.5 y: 19.5
+
+MapChange: Summoning Point
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.0631173 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.0661094 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.067107 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.069101 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.0710964 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.0730913 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.074088 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.075086 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2566128 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.400001525878906 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2586076 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 47.22842788696289 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2596052 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 44.400001525878906 y: 44.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.260602 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.57157516479492 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2615995 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 40.400001525878906 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2685819 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.57157516479492 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2695787 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 44.400001525878906 y: 36.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169130.2705762 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 47.22842788696289 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 805
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169148.276592 effectType 4 targetObjectID 16425459 color -65536 duration 0.0
+x: 42.66992950439453 y: 40.780433654785156
+x: 0.0 y: 0.0
+
+Aoe 1625169149.7677011 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 42.66992950439453 y: 40.780433654785156
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169159.5312252 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169159.532222 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 16532988
+
+ShowEffect had KeyError: 16532987
+
+Aoe 1625169162.8455765 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 44.5 y: 38.5
+
+Aoe 1625169162.846574 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 43.89563751220703 y: 41.996490478515625
+
+ShowEffect had KeyError: 805
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9109287 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.918901 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.920896 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9218938 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9218938 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9238882 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9248855 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9258828 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9268806 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9278774 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 39.05025100708008 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.929872 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 39.05025100708008 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169171.9318671 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.94974899291992 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169176.1219342 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.70267105102539 y: 46.9344367980957
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169176.123929 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 38.80317306518555 y: 46.9344367980957
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169176.123929 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 38.80317306518555 y: 37.03493881225586
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169176.124926 effectType 4 targetObjectID 16425459 color -16640 duration 0.0
+x: 48.70267105102539 y: 37.03493881225586
+x: 0.0 y: 0.0
+
+Aoe 1625169180.3299541 radius 3.0 damage 540 effect 0 duration 0.0 origType 25841
+x: 43.296287536621094 y: 46.55586624145508
+
+Aoe 1625169180.3309517 radius 3.0 damage 540 effect 0 duration 0.0 origType 25841
+x: 43.296287536621094 y: 46.55586624145508
+
+Aoe 1625169180.3339438 radius 3.0 damage 540 effect 0 duration 0.0 origType 25841
+x: 43.296287536621094 y: 46.55586624145508
+
+Aoe 1625169180.3339438 radius 3.0 damage 540 effect 0 duration 0.0 origType 25841
+x: 43.296287536621094 y: 46.55586624145508
+
+Aoe 1625169180.334941 radius 3.0 damage 540 effect 0 duration 0.0 origType 25841
+x: 43.296287536621094 y: 46.55586624145508
+
+Aoe 1625169183.135633 radius 3.0 damage 520 effect 0 duration 0.0 origType 25841
+x: 44.016929626464844 y: 53.10490036010742
+
+Aoe 1625169183.135633 radius 3.0 damage 520 effect 0 duration 0.0 origType 25841
+x: 44.016929626464844 y: 53.10490036010742
+
+Aoe 1625169183.1376271 radius 3.0 damage 520 effect 0 duration 0.0 origType 25841
+x: 44.016929626464844 y: 53.10490036010742
+
+Aoe 1625169183.1386247 radius 3.0 damage 520 effect 0 duration 0.0 origType 25841
+x: 44.016929626464844 y: 53.10490036010742
+
+Aoe 1625169183.1396227 radius 3.0 damage 520 effect 0 duration 0.0 origType 25841
+x: 44.016929626464844 y: 53.10490036010742
+
+Aoe 1625169184.9379306 radius 3.0 damage 530 effect 0 duration 0.0 origType 25841
+x: 45.78303527832031 y: 57.5888671875
+
+Aoe 1625169184.938928 radius 3.0 damage 530 effect 0 duration 0.0 origType 25841
+x: 45.78303527832031 y: 57.5888671875
+
+Aoe 1625169184.939925 radius 3.0 damage 530 effect 0 duration 0.0 origType 25841
+x: 45.78303527832031 y: 57.5888671875
+
+Aoe 1625169186.9417021 radius 3.0 damage 525 effect 0 duration 0.0 origType 25841
+x: 43.552101135253906 y: 60.33401870727539
+
+Aoe 1625169186.9426994 radius 3.0 damage 525 effect 0 duration 0.0 origType 25841
+x: 43.552101135253906 y: 60.33401870727539
+
+Aoe 1625169201.6074338 radius 3.0 damage 500 effect 0 duration 0.0 origType 25841
+x: 37.40253448486328 y: 43.068912506103516
+
+Aoe 1625169207.010336 radius 3.0 damage 500 effect 0 duration 0.0 origType 25841
+x: 46.47514724731445 y: 60.23969268798828
+
+Aoe 1625169207.010336 radius 3.0 damage 500 effect 0 duration 0.0 origType 25841
+x: 46.47514724731445 y: 60.23969268798828
+
+Aoe 1625169207.010336 radius 3.0 damage 500 effect 0 duration 0.0 origType 25841
+x: 46.47514724731445 y: 60.23969268798828
+
+Aoe 1625169207.010336 radius 3.0 damage 500 effect 0 duration 0.0 origType 25841
+x: 46.47514724731445 y: 60.23969268798828
+
+ShowEffect had KeyError: 802
+
+Aoe 1625169210.0912962 radius 3.0 damage 540 effect 0 duration 0.0 origType 25841
+x: 46.85007095336914 y: 48.356719970703125
+
+ShowEffect had KeyError: 802
+
+Aoe 1625169213.6978853 radius 3.0 damage 511 effect 0 duration 0.0 origType 25841
+x: 47.351036071777344 y: 54.507293701171875
+
+Aoe 1625169214.0978427 radius 3.0 damage 539 effect 0 duration 0.0 origType 25841
+x: 55.258811950683594 y: 57.12436294555664
+
+Aoe 1625169214.0988398 radius 3.0 damage 539 effect 0 duration 0.0 origType 25841
+x: 55.258811950683594 y: 57.12436294555664
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+MapChange: Vault
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625169328.6862001 effectType 4 targetObjectID 16660352 color -65536 duration 0.0
+x: 1139.068115234375 y: 1183.3096923828125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625169329.6875868 effectType 4 targetObjectID 16680717 color -65536 duration 0.0
+x: 1134.6048583984375 y: 1193.7833251953125
+x: 0.0 y: 0.0
+
+Aoe 1625169330.1214552 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1139.068115234375 y: 1183.3096923828125
+
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+MapChange: Ancient Depths
+ShowEffect had KeyError: 802
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625169387.6191437 effectType 4 targetObjectID 16729392 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Hunter Cave
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 16876361
+
+ShowEffect had KeyError: 16876361
+
+Aoe 1625169550.5643322 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 35.463134765625 y: 19.62876319885254
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625169551.557703 effectType 4 targetObjectID 16876361 color -65536 duration 0.0
+x: 33.5 y: 22.772443771362305
+x: 0.0 y: 0.0
+
+Aoe 1625169551.862896 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 34.299560546875 y: 21.395275115966797
+
+ShowEffect had KeyError: 802
+
+Aoe 1625169553.0397809 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 33.5 y: 22.772443771362305
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625169557.1399295 effectType 4 targetObjectID 16876380 color -65536 duration 0.0
+x: 34.28727340698242 y: 25.82891845703125
+x: 0.0 y: 0.0
+
+Aoe 1625169558.538229 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.28727340698242 y: 25.82891845703125
+
+MapChange: Drannol Secret Shop
+MapChange: Twisted Trials Cont
+MapChange: Twisted Domain
+ShowEffect had KeyError: 24848
+
+Aoe 1625169660.9979658 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 23.859947204589844 y: 26.41383171081543
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169689.6920254 effectType 4 targetObjectID 16989601 color -65536 duration 0.0
+x: 19.0073184967041 y: 29.59716033935547
+x: 0.0 y: 0.0
+
+Aoe 1625169691.1142642 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 19.0073184967041 y: 29.59716033935547
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169699.755396 effectType 4 targetObjectID 16989601 color -65536 duration 0.0
+x: 19.4299373626709 y: 36.78105545043945
+x: 0.0 y: 0.0
+
+Aoe 1625169701.16666 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 19.4299373626709 y: 36.78105545043945
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169729.3710158 effectType 4 targetObjectID 16989601 color -65536 duration 0.0
+x: 22.404882431030273 y: 33.23291778564453
+x: 0.0 y: 0.0
+
+Aoe 1625169730.9817526 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 22.404882431030273 y: 33.23291778564453
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169733.6666472 effectType 4 targetObjectID 16989601 color -65536 duration 0.0
+x: 18.324491500854492 y: 35.80009078979492
+x: 0.0 y: 0.0
+
+Aoe 1625169735.0819845 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 18.324491500854492 y: 35.80009078979492
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625169736.06929 effectType 4 targetObjectID 16989601 color -65536 duration 0.0
+x: 12.564987182617188 y: 34.62008285522461
+x: 0.0 y: 0.0
+
+Aoe 1625169737.4875364 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 12.564987182617188 y: 34.62008285522461
+
+MapChange: The Steps 2
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169788.0133002 effectType 4 targetObjectID 17093889 color 65535 duration 0.0
+x: 21.317289352416992 y: 4.363178730010986
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169789.2191095 effectType 4 targetObjectID 17093889 color 65535 duration 0.0
+x: 25.64268684387207 y: 9.216329574584961
+x: 0.0 y: 0.0
+
+Aoe 1625169789.428554 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.317289352416992 y: 4.363178730010986
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169790.418933 effectType 4 targetObjectID 17093889 color 65535 duration 0.0
+x: 18.844940185546875 y: 5.636782646179199
+x: 0.0 y: 0.0
+
+Aoe 1625169790.629376 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 25.64268684387207 y: 9.216329574584961
+
+Aoe 1625169791.756394 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 18.844940185546875 y: 5.636782646179199
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169793.5386775 effectType 4 targetObjectID 17093889 color 65535 duration 0.0
+x: 20.335702896118164 y: 7.779465675354004
+x: 0.0 y: 0.0
+
+Aoe 1625169794.9599152 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 20.335702896118164 y: 7.779465675354004
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169795.5583315 effectType 4 targetObjectID 17093889 color 65535 duration 0.0
+x: 21.798612594604492 y: 5.4591803550720215
+x: 0.0 y: 0.0
+
+Aoe 1625169796.9705951 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 21.798612594604492 y: 5.4591803550720215
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625169804.6951509 effectType 4 targetObjectID 17093889 color 65535 duration 0.0
+x: 15.076684951782227 y: 20.66847038269043
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625169806.1123998 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.076684951782227 y: 20.66847038269043
+
+MapChange: Summoning Point
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.3297286 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.3307261 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.3307261 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.331723 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.331723 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.332721 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.3337185 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.3337185 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5321925 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 47.599998474121094 y: 39.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5331895 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 46.42842483520508 y: 42.42842483520508
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5331895 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 43.599998474121094 y: 43.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5341873 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 40.77157211303711 y: 42.42842483520508
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5401711 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 39.599998474121094 y: 39.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5411685 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 40.77157211303711 y: 36.77157211303711
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.5411685 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 43.599998474121094 y: 35.599998474121094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169860.542166 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 46.42842483520508 y: 36.77157211303711
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169879.2925425 effectType 4 targetObjectID 17145934 color -65536 duration 0.0
+x: 43.539363861083984 y: 43.11635208129883
+x: 0.0 y: 0.0
+
+Aoe 1625169880.7267468 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 43.539363861083984 y: 43.11635208129883
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169890.756204 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169890.756204 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 17232936
+
+ShowEffect had KeyError: 17232935
+
+Aoe 1625169893.7831926 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 44.0323371887207 y: 43.04432678222656
+
+Aoe 1625169893.7841897 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 40.496212005615234 y: 43.463035583496094
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625169894.554152 effectType 4 targetObjectID 17232935 color 16776960 duration 0.0
+x: 41.25157928466797 y: 41.00682067871094
+x: 0.0 y: 0.0
+
+Aoe 1625169896.1549156 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 41.25157928466797 y: 41.00682067871094
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625169897.023667 effectType 4 targetObjectID 17232935 color 16776960 duration 0.0
+x: 43.927040100097656 y: 39.894596099853516
+x: 0.0 y: 0.0
+
+Aoe 1625169898.2872722 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 43.927040100097656 y: 39.894596099853516
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625169899.369409 effectType 4 targetObjectID 17232935 color 16776960 duration 0.0
+x: 44.06991958618164 y: 43.66999435424805
+x: 0.0 y: 0.0
+
+Aoe 1625169900.7387846 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 44.06991958618164 y: 43.66999435424805
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3029978 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3029978 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3039947 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3039947 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3049927 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.30599 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.30599 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.30599 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.306987 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.319953 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 39.05025100708008 y: 44.94974899291992
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3209503 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 39.05025100708008 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169903.3209503 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 48.94974899291992 y: 35.05025100708008
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169907.5098648 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 48.96056365966797 y: 46.94972610473633
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169907.5098648 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 39.061065673828125 y: 46.94972610473633
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169907.5098648 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 39.061065673828125 y: 37.050228118896484
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625169907.5108619 effectType 4 targetObjectID 17145934 color -16640 duration 0.0
+x: 48.96056365966797 y: 37.050228118896484
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+MapChange: Marketplace
+Connection was aborted: [WinError 10053] An established connection was aborted by the software in your host machine
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Vault
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+enemy 29517 name shtrs Defense System
+ShowEffect 1625170102.7268598 effectType 4 targetObjectID 17441967 color -16640 duration 0.0
+x: 1123.5 y: 1079.5
+x: 0.0 y: 0.0
+
+MapChange: The Shatters
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9768496 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 138.7186737060547 y: 211.6616973876953
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9768496 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 140.59805297851562 y: 211.34573364257812
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9768496 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 139.64572143554688 y: 213.51486206054688
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9768496 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 138.7186737060547 y: 206.6616973876953
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9768496 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 134.88845825195312 y: 213.87564086914062
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9778469 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 134.12240600585938 y: 206.8049774169922
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9778469 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 142.73345947265625 y: 215.1205596923828
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9778469 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 141.51463317871094 y: 214.806884765625
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9778469 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 134.7186737060547 y: 210.6616973876953
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9778469 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 141.31675720214844 y: 212.1616973876953
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9788444 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 140.7186737060547 y: 210.6616973876953
+x: 0.0 y: 0.0
+
+enemy 28956 name shtrs Archmage of Flame
+ShowEffect 1625170130.9788444 effectType 4 targetObjectID 17542302 color -16640 duration 0.0
+x: 137.73387145996094 y: 210.48805236816406
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Undead Lair
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625170407.8358364 effectType 4 targetObjectID 17913186 color -16640 duration 0.0
+x: 23.6314697265625 y: 24.31113052368164
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Trials
+MapChange: Twisted Trials
+ShowEffect had KeyError: 805
+
+MapChange: Drannol Secret Shop
+MapChange: Twisted Trials Cont
+ShowEffect had KeyError: 802
+
+MapChange: Twisted Domain
+ShowEffect had KeyError: 24848
+
+Aoe 1625170531.2160144 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 25.531888961791992 y: 20.024545669555664
+
+ShowEffect had KeyError: 24848
+
+Aoe 1625170535.3989437 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 25.497425079345703 y: 20.77806854248047
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1625170554.5442765 effectType 4 targetObjectID 18062212 color -65536 duration 0.0
+x: 18.5 y: 32.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625170555.9833076 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 18.5 y: 32.5
+
+ShowEffect had KeyError: 802
+
+MapChange: The Steps 2
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 805
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625170600.6171823 effectType 4 targetObjectID 18106729 color 65535 duration 0.0
+x: 8.5 y: 19.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625170601.8269804 effectType 4 targetObjectID 18106729 color 65535 duration 0.0
+x: 8.5 y: 19.5
+x: 0.0 y: 0.0
+
+Aoe 1625170602.059365 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.5 y: 19.5
+
+Aoe 1625170603.2641766 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.5 y: 19.5
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625170607.0282147 effectType 4 targetObjectID 18106729 color 65535 duration 0.0
+x: 9.51597785949707 y: 22.75631332397461
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625170608.2270422 effectType 4 targetObjectID 18106729 color 65535 duration 0.0
+x: 9.344491004943848 y: 22.187700271606445
+x: 0.0 y: 0.0
+
+Aoe 1625170608.485358 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 9.51597785949707 y: 22.75631332397461
+
+Aoe 1625170609.6801963 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 9.344491004943848 y: 22.187700271606445
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1625170617.1175127 effectType 4 targetObjectID 18106729 color 65535 duration 0.0
+x: 15.2225923538208 y: 20.546995162963867
+x: 0.0 y: 0.0
+
+Aoe 1625170618.5636857 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 15.2225923538208 y: 20.546995162963867
+
+MapChange: Summoning Point
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.746201 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.7481956 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.7481956 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.7491934 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.7501907 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.751188 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.7531824 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.7541802 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9376945 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 47.599998474121094 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9446757 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 46.42842483520508 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9446757 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 43.599998474121094 y: 44.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9466703 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 40.77157211303711 y: 43.22842788696289
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9476676 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 39.599998474121094 y: 40.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9486656 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 40.77157211303711 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9496624 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 43.599998474121094 y: 36.400001525878906
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170670.9506607 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 46.42842483520508 y: 37.57157516479492
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170689.9706407 effectType 4 targetObjectID 18176168 color -65536 duration 0.0
+x: 43.5 y: 39.5
+x: 0.0 y: 0.0
+
+Aoe 1625170691.4367607 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 43.5 y: 39.5
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170701.9688869 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 41.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170701.9708827 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 47.0 y: 40.0
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 18277461
+
+ShowEffect had KeyError: 18277460
+
+Aoe 1625170705.0447466 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 43.5 y: 39.5
+
+Aoe 1625170705.0457442 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 43.5 y: 39.5
+
+enemy 25827 name Flaming Summon
+ShowEffect 1625170705.7688303 effectType 4 targetObjectID 18277460 color 16776960 duration 0.0
+x: 43.5 y: 39.5
+x: 0.0 y: 0.0
+
+Aoe 1625170707.2439263 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 43.5 y: 39.5
+
+ShowEffect had KeyError: 802
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7807474 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 48.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.781745 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 46.828426361083984 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7827425 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 44.0 y: 44.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7837393 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 41.171573638916016 y: 42.828426361083984
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7847373 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 40.0 y: 40.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7857354 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 41.171573638916016 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.793713 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 44.0 y: 36.0
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7947102 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 46.828426361083984 y: 37.171573638916016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1625170719.7967048 effectType 4 targetObjectID 18176168 color -16640 duration 0.0
+x: 48.94974899291992 y: 44.94974899291992
+x: 

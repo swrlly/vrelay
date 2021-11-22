@@ -1,0 +1,297 @@
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+enemy 3522 name Great Coil Snake
+ShowEffect 1625296790.0539622 effectType 4 targetObjectID 11732598 color -16640 duration 0.0
+x: 1518.7198486328125 y: 898.9561157226562
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625296790.6610844 effectType 4 targetObjectID 11732598 color -16640 duration 0.0
+x: 1514.31982421875 y: 902.5560913085938
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1625296791.2545173 effectType 4 targetObjectID 11732598 color -16640 duration 0.0
+x: 1510.31982421875 y: 897.7560424804688
+x: 0.0 y: 0.0
+
+MapChange: {oryx.OryxAPOSs_Castle}
+MapChange: Oryx's Chamber
+MapChange: Wine Cellar
+ShowEffect had KeyError: 13101474
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296968.2121089 effectType 4 targetObjectID 13101475 color -16640 duration 0.0
+x: 95.98065948486328 y: 107.41268920898438
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296968.4081988 effectType 4 targetObjectID 13101479 color -16640 duration 0.0
+x: 101.64007568359375 y: 116.55274963378906
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296968.4081988 effectType 4 targetObjectID 13101478 color -16640 duration 0.0
+x: 102.70001220703125 y: 120.69998168945312
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296968.6080825 effectType 4 targetObjectID 13101482 color -16640 duration 0.0
+x: 109.39997863769531 y: 126.80000305175781
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 13101926
+
+ShowEffect had KeyError: 13101934
+
+ShowEffect had KeyError: 13101930
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296969.2123604 effectType 4 targetObjectID 13101483 color -16640 duration 0.0
+x: 100.06534576416016 y: 127.1772232055664
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296969.8104484 effectType 4 targetObjectID 13101935 color -16640 duration 0.0
+x: 78.93441009521484 y: 126.33353424072266
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296969.8104484 effectType 4 targetObjectID 13101931 color -16640 duration 0.0
+x: 79.02088928222656 y: 127.35694885253906
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296970.0112078 effectType 4 targetObjectID 13101927 color -16640 duration 0.0
+x: 79.37039184570312 y: 116.77236938476562
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296971.0084822 effectType 4 targetObjectID 13101923 color -16640 duration 0.0
+x: 65.95576477050781 y: 106.35826873779297
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296971.009482 effectType 4 targetObjectID 13101471 color -16640 duration 0.0
+x: 83.16624450683594 y: 100.95191192626953
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296971.8128774 effectType 4 targetObjectID 13102337 color -16640 duration 0.0
+x: 64.08308410644531 y: 89.52571105957031
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 13101459
+
+ShowEffect had KeyError: 13102743
+
+ShowEffect had KeyError: 13102333
+
+ShowEffect had KeyError: 13103350
+
+ShowEffect had KeyError: 13102328
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296982.4103065 effectType 4 targetObjectID 13101910 color -16640 duration 0.0
+x: 69.43553161621094 y: 66.63552856445312
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296983.212362 effectType 4 targetObjectID 13101463 color -16640 duration 0.0
+x: 106.51356506347656 y: 80.4649887084961
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296984.0107124 effectType 4 targetObjectID 13102913 color -16640 duration 0.0
+x: 124.81224060058594 y: 64.2719497680664
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296984.0107124 effectType 4 targetObjectID 13101541 color -16640 duration 0.0
+x: 126.4515609741211 y: 67.36416625976562
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296984.0107124 effectType 4 targetObjectID 13101537 color -16640 duration 0.0
+x: 124.5390625 y: 67.71281433105469
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296984.611304 effectType 4 targetObjectID 13102914 color -16640 duration 0.0
+x: 120.80506896972656 y: 65.02908325195312
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296984.611304 effectType 4 targetObjectID 13101542 color -16640 duration 0.0
+x: 120.10411071777344 y: 64.97859954833984
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296984.611304 effectType 4 targetObjectID 13101538 color -16640 duration 0.0
+x: 120.1504898071289 y: 64.99685668945312
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296986.0089533 effectType 4 targetObjectID 13101466 color -16640 duration 0.0
+x: 136.59999084472656 y: 84.00001525878906
+x: 0.0 y: 0.0
+
+enemy 3553 name Monstrosity of Oryx
+ShowEffect 1625296986.6088445 effectType 4 targetObjectID 13101467 color -16640 duration 0.0
+x: 130.2883758544922 y: 86.95303344726562
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296991.4321406 effectType 4 targetObjectID 13101466 color -16640 duration 0.0
+x: 135.13552856445312 y: 83.3355712890625
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625296996.892794 effectType 4 targetObjectID 13101466 color -16640 duration 0.0
+x: 134.5 y: 80.50003051757812
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625297002.6118548 effectType 4 targetObjectID 13101660 color -16640 duration 0.0
+x: 115.699951171875 y: 47.29999542236328
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625297007.0133007 effectType 4 targetObjectID 13101252 color -16640 duration 0.0
+x: 123.6302490234375 y: 67.2643814086914
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625297008.0146198 effectType 4 targetObjectID 13101660 color -16640 duration 0.0
+x: 114.89993286132812 y: 52.29999542236328
+x: 0.0 y: 0.0
+
+enemy 2354 name Oryx the Mad God 2
+ShowEffect 1625297008.214308 effectType 4 targetObjectID 13101252 color -16640 duration 0.0
+x: 123.48500061035156 y: 67.63489532470703
+x: 0.0 y: 0.0
+
+enemy 3555 name Aberrant of Oryx
+ShowEffect 1625297008.4138236 effectType 4 targetObjectID 13101462 color -16640 duration 0.0
+x: 106.30001831054688 y: 86.0999755859375
+x: 0.0 y: 0.0
+
+MapChange: Temple
+enemy 5133 name Oryx the Mad God 3
+ShowEffect 1625297030.6254332 effectType 4 targetObjectID 13118882 color -16640 duration 0.0
+x: 27.83711814880371 y: 30.621753692626953
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+Aoe 1625297109.6472237 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1199.357666015625 y: 986.261962890625
+
+enemy 1620 name Medusa
+ShowEffect 1625297125.8481624 effectType 4 targetObjectID 13067390 color -65536 duration 0.0
+x: 1134.802978515625 y: 955.133544921875
+x: 0.0 y: 0.0
+
+Aoe 1625297127.2582943 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1134.802978515625 y: 955.133544921875
+
+enemy 1620 name Medusa
+ShowEffect 1625297127.6445487 effectType 4 targetObjectID 13067729 color -65536 duration 0.0
+x: 1124.9573974609375 y: 952.83984375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625297128.2446034 effectType 4 targetObjectID 13161001 color -65536 duration 0.0
+x: 1122.00439453125 y: 945.413330078125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625297128.8449748 effectType 4 targetObjectID 13067727 color -65536 duration 0.0
+x: 1117.9075927734375 y: 945.7561645507812
+x: 0.0 y: 0.0
+
+Aoe 1625297129.049394 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1124.9573974609375 y: 952.83984375
+
+Aoe 1625297129.6497521 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1122.00439453125 y: 945.413330078125
+
+Aoe 1625297130.2485473 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1117.9075927734375 y: 945.7561645507812
+
+MapChange: Tunnel of Pain
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+objectID: 13199652 slotID: 1 itemData: 
+x: 63.5 y: 154.5
+time 0 useType 1
+
+x: 13 y: 38
+objectID 13199652 tickID 0 time 0
+records:
+
+objectID: 13199652 slotID: 1 itemData: 
+x: 13 y: 38
+time 0 useType 1
+
+objectID: 13199652 slotID: 1 itemData: 
+x: 11.677760124206543 y: 38.0
+time 0 useType 1
+
+x: 138 y: 19
+objectID 13199652 tickID 0 time 0
+records:
+
+objectID: 13199652 slotID: 1 itemData: 
+x: 138 y: 19
+time 0 useType 1
+
+enemy 21678 name The Illusionist
+ShowEffect 1625297205.6883264 effectType 4 targetObjectID 13199209 color -16640 duration 0.0
+x: 147.5 y: 12.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625297205.6883264 effectType 4 targetObjectID 13199209 color -16640 duration 0.0
+x: 139.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625297205.6883264 effectType 4 targetObjectID 13199209 color -16640 duration 0.0
+x: 131.5 y: 12.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625297205.6883264 effectType 4 targetObjectID 13199209 color -16640 duration 0.0
+x: 139.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625297210.8906906 effectType 4 targetObjectID 13199209 color -16640 duration 0.0
+x: 136.4053497314453 y: 16.523853302001953
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625297210.8906906 effectType 4 targetObjectID 13199209 color -16640 duration 0.0
+x: 136.4053497314453 y: 16.523853302001953
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625297237.6762457 effectType 4 targetObjectID 13066833 color -65536 duration 0.0
+x: 1097.9404296875 y: 1053.658203125
+x: 0.0 y: 0.0
+
+Aoe 1625297239.0825891 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1097.9404296875 y: 1053.658203125
+
+MapChange: Heavenly Rift
+MapChange: Ascended Rift
+MapChange: Nexus
+MapChange: Realm
+Closed GUI. Shutting down proxy.

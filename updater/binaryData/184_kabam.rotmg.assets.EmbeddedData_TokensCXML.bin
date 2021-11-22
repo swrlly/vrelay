@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+	
+<Object type="0x39d1" id="Scrap x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d2" id="Scrap x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d3" id="Scrap x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d4" id="Scrap x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d5" id="Scrap x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d6" id="Scrap x6">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>6</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d7" id="Scrap x7">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>7</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d8" id="Scrap x8">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>8</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39d9" id="Scrap x9">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>9</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+	<Object type="0x39da" id="Scrap x10">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2c</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A piece of steel scrap, can be used to forge a steel ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>10</Quantity>
+    <DisplayId>Scrap</DisplayId>
+  </Object>
+<!-- START STEEL INGOT -->
+	<Object type="0x39db" id="Steel x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2d</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A long steel ingot, can be used to forge a titan plate.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Steel Ingot</DisplayId>
+  </Object>
+	<Object type="0x39dc" id="Steel x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x49</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A long steel ingot, can be used to forge a titan plate.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Steel Ingot</DisplayId>
+  </Object>
+	<Object type="0x39dd" id="Steel x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2d</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A long steel ingot, can be used to forge a titan plate.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Steel Ingot</DisplayId>
+  </Object>
+	<Object type="0x39de" id="Steel x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2d</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A long steel ingot, can be used to forge a titan plate.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Steel Ingot</DisplayId>
+  </Object>
+	<Object type="0x39df" id="Steel x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2d</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>A long steel ingot, can be used to forge a titan plate.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Steel Ingot</DisplayId>
+  </Object>
+<!-- START ALIEN STONE -->
+	<Object type="0x40a1" id="Alien Stone x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a2" id="Alien Stone x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a3" id="Alien Stone x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a4" id="Alien Stone x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a5" id="Alien Stone x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a6" id="Alien Stone x6">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>6</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a7" id="Alien Stone x7">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>7</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a8" id="Alien Stone x8">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>8</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40a9" id="Alien Stone x9">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>9</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+	<Object type="0x40aa" id="Alien Stone x10">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A small rock containing an alien mineral, can be used to forge an alien boulder.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>10</Quantity>
+    <DisplayId>Alien Stone</DisplayId>
+  </Object>
+<!-- START ALIEN BOULDER -->
+	<Object type="0x40ab" id="Alien Boulder x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A medium boulder containing even more alien mineral, can be used to forge a pure alien rock.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Alien Boulder</DisplayId>
+  </Object>
+	<Object type="0x40ac" id="Alien Boulder x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of boulders containing even more alien mineral, can be used to forge a pure alien rock.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Alien Boulder</DisplayId>
+  </Object>
+	<Object type="0x40ad" id="Alien Boulder x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of boulders containing even more alien mineral, can be used to forge a pure alien rock.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Alien Boulder</DisplayId>
+  </Object>
+	<Object type="0x40ae" id="Alien Boulder x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of boulders containing even more alien mineral, can be used to forge a pure alien rock.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Alien Boulder</DisplayId>
+  </Object>
+	<Object type="0x40af" id="Alien Boulder x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of boulders containing even more alien mineral, can be used to forge a pure alien rock.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Alien Boulder</DisplayId>
+  </Object>
+<!-- START SHABBY FABRIC -->
+	<Object type="0x40b1" id="Shabby Fabric x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b2" id="Shabby Fabric x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b3" id="Shabby Fabric x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b4" id="Shabby Fabric x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b5" id="Shabby Fabric x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b6" id="Shabby Fabric x6">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>6</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b7" id="Shabby Fabric x7">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>7</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b8" id="Shabby Fabric x8">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>8</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40b9" id="Shabby Fabric x9">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>9</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+	<Object type="0x40ba" id="Shabby Fabric x10">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A basic piece of fabric, can be used to forge a fancy piece of cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>10</Quantity>
+    <DisplayId>Shabby Fabric</DisplayId>
+  </Object>
+<!-- START FANCY CLOTH -->
+	<Object type="0x40bb" id="Fancy Cloth x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An exquisite piece of cloth, can be used to forge a luxurious textile.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Fancy Cloth</DisplayId>
+  </Object>
+	<Object type="0x40bc" id="Fancy Cloth x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An exquisite piece of cloth, can be used to forge a luxurious textile.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Fancy Cloth</DisplayId>
+  </Object>
+	<Object type="0x40bd" id="Fancy Cloth x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An exquisite piece of cloth, can be used to forge a luxurious textile.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Fancy Cloth</DisplayId>
+  </Object>
+	<Object type="0x40be" id="Fancy Cloth x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An exquisite piece of cloth, can be used to forge a luxurious textile.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Fancy Cloth</DisplayId>
+  </Object>
+	<Object type="0x40bf" id="Fancy Cloth x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An exquisite piece of cloth, can be used to forge a luxurious textile.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Fancy Cloth</DisplayId>
+  </Object>
+<!-- START CYBER DUST -->
+	<Object type="0x40c1" id="Cyber Dust x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c2" id="Cyber Dust x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c3" id="Cyber Dust x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c5" id="Cyber Dust x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c6" id="Cyber Dust x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c7" id="Cyber Dust x6">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>6</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c8" id="Cyber Dust x7">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>7</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40c9" id="Cyber Dust x8">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>8</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40ca" id="Cyber Dust x9">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>9</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+	<Object type="0x40cb" id="Cyber Dust x10">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44d</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A pile of dust from cybernetic boards, can be used to forge a cyber ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>10</Quantity>
+    <DisplayId>Cyber Dust</DisplayId>
+  </Object>
+<!-- START CYBER INGOT -->
+	<Object type="0x40cc" id="Cyber Ingot x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An advanced cybernetic ingot, can be used to forge cyber essence.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>1</Quantity>
+    <DisplayId>Cyber Ingot</DisplayId>
+  </Object>
+	<Object type="0x40cd" id="Cyber Ingot x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An advanced cybernetic ingot, can be used to forge cyber essence.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>2</Quantity>
+    <DisplayId>Cyber Ingot</DisplayId>
+  </Object>
+	<Object type="0x40ce" id="Cyber Ingot x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An advanced cybernetic ingot, can be used to forge cyber essence.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>3</Quantity>
+    <DisplayId>Cyber Ingot</DisplayId>
+  </Object>
+	<Object type="0x40cf" id="Cyber Ingot x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An advanced cybernetic ingot, can be used to forge cyber essence.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>4</Quantity>
+    <DisplayId>Cyber Ingot</DisplayId>
+  </Object>
+	<Object type="0x40d1" id="Cyber Ingot x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44e</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An advanced cybernetic ingot, can be used to forge cyber essence.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <Quantity>5</Quantity>
+    <DisplayId>Cyber Ingot</DisplayId>
+  </Object>
+ <!-- FINISHED MATERIALS -->
+<Object type="0x40d2" id="Titan Plate">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+		<File>realmLegendaries8x8Embed</File>
+		<Index>0x2e</Index>
+	</Texture>
+    <SlotType>10</SlotType>
+    <Description>An extremely sturdy plate made of highly compressed steel.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <DisplayId>Titan Plate</DisplayId>
+	<Material/>
+  </Object>
+<Object type="0x40d3" id="Pure Alien Rock">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x42f</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A large rock made out of pure alien mineral.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <DisplayId>Pure Alien Rock</DisplayId>
+	<Material/>
+  </Object>
+<Object type="0x40d4" id="Luxurious Textile">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x43f</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A large bolt of amazingly designed cloth.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <DisplayId>Luxurious Textile</DisplayId>
+	<Material/>
+  </Object>
+<Object type="0x40d5" id="Cybernetic Essence">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+        <File>legendaries8x8Embed</File>
+        <Index>0x44f</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Pure electricity in the form of a metal ingot.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <DisplayId>Cybernetic Essence</DisplayId>
+  </Object>
+
+  
+  
+  
+  
+  <Object type="0x38d9" id="Shiny Rat Bag">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x503</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+	<Description>A shiny reward for true hoarders.</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+	<Activate currencyType="Onrane" randVals="5, 8, 10, 11, 17">RandomCurrency</Activate>
+    <Consumable/>
+	<ExtraTooltipData>
+      <EffectInfo name="" description="The Ultimate Hoarding Experience"/>
+    </ExtraTooltipData>
+    <DisplayId>Shiny Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+  
+  <Object type="0x38d8" id="Hoarder Rat Bag">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x502</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+	<Activate>PackRat2</Activate>
+    <Consumable/>
+	<Description>Keep stacking these up!</Description>
+	<ExtraTooltipData>
+      <EffectInfo name="" description="Drag two of these together to create the next tier, or consume at this tier!"/>
+    </ExtraTooltipData>
+    <DisplayId>Hoarder Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+   
+	
+  <Object type="0x38d7" id="Pack Rat Bag x7 (Old)">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+	<Activate>PackRat</Activate>
+    <Consumable/>
+    <DisplayId>Pack Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+  
+  
+  
+  <Object type="0x38d6" id="Pack Rat Bag x6 (Old)">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+    <DisplayId>Pack Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+  
+  <Object type="0x38d5" id="Pack Rat Bag x5">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+	<Activate>PackRat</Activate>
+	<Consumable/>
+	<ExtraTooltipData>
+      <EffectInfo name="" description="Drag two of these together to create the next tier, or consume at this tier!"/>
+    </ExtraTooltipData>
+    <DisplayId>Pack Ratbag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+  
+  <Object type="0x38d2" id="Pack Rat Bag x4">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+	<Quantity>4</Quantity>
+    <DisplayId>Pack Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+  <Object type="0x38d1" id="Pack Rat Bag x3">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+	<Quantity>3</Quantity>
+    <DisplayId>Pack Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+	
+  <Object type="0x34e5" id="Pack Rat Bag x2">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+	<Quantity>2</Quantity>
+    <DisplayId>Pack Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+  <Object type="0x43e4" id="Pack Rat Bag x1">
+    <Class>Equipment</Class>
+    <Item/>
+	<Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x4f2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>We're not sure what's in this. Nobody really is. You'll get something out of it though??</Description>
+    <Sound>use_potion</Sound>
+	<ExtraTooltipData>
+      <EffectInfo name="" description="Stack up 5 pack rats for a T1 reward!"/>
+    </ExtraTooltipData>
+    <BagType>5</BagType>
+    <feedPower>200</feedPower>
+	<Quantity>1</Quantity>
+    <DisplayId>Pack Rat Bag</DisplayId>
+	<Soulbound/>
+  </Object>
+  
+
+</Objects>

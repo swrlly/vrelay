@@ -1,0 +1,414 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+MapChange: Ascended Lab
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392780.418256 effectType 4 targetObjectID 23931622 color -16640 duration 0.0
+x: 8.445276260375977 y: 12.395966529846191
+x: 0.0 y: 0.0
+
+this is enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1624392780.6292696 effectType 4 targetObjectID 23936254 color -16640 duration 0.0
+x: 8.445276260375977 y: 12.395966529846191
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392781.8157907 effectType 4 targetObjectID 23931622 color -16640 duration 0.0
+x: 7.100371837615967 y: 16.184322357177734
+x: 0.0 y: 0.0
+
+this is enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1624392782.0766132 effectType 4 targetObjectID 23936254 color -16640 duration 0.0
+x: 21.639572143554688 y: 11.185925483703613
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392789.8606696 effectType 4 targetObjectID 23931622 color -16640 duration 0.0
+x: 7.719315052032471 y: 9.504483222961426
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392790.036206 effectType 4 targetObjectID 23931622 color -65536 duration 0.0
+x: 11.431804656982422 y: 15.091830253601074
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392790.036206 effectType 4 targetObjectID 23931622 color -65536 duration 0.0
+x: 7.431804656982422 y: 11.091830253601074
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392790.0372033 effectType 4 targetObjectID 23931622 color -65536 duration 0.0
+x: 11.431804656982422 y: 7.091830253601074
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392790.0372033 effectType 4 targetObjectID 23931622 color -65536 duration 0.0
+x: 15.431804656982422 y: 11.091830253601074
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392790.0372033 effectType 4 targetObjectID 23931622 color -16640 duration 0.0
+x: 7.719315052032471 y: 9.504483222961426
+x: 0.0 y: 0.0
+
+Aoe 1624392791.4342222 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 15.431804656982422 y: 11.091830253601074
+
+Aoe 1624392791.4342222 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.431804656982422 y: 7.091830253601074
+
+Aoe 1624392791.4342222 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.431804656982422 y: 11.091830253601074
+
+Aoe 1624392791.4342222 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.431804656982422 y: 15.091830253601074
+
+MapChange: Realm
+MapChange: Lab
+MapChange: Ascended Lab
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392849.4503338 effectType 4 targetObjectID 23994854 color -16640 duration 0.0
+x: 13.085368156433105 y: 24.254013061523438
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392850.6521285 effectType 4 targetObjectID 23994854 color -65536 duration 0.0
+x: 14.544914245605469 y: 22.45078468322754
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392850.6521285 effectType 4 targetObjectID 23994854 color -65536 duration 0.0
+x: 10.544914245605469 y: 18.45078468322754
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392850.6521285 effectType 4 targetObjectID 23994854 color -65536 duration 0.0
+x: 14.544914245605469 y: 14.450784683227539
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392850.6521285 effectType 4 targetObjectID 23994854 color -65536 duration 0.0
+x: 18.54491424560547 y: 18.45078468322754
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392850.6521285 effectType 4 targetObjectID 23994854 color -16640 duration 0.0
+x: 18.982250213623047 y: 19.405258178710938
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624392852.0601945 effectType 4 targetObjectID 23994854 color -16640 duration 0.0
+x: 21.29604148864746 y: 14.263498306274414
+x: 0.0 y: 0.0
+
+Aoe 1624392852.0601945 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 18.54491424560547 y: 18.45078468322754
+
+Aoe 1624392852.0601945 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 14.544914245605469 y: 14.450784683227539
+
+Aoe 1624392852.0601945 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 10.544914245605469 y: 18.45078468322754
+
+Aoe 1624392852.0601945 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 14.544914245605469 y: 22.45078468322754
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624392948.8567016 effectType 4 targetObjectID 23798933 color -65536 duration 0.0
+x: 1059.0313720703125 y: 1213.1087646484375
+x: 0.0 y: 0.0
+
+Aoe 1624392950.2778788 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1059.0313720703125 y: 1213.1087646484375
+
+this is enemy 1620 name Medusa
+ShowEffect 1624392957.0583804 effectType 4 targetObjectID 23719225 color -65536 duration 0.0
+x: 996.6602783203125 y: 1287.4764404296875
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624392972.0697432 effectType 4 targetObjectID 23838920 color -65536 duration 0.0
+x: 842.0787963867188 y: 1193.8184814453125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624392973.0657458 effectType 4 targetObjectID 23719157 color -65536 duration 0.0
+x: 840.1070556640625 y: 1190.0
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624392973.4743795 effectType 4 targetObjectID 24080374 color -65536 duration 0.0
+x: 842.1207275390625 y: 1187.9378662109375
+x: 0.0 y: 0.0
+
+Aoe 1624392973.4903355 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 842.0787963867188 y: 1193.8184814453125
+
+Aoe 1624392974.487108 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 840.1070556640625 y: 1190.0
+
+MapChange: Lab
+this is enemy 2422 name Dr Terrible
+ShowEffect 1624393002.548256 effectType 4 targetObjectID 24127501 color -16640 duration 0.0
+x: 21.25408935546875 y: 38.352542877197266
+x: 0.0 y: 0.0
+
+MapChange: Ascended Lab
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393015.187826 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 5.107725620269775 y: 12.917693138122559
+x: 0.0 y: 0.0
+
+Aoe 1624393016.5442164 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 5.107725620269775 y: 12.917693138122559
+
+this is enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1624393018.354034 effectType 4 targetObjectID 24148036 color -16640 duration 0.0
+x: 15.357626914978027 y: 16.979894638061523
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393021.746388 effectType 4 targetObjectID 24140975 color -16640 duration 0.0
+x: 13.301711082458496 y: 12.705326080322266
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393022.5740838 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 11.049057006835938 y: 16.76654052734375
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393022.5740838 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 7.0490570068359375 y: 12.766541481018066
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393022.5740838 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 11.049057006835938 y: 8.766541481018066
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393022.5750597 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 15.049057006835938 y: 12.766541481018066
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393022.5750597 effectType 4 targetObjectID 24140975 color -16640 duration 0.0
+x: 10.063315391540527 y: 12.705326080322266
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393023.9389744 effectType 4 targetObjectID 24140975 color -16640 duration 0.0
+x: 4.388021945953369 y: 12.705326080322266
+x: 0.0 y: 0.0
+
+Aoe 1624393023.9389744 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 15.049057006835938 y: 12.766541481018066
+
+Aoe 1624393023.939948 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.049057006835938 y: 8.766541481018066
+
+Aoe 1624393023.939948 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.0490570068359375 y: 12.766541481018066
+
+Aoe 1624393023.939948 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.049057006835938 y: 16.76654052734375
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393024.7703493 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 3.6355931758880615 y: 17.08808135986328
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393024.7709568 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: -0.3644068241119385 y: 13.088082313537598
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393024.7709568 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 3.6355931758880615 y: 9.088082313537598
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393024.7709568 effectType 4 targetObjectID 24140975 color -65536 duration 0.0
+x: 7.635593414306641 y: 13.088082313537598
+x: 0.0 y: 0.0
+
+this is enemy 28704 name Ascended Dr Terrible
+ShowEffect 1624393025.3701384 effectType 4 targetObjectID 24140975 color -16640 duration 0.0
+x: 1.5 y: 12.705326080322266
+x: 0.0 y: 0.0
+
+Aoe 1624393026.1431653 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.635593414306641 y: 13.088082313537598
+
+Aoe 1624393026.1431653 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 3.6355931758880615 y: 9.088082313537598
+
+Aoe 1624393026.1431653 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: -0.3644068241119385 y: 13.088082313537598
+
+Aoe 1624393026.1431653 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 3.6355931758880615 y: 17.08808135986328
+
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624393052.517859 effectType 4 targetObjectID 23323153 color -65536 duration 0.0
+x: 1228.3905029296875 y: 993.223388671875
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624393063.362054 effectType 4 targetObjectID 24156345 color -65536 duration 0.0
+x: 1259.7427978515625 y: 1002.9015502929688
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624393063.9176722 effectType 4 targetObjectID 24075413 color -65536 duration 0.0
+x: 1269.0218505859375 y: 1003.34033203125
+x: 0.0 y: 0.0
+
+Aoe 1624393064.7311018 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1259.7427978515625 y: 1002.9015502929688
+
+Aoe 1624393065.3320687 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1269.0218505859375 y: 1003.34033203125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624393066.7195945 effectType 4 targetObjectID 24155125 color -65536 duration 0.0
+x: 1287.1727294921875 y: 1008.933837890625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624393067.922628 effectType 4 targetObjectID 23321953 color -65536 duration 0.0
+x: 1281.06689453125 y: 1002.74853515625
+x: 0.0 y: 0.0
+
+Aoe 1624393068.1559315 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1287.1727294921875 y: 1008.933837890625
+
+Aoe 1624393069.3326168 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1281.06689453125 y: 1002.74853515625
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393085.1190367 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393085.1190367 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393085.1190367 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393085.1190367 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393090.9626083 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 18.121318817138672 y: 19.121318817138672
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393090.9635806 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 11.050251960754395 y: 19.121318817138672
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393090.9635806 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 11.050251960754395 y: 12.050251960754395
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393090.9635806 effectType 4 targetObjectID 24208592 color -16640 duration 0.0
+x: 18.121318817138672 y: 12.050251960754395
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393184.2093537 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393184.2093537 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393184.2093537 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393184.2093537 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393187.41104 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 15.694929122924805 y: 17.08922576904297
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393190.0169215 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 19.94268035888672 y: 20.94268035888672
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393190.0169215 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 12.871612548828125 y: 20.94268035888672
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393190.0169215 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 12.871612548828125 y: 13.871612548828125
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393190.0169215 effectType 4 targetObjectID 24288819 color -16640 duration 0.0
+x: 19.94268035888672 y: 13.871612548828125
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624393214.797898 effectType 4 targetObjectID 23838920 color -65536 duration 0.0
+x: 837.114501953125 y: 1190.2706298828125
+x: 0.0 y: 0.0
+
+Aoe 1624393216.2083364 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 837.114501953125 y: 1190.2706298828125
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393251.0542648 effectType 4 targetObjectID 24330381 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624393251.0552628 effectType 4 targetObjectID 24330381 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 

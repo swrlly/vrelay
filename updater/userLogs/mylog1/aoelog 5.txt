@@ -1,0 +1,1934 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Heavenly Rift
+MapChange: Ascended Rift
+MapChange: Nexus
+MapChange: Realm
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9631743 effectType 4 targetObjectID 46950047 color -65536 duration 1.5
+x: 1332.4503173828125 y: 1045.0546875
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1340.5 y: 1041.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1339.328369140625 y: 1044.328369140625
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1336.5 y: 1045.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1333.671630859375 y: 1044.328369140625
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1332.5 y: 1041.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1333.671630859375 y: 1038.671630859375
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9641547 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1336.5 y: 1037.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535107.9651515 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1339.328369140625 y: 1038.671630859375
+x: 0.0 y: 0.0
+
+internal HP is now 743
+Aoe 1634535109.3757477 radius 5.0 damage 200 effect 0 duration 0.0 origType 26568
+x: 1332.4503173828125 y: 1045.0546875
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535118.3703873 effectType 4 targetObjectID 46950047 color -65536 duration 1.5
+x: 1331.4129638671875 y: 1048.0849609375
+x: 0.0 y: 0.0
+
+internal HP is now 553
+Aoe 1634535119.7795835 radius 5.0 damage 200 effect 0 duration 0.0 origType 26568
+x: 1331.4129638671875 y: 1048.0849609375
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535128.1705582 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1340.5 y: 1041.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535128.1716025 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1336.5 y: 1045.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535128.1716025 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1332.5 y: 1041.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535128.1716025 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1336.5 y: 1037.5
+x: 0.0 y: 0.0
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1634535134.9724953 effectType 4 targetObjectID 46986580 color -65536 duration 1.5
+x: 1331.8509521484375 y: 1047.4482421875
+x: 0.0 y: 0.0
+
+internal HP is now 448
+Aoe 1634535136.405414 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 1331.8509521484375 y: 1047.4482421875
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1634535140.1824837 effectType 4 targetObjectID 46986578 color -65536 duration 1.5
+x: 1329.9937744140625 y: 1044.8192138671875
+x: 0.0 y: 0.0
+
+Aoe 1634535141.589012 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 1329.9937744140625 y: 1044.8192138671875
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1634535182.1988976 effectType 4 targetObjectID 46950047 color -16640 duration 0.0
+x: 1332.907470703125 y: 1045.56884765625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634535192.005956 effectType 4 targetObjectID 46879943 color -65536 duration 1.5
+x: 1331.4769287109375 y: 1046.85205078125
+x: 0.0 y: 0.0
+
+internal HP is now 662
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634535193.203056 effectType 4 targetObjectID 46879943 color -65536 duration 1.5
+x: 1326.2794189453125 y: 1040.6268310546875
+x: 0.0 y: 0.0
+
+Aoe 1634535193.4155362 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1331.4769287109375 y: 1046.85205078125
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634535194.6013322 effectType 4 targetObjectID 46879943 color -16640 duration 0.0
+x: 1336.099853515625 y: 1039.7576904296875
+x: 0.0 y: 0.0
+
+Aoe 1634535194.6132712 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1326.2794189453125 y: 1040.6268310546875
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634535202.2025306 effectType 4 targetObjectID 46879943 color -16640 duration 0.0
+x: 1337.5 y: 1041.5
+x: 0.0 y: 0.0
+
+MapChange: Sincryer's Gate
+MapChange: Nontridus
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535310.674596 effectType 4 targetObjectID 47078186 color -16640 duration 0.0
+x: 98.28253173828125 y: 188.99000549316406
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535319.682979 effectType 4 targetObjectID 47078165 color -16640 duration 0.0
+x: 147.27659606933594 y: 143.4674530029297
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535325.676897 effectType 4 targetObjectID 47078136 color -16640 duration 0.0
+x: 137.85826110839844 y: 106.11499786376953
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535347.892643 effectType 4 targetObjectID 47078091 color -16640 duration 0.0
+x: 110.04681396484375 y: 15.412514686584473
+x: 0.0 y: 0.0
+
+enemy 8959 name AH The Vision of Aldragine
+ShowEffect 1634535357.2875733 effectType 4 targetObjectID 47078089 color -16640 duration 0.0
+x: 108.5 y: 7.5
+x: 0.0 y: 0.0
+
+enemy 8959 name AH The Vision of Aldragine
+ShowEffect 1634535357.2875733 effectType 4 targetObjectID 47078089 color -16640 duration 0.0
+x: 108.5 y: 19.5
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535379.3017008 effectType 4 targetObjectID 47078122 color -16640 duration 0.0
+x: 6.280949592590332 y: 90.98999786376953
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535381.7044792 effectType 4 targetObjectID 47078150 color -16640 duration 0.0
+x: 5.246738910675049 y: 121.51412963867188
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535382.104781 effectType 4 targetObjectID 47078144 color -16640 duration 0.0
+x: 12.010249137878418 y: 115.16065979003906
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1634535382.5017629 effectType 4 targetObjectID 47078148 color -16640 duration 0.0
+x: 22.835304260253906 y: 115.16065979003906
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+enemy 22217 name Stone Gargoyle
+ShowEffect 1634535530.7621498 effectType 4 targetObjectID 47216341 color -65536 duration 1.5
+x: 527.26025390625 y: 836.828125
+x: 0.0 y: 0.0
+
+enemy 22217 name Stone Gargoyle
+ShowEffect 1634535530.7631497 effectType 4 targetObjectID 47216344 color -65536 duration 1.5
+x: 527.26025390625 y: 836.828125
+x: 0.0 y: 0.0
+
+Aoe 1634535532.1699543 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 527.26025390625 y: 836.828125
+
+Aoe 1634535532.1709144 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 527.26025390625 y: 836.828125
+
+enemy 22217 name Stone Gargoyle
+ShowEffect 1634535538.3617449 effectType 4 targetObjectID 47216340 color -65536 duration 1.5
+x: 526.2453002929688 y: 826.4259033203125
+x: 0.0 y: 0.0
+
+Aoe 1634535539.7738667 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 526.2453002929688 y: 826.4259033203125
+
+enemy 22217 name Stone Gargoyle
+ShowEffect 1634535541.1606941 effectType 4 targetObjectID 47216343 color -65536 duration 1.5
+x: 529.2050170898438 y: 836.4927368164062
+x: 0.0 y: 0.0
+
+internal HP is now 743
+Aoe 1634535542.5798004 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 529.2050170898438 y: 836.4927368164062
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634535640.8099065 effectType 4 targetObjectID 47289268 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634535648.8123446 effectType 4 targetObjectID 47289268 color 65280 duration 1.5
+x: 16.000261306762695 y: 25.48794174194336
+x: 0.0 y: 0.0
+
+internal HP is now 671
+Aoe 1634535650.2367783 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.000261306762695 y: 25.48794174194336
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: The Dojo
+MapChange: Ascended Dojo
+enemy 30699 name Araki the Omega Samurai
+ShowEffect 1634535683.269546 effectType 4 targetObjectID 47311811 color -65536 duration 1.5
+x: 7.5140252113342285 y: 12.937044143676758
+x: 0.0 y: 0.0
+
+Aoe 1634535684.6453788 radius 4.0 damage 200 effect 0 duration 0.0 origType 30699
+x: 7.5140252113342285 y: 12.937044143676758
+
+MapChange: Realm
+enemy 3425 name Hermit God
+ShowEffect 1634535737.845567 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1266.5 y: 1026.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.8476074 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1264.74267578125 y: 1030.74267578125
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.8476074 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1260.5 y: 1032.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.8486025 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1256.25732421875 y: 1030.74267578125
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.8486025 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1254.5 y: 1026.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.849557 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1256.25732421875 y: 1022.2573852539062
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.849557 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1260.5 y: 1020.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634535737.849557 effectType 4 targetObjectID 47288353 color -16640 duration 0.0
+x: 1264.74267578125 y: 1022.2573852539062
+x: 0.0 y: 0.0
+
+MapChange: OceanTrench
+MapChange: Ascended Ocean
+MapChange: Realm
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634535925.734958 effectType 4 targetObjectID 47400311 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634535935.9444213 effectType 4 targetObjectID 47400311 color 65280 duration 1.5
+x: 15.973538398742676 y: 25.219444274902344
+x: 0.0 y: 0.0
+
+Aoe 1634535937.353778 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.973538398742676 y: 25.219444274902344
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634535938.1411555 effectType 4 targetObjectID 47400311 color 65280 duration 1.5
+x: 16.13536834716797 y: 30.439790725708008
+x: 0.0 y: 0.0
+
+internal HP is now 666
+Aoe 1634535939.5585175 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.13536834716797 y: 30.439790725708008
+
+enemy 22047 name Zanarich
+ShowEffect 1634535940.1463773 effectType 4 targetObjectID 47415390 color -65536 duration 1.5
+x: 11.930146217346191 y: 17.591718673706055
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634535940.3427935 effectType 4 targetObjectID 47400311 color 65280 duration 1.5
+x: 10.191970825195312 y: 17.591718673706055
+x: 0.0 y: 0.0
+
+Aoe 1634535941.5557022 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 11.930146217346191 y: 17.591718673706055
+
+Aoe 1634535941.7591722 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 10.191970825195312 y: 17.591718673706055
+
+enemy 22047 name Zanarich
+ShowEffect 1634535944.3486588 effectType 4 targetObjectID 47415390 color -65536 duration 1.5
+x: 3.7394235134124756 y: 14.065007209777832
+x: 0.0 y: 0.0
+
+Aoe 1634535945.762288 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 3.7394235134124756 y: 14.065007209777832
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Snake Pit
+MapChange: Ascended Snake Pit
+MapChange: Realm
+MapChange: The Catacombs
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634536166.693119 effectType 4 targetObjectID 46991182 color -65536 duration 1.5
+x: 974.793212890625 y: 1227.42431640625
+x: 0.0 y: 0.0
+
+Aoe 1634536168.1092327 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 974.793212890625 y: 1227.42431640625
+
+enemy 1620 name Medusa
+ShowEffect 1634536179.0942621 effectType 4 targetObjectID 46991181 color -65536 duration 1.5
+x: 978.889404296875 y: 1227.818603515625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536179.497669 effectType 4 targetObjectID 46991182 color -65536 duration 1.5
+x: 972.3084716796875 y: 1238.064453125
+x: 0.0 y: 0.0
+
+Aoe 1634536180.5097497 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 978.889404296875 y: 1227.818603515625
+
+Aoe 1634536180.9110818 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 972.3084716796875 y: 1238.064453125
+
+MapChange: Nexus
+MapChange: Realm
+enemy 30616 name Uber Shrek
+ShowEffect 1634536190.0964727 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536190.0964727 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536190.0974832 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536190.0974832 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+Aoe 1634536190.3089497 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1235.55029296875
+
+Aoe 1634536190.3089497 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1235.55029296875
+
+Aoe 1634536190.3089497 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1245.44970703125
+
+Aoe 1634536190.3089497 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1245.44970703125
+
+internal HP is now 599
+enemy 30616 name Uber Shrek
+ShowEffect 1634536191.295619 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536191.2966115 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536191.302601 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536191.302601 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+Aoe 1634536191.506969 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1235.55029296875
+
+Aoe 1634536191.506969 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1235.55029296875
+
+Aoe 1634536191.506969 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1245.44970703125
+
+Aoe 1634536191.506969 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1245.44970703125
+
+internal HP is now 616
+enemy 30616 name Uber Shrek
+ShowEffect 1634536192.4959512 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536192.4969053 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536192.4979022 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536192.4979022 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+Aoe 1634536192.7075818 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1235.55029296875
+
+Aoe 1634536192.7075818 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1235.55029296875
+
+Aoe 1634536192.7075818 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1245.44970703125
+
+Aoe 1634536192.7075818 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1245.44970703125
+
+internal HP is now 633
+enemy 30616 name Uber Shrek
+ShowEffect 1634536193.7007883 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536193.7007883 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1245.44970703125
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536193.7067578 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 978.5502319335938 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536193.7077253 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 988.4497680664062 y: 1235.55029296875
+x: 0.0 y: 0.0
+
+Aoe 1634536193.9123788 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1235.55029296875
+
+Aoe 1634536193.9123788 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1235.55029296875
+
+Aoe 1634536193.9123788 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1245.44970703125
+
+Aoe 1634536193.9123788 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1245.44970703125
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536194.0990033 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 981.9924926757812 y: 1243.6693115234375
+x: 0.0 y: 0.0
+
+internal HP is now 450
+internal HP is now 655
+Aoe 1634536195.113372 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1235.55029296875
+
+Aoe 1634536195.113372 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1235.55029296875
+
+Aoe 1634536195.113372 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 978.5502319335938 y: 1245.44970703125
+
+Aoe 1634536195.1163616 radius 5.0 damage 75 effect 0 duration 0.0 origType 30616
+x: 988.4497680664062 y: 1245.44970703125
+
+Aoe 1634536195.5151026 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 981.9924926757812 y: 1243.6693115234375
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634536196.3082082 effectType 4 targetObjectID 47494637 color -65536 duration 1.5
+x: 981.9924926757812 y: 1243.6693115234375
+x: 0.0 y: 0.0
+
+internal HP is now 596
+Aoe 1634536197.7214236 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 981.9924926757812 y: 1243.6693115234375
+
+AutoNexus: Got error: 4
+enemy 1620 name Medusa
+ShowEffect 1634536226.7231574 effectType 4 targetObjectID 47454985 color -65536 duration 1.5
+x: 1016.3455200195312 y: 1163.84619140625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536227.3221054 effectType 4 targetObjectID 46609855 color -65536 duration 1.5
+x: 1014.3201904296875 y: 1160.0205078125
+x: 0.0 y: 0.0
+
+Aoe 1634536228.138734 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1016.3455200195312 y: 1163.84619140625
+
+enemy 1620 name Medusa
+ShowEffect 1634536228.3251777 effectType 4 targetObjectID 47147954 color -65536 duration 1.5
+x: 1024.4918212890625 y: 1158.236572265625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536228.727254 effectType 4 targetObjectID 47156794 color -65536 duration 1.5
+x: 1023.18798828125 y: 1163.9892578125
+x: 0.0 y: 0.0
+
+Aoe 1634536228.73224 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1014.3201904296875 y: 1160.0205078125
+
+Aoe 1634536229.7308583 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1024.4918212890625 y: 1158.236572265625
+
+enemy 1620 name Medusa
+ShowEffect 1634536229.9257748 effectType 4 targetObjectID 47454985 color -65536 duration 1.5
+x: 1021.2399291992188 y: 1170.5576171875
+x: 0.0 y: 0.0
+
+Aoe 1634536230.1347446 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1023.18798828125 y: 1163.9892578125
+
+enemy 1620 name Medusa
+ShowEffect 1634536230.7258468 effectType 4 targetObjectID 46609852 color -65536 duration 1.5
+x: 1019.4521484375 y: 1175.16455078125
+x: 0.0 y: 0.0
+
+Aoe 1634536231.3398864 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1021.2399291992188 y: 1170.5576171875
+
+Aoe 1634536232.1343284 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1019.4521484375 y: 1175.16455078125
+
+enemy 1620 name Medusa
+ShowEffect 1634536235.1321938 effectType 4 targetObjectID 47156794 color -65536 duration 1.5
+x: 1021.5745849609375 y: 1172.9283447265625
+x: 0.0 y: 0.0
+
+internal HP is now 363
+Aoe 1634536236.538696 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1021.5745849609375 y: 1172.9283447265625
+
+enemy 1620 name Medusa
+ShowEffect 1634536236.7351468 effectType 4 targetObjectID 47369017 color -65536 duration 1.5
+x: 1033.6500244140625 y: 1154.3919677734375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536237.927253 effectType 4 targetObjectID 47147954 color -65536 duration 1.5
+x: 1027.07275390625 y: 1161.3399658203125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536237.9282887 effectType 4 targetObjectID 46609856 color -65536 duration 1.5
+x: 1031.715576171875 y: 1165.1661376953125
+x: 0.0 y: 0.0
+
+Aoe 1634536238.1369736 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1033.6500244140625 y: 1154.3919677734375
+
+enemy 1620 name Medusa
+ShowEffect 1634536238.7250123 effectType 4 targetObjectID 47159525 color -65536 duration 1.5
+x: 1038.0460205078125 y: 1168.559326171875
+x: 0.0 y: 0.0
+
+Aoe 1634536239.3387775 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1031.715576171875 y: 1165.1661376953125
+
+enemy 1620 name Medusa
+ShowEffect 1634536239.724955 effectType 4 targetObjectID 46609853 color -65536 duration 1.5
+x: 1041.9654541015625 y: 1176.14501953125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536240.129785 effectType 4 targetObjectID 47199971 color -65536 duration 1.5
+x: 1047.0426025390625 y: 1179.5712890625
+x: 0.0 y: 0.0
+
+Aoe 1634536240.1424274 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1038.0460205078125 y: 1168.559326171875
+
+enemy 1620 name Medusa
+ShowEffect 1634536240.727051 effectType 4 targetObjectID 47156995 color -65536 duration 1.5
+x: 1044.9991455078125 y: 1184.084228515625
+x: 0.0 y: 0.0
+
+Aoe 1634536241.1470838 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1041.9654541015625 y: 1176.14501953125
+
+enemy 1620 name Medusa
+ShowEffect 1634536241.5266123 effectType 4 targetObjectID 47326409 color -65536 duration 1.5
+x: 1038.66357421875 y: 1184.084228515625
+x: 0.0 y: 0.0
+
+Aoe 1634536241.540584 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1047.0426025390625 y: 1179.5712890625
+
+Aoe 1634536242.1372695 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1044.9991455078125 y: 1184.084228515625
+
+enemy 1620 name Medusa
+ShowEffect 1634536242.7310581 effectType 4 targetObjectID 47617668 color -65536 duration 1.5
+x: 1040.1893310546875 y: 1178.1278076171875
+x: 0.0 y: 0.0
+
+Aoe 1634536242.9408088 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1038.66357421875 y: 1184.084228515625
+
+enemy 1620 name Medusa
+ShowEffect 1634536243.335167 effectType 4 targetObjectID 47199971 color -65536 duration 1.5
+x: 1038.8907470703125 y: 1183.1512451171875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634536243.928217 effectType 4 targetObjectID 47156995 color -65536 duration 1.5
+x: 1042.4088134765625 y: 1184.621826171875
+x: 0.0 y: 0.0
+
+Aoe 1634536244.1405253 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1040.1893310546875 y: 1178.1278076171875
+
+Aoe 1634536244.7375808 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1038.8907470703125 y: 1183.1512451171875
+
+Aoe 1634536245.338936 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1042.4088134765625 y: 1184.621826171875
+
+enemy 1620 name Medusa
+ShowEffect 1634536249.5302238 effectType 4 targetObjectID 47369017 color -65536 duration 1.5
+x: 1035.5819091796875 y: 1173.501953125
+x: 0.0 y: 0.0
+
+Aoe 1634536250.9424865 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1035.5819091796875 y: 1173.501953125
+
+enemy 26584 name Garutious
+ShowEffect 1634536306.7617033 effectType 4 targetObjectID 47586399 color -16640 duration 0.0
+x: 1357.6407470703125 y: 1181.1939697265625
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1634536306.7617033 effectType 4 targetObjectID 47586399 color -16640 duration 0.0
+x: 1352.6407470703125 y: 1186.1939697265625
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1634536306.7617033 effectType 4 targetObjectID 47586399 color -16640 duration 0.0
+x: 1347.6407470703125 y: 1181.1939697265625
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1634536306.7617033 effectType 4 targetObjectID 47586399 color -16640 duration 0.0
+x: 1352.6407470703125 y: 1176.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3865013 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1355.6407470703125 y: 1176.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1354.7620849609375 y: 1178.3153076171875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1352.6407470703125 y: 1179.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1350.5194091796875 y: 1178.3153076171875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1349.6407470703125 y: 1176.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1350.5194091796875 y: 1174.0726318359375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1352.6407470703125 y: 1173.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536310.3874989 effectType 4 targetObjectID 47656273 color -16640 duration 0.0
+x: 1354.7620849609375 y: 1174.0726318359375
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536315.1605108 effectType 4 targetObjectID 47656274 color -16640 duration 0.0
+x: 1347.6407470703125 y: 1184.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536315.1605108 effectType 4 targetObjectID 47656274 color -16640 duration 0.0
+x: 1347.6407470703125 y: 1178.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536315.565845 effectType 4 targetObjectID 47656275 color -16640 duration 0.0
+x: 1352.6407470703125 y: 1189.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536315.565845 effectType 4 targetObjectID 47656275 color -16640 duration 0.0
+x: 1352.6407470703125 y: 1183.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536316.959885 effectType 4 targetObjectID 47656276 color -16640 duration 0.0
+x: 1357.6407470703125 y: 1184.1939697265625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1634536316.959885 effectType 4 targetObjectID 47656276 color -16640 duration 0.0
+x: 1357.6407470703125 y: 1178.1939697265625
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Hunter Cave
+MapChange: Twisted Trials
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2674198 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 49.93888473510742 y: 51.68178176879883
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2718616 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 48.18152618408203 y: 55.92442321777344
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2728622 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 43.93888473510742 y: 57.68178176879883
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2728622 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 39.69624328613281 y: 55.92442321777344
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2728622 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 37.93888473510742 y: 51.68178176879883
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2728622 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 39.69624328613281 y: 47.43914031982422
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2728622 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 43.93888473510742 y: 45.68178176879883
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536435.2728622 effectType 4 targetObjectID 47744845 color -16640 duration 0.0
+x: 48.18152618408203 y: 47.43914031982422
+x: 0.0 y: 0.0
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1634536435.4719684 effectType 4 targetObjectID 47744850 color -65536 duration 1.5
+x: 46.505699157714844 y: 53.763938903808594
+x: 0.0 y: 0.0
+
+Aoe 1634536436.8812714 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 46.505699157714844 y: 53.763938903808594
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1634536437.672032 effectType 4 targetObjectID 47744856 color -65536 duration 1.5
+x: 46.35592269897461 y: 70.1081771850586
+x: 0.0 y: 0.0
+
+internal HP is now 593
+Aoe 1634536439.068943 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 46.35592269897461 y: 70.1081771850586
+
+MapChange: Twisted Domain
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8860662 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 23.205087661743164 y: 25.676393508911133
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 21.44772720336914 y: 29.91903305053711
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 17.205087661743164 y: 31.676393508911133
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 12.962447166442871 y: 29.91903305053711
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 11.205087661743164 y: 25.676393508911133
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 12.962447166442871 y: 21.433753967285156
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 17.205087661743164 y: 19.676393508911133
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536544.8870664 effectType 4 targetObjectID 47782623 color -16640 duration 0.0
+x: 21.44772720336914 y: 21.433753967285156
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536549.0930862 effectType 4 targetObjectID 47782623 color -65536 duration 1.5
+x: 12.468656539916992 y: 27.560348510742188
+x: 0.0 y: 0.0
+
+internal HP is now 743
+Aoe 1634536550.496763 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 12.468656539916992 y: 27.560348510742188
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536553.2987387 effectType 4 targetObjectID 47782623 color -65536 duration 1.5
+x: 17.497833251953125 y: 35.765525817871094
+x: 0.0 y: 0.0
+
+internal HP is now 743
+Aoe 1634536554.6966696 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 17.497833251953125 y: 35.765525817871094
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536557.5005102 effectType 4 targetObjectID 47782623 color -65536 duration 1.5
+x: 19.61357307434082 y: 32.140777587890625
+x: 0.0 y: 0.0
+
+internal HP is now 653
+Aoe 1634536558.9003205 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 19.61357307434082 y: 32.140777587890625
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634536561.704253 effectType 4 targetObjectID 47782623 color -65536 duration 1.5
+x: 25.087677001953125 y: 25.338443756103516
+x: 0.0 y: 0.0
+
+Aoe 1634536563.1102557 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 25.087677001953125 y: 25.338443756103516
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634536585.9352002 effectType 4 targetObjectID 47782628 color -65536 duration 1.5
+x: 16.937498092651367 y: 31.386877059936523
+x: 0.0 y: 0.0
+
+internal HP is now 443
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634536587.1094508 effectType 4 targetObjectID 47782628 color -65536 duration 1.5
+x: 14.453651428222656 y: 33.91896438598633
+x: 0.0 y: 0.0
+
+Aoe 1634536587.3162408 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 16.937498092651367 y: 31.386877059936523
+
+internal HP is now 443
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634536588.318433 effectType 4 targetObjectID 47782628 color -65536 duration 1.5
+x: 14.48427677154541 y: 32.24510955810547
+x: 0.0 y: 0.0
+
+Aoe 1634536588.5228817 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 14.453651428222656 y: 33.91896438598633
+
+Aoe 1634536589.7181878 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 14.48427677154541 y: 32.24510955810547
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634536590.7157993 effectType 4 targetObjectID 47782628 color -65536 duration 1.5
+x: 17.982444763183594 y: 27.714670181274414
+x: 0.0 y: 0.0
+
+internal HP is now 443
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634536591.9150603 effectType 4 targetObjectID 47782628 color -65536 duration 1.5
+x: 17.70384407043457 y: 24.911508560180664
+x: 0.0 y: 0.0
+
+Aoe 1634536592.1184494 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 17.982444763183594 y: 27.714670181274414
+
+Aoe 1634536593.321734 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 17.70384407043457 y: 24.911508560180664
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634536594.3151183 effectType 4 targetObjectID 47782628 color -65536 duration 1.5
+x: 19.135066986083984 y: 23.95506477355957
+x: 0.0 y: 0.0
+
+Aoe 1634536595.7185526 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 19.135066986083984 y: 23.95506477355957
+
+MapChange: The Steps 2
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634536643.944425 effectType 4 targetObjectID 47865707 color 65535 duration 1.5
+x: 13.717337608337402 y: 29.5472354888916
+x: 0.0 y: 0.0
+
+internal HP is now 643
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634536645.2498927 effectType 4 targetObjectID 47865707 color 65535 duration 1.5
+x: 16.699430465698242 y: 30.978641510009766
+x: 0.0 y: 0.0
+
+Aoe 1634536645.357601 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 13.717337608337402 y: 29.5472354888916
+
+Aoe 1634536646.5448713 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 16.699430465698242 y: 30.978641510009766
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634536660.3537636 effectType 4 targetObjectID 47865707 color 65535 duration 1.5
+x: 17.770740509033203 y: 21.253496170043945
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634536660.9552517 effectType 4 targetObjectID 47865707 color 65535 duration 1.5
+x: 17.770740509033203 y: 21.253496170043945
+x: 0.0 y: 0.0
+
+Aoe 1634536661.767049 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 17.770740509033203 y: 21.253496170043945
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634536662.153295 effectType 4 targetObjectID 47865707 color 65535 duration 1.5
+x: 10.588889122009277 y: 16.491058349609375
+x: 0.0 y: 0.0
+
+Aoe 1634536662.3646355 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 17.770740509033203 y: 21.253496170043945
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634536662.7565494 effectType 4 targetObjectID 47865707 color 65535 duration 1.5
+x: 16.254608154296875 y: 10.005260467529297
+x: 0.0 y: 0.0
+
+Aoe 1634536663.5634773 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 10.588889122009277 y: 16.491058349609375
+
+Aoe 1634536664.159598 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 16.254608154296875 y: 10.005260467529297
+
+MapChange: Summoning Point
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.982295 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 66.50259399414062 y: 44.41553497314453
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.982295 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 65.33102416992188 y: 47.243961334228516
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.982295 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 62.50259780883789 y: 48.41553497314453
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.983316 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 59.674171447753906 y: 47.243961334228516
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.983316 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 58.50259780883789 y: 44.41553497314453
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.983316 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 59.674171447753906 y: 41.58710861206055
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.983316 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 62.50259780883789 y: 40.41553497314453
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536715.983316 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 65.33102416992188 y: 41.58710861206055
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.1727593 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 66.90260314941406 y: 44.81553649902344
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.1727593 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 65.73102569580078 y: 47.64396286010742
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.1727593 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 62.9025993347168 y: 48.81553649902344
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.1727593 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 60.07417297363281 y: 47.64396286010742
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.1727593 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 58.9025993347168 y: 44.81553649902344
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.173801 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 60.07417297363281 y: 41.98711013793945
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.173801 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 62.9025993347168 y: 40.81553649902344
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634536716.173801 effectType 4 targetObjectID 47915802 color -16640 duration 0.0
+x: 65.73102569580078 y: 41.98711013793945
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Zol Cave
+enemy 32983 name Zol Ship
+ShowEffect 1634536813.812165 effectType 4 targetObjectID 47973912 color -16640 duration 0.0
+x: 27.620616912841797 y: 24.880027770996094
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1634536813.813167 effectType 4 targetObjectID 47973912 color -16640 duration 0.0
+x: 25.4754581451416 y: 21.48914337158203
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1634536813.813167 effectType 4 targetObjectID 47973912 color -16640 duration 0.0
+x: 29.16982078552246 y: 19.827953338623047
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1634536813.813167 effectType 4 targetObjectID 47973912 color -16640 duration 0.0
+x: 25.085527420043945 y: 23.39769172668457
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Storm Palace
+enemy 5717 name Construct of the Storm
+ShowEffect 1634536916.263198 effectType 4 targetObjectID 48027868 color -65536 duration 1.5
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634536916.263198 effectType 4 targetObjectID 48027868 color -65536 duration 1.5
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634536916.263198 effectType 4 targetObjectID 48027868 color -65536 duration 1.5
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634536916.263198 effectType 4 targetObjectID 48027868 color -65536 duration 1.5
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1634536917.664319 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1634536917.664319 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1634536917.664319 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1634536917.664319 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+MapChange: Realm
+Aoe 1634536926.8668706 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1066.537353515625 y: 1156.0611572265625
+
+MapChange: Garden of Chaos
+enemy 26452 name Vitalia
+ShowEffect 1634537197.3623064 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 406.5 y: 239.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537197.3623064 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 402.5 y: 235.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537197.3623064 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 406.5 y: 231.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537197.3623064 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 410.5 y: 235.5
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537201.7737305 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 402.9644775390625 y: 239.03553771972656
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537201.7737305 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 410.0355224609375 y: 231.96446228027344
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537216.7785978 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 410.0355224609375 y: 239.03553771972656
+x: 0.0 y: 0.0
+
+enemy 26452 name Vitalia
+ShowEffect 1634537216.7785978 effectType 4 targetObjectID 48065908 color -16640 duration 0.0
+x: 402.9644775390625 y: 231.96446228027344
+x: 0.0 y: 0.0
+
+x: 388 y: 310
+objectID 48066783 tickID 0 time 0
+records:
+
+objectID: 48066783 slotID: 1 itemData: 
+x: 388 y: 310
+time 0 useType 1
+
+enemy 26520 name Granithia
+ShowEffect 1634537258.8040912 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 390.1169738769531 y: 316.77630615234375
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537258.8040912 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 387.2885437011719 y: 317.9478759765625
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537258.8040912 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 392.9454040527344 y: 317.9478759765625
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537266.7982342 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 393.32843017578125 y: 319.67156982421875
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537266.7982342 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 394.5 y: 322.5
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537266.7982342 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 393.32843017578125 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537274.8041265 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 393.32843017578125 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537274.8041265 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 390.5 y: 326.5
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537274.8041265 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 387.67156982421875 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537282.805873 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 387.67156982421875 y: 325.32843017578125
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537282.805873 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 386.5 y: 322.5
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537282.806917 effectType 4 targetObjectID 48066076 color -16640 duration 0.0
+x: 387.67156982421875 y: 319.67156982421875
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537291.0112612 effectType 4 targetObjectID 48066076 color -65536 duration 1.5
+x: 389.1481628417969 y: 323.47265625
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537291.2106044 effectType 4 targetObjectID 48066076 color -65536 duration 1.5
+x: 389.1481628417969 y: 323.47265625
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537291.4083261 effectType 4 targetObjectID 48066076 color -65536 duration 1.5
+x: 389.1481628417969 y: 323.47265625
+x: 0.0 y: 0.0
+
+enemy 26520 name Granithia
+ShowEffect 1634537291.6273308 effectType 4 targetObjectID 48066076 color -65536 duration 1.5
+x: 389.1481628417969 y: 323.47265625
+x: 0.0 y: 0.0
+
+internal HP is now 743
+internal HP is now 606
+internal HP is now 469
+Aoe 1634537292.4117854 radius 3.0 damage 200 effect 0 duration 0.0 origType 26520
+x: 389.1481628417969 y: 323.47265625
+
+internal HP is now 332
+Aoe 1634537292.6090944 radius 3.0 damage 200 effect 0 duration 0.0 origType 26520
+x: 389.1481628417969 y: 323.47265625
+
+Aoe 1634537292.8120396 radius 3.0 damage 200 effect 0 duration 0.0 origType 26520
+x: 389.1481628417969 y: 323.47265625
+
+Aoe 1634537293.0092783 radius 3.0 damage 200 effect 0 duration 0.0 origType 26520
+x: 389.1481628417969 y: 323.47265625
+
+MapChange: Realm
+Aoe 1634537315.2141232 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1461.1856689453125 y: 1042.87646484375
+
+MapChange: Storm Palace
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537342.4498076 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537342.4498076 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537342.4498076 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537342.4508505 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1634537343.842994 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1634537343.842994 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1634537343.842994 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1634537343.842994 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537345.6448302 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537345.6448302 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537345.6448302 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634537345.6458333 effectType 4 targetObjectID 48293449 color -65536 duration 1.5
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1634537347.0398474 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1634537347.0398474 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1634537347.0398474 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1634537347.0398474 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+MapChange: Realm
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1634537382.0358455 effectType 4 targetObjectID 48276049 color -16640 duration 0.0
+x: 1446.2242431640625 y: 731.73779296875
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+Aoe 1634537580.121099 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 788.7533569335938 y: 1108.999267578125
+
+enemy 1620 name Medusa
+ShowEffect 1634537599.721558 effectType 4 targetObjectID 48421047 color -65536 duration 1.5
+x: 719.7406616210938 y: 1030.7489013671875
+x: 0.0 y: 0.0
+
+Aoe 1634537601.1366506 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 719.7406616210938 y: 1030.7489013671875
+
+enemy 1620 name Medusa
+ShowEffect 1634537603.5243952 effectType 4 targetObjectID 47721366 color -65536 duration 1.5
+x: 723.9964599609375 y: 1020.9396362304688
+x: 0.0 y: 0.0
+
+Aoe 1634537604.9327807 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 723.9964599609375 y: 1020.9396362304688
+
+enemy 28618 name Garnet Statue
+ShowEffect 1634537623.9347515 effectType 4 targetObjectID 48329516 color -16640 duration 0.0
+x: 553.1433715820312 y: 1317.4171142578125
+x: 0.0 y: 0.0
+
+enemy 28618 name Garnet Statue
+ShowEffect 1634537623.9357486 effectType 4 targetObjectID 48329516 color -16640 duration 0.0
+x: 553.1433715820312 y: 1317.4171142578125
+x: 0.0 y: 0.0
+
+AutoNexus: Got error: 3
+AutoNexus: Got error: 2
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3782282 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 624.5 y: 1176.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3811834 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 622.7426147460938 y: 1180.74267578125
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3811834 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 618.5 y: 1182.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3811834 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 614.2573852539062 y: 1180.74267578125
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3811834 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 612.5 y: 1176.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3832161 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 614.2573852539062 y: 1172.25732421875
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3832161 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 618.5 y: 1170.5
+x: 0.0 y: 0.0
+
+enemy 3425 name Hermit God
+ShowEffect 1634537763.3832161 effectType 4 targetObjectID 48518549 color -16640 duration 0.0
+x: 622.7426147460938 y: 1172.25732421875
+x: 0.0 y: 0.0
+
+MapChange: OceanTrench
+enemy 5900 name Giant Squid
+ShowEffect 1634537776.2122865 effectType 4 targetObjectID 48530358 color -16640 duration 0.0
+x: 72.41033935546875 y: 46.82674026489258
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537778.9995458 effectType 4 targetObjectID 48530427 color -16640 duration 0.0
+x: 91.14425659179688 y: 58.22418975830078
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537779.000545 effectType 4 targetObjectID 48530432 color -16640 duration 0.0
+x: 91.14425659179688 y: 58.22418975830078
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537779.000545 effectType 4 targetObjectID 48530433 color -16640 duration 0.0
+x: 91.14425659179688 y: 58.22418975830078
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537780.2041037 effectType 4 targetObjectID 48530466 color -16640 duration 0.0
+x: 91.00249481201172 y: 76.2865982055664
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537781.4038644 effectType 4 targetObjectID 48530466 color -16640 duration 0.0
+x: 96.50767517089844 y: 79.72000122070312
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537781.6056895 effectType 4 targetObjectID 48530449 color -16640 duration 0.0
+x: 108.54106903076172 y: 79.50858306884766
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537782.2054615 effectType 4 targetObjectID 48530440 color -16640 duration 0.0
+x: 114.03803253173828 y: 78.8323974609375
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537782.8009431 effectType 4 targetObjectID 48530449 color -16640 duration 0.0
+x: 114.66368865966797 y: 73.73898315429688
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537782.8009431 effectType 4 targetObjectID 48530443 color -16640 duration 0.0
+x: 114.66368865966797 y: 73.73898315429688
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537783.4066422 effectType 4 targetObjectID 48530440 color -16640 duration 0.0
+x: 114.66368865966797 y: 69.79348754882812
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537783.6100879 effectType 4 targetObjectID 48530370 color -16640 duration 0.0
+x: 115.5 y: 56.34724807739258
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537783.6100879 effectType 4 targetObjectID 48530412 color -16640 duration 0.0
+x: 115.5 y: 56.34724807739258
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537783.6111186 effectType 4 targetObjectID 48530399 color -16640 duration 0.0
+x: 115.5 y: 56.34724807739258
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537783.804611 effectType 4 targetObjectID 48530413 color -16640 duration 0.0
+x: 115.5 y: 56.34724807739258
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537784.798875 effectType 4 targetObjectID 48530370 color -16640 duration 0.0
+x: 120.93157958984375 y: 47.662681579589844
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537784.7998672 effectType 4 targetObjectID 48530412 color -16640 duration 0.0
+x: 120.93157958984375 y: 47.662681579589844
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537785.0083895 effectType 4 targetObjectID 48530413 color -16640 duration 0.0
+x: 120.93157958984375 y: 46.07719421386719
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537787.205008 effectType 4 targetObjectID 48530286 color -16640 duration 0.0
+x: 108.98260498046875 y: 14.77219009399414
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537787.205008 effectType 4 targetObjectID 48530312 color -16640 duration 0.0
+x: 108.98260498046875 y: 14.77219009399414
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537787.5982203 effectType 4 targetObjectID 48530295 color -16640 duration 0.0
+x: 105.0181655883789 y: 11.564286231994629
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537788.400535 effectType 4 targetObjectID 48530286 color -16640 duration 0.0
+x: 104.5625991821289 y: 5.043623447418213
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537788.8016162 effectType 4 targetObjectID 48530295 color -16640 duration 0.0
+x: 103.99201202392578 y: 3.5698673725128174
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537789.5977166 effectType 4 targetObjectID 48530305 color -16640 duration 0.0
+x: 85.26065063476562 y: 5.32881498336792
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537789.5977166 effectType 4 targetObjectID 48530285 color -16640 duration 0.0
+x: 85.26065063476562 y: 5.32881498336792
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537790.7994218 effectType 4 targetObjectID 48530305 color -16640 duration 0.0
+x: 77.81733703613281 y: 8.8914794921875
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537791.798419 effectType 4 targetObjectID 48530293 color -16640 duration 0.0
+x: 57.04307174682617 y: 14.69893741607666
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537793.0016632 effectType 4 targetObjectID 48530293 color -16640 duration 0.0
+x: 49.67683029174805 y: 7.570504188537598
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537794.6063478 effectType 4 targetObjectID 48530309 color -16640 duration 0.0
+x: 29.750091552734375 y: 13.777578353881836
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537795.6086876 effectType 4 targetObjectID 48530290 color -16640 duration 0.0
+x: 23.95819091796875 y: 17.994443893432617
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537795.8031745 effectType 4 targetObjectID 48530309 color -16640 duration 0.0
+x: 22.073984146118164 y: 18.270748138427734
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537796.808405 effectType 4 targetObjectID 48530290 color -16640 duration 0.0
+x: 17.899717330932617 y: 26.617176055908203
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537797.001696 effectType 4 targetObjectID 48530289 color -16640 duration 0.0
+x: 19.88516616821289 y: 15.658151626586914
+x: 0.0 y: 0.0
+
+enemy 5900 name Giant Squid
+ShowEffect 1634537797.001696 effectType 4 targetObjectID 48530309 color -16640 duration 0.0
+x: 19.88516616821289 y: 15.658151626586914
+x: 0.0 y: 0.0
+
+MapChange: Ascended Ocean
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+enemy 30616 name Uber Shrek
+ShowEffect 1634538193.9248316 effectType 4 targetObjectID 48718311 color -65536 duration 1.5
+x: 798.4497680664062 y: 797.4497680664062
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634538193.925829 effectType 4 targetObjectID 48718311 color -65536 duration 1.5
+x: 788.5502319335938 y: 797.4497680664062
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634538193.925829 effectType 4 targetObjectID 48718311 color -65536 duration 1.5
+x: 788.5502319335938 y: 787.5502319335938
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1634538193.9298162 effectType 4 targetObjectID 48718311 color -65536 duration 1.5
+x: 798.4497680664062 y: 787.5502319335938
+x: 0.0 y: 0.0
+
+internal HP is now 862
+MapChange: {oryx.OryxAPOSs_Castle}
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Aoe 1634538861.899621 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1458.28076171875 y: 1059.04248046875
+
+enemy 1620 name Medusa
+ShowEffect 1634538863.2708192 effectType 4 targetObjectID 49224791 color -65536 duration 1.5
+x: 1458.772705078125 y: 1055.00048828125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634538863.6672873 effectType 4 targetObjectID 48787397 color -65536 duration 1.5
+x: 1451.09765625 y: 1054.0670166015625
+x: 0.0 y: 0.0
+
+Aoe 1634538864.6791723 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1458.772705078125 y: 1055.00048828125
+
+Aoe 1634538865.0840664 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1451.09765625 y: 1054.0670166015625
+
+MapChange: Elemental Ruins
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538909.51372 effectType 4 targetObjectID 49253484 color -16640 duration 0.0
+x: 141.5 y: 287.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538909.5147235 effectType 4 targetObjectID 49253484 color -16640 duration 0.0
+x: 139.5 y: 289.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538909.5147235 effectType 4 targetObjectID 49253484 color -16640 duration 0.0
+x: 137.5 y: 287.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538909.5147235 effectType 4 targetObjectID 49253484 color -16640 duration 0.0
+x: 139.5 y: 285.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538912.1128573 effectType 4 targetObjectID 49253457 color -16640 duration 0.0
+x: 184.5 y: 260.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538912.1128573 effectType 4 targetObjectID 49253457 color -16640 duration 0.0
+x: 182.5 y: 262.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538912.1138544 effectType 4 targetObjectID 49253457 color -16640 duration 0.0
+x: 180.5 y: 260.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538912.1138544 effectType 4 targetObjectID 49253457 color -16640 duration 0.0
+x: 182.5 y: 258.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538913.311474 effectType 4 targetObjectID 49253449 color -16640 duration 0.0
+x: 187.5 y: 243.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538913.311474 effectType 4 targetObjectID 49253449 color -16640 duration 0.0
+x: 185.5 y: 245.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538913.312473 effectType 4 targetObjectID 49253449 color -16640 duration 0.0
+x: 183.5 y: 243.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538913.312473 effectType 4 targetObjectID 49253449 color -16640 duration 0.0
+x: 185.5 y: 241.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538914.91729 effectType 4 targetObjectID 49253434 color -16640 duration 0.0
+x: 209.5 y: 239.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538914.91729 effectType 4 targetObjectID 49253434 color -16640 duration 0.0
+x: 207.5 y: 241.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538914.918247 effectType 4 targetObjectID 49253434 color -16640 duration 0.0
+x: 205.5 y: 239.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538914.918247 effectType 4 targetObjectID 49253434 color -16640 duration 0.0
+x: 207.5 y: 237.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.1249855 effectType 4 targetObjectID 49253388 color -16640 duration 0.0
+x: 218.5 y: 188.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.1269941 effectType 4 targetObjectID 49253388 color -16640 duration 0.0
+x: 216.5 y: 190.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.1269941 effectType 4 targetObjectID 49253388 color -16640 duration 0.0
+x: 214.5 y: 188.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.1269941 effectType 4 targetObjectID 49253388 color -16640 duration 0.0
+x: 216.5 y: 186.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.3153775 effectType 4 targetObjectID 49253375 color -16640 duration 0.0
+x: 221.5 y: 179.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.3153775 effectType 4 targetObjectID 49253375 color -16640 duration 0.0
+x: 219.5 y: 181.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.3153775 effectType 4 targetObjectID 49253375 color -16640 duration 0.0
+x: 217.5 y: 179.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538918.3153775 effectType 4 targetObjectID 49253375 color -16640 duration 0.0
+x: 219.5 y: 177.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538919.9170089 effectType 4 targetObjectID 49253342 color -16640 duration 0.0
+x: 220.5 y: 142.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538919.9170089 effectType 4 targetObjectID 49253342 color -16640 duration 0.0
+x: 218.5 y: 144.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538919.9170089 effectType 4 targetObjectID 49253342 color -16640 duration 0.0
+x: 216.5 y: 142.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538919.9179661 effectType 4 targetObjectID 49253342 color -16640 duration 0.0
+x: 218.5 y: 140.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538920.9150681 effectType 4 targetObjectID 49253334 color -16640 duration 0.0
+x: 222.5 y: 122.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538920.9160655 effectType 4 targetObjectID 49253334 color -16640 duration 0.0
+x: 220.5 y: 124.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538920.9160655 effectType 4 targetObjectID 49253334 color -16640 duration 0.0
+x: 218.5 y: 122.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634538920.9160655 effectType 4 targetObjectID 49253334 color -16640 duration 0.0
+x: 220.5 y: 120.5
+x: 0.0 y: 0.0
+
+enemy 6039 name Urios, God of Elements
+ShowEffect 1634538960.3333883 effectType 4 targetObjectID 49253317 color -65536 duration 1.5
+x: 218.7000274658203 y: 29.89797592163086
+x: 0.0 y: 0.0
+
+internal HP is now 643
+Aoe 1634538961.7269897 radius 2.5 damage 300 effect 0 duration 0.0 origType 6039
+x: 218.7000274658203 y: 29.89797592163086
+
+MapChange: Realm
+enemy 2331 name Lich
+ShowEffect 1634539000.9505892 effectType 4 targetObjectID 48754984 color -16640 duration 0.0
+x: 1793.795654296875 y: 1048.926513671875
+x: 0.0 y: 0.0
+
+enemy 2331 name Lich
+ShowEffect 1634539000.9505892 effectType 4 targetObjectID 48754984 color -16640 duration 0.0
+x: 1785.545654296875 y: 1053.689697265625
+x: 0.0 y: 0.0
+
+enemy 2331 name Lich
+ShowEffect 1634539000.9505892 effectType 4 targetObjectID 48754984 color -16640 duration 0.0
+x: 1785.545654296875 y: 1044.163330078125
+x: 0.0 y: 0.0
+
+enemy 2331 name Lich
+ShowEffect 1634539000.9505892 effectType 4 targetObjectID 48754984 color -16640 duration 0.0
+x: 1789.795654296875 y: 1051.5245361328125
+x: 0.0 y: 0.0
+
+enemy 2331 name Lich
+ShowEffect 1634539000.9505892 effectType 4 targetObjectID 48754984 color -16640 duration 0.0
+x: 1785.295654296875 y: 1048.926513671875
+x: 0.0 y: 0.0
+
+enemy 1605 name Ogre King
+ShowEffect 1634539034.550862 effectType 4 targetObjectID 48786341 color -65536 duration 1.5
+x: 838.6454467773438 y: 900.8407592773438
+x: 0.0 y: 0.0
+
+Aoe 1634539035.9574287 radius 2.4000000953674316 damage 55 effect 0 duration 0.0 origType 1605
+x: 838.6454467773438 y: 900.8407592773438
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634539236.8344193 effectType 4 targetObjectID 49375461 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1634539247.039249 effectType 4 targetObjectID 49384775 color -65536 duration 1.5
+x: 14.064513206481934 y: 20.65411376953125
+x: 0.0 y: 0.0
+
+internal HP is now 663
+Aoe 1634539248.4843707 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 14.064513206481934 y: 20.65411376953125
+
+MapChange: Realm
+enemy 22217 name Stone Gargoyle
+ShowEffect 1634539320.6672955 effectType 4 targetObjectID 49355038 color -65536 duration 1.5
+x: 1575.0592041015625 y: 770.8722534179688
+x: 0.0 y: 0.0
+
+internal HP is now 743
+Aoe 1634539322.0911777 radius 2.0 damage 200 effect 0 duration 0.0 origType 22217
+x: 1575.0592041015625 y: 770.8722534179688
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lair of Draconis
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+Closed GUI. Shutting down proxy.

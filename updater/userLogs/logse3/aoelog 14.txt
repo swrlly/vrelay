@@ -1,0 +1,378 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 28618 name Garnet Statue
+ShowEffect 1625527455.1604168 effectType 4 targetObjectID 23326485 color -16640 duration 0.0
+x: 1802.76416015625 y: 816.3486328125
+x: 0.0 y: 0.0
+
+enemy 28618 name Garnet Statue
+ShowEffect 1625527455.167417 effectType 4 targetObjectID 23326485 color -16640 duration 0.0
+x: 1802.76416015625 y: 816.3486328125
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+ListenToServer: Triggered header reread
+MapChange: Realm
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+enemy 28619 name Jade Statue
+ShowEffect 1625527721.4876497 effectType 4 targetObjectID 24314561 color -16640 duration 0.0
+x: 1151.3857421875 y: 568.6983642578125
+x: 0.0 y: 0.0
+
+enemy 28619 name Jade Statue
+ShowEffect 1625527721.510651 effectType 4 targetObjectID 24314561 color -16640 duration 0.0
+x: 1151.3857421875 y: 568.6983642578125
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+enemy 28618 name Garnet Statue
+ShowEffect 1625527729.3270981 effectType 4 targetObjectID 24314523 color -16640 duration 0.0
+x: 1145.5074462890625 y: 570.6315307617188
+x: 0.0 y: 0.0
+
+enemy 28618 name Garnet Statue
+ShowEffect 1625527729.3280983 effectType 4 targetObjectID 24314523 color -16640 duration 0.0
+x: 1145.5074462890625 y: 570.6315307617188
+x: 0.0 y: 0.0
+
+enemy 28619 name Jade Statue
+ShowEffect 1625527735.8184693 effectType 4 targetObjectID 24314561 color -16640 duration 0.0
+x: 1143.069580078125 y: 574.7437744140625
+x: 0.0 y: 0.0
+
+enemy 28619 name Jade Statue
+ShowEffect 1625527735.8194695 effectType 4 targetObjectID 24314561 color -16640 duration 0.0
+x: 1143.069580078125 y: 574.7437744140625
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+MapChange: Tunnel of Pain
+MapChange: Tunnel of Pain
+ShowEffect had KeyError: 802
+
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+MapChange: {oryx.OryxAPOSs_Castle}
+MapChange: {oryx.OryxAPOSs_Castle}
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Oryx's Chamber
+MapChange: Wine Cellar
+ShowEffect had KeyError: 24771790
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 24771806
+
+ShowEffect had KeyError: 3555
+
+ShowEffect had KeyError: 3553
+
+MapChange: Temple
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 5133 name Oryx the Mad God 3
+ShowEffect 1625528002.8977454 effectType 4 targetObjectID 24807388 color -16640 duration 0.0
+x: 29.800004959106445 y: 23.200002670288086
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Ultra Aldragine's Hideout
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 24966705
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 24966705
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625528187.2772915 effectType 4 targetObjectID 24966701 color -65536 duration 0.0
+x: 78.48127746582031 y: 20.989999771118164
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625528187.2782915 effectType 4 targetObjectID 24966709 color -65536 duration 0.0
+x: 78.48127746582031 y: 20.989999771118164
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625528188.6553702 effectType 4 targetObjectID 24966701 color -65536 duration 0.0
+x: 79.0722427368164 y: 20.041147232055664
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625528188.6563702 effectType 4 targetObjectID 24966709 color -65536 duration 0.0
+x: 79.0722427368164 y: 20.041147232055664
+x: 0.0 y: 0.0
+
+Aoe 1625528188.7223742 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 78.48127746582031 y: 20.989999771118164
+
+Aoe 1625528188.7233741 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 78.48127746582031 y: 20.989999771118164
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625528188.9043846 effectType 4 targetObjectID 24966677 color -16640 duration 0.0
+x: 68.13639068603516 y: 10.697511672973633
+x: 0.0 y: 0.0
+
+Aoe 1625528189.9424438 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 79.0722427368164 y: 20.041147232055664
+
+Aoe 1625528189.943444 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 79.0722427368164 y: 20.041147232055664
+
+MapChange: Ultra Sincryer's Gate
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: NontridusUltra
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 24871 name AH ULTRA The Vision of Aldragine
+ShowEffect 1625528318.3687894 effectType 4 targetObjectID 25064036 color -16640 duration 0.0
+x: 133.5 y: 7.5
+x: 0.0 y: 0.0
+
+enemy 24871 name AH ULTRA The Vision of Aldragine
+ShowEffect 1625528318.3697894 effectType 4 targetObjectID 25064036 color -16640 duration 0.0
+x: 133.5 y: 19.5
+x: 0.0 y: 0.0
+
+enemy 24871 name AH ULTRA The Vision of Aldragine
+ShowEffect 1625528318.3707895 effectType 4 targetObjectID 25064036 color 8388736 duration 0.0
+x: 135.1546630859375 y: 12.57038402557373
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+Aoe 1625528319.8298728 radius 4.0 damage 200 effect 0 duration 0.0 origType 24871
+x: 135.1546630859375 y: 12.57038402557373
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 24871 name AH ULTRA The Vision of Aldragine
+ShowEffect 1625528326.611261 effectType 4 targetObjectID 25064036 color 8388736 duration 0.0
+x: 134.8349151611328 y: 11.634008407592773
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 802
+
+Aoe 1625528328.0933459 radius 4.0 damage 200 effect 0 duration 0.0 origType 24871
+x: 134.8349151611328 y: 11.634008407592773
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Ultra Core of the Hideout
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+Connection was reset
+MapChange: Nexus
+Closed GUI. Shutting down proxy.

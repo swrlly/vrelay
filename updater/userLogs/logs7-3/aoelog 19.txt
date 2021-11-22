@@ -1,0 +1,322 @@
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1624921991.8685405 effectType 4 targetObjectID 11945408 color -65536 duration 0.0
+x: 1444.991943359375 y: 1052.306884765625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624921991.8685405 effectType 4 targetObjectID 11945407 color -65536 duration 0.0
+x: 1444.991943359375 y: 1052.306884765625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624921993.0683963 effectType 4 targetObjectID 11945409 color -65536 duration 0.0
+x: 1445.6192626953125 y: 1055.4742431640625
+x: 0.0 y: 0.0
+
+Aoe 1624921993.2767637 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1444.991943359375 y: 1052.306884765625
+
+Aoe 1624921993.2767637 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1444.991943359375 y: 1052.306884765625
+
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1624922117.7016547 effectType 4 targetObjectID 11944956 color -65536 duration 0.0
+x: 1197.6922607421875 y: 912.72314453125
+x: 0.0 y: 0.0
+
+Aoe 1624922119.1109617 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1197.6922607421875 y: 912.72314453125
+
+enemy 1620 name Medusa
+ShowEffect 1624922120.9014688 effectType 4 targetObjectID 11944956 color -65536 duration 0.0
+x: 1191.0518798828125 y: 909.1819458007812
+x: 0.0 y: 0.0
+
+Aoe 1624922122.3098967 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1191.0518798828125 y: 909.1819458007812
+
+enemy 1620 name Medusa
+ShowEffect 1624922124.1010401 effectType 4 targetObjectID 11944957 color -65536 duration 0.0
+x: 1190.3084716796875 y: 910.7975463867188
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624922124.102039 effectType 4 targetObjectID 11944956 color -65536 duration 0.0
+x: 1190.3084716796875 y: 910.7975463867188
+x: 0.0 y: 0.0
+
+Aoe 1624922125.513436 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1190.3084716796875 y: 910.7975463867188
+
+Aoe 1624922125.513436 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1190.3084716796875 y: 910.7975463867188
+
+enemy 1620 name Medusa
+ShowEffect 1624922127.3018692 effectType 4 targetObjectID 11944957 color -65536 duration 0.0
+x: 1196.4083251953125 y: 911.1544189453125
+x: 0.0 y: 0.0
+
+Aoe 1624922128.710091 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1196.4083251953125 y: 911.1544189453125
+
+enemy 1620 name Medusa
+ShowEffect 1624922266.9178703 effectType 4 targetObjectID 11945853 color -65536 duration 0.0
+x: 1131.014404296875 y: 1018.9855346679688
+x: 0.0 y: 0.0
+
+Aoe 1624922268.3296063 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1131.014404296875 y: 1018.9855346679688
+
+enemy 1620 name Medusa
+ShowEffect 1624922268.7178931 effectType 4 targetObjectID 12274127 color -65536 duration 0.0
+x: 1129.77294921875 y: 1013.36474609375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624922270.1163108 effectType 4 targetObjectID 11945853 color -65536 duration 0.0
+x: 1124.455078125 y: 1015.2738647460938
+x: 0.0 y: 0.0
+
+Aoe 1624922270.1313128 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1129.77294921875 y: 1013.36474609375
+
+Aoe 1624922271.5290346 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1124.455078125 y: 1015.2738647460938
+
+enemy 1620 name Medusa
+ShowEffect 1624922271.9209871 effectType 4 targetObjectID 12274127 color -65536 duration 0.0
+x: 1131.1021728515625 y: 1017.9511108398438
+x: 0.0 y: 0.0
+
+Aoe 1624922273.3315158 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1131.1021728515625 y: 1017.9511108398438
+
+enemy 1620 name Medusa
+ShowEffect 1624922285.3249302 effectType 4 targetObjectID 12137799 color -65536 duration 0.0
+x: 1126.001220703125 y: 1002.1394653320312
+x: 0.0 y: 0.0
+
+Aoe 1624922286.735021 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1126.001220703125 y: 1002.1394653320312
+
+enemy 1620 name Medusa
+ShowEffect 1624922288.525887 effectType 4 targetObjectID 12137799 color -65536 duration 0.0
+x: 1128.1932373046875 y: 1005.758544921875
+x: 0.0 y: 0.0
+
+Aoe 1624922289.9371912 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1128.1932373046875 y: 1005.758544921875
+
+enemy 1620 name Medusa
+ShowEffect 1624922291.728958 effectType 4 targetObjectID 12137799 color -65536 duration 0.0
+x: 1129.4083251953125 y: 1004.5509643554688
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624922292.9289489 effectType 4 targetObjectID 11945854 color -65536 duration 0.0
+x: 1126.3787841796875 y: 1000.3003540039062
+x: 0.0 y: 0.0
+
+Aoe 1624922293.1417952 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1129.4083251953125 y: 1004.5509643554688
+
+Aoe 1624922294.3405647 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1126.3787841796875 y: 1000.3003540039062
+
+enemy 1620 name Medusa
+ShowEffect 1624922394.019957 effectType 4 targetObjectID 12183304 color -65536 duration 0.0
+x: 1104.65087890625 y: 869.4510498046875
+x: 0.0 y: 0.0
+
+Aoe 1624922395.4355257 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1104.65087890625 y: 869.4510498046875
+
+enemy 1620 name Medusa
+ShowEffect 1624922402.6350715 effectType 4 targetObjectID 12456976 color -65536 duration 0.0
+x: 1107.881103515625 y: 868.8115844726562
+x: 0.0 y: 0.0
+
+Aoe 1624922404.0848923 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1107.881103515625 y: 868.8115844726562
+
+enemy 1620 name Medusa
+ShowEffect 1624922405.4378717 effectType 4 targetObjectID 11944629 color -65536 duration 0.0
+x: 1110.6617431640625 y: 874.2378540039062
+x: 0.0 y: 0.0
+
+Aoe 1624922406.8610678 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1110.6617431640625 y: 874.2378540039062
+
+enemy 1620 name Medusa
+ShowEffect 1624922408.6397655 effectType 4 targetObjectID 11944629 color -65536 duration 0.0
+x: 1114.05078125 y: 871.8848266601562
+x: 0.0 y: 0.0
+
+Aoe 1624922410.0632827 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1114.05078125 y: 871.8848266601562
+
+enemy 1620 name Medusa
+ShowEffect 1624922411.8490763 effectType 4 targetObjectID 11944629 color -65536 duration 0.0
+x: 1105.12548828125 y: 877.1444702148438
+x: 0.0 y: 0.0
+
+Aoe 1624922413.2877069 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1105.12548828125 y: 877.1444702148438
+
+enemy 1620 name Medusa
+ShowEffect 1624922429.6787655 effectType 4 targetObjectID 12227834 color -65536 duration 0.0
+x: 1165.2574462890625 y: 859.1748046875
+x: 0.0 y: 0.0
+
+Aoe 1624922431.0885582 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1165.2574462890625 y: 859.1748046875
+
+enemy 1620 name Medusa
+ShowEffect 1624922432.876021 effectType 4 targetObjectID 12227834 color -65536 duration 0.0
+x: 1154.8690185546875 y: 862.8297729492188
+x: 0.0 y: 0.0
+
+Aoe 1624922434.287679 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1154.8690185546875 y: 862.8297729492188
+
+enemy 1620 name Medusa
+ShowEffect 1624922437.876352 effectType 4 targetObjectID 11945787 color -65536 duration 0.0
+x: 1156.4530029296875 y: 860.4473876953125
+x: 0.0 y: 0.0
+
+Aoe 1624922439.2925467 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1156.4530029296875 y: 860.4473876953125
+
+enemy 1620 name Medusa
+ShowEffect 1624922440.476917 effectType 4 targetObjectID 12468770 color -65536 duration 0.0
+x: 1157.2943115234375 y: 853.5193481445312
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624922441.078568 effectType 4 targetObjectID 11945787 color -65536 duration 0.0
+x: 1161.1173095703125 y: 854.1046752929688
+x: 0.0 y: 0.0
+
+Aoe 1624922441.894222 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1157.2943115234375 y: 853.5193481445312
+
+Aoe 1624922442.4947462 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1161.1173095703125 y: 854.1046752929688
+
+enemy 1620 name Medusa
+ShowEffect 1624922444.2764933 effectType 4 targetObjectID 11945787 color -65536 duration 0.0
+x: 1160.7822265625 y: 861.7531127929688
+x: 0.0 y: 0.0
+
+Aoe 1624922445.6977506 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1160.7822265625 y: 861.7531127929688
+
+enemy 1620 name Medusa
+ShowEffect 1624922451.4875064 effectType 4 targetObjectID 12532202 color -65536 duration 0.0
+x: 1171.4342041015625 y: 852.0597534179688
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624922452.8980384 effectType 4 targetObjectID 11945786 color -65536 duration 0.0
+x: 1177.062255859375 y: 855.499755859375
+x: 0.0 y: 0.0
+
+Aoe 1624922452.9401028 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1171.4342041015625 y: 852.0597534179688
+
+Aoe 1624922454.315169 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1177.062255859375 y: 855.499755859375
+
+enemy 1620 name Medusa
+ShowEffect 1624922454.7058063 effectType 4 targetObjectID 12532202 color -65536 duration 0.0
+x: 1172.0404052734375 y: 850.4046630859375
+x: 0.0 y: 0.0
+
+Aoe 1624922456.1176434 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1172.0404052734375 y: 850.4046630859375
+
+enemy 1620 name Medusa
+ShowEffect 1624922457.9007928 effectType 4 targetObjectID 12532202 color -65536 duration 0.0
+x: 1174.6656494140625 y: 855.2145385742188
+x: 0.0 y: 0.0
+
+Aoe 1624922459.3438675 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1174.6656494140625 y: 855.2145385742188
+
+enemy 1620 name Medusa
+ShowEffect 1624922461.1137311 effectType 4 targetObjectID 12532202 color -65536 duration 0.0
+x: 1182.46630859375 y: 852.3310546875
+x: 0.0 y: 0.0
+
+Aoe 1624922462.5315435 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1182.46630859375 y: 852.3310546875
+
+enemy 25765 name The Horrific
+ShowEffect 1624922498.134271 effectType 4 targetObjectID 12417596 color 0 duration 0.0
+x: 1506.2425537109375 y: 867.223876953125
+x: 0.0 y: 0.0
+
+Aoe 1624922499.5723813 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1506.2425537109375 y: 867.223876953125
+
+enemy 25765 name The Horrific
+ShowEffect 1624922500.353185 effectType 4 targetObjectID 12417596 color 0 duration 0.0
+x: 1505.2388916015625 y: 868.38330078125
+x: 0.0 y: 0.0
+
+Aoe 1624922501.7718134 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1505.2388916015625 y: 868.38330078125
+
+enemy 25765 name The Horrific
+ShowEffect 1624922502.5533175 effectType 4 targetObjectID 12417596 color 0 duration 0.0
+x: 1505.2611083984375 y: 867.32861328125
+x: 0.0 y: 0.0
+
+Aoe 1624922503.9758549 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1505.2611083984375 y: 867.32861328125
+
+Aoe 1624922554.641432 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1119.4981689453125 y: 819.3685913085938
+
+enemy 1620 name Medusa
+ShowEffect 1624922568.0441713 effectType 4 targetObjectID 12558977 color -65536 duration 0.0
+x: 1048.209228515625 y: 843.2714233398438
+x: 0.0 y: 0.0
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1624922769.4514499 effectType 4 targetObjectID 12935192 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1624922780.4358964 effectType 4 targetObjectID 12935192 color 65280 duration 0.0
+x: 16.228965759277344 y: 24.60362434387207
+x: 0.0 y: 0.0
+
+Aoe 1624922781.8559203 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.228965759277344 y: 24.60362434387207
+
+enemy 22047 name Zanarich
+ShowEffect 1624922783.846303 effectType 4 targetObjectID 12961698 color -65536 duration 0.0
+x: 16.169187545776367 y: 21.578563690185547
+x: 0.0 y: 0.0
+
+Aoe 1624922785.371883 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 16.169187545776367 y: 21.578563690185547
+
+enemy 22047 name Zanarich
+ShowEffect 1624922788.0930188 effectType 4 targetObjectID 12961698 color -65536 duration 0.0
+x: 7.159257411956787 y: 16.955795288085938
+x: 0.0 y: 0.0
+
+Aoe 1624922789.5180101 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 7.159257411956787 y: 16.955795288085938
+
+MapChange: Nexus

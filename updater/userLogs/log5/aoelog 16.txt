@@ -1,0 +1,503 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1605 name Ogre King
+ShowEffect 1625195887.9431474 effectType 4 targetObjectID 44003065 color -65536 duration 0.0
+x: 1080.3070068359375 y: 811.7982177734375
+x: 0.0 y: 0.0
+
+Aoe 1625195889.362425 radius 3.0 damage 60 effect 0 duration 0.0 origType 1605
+x: 1080.3070068359375 y: 811.7982177734375
+
+MapChange: Heavenly Rift
+MapChange: Ascended Rift
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625195994.2074583 effectType 4 targetObjectID 44004031 color -65536 duration 0.0
+x: 814.383056640625 y: 966.0077514648438
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625195994.2074583 effectType 4 targetObjectID 44004030 color -65536 duration 0.0
+x: 814.383056640625 y: 966.0077514648438
+x: 0.0 y: 0.0
+
+Aoe 1625195995.614992 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 814.383056640625 y: 966.0077514648438
+
+Aoe 1625195995.614992 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 814.383056640625 y: 966.0077514648438
+
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+objectID: 44525917 slotID: 1 itemData: 
+x: 66.33440399169922 y: 155.1116943359375
+time 0 useType 1
+
+x: 13 y: 38
+objectID 44525917 tickID 0 time 0
+records:
+
+objectID: 44525917 slotID: 1 itemData: 
+x: 13 y: 38
+time 0 useType 1
+
+objectID: 44525917 slotID: 1 itemData: 
+x: 11.986578941345215 y: 37.20699691772461
+time 0 useType 1
+
+x: 138 y: 19
+objectID 44525917 tickID 0 time 0
+records:
+
+objectID: 44525917 slotID: 1 itemData: 
+x: 138 y: 19
+time 0 useType 1
+
+objectID: 44525917 slotID: 1 itemData: 
+x: 138.0 y: 22.38751983642578
+time 0 useType 1
+
+x: 191 y: 116
+objectID 44525917 tickID 0 time 0
+records:
+
+objectID: 44525917 slotID: 1 itemData: 
+x: 191 y: 116
+time 0 useType 1
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196043.505902 effectType 4 targetObjectID 44525651 color -16640 duration 0.0
+x: 199.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196043.505902 effectType 4 targetObjectID 44525651 color -16640 duration 0.0
+x: 191.5 y: 117.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196043.505902 effectType 4 targetObjectID 44525651 color -16640 duration 0.0
+x: 183.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196043.505902 effectType 4 targetObjectID 44525651 color -16640 duration 0.0
+x: 191.5 y: 101.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196048.7129052 effectType 4 targetObjectID 44525651 color -16640 duration 0.0
+x: 194.8887176513672 y: 106.44300842285156
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196048.7129052 effectType 4 targetObjectID 44525651 color -16640 duration 0.0
+x: 194.8887176513672 y: 106.44300842285156
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+objectID: 44607980 slotID: 1 itemData: 
+x: 60.5 y: 162.99000549316406
+time 0 useType 1
+
+x: 13 y: 38
+objectID 44607980 tickID 0 time 0
+records:
+
+objectID: 44607980 slotID: 1 itemData: 
+x: 13 y: 38
+time 0 useType 1
+
+objectID: 44607980 slotID: 1 itemData: 
+x: 11.570414543151855 y: 36.42798614501953
+time 0 useType 1
+
+x: 138 y: 19
+objectID 44607980 tickID 0 time 0
+records:
+
+objectID: 44607980 slotID: 1 itemData: 
+x: 138 y: 19
+time 0 useType 1
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196132.1622474 effectType 4 targetObjectID 44607354 color -16640 duration 0.0
+x: 147.5 y: 12.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196132.1622474 effectType 4 targetObjectID 44607354 color -16640 duration 0.0
+x: 139.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196132.1622474 effectType 4 targetObjectID 44607354 color -16640 duration 0.0
+x: 131.5 y: 12.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196132.1622474 effectType 4 targetObjectID 44607354 color -16640 duration 0.0
+x: 139.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196137.364015 effectType 4 targetObjectID 44607354 color -16640 duration 0.0
+x: 143.21327209472656 y: 8.883625984191895
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1625196137.3649676 effectType 4 targetObjectID 44607354 color -16640 duration 0.0
+x: 143.21327209472656 y: 8.883625984191895
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Realm
+AutoNexus: Got error: 1
+enemy 26573 name Corrupted Zaragon, the Blood Mage
+ShowEffect 1625196180.140418 effectType 4 targetObjectID 44683852 color -16640 duration 0.0
+x: 627.6101684570312 y: 691.7486572265625
+x: 0.0 y: 0.0
+
+enemy 26573 name Corrupted Zaragon, the Blood Mage
+ShowEffect 1625196181.140328 effectType 4 targetObjectID 44683852 color -16640 duration 0.0
+x: 627.6370849609375 y: 690.5023803710938
+x: 0.0 y: 0.0
+
+enemy 26573 name Corrupted Zaragon, the Blood Mage
+ShowEffect 1625196184.142395 effectType 4 targetObjectID 44683852 color -16640 duration 0.0
+x: 626.977783203125 y: 687.3880615234375
+x: 0.0 y: 0.0
+
+enemy 26573 name Corrupted Zaragon, the Blood Mage
+ShowEffect 1625196184.142395 effectType 4 targetObjectID 44683852 color -16640 duration 0.0
+x: 626.977783203125 y: 687.3880615234375
+x: 0.0 y: 0.0
+
+enemy 26573 name Corrupted Zaragon, the Blood Mage
+ShowEffect 1625196185.9427528 effectType 4 targetObjectID 44683852 color -16640 duration 0.0
+x: 623.4118041992188 y: 681.1084594726562
+x: 0.0 y: 0.0
+
+enemy 26573 name Corrupted Zaragon, the Blood Mage
+ShowEffect 1625196185.9427528 effectType 4 targetObjectID 44683852 color -16640 duration 0.0
+x: 623.4118041992188 y: 681.1084594726562
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625196192.9473157 effectType 4 targetObjectID 44549379 color -65536 duration 0.0
+x: 622.9417114257812 y: 679.914306640625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625196194.1473753 effectType 4 targetObjectID 44549379 color -65536 duration 0.0
+x: 622.9115600585938 y: 677.7432250976562
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625196194.1473753 effectType 4 targetObjectID 44549379 color -16640 duration 0.0
+x: 626.345703125 y: 673.0465698242188
+x: 0.0 y: 0.0
+
+Aoe 1625196194.3658245 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 622.9417114257812 y: 679.914306640625
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625196195.3470638 effectType 4 targetObjectID 44549379 color -65536 duration 0.0
+x: 621.9447631835938 y: 676.1248779296875
+x: 0.0 y: 0.0
+
+Aoe 1625196195.5632906 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 622.9115600585938 y: 677.7432250976562
+
+Aoe 1625196196.7715015 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 621.9447631835938 y: 676.1248779296875
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625196205.5554316 effectType 4 targetObjectID 44549379 color -16640 duration 0.0
+x: 633.5 y: 676.5
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Realm
+MapChange: Realm
+MapChange: Realm
+MapChange: Realm
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625196297.0587525 effectType 4 targetObjectID 44777099 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625196297.0587525 effectType 4 targetObjectID 44777099 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625196297.0587525 effectType 4 targetObjectID 44777099 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625196297.0587525 effectType 4 targetObjectID 44777099 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: The Shatters
+MapChange: Realm
+MapChange: Concealment of the Dreadnought
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625196422.7691245 effectType 4 targetObjectID 44912656 color -65536 duration 0.0
+x: 119.74728393554688 y: 159.99000549316406
+x: 0.0 y: 0.0
+
+Aoe 1625196423.9775784 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 119.74728393554688 y: 159.99000549316406
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625196444.1838088 effectType 4 targetObjectID 44912584 color -65536 duration 0.0
+x: 197.79013061523438 y: 132.23545837402344
+x: 0.0 y: 0.0
+
+Aoe 1625196445.5917232 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 197.79013061523438 y: 132.23545837402344
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625196579.6787643 effectType 4 targetObjectID 44912425 color -65536 duration 0.0
+x: 64.332763671875 y: 59.04949188232422
+x: 0.0 y: 0.0
+
+Aoe 1625196581.0751164 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 64.332763671875 y: 59.04949188232422
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625196612.9073763 effectType 4 targetObjectID 44912515 color -65536 duration 0.0
+x: 214.00535583496094 y: 105.31571197509766
+x: 0.0 y: 0.0
+
+Aoe 1625196614.2974617 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 214.00535583496094 y: 105.31571197509766
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625196639.1051526 effectType 4 targetObjectID 44912422 color -65536 duration 0.0
+x: 277.5746154785156 y: 29.979080200195312
+x: 0.0 y: 0.0
+
+Aoe 1625196640.5165331 radius 2.0 damage 100 effect 0 duration 0.0 origType 20784
+x: 277.5746154785156 y: 29.979080200195312
+
+enemy 20784 name Mystical Basilisk
+ShowEffect 1625196725.355068 effectType 4 targetObjectID 44912506 color -65536 duration 0.0
+x: 152.8741912841797 y: 99.5
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196773.766873 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 189.83102416992188 y: 14.217851638793945
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196774.1641939 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 189.1051483154297 y: 13.186446189880371
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196774.5653973 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 191.83197021484375 y: 12.18017578125
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196774.9646568 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 192.60862731933594 y: 12.498543739318848
+x: 0.0 y: 0.0
+
+Aoe 1625196775.1668553 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 189.83102416992188 y: 14.217851638793945
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196775.3644516 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 193.2678985595703 y: 14.690784454345703
+x: 0.0 y: 0.0
+
+Aoe 1625196775.5627031 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 189.1051483154297 y: 13.186446189880371
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196775.8240047 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 193.62417602539062 y: 16.537132263183594
+x: 0.0 y: 0.0
+
+Aoe 1625196775.9569967 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 191.83197021484375 y: 12.18017578125
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196776.1641767 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 194.40133666992188 y: 18.096864700317383
+x: 0.0 y: 0.0
+
+Aoe 1625196776.3649092 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 192.60862731933594 y: 12.498543739318848
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196776.5634139 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 194.40133666992188 y: 19.246585845947266
+x: 0.0 y: 0.0
+
+Aoe 1625196776.7647479 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 193.2678985595703 y: 14.690784454345703
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196776.9641116 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 195.09092712402344 y: 19.542213439941406
+x: 0.0 y: 0.0
+
+Aoe 1625196777.2976074 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 193.62417602539062 y: 16.537132263183594
+
+Aoe 1625196777.566095 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 194.40133666992188 y: 18.096864700317383
+
+Aoe 1625196777.965393 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 194.40133666992188 y: 19.246585845947266
+
+Aoe 1625196778.366361 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 195.09092712402344 y: 19.542213439941406
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196813.9971404 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 171.67593383789062 y: 14.863741874694824
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196814.4290838 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 171.67593383789062 y: 14.863741874694824
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196814.7834096 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 172.07203674316406 y: 14.843045234680176
+x: 0.0 y: 0.0
+
+enemy 20777 name The Dreadnought
+ShowEffect 1625196815.1816862 effectType 4 targetObjectID 44912419 color -65536 duration 0.0
+x: 173.4912109375 y: 13.652490615844727
+x: 0.0 y: 0.0
+
+Aoe 1625196815.3866222 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 171.67593383789062 y: 14.863741874694824
+
+Aoe 1625196815.7995856 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 171.67593383789062 y: 14.863741874694824
+
+Aoe 1625196816.1853826 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 172.07203674316406 y: 14.843045234680176
+
+Aoe 1625196816.5939221 radius 7.0 damage 85 effect 0 duration 0.0 origType 20777
+x: 173.4912109375 y: 13.652490615844727
+
+MapChange: Nexus
+MapChange: Chamber of Malgor
+enemy 26659 name Malgor, the Eternal Fiend
+ShowEffect 1625196863.167903 effectType 4 targetObjectID 45375499 color 16776960 duration 0.0
+x: 21.819698333740234 y: 18.34273338317871
+x: 0.0 y: 0.0
+
+enemy 26659 name Malgor, the Eternal Fiend
+ShowEffect 1625196864.3671336 effectType 4 targetObjectID 45375499 color 16776960 duration 0.0
+x: 22.356822967529297 y: 20.35517692565918
+x: 0.0 y: 0.0
+
+Aoe 1625196864.603232 radius 3.0 damage 100 effect 0 duration 0.0 origType 26659
+x: 21.819698333740234 y: 18.34273338317871
+
+Aoe 1625196865.944496 radius 3.0 damage 100 effect 0 duration 0.0 origType 26659
+x: 22.356822967529297 y: 20.35517692565918
+
+enemy 26659 name Malgor, the Eternal Fiend
+ShowEffect 1625196885.5794928 effectType 4 targetObjectID 45375499 color -65536 duration 0.0
+x: 21.80254554748535 y: 21.810876846313477
+x: 0.0 y: 0.0
+
+Aoe 1625196887.0114353 radius 3.0 damage 200 effect 0 duration 0.0 origType 26659
+x: 21.80254554748535 y: 21.810876846313477
+
+enemy 26659 name Malgor, the Eternal Fiend
+ShowEffect 1625196891.7818153 effectType 4 targetObjectID 45375499 color -65536 duration 0.0
+x: 21.8603458404541 y: 22.015357971191406
+x: 0.0 y: 0.0
+
+Aoe 1625196893.2134752 radius 3.0 damage 200 effect 0 duration 0.0 origType 26659
+x: 21.8603458404541 y: 22.015357971191406
+
+enemy 26659 name Malgor, the Eternal Fiend
+ShowEffect 1625196897.978137 effectType 4 targetObjectID 45375499 color -65536 duration 0.0
+x: 23.575544357299805 y: 20.984302520751953
+x: 0.0 y: 0.0
+
+Aoe 1625196899.4159443 radius 3.0 damage 200 effect 0 duration 0.0 origType 26659
+x: 23.575544357299805 y: 20.984302520751953
+
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625196947.0213006 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1253.0872802734375 y: 955.6874389648438
+
+enemy 1620 name Medusa
+ShowEffect 1625196948.4188626 effectType 4 targetObjectID 44003806 color -65536 duration 0.0
+x: 1259.7156982421875 y: 958.596923828125
+x: 0.0 y: 0.0
+
+Aoe 1625196949.8425162 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1259.7156982421875 y: 958.596923828125
+
+MapChange: Concealment of the Dreadnought
+x: 11 y: 124
+objectID 45468880 tickID 0 time 0
+records:
+
+objectID: 45468880 slotID: 1 itemData: 
+x: 11 y: 124
+time 0 useType 1
+
+x: 100 y: 138
+objectID 45468880 tickID 0 time 0
+records:
+
+objectID: 45468880 slotID: 1 itemData: 
+x: 100 y: 138
+time 0 useType 1
+
+x: 65 y: 68
+objectID 45468880 tickID 0 time 0
+records:
+
+objectID: 45468880 slotID: 1 itemData: 
+x: 65 y: 68
+time 0 useType 1
+
+x: 266 y: 38
+objectID 45468880 tickID 0 time 0
+records:
+
+objectID: 45468880 slotID: 1 itemData: 
+x: 266 y: 38
+time 0 useType 1
+
+x: 296 y: 151
+objectID 45468880 tickID 0 time 0
+records:
+
+objectID: 45468880 slotID: 1 itemData: 
+x: 296 y: 151
+time 0 useType 1
+
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+Closed GUI. Shutting down proxy.

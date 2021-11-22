@@ -1,0 +1,161 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625302985.1310403 effectType 4 targetObjectID 17100777 color -16640 duration 0.0
+x: 994.5594482421875 y: 1072.404541015625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625302985.1350725 effectType 4 targetObjectID 17100777 color -16640 duration 0.0
+x: 994.5594482421875 y: 1066.404541015625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625303041.5595543 effectType 4 targetObjectID 16639992 color -65536 duration 0.0
+x: 1298.344482421875 y: 986.37255859375
+x: 0.0 y: 0.0
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625303149.82223 effectType 4 targetObjectID 17263434 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625303158.8392155 effectType 4 targetObjectID 17263434 color 65280 duration 0.0
+x: 15.742091178894043 y: 21.851055145263672
+x: 0.0 y: 0.0
+
+Aoe 1625303160.2581406 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 15.742091178894043 y: 21.851055145263672
+
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1198432 effectType 4 targetObjectID 17461803 color -65536 duration 0.0
+x: 924.4612426757812 y: 911.7658081054688
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1198432 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 928.5 y: 910.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1198432 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 927.3284301757812 y: 913.3284301757812
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1198432 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 924.5 y: 914.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1208415 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 921.6715698242188 y: 913.3284301757812
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1208415 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 920.5 y: 910.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1208415 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 921.6715698242188 y: 907.6715698242188
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1218388 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 924.5 y: 906.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303390.1218388 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 927.3284301757812 y: 907.6715698242188
+x: 0.0 y: 0.0
+
+Aoe 1625303391.534661 radius 5.0 damage 200 effect 0 duration 0.0 origType 26568
+x: 924.4612426757812 y: 911.7658081054688
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303405.7283154 effectType 4 targetObjectID 17461803 color -65536 duration 0.0
+x: 920.2733764648438 y: 911.20458984375
+x: 0.0 y: 0.0
+
+Aoe 1625303407.1381779 radius 5.0 damage 200 effect 0 duration 0.0 origType 26568
+x: 920.2733764648438 y: 911.20458984375
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303410.3310158 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 928.5 y: 910.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303410.3310158 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 924.5 y: 914.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303410.3310158 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 920.5 y: 910.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625303410.3320134 effectType 4 targetObjectID 17461803 color -16640 duration 0.0
+x: 924.5 y: 906.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 17493264
+
+ShowEffect had KeyError: 17493265
+
+Aoe 1625303413.3531187 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 922.5755004882812 y: 914.9321899414062
+
+Aoe 1625303413.3531187 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 922.32763671875 y: 913.94384765625
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625303442.5554395 effectType 4 targetObjectID 17420808 color -65536 duration 0.0
+x: 920.4496459960938 y: 913.3627319335938
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625303442.5554395 effectType 4 targetObjectID 17420808 color -16640 duration 0.0
+x: 919.3999633789062 y: 914.018310546875
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625303443.754509 effectType 4 targetObjectID 17420808 color -65536 duration 0.0
+x: 919.56884765625 y: 911.1885986328125
+x: 0.0 y: 0.0
+
+Aoe 1625303443.971105 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 920.4496459960938 y: 913.3627319335938
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625303444.9536421 effectType 4 targetObjectID 17420808 color -65536 duration 0.0
+x: 919.090576171875 y: 911.1854248046875
+x: 0.0 y: 0.0
+
+Aoe 1625303445.1746514 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 919.56884765625 y: 911.1885986328125
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625303446.153662 effectType 4 targetObjectID 17420808 color -65536 duration 0.0
+x: 919.090576171875 y: 911.1854248046875
+x: 0.0 y: 0.0
+
+Aoe 1625303446.3682086 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 919.090576171875 y: 911.1854248046875
+
+Aoe 1625303447.5691636 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 919.090576171875 y: 911.1854248046875
+
+Connection was reset
+MapChange: Nexus
+Closed GUI. Shutting down proxy.

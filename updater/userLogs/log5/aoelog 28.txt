@@ -1,0 +1,3506 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 26584 name Garutious
+ShowEffect 1625357696.2652698 effectType 4 targetObjectID 11867683 color -16640 duration 0.0
+x: 1009.6743774414062 y: 949.2146606445312
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1625357696.2662668 effectType 4 targetObjectID 11867683 color -16640 duration 0.0
+x: 1004.6743774414062 y: 954.2146606445312
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1625357696.2742672 effectType 4 targetObjectID 11867683 color -16640 duration 0.0
+x: 999.6743774414062 y: 949.2146606445312
+x: 0.0 y: 0.0
+
+enemy 26584 name Garutious
+ShowEffect 1625357696.2742672 effectType 4 targetObjectID 11867683 color -16640 duration 0.0
+x: 1004.6743774414062 y: 944.2146606445312
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4637697 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4637697 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4648092 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4648092 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4648092 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4658053 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4658053 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357698.4658053 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6765547 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357699.6775177 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357699.8805532 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357699.8805532 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357699.8805532 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357699.8805532 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357699.8805532 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357699.8805532 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357699.8825908 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357699.8825908 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357702.3044012 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357702.3044012 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357702.3044012 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357702.3044012 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357702.3053885 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357702.3053885 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357702.3053885 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357702.3053885 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.2719831 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.2729795 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.2729795 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.2739787 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.2739787 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.2739787 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.274976 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.274976 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357703.4803689 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357703.4813259 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357703.4813259 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357703.4813259 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357703.4813259 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357703.4823425 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357703.4823425 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357703.4823425 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.8723223 effectType 4 targetObjectID 11908083 color -16640 duration 0.0
+x: 1004.6743774414062 y: 957.2146606445312
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357703.8723223 effectType 4 targetObjectID 11908083 color -16640 duration 0.0
+x: 1004.6743774414062 y: 951.2146606445312
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.4715996 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.4715996 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.472585 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.472585 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.472585 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.472585 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.4795814 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357704.4805305 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357704.6901948 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357704.6901948 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357704.6901948 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357704.6901948 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357704.6901948 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357704.6901948 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357704.6911871 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357704.6911871 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.673387 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.673387 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.673387 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.673387 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.674363 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.674363 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.674363 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357705.674363 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357705.8829231 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357705.8829231 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357705.8829231 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357705.8829231 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357705.8829231 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357705.8829231 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357705.8829231 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357705.8829231 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.9824889 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.9824889 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.9824889 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.9865124 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.9865124 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.9865124 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.987513 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357706.987513 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357707.08426 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357707.08426 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357707.08426 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357707.08426 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357707.08426 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357707.08426 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357707.0852146 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357707.0852146 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.2723696 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.2723696 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.273367 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.273367 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.273367 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.273367 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.2743647 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357709.2743647 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357709.48382 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357709.48382 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357709.48382 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357709.4847808 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357709.4847808 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357709.4847808 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357709.4847808 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357709.4847808 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4748666 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4748666 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4748666 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4748666 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4768586 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4768586 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4768586 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357710.4768586 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357710.6860526 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357710.687012 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357710.687012 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357710.687012 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357710.6880105 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357710.6880105 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357710.6880105 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357710.6880105 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.674552 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.674552 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.6755497 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.6785417 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.6785417 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.679539 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.679539 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357711.679539 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357711.8910208 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357711.8910208 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357711.8910208 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357711.8919816 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357711.8919816 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357711.8929691 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357711.8929691 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357711.8929691 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.885761 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8867588 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8867588 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8867588 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8877568 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8877568 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8877568 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357712.8877568 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357713.090271 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357713.0912337 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357713.0912337 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357713.0912337 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357713.0912337 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357713.0912337 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357713.0912337 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357713.0922637 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0743725 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0753698 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0753698 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0753698 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0753698 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0753698 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0763938 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357714.0763938 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357714.2968616 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357714.2968616 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357714.2978675 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357714.298822 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357714.298822 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357714.298822 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357714.298822 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357714.298822 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2759218 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2759218 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2759218 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2768865 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2768865 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2768865 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2768865 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357715.2778852 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357715.4873462 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357715.488321 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357715.4903588 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357715.4913554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357715.4913554 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357715.4913554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357715.4913554 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357715.4913554 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4746206 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4746206 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4746206 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4755745 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4755745 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4755745 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 996.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4765718 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357716.4765718 effectType 4 targetObjectID 11908082 color 255 duration 0.0
+x: 1002.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357716.6853883 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357716.6863852 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357716.6863852 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357716.6873806 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357716.6873806 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357716.6873806 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357716.6873806 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357716.6873806 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357717.8946729 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357717.8956354 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 946.38623046875
+
+Aoe 1625357717.8956354 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357717.8956354 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 946.38623046875
+
+Aoe 1625357717.8956354 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357717.8956354 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 996.845947265625 y: 952.0430908203125
+
+Aoe 1625357717.896628 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+Aoe 1625357717.896628 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1002.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0774982 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0784886 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0784886 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0784886 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0784886 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0794852 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0794852 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357723.0804834 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2785246 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2785246 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2794816 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2794816 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 952.0430908203125
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2794816 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2804792 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1006.845947265625 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2804792 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357724.2804792 effectType 4 targetObjectID 11908084 color 255 duration 0.0
+x: 1012.5028076171875 y: 946.38623046875
+x: 0.0 y: 0.0
+
+Aoe 1625357724.4888904 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 946.38623046875
+
+Aoe 1625357724.4888904 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 946.38623046875
+
+Aoe 1625357724.4899268 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 946.38623046875
+
+Aoe 1625357724.4899268 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 946.38623046875
+
+Aoe 1625357724.4899268 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 952.0430908203125
+
+Aoe 1625357724.4908774 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 952.0430908203125
+
+Aoe 1625357724.4908774 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 952.0430908203125
+
+Aoe 1625357724.4908774 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 952.0430908203125
+
+Aoe 1625357725.6901393 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 946.38623046875
+
+Aoe 1625357725.6901393 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 946.38623046875
+
+Aoe 1625357725.6901393 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 946.38623046875
+
+Aoe 1625357725.6901393 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 946.38623046875
+
+Aoe 1625357725.6901393 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 952.0430908203125
+
+Aoe 1625357725.6901393 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1006.845947265625 y: 952.0430908203125
+
+Aoe 1625357725.6911223 radius 2.5 damage 0 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 952.0430908203125
+
+Aoe 1625357725.6921186 radius 2.5 damage 75 effect 0 duration 0.0 origType 30145
+x: 1012.5028076171875 y: 952.0430908203125
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357730.089753 effectType 4 targetObjectID 11908081 color -16640 duration 0.0
+x: 1007.104248046875 y: 943.4263916015625
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357733.8853884 effectType 4 targetObjectID 11908081 color -16640 duration 0.0
+x: 1004.6743774414062 y: 947.2146606445312
+x: 0.0 y: 0.0
+
+enemy 30145 name Bastille Sorcerer
+ShowEffect 1625357733.8853884 effectType 4 targetObjectID 11908081 color -16640 duration 0.0
+x: 1004.6743774414062 y: 941.2146606445312
+x: 0.0 y: 0.0
+
+MapChange: Hunter Cave
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625357830.3744545 effectType 4 targetObjectID 11956854 color -16640 duration 0.0
+x: 22.99468994140625 y: 26.938241958618164
+x: 0.0 y: 0.0
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625357858.6986046 effectType 4 targetObjectID 11956854 color -16640 duration 0.0
+x: 24.278858184814453 y: 23.15655517578125
+x: 0.0 y: 0.0
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 12070681
+
+Aoe 1625357893.0884135 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.25947570800781 y: 19.90641212463379
+
+ShowEffect had KeyError: 12070717
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625357897.104237 effectType 4 targetObjectID 12070691 color -65536 duration 0.0
+x: 40.5 y: 29.65869140625
+x: 0.0 y: 0.0
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625357897.104237 effectType 4 targetObjectID 12070717 color -65536 duration 0.0
+x: 40.5 y: 29.65869140625
+x: 0.0 y: 0.0
+
+Aoe 1625357897.294757 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 36.218971252441406 y: 29.466489791870117
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625357898.3068538 effectType 4 targetObjectID 12070691 color -65536 duration 0.0
+x: 49.5 y: 29.377939224243164
+x: 0.0 y: 0.0
+
+Aoe 1625357898.49249 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 40.5 y: 29.65869140625
+
+Aoe 1625357898.4934676 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 40.5 y: 29.65869140625
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1625357899.495091 effectType 4 targetObjectID 12070691 color -65536 duration 0.0
+x: 54.702701568603516 y: 29.706214904785156
+x: 0.0 y: 0.0
+
+Aoe 1625357899.7112465 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 49.5 y: 29.377939224243164
+
+Aoe 1625357900.9124043 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 54.702701568603516 y: 29.706214904785156
+
+MapChange: Nexus
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625357992.8829243 effectType 4 targetObjectID 12095754 color -65536 duration 0.0
+x: 942.4002075195312 y: 1671.1953125
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625357992.8839629 effectType 4 targetObjectID 12095754 color -16640 duration 0.0
+x: 945.4388427734375 y: 1665.9619140625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625357994.0822012 effectType 4 targetObjectID 12095754 color -65536 duration 0.0
+x: 942.4002075195312 y: 1671.1953125
+x: 0.0 y: 0.0
+
+Aoe 1625357994.3006244 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 942.4002075195312 y: 1671.1953125
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625357995.2832487 effectType 4 targetObjectID 12095754 color -65536 duration 0.0
+x: 942.4002075195312 y: 1671.1953125
+x: 0.0 y: 0.0
+
+Aoe 1625357995.5086346 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 942.4002075195312 y: 1671.1953125
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625357996.4841976 effectType 4 targetObjectID 12095754 color -65536 duration 0.0
+x: 942.4002075195312 y: 1671.1953125
+x: 0.0 y: 0.0
+
+Aoe 1625357996.706635 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 942.4002075195312 y: 1671.1953125
+
+Aoe 1625357997.9027083 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 942.4002075195312 y: 1671.1953125
+
+MapChange: Sincryer's Gate
+MapChange: Nontridus
+MapChange: Nontridus
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358108.7664704 effectType 4 targetObjectID 12255410 color -16640 duration 0.0
+x: 177.8852081298828 y: 107.55702209472656
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358118.7720952 effectType 4 targetObjectID 12255365 color -16640 duration 0.0
+x: 150.65711975097656 y: 22.833316802978516
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358119.7740092 effectType 4 targetObjectID 12255362 color -16640 duration 0.0
+x: 147.51666259765625 y: 17.964242935180664
+x: 0.0 y: 0.0
+
+enemy 8959 name AH The Vision of Aldragine
+ShowEffect 1625358130.3695936 effectType 4 targetObjectID 12255363 color -16640 duration 0.0
+x: 152.5 y: 7.5
+x: 0.0 y: 0.0
+
+enemy 8959 name AH The Vision of Aldragine
+ShowEffect 1625358130.3695936 effectType 4 targetObjectID 12255363 color -16640 duration 0.0
+x: 152.5 y: 19.5
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358164.4036102 effectType 4 targetObjectID 12255380 color -16640 duration 0.0
+x: 141.74496459960938 y: 73.9405746459961
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358175.126114 effectType 4 targetObjectID 12255396 color -16640 duration 0.0
+x: 53.486976623535156 y: 89.63849639892578
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358176.3378007 effectType 4 targetObjectID 12255420 color -16640 duration 0.0
+x: 49.709556579589844 y: 117.20250701904297
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625358178.1232102 effectType 4 targetObjectID 12255427 color -16640 duration 0.0
+x: 50.67477035522461 y: 123.16253662109375
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Hunter Cave
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625358240.7205014 effectType 4 targetObjectID 12436815 color -16640 duration 0.0
+x: 22.74146270751953 y: 23.88979148864746
+x: 0.0 y: 0.0
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1625358260.1718786 effectType 4 targetObjectID 12436815 color -16640 duration 0.0
+x: 23.5 y: 32.136383056640625
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625358378.161379 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1427.418212890625 y: 1047.816162109375
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625358455.4496338 effectType 4 targetObjectID 12686881 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625358455.4496338 effectType 4 targetObjectID 12686881 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625358455.4496338 effectType 4 targetObjectID 12686881 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625358455.4505746 effectType 4 targetObjectID 12686881 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625358458.6569183 effectType 4 targetObjectID 12686881 color -16640 duration 0.0
+x: 12.32618236541748 y: 20.21419906616211
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Vault
+MapChange: Vault
+MapChange: Toxic Wastelands
+enemy 2112 name Toxic Troll
+ShowEffect 1625358665.0646298 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358665.065584 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358665.065584 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 32.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358665.065584 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358665.065584 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358665.065584 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 14.5 y: 14.5
+x: 0.0 y: 0.0
+
+Aoe 1625358666.4710324 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 14.5 y: 14.5
+
+Aoe 1625358666.4710324 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.5 y: 14.5
+
+Aoe 1625358666.4710324 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 20.5 y: 14.5
+
+Aoe 1625358666.4710324 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 32.5 y: 14.5
+
+Aoe 1625358666.4710324 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.5 y: 14.5
+
+Aoe 1625358666.4710324 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 26.5 y: 14.5
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358666.8669755 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358666.8669755 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358666.8669755 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 32.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358666.8679726 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358666.8679726 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358666.8679726 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 14.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358668.2784483 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 17.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358668.2784483 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358668.2794418 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358668.2794418 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358668.2794418 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 8.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358668.2794418 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 5.5
+x: 0.0 y: 0.0
+
+Aoe 1625358668.2944093 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 14.5 y: 14.5
+
+Aoe 1625358668.2944093 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.5 y: 14.5
+
+Aoe 1625358668.2944093 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 20.5 y: 14.5
+
+Aoe 1625358668.2944093 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 32.5 y: 14.5
+
+Aoe 1625358668.2944093 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.5 y: 14.5
+
+Aoe 1625358668.2944093 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 26.5 y: 14.5
+
+Aoe 1625358669.7909517 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 5.5
+
+Aoe 1625358669.7909517 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 8.5
+
+Aoe 1625358669.7909517 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 11.5
+
+Aoe 1625358669.7909517 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 23.5
+
+Aoe 1625358669.7909517 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 20.5
+
+Aoe 1625358669.791946 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 17.5
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358670.0902398 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 17.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358670.0902398 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358670.0902398 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358670.0902398 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358670.0902398 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 8.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358670.091236 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.4716315 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.4716315 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 32.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 17.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.472628 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.4736617 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.4736617 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 8.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358671.4736617 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 5.5
+x: 0.0 y: 0.0
+
+Aoe 1625358671.4736617 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 5.5
+
+Aoe 1625358671.4736617 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 8.5
+
+Aoe 1625358671.474658 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 11.5
+
+Aoe 1625358671.474658 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 23.5
+
+Aoe 1625358671.474658 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 20.5
+
+Aoe 1625358671.474658 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 17.5
+
+Aoe 1625358672.8856676 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 5.5
+
+Aoe 1625358672.8856676 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 8.5
+
+Aoe 1625358672.8856676 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 11.5
+
+Aoe 1625358672.8856676 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 23.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 20.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 17.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.5 y: 14.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.5 y: 14.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 20.5 y: 14.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 32.5 y: 14.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.5 y: 14.5
+
+Aoe 1625358672.8866675 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 26.5 y: 14.5
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2912135 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2922094 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2922094 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 32.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2922094 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2922094 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2922094 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2922094 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 17.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2932057 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2932057 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2932057 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2932057 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 8.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358673.2932057 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.5 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6778836 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 25.621320724487305 y: 16.621320724487305
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 27.74264144897461 y: 18.74264144897461
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.86396026611328 y: 20.86396026611328
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 21.378679275512695 y: 12.378679275512695
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 19.25735855102539 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 19.25735855102539 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 21.378679275512695 y: 16.621320724487305
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 19.25735855102539 y: 18.74264144897461
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.13603973388672 y: 20.86396026611328
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6788485 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 25.621320724487305 y: 12.378679275512695
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6798785 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 27.74264144897461 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358674.6798785 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.86396026611328 y: 8.136038780212402
+x: 0.0 y: 0.0
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 5.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 8.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 11.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 23.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 20.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.5 y: 17.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.5 y: 14.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.5 y: 14.5
+
+Aoe 1625358674.686826 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 20.5 y: 14.5
+
+Aoe 1625358674.6878564 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 32.5 y: 14.5
+
+Aoe 1625358674.6878564 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.5 y: 14.5
+
+Aoe 1625358674.6878564 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 26.5 y: 14.5
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.86396026611328 y: 8.136038780212402
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 27.74264144897461 y: 10.257359504699707
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 25.621320724487305 y: 12.378679275512695
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.13603973388672 y: 20.86396026611328
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 19.25735855102539 y: 18.74264144897461
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 21.378679275512695 y: 16.621320724487305
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 19.25735855102539 y: 10.257359504699707
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 19.25735855102539 y: 10.257359504699707
+
+Aoe 1625358676.0887148 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 21.378679275512695 y: 12.378679275512695
+
+Aoe 1625358676.089748 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.86396026611328 y: 20.86396026611328
+
+Aoe 1625358676.089748 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 27.74264144897461 y: 18.74264144897461
+
+Aoe 1625358676.089748 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 25.621320724487305 y: 16.621320724487305
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4784575 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 25.621320724487305 y: 16.621320724487305
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4784575 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 27.74264144897461 y: 18.74264144897461
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4784575 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.86396026611328 y: 20.86396026611328
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4784575 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 21.378679275512695 y: 12.378679275512695
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4784575 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 19.25735855102539 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4784575 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 19.25735855102539 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4794571 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 21.378679275512695 y: 16.621320724487305
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4794571 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 19.25735855102539 y: 18.74264144897461
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4794571 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 17.13603973388672 y: 20.86396026611328
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4794571 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 25.621320724487305 y: 12.378679275512695
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4794571 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 27.74264144897461 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358676.4794571 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 29.86396026611328 y: 8.136038780212402
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358677.8813891 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.560537338256836 y: 3.4981651306152344
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358677.8823438 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 35.56053924560547 y: 15.498165130615234
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358677.8823438 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 11.560537338256836 y: 15.498165130615234
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358677.8823438 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.560537338256836 y: 27.498165130615234
+x: 0.0 y: 0.0
+
+Aoe 1625358677.8992994 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.86396026611328 y: 8.136038780212402
+
+Aoe 1625358677.8992994 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 27.74264144897461 y: 10.257359504699707
+
+Aoe 1625358677.8992994 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 25.621320724487305 y: 12.378679275512695
+
+Aoe 1625358677.8992994 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 17.13603973388672 y: 20.86396026611328
+
+Aoe 1625358677.8992994 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 19.25735855102539 y: 18.74264144897461
+
+Aoe 1625358677.8992994 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 21.378679275512695 y: 16.621320724487305
+
+Aoe 1625358677.9002995 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 19.25735855102539 y: 10.257359504699707
+
+Aoe 1625358677.9002995 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 19.25735855102539 y: 10.257359504699707
+
+Aoe 1625358677.9002995 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 21.378679275512695 y: 12.378679275512695
+
+Aoe 1625358677.9002995 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 29.86396026611328 y: 20.86396026611328
+
+Aoe 1625358677.9002995 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 27.74264144897461 y: 18.74264144897461
+
+Aoe 1625358677.9002995 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 25.621320724487305 y: 16.621320724487305
+
+Aoe 1625358679.2897832 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.560537338256836 y: 27.498165130615234
+
+Aoe 1625358679.2897832 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 11.560537338256836 y: 15.498165130615234
+
+Aoe 1625358679.2897832 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 35.56053924560547 y: 15.498165130615234
+
+Aoe 1625358679.2897832 radius 3.0 damage 250 effect 0 duration 0.0 origType 2112
+x: 23.560537338256836 y: 3.4981651306152344
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358682.086154 effectType 4 targetObjectID 12866699 color -16640 duration 0.0
+x: 31.483274459838867 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358682.086154 effectType 4 targetObjectID 12866699 color -16640 duration 0.0
+x: 23.483274459838867 y: 6.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358682.0871162 effectType 4 targetObjectID 12866699 color -16640 duration 0.0
+x: 15.483274459838867 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358682.0871162 effectType 4 targetObjectID 12866699 color -16640 duration 0.0
+x: 23.483274459838867 y: 22.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.31170082092285 y: 17.21748161315918
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.654848098754883 y: 17.21748161315918
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.654848098754883 y: 11.560627937316895
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.31170082092285 y: 11.560627937316895
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 37.4832763671875 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3100939 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 28.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3111248 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 9.483274459838867 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358686.3111248 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 0.3890552520751953
+x: 0.0 y: 0.0
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 0.3890552520751953
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 9.483274459838867 y: 14.389055252075195
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 28.389055252075195
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 37.4832763671875 y: 14.389055252075195
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 7.317987442016602
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 7.317987442016602
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 21.46012306213379
+
+Aoe 1625358687.836839 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 21.46012306213379
+
+Aoe 1625358687.837872 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 26.31170082092285 y: 11.560627937316895
+
+Aoe 1625358687.837872 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 20.654848098754883 y: 11.560627937316895
+
+Aoe 1625358687.837872 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 20.654848098754883 y: 17.21748161315918
+
+Aoe 1625358687.837872 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 26.31170082092285 y: 17.21748161315918
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.5370839 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.5370839 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.5370839 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.5370839 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.538082 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 37.4832763671875 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.538082 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 28.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.538082 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 9.483274459838867 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358689.538082 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 0.3890552520751953
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358690.5405385 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.31170082092285 y: 17.21748161315918
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358690.5405385 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.654848098754883 y: 17.21748161315918
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358690.5405385 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.654848098754883 y: 11.560627937316895
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358690.541564 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.31170082092285 y: 11.560627937316895
+x: 0.0 y: 0.0
+
+Aoe 1625358690.9383783 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 0.3890552520751953
+
+Aoe 1625358690.9393747 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 9.483274459838867 y: 14.389055252075195
+
+Aoe 1625358690.9403718 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 28.389055252075195
+
+Aoe 1625358690.9403718 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 37.4832763671875 y: 14.389055252075195
+
+Aoe 1625358690.9403718 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 7.317987442016602
+
+Aoe 1625358690.9403718 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 7.317987442016602
+
+Aoe 1625358690.9403718 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 21.46012306213379
+
+Aoe 1625358690.9403718 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 21.46012306213379
+
+Aoe 1625358692.1335616 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 26.31170082092285 y: 11.560627937316895
+
+Aoe 1625358692.1335616 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 20.654848098754883 y: 11.560627937316895
+
+Aoe 1625358692.1335616 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 20.654848098754883 y: 17.21748161315918
+
+Aoe 1625358692.1335616 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 26.31170082092285 y: 17.21748161315918
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 37.4832763671875 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 28.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7984102 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 9.483274459838867 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358692.7994208 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 0.3890552520751953
+x: 0.0 y: 0.0
+
+Aoe 1625358694.218206 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 0.3890552520751953
+
+Aoe 1625358694.218206 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 9.483274459838867 y: 14.389055252075195
+
+Aoe 1625358694.218206 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 28.389055252075195
+
+Aoe 1625358694.218206 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 37.4832763671875 y: 14.389055252075195
+
+Aoe 1625358694.218206 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 7.317987442016602
+
+Aoe 1625358694.2192013 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 7.317987442016602
+
+Aoe 1625358694.2192013 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 21.46012306213379
+
+Aoe 1625358694.2192013 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 21.46012306213379
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358694.7942975 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.31170082092285 y: 17.21748161315918
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358694.7942975 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.654848098754883 y: 17.21748161315918
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358694.7942975 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 20.654848098754883 y: 11.560627937316895
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358694.7942975 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 26.31170082092285 y: 11.560627937316895
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 21.46012306213379
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 16.412206649780273 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 30.55434226989746 y: 7.317987442016602
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 37.4832763671875 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 28.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 9.483274459838867 y: 14.389055252075195
+x: 0.0 y: 0.0
+
+enemy 2112 name Toxic Troll
+ShowEffect 1625358695.9963763 effectType 4 targetObjectID 12866699 color 65280 duration 0.0
+x: 23.483274459838867 y: 0.3890552520751953
+x: 0.0 y: 0.0
+
+Aoe 1625358696.217837 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 26.31170082092285 y: 11.560627937316895
+
+Aoe 1625358696.217837 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 20.654848098754883 y: 11.560627937316895
+
+Aoe 1625358696.217837 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 20.654848098754883 y: 17.21748161315918
+
+Aoe 1625358696.217837 radius 3.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 26.31170082092285 y: 17.21748161315918
+
+Aoe 1625358697.4101715 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 0.3890552520751953
+
+Aoe 1625358697.4101715 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 9.483274459838867 y: 14.389055252075195
+
+Aoe 1625358697.4101715 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 23.483274459838867 y: 28.389055252075195
+
+Aoe 1625358697.4101715 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 37.4832763671875 y: 14.389055252075195
+
+Aoe 1625358697.411173 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 7.317987442016602
+
+Aoe 1625358697.411173 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 7.317987442016602
+
+Aoe 1625358697.411173 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 16.412206649780273 y: 21.46012306213379
+
+Aoe 1625358697.411173 radius 4.0 damage 30 effect 0 duration 0.0 origType 2112
+x: 30.55434226989746 y: 21.46012306213379
+
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Snake Pit
+MapChange: Ascended Snake Pit
+MapChange: Realm
+MapChange: Elemental Ruins
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359115.315257 effectType 4 targetObjectID 13270171 color -16640 duration 0.0
+x: 221.5 y: 179.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359115.315257 effectType 4 targetObjectID 13270171 color -16640 duration 0.0
+x: 219.5 y: 181.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359115.315257 effectType 4 targetObjectID 13270171 color -16640 duration 0.0
+x: 217.5 y: 179.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359115.315257 effectType 4 targetObjectID 13270171 color -16640 duration 0.0
+x: 219.5 y: 177.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359117.8870573 effectType 4 targetObjectID 13270138 color -16640 duration 0.0
+x: 220.5 y: 142.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359117.8870573 effectType 4 targetObjectID 13270138 color -16640 duration 0.0
+x: 218.5 y: 144.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359117.888133 effectType 4 targetObjectID 13270138 color -16640 duration 0.0
+x: 216.5 y: 142.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359117.888133 effectType 4 targetObjectID 13270138 color -16640 duration 0.0
+x: 218.5 y: 140.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359119.0982218 effectType 4 targetObjectID 13270130 color -16640 duration 0.0
+x: 222.5 y: 122.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359119.0982218 effectType 4 targetObjectID 13270130 color -16640 duration 0.0
+x: 220.5 y: 124.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359119.0982218 effectType 4 targetObjectID 13270130 color -16640 duration 0.0
+x: 218.5 y: 122.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1625359119.0982218 effectType 4 targetObjectID 13270130 color -16640 duration 0.0
+x: 220.5 y: 120.5
+x: 0.0 y: 0.0
+
+enemy 6039 name Urios, God of Elements
+ShowEffect 1625359158.7702482 effectType 4 targetObjectID 13270112 color -65536 duration 0.0
+x: 218.4423065185547 y: 28.163936614990234
+x: 0.0 y: 0.0
+
+Aoe 1625359160.1739874 radius 2.5 damage 300 effect 0 duration 0.0 origType 6039
+x: 218.4423065185547 y: 28.163936614990234
+
+enemy 6039 name Urios, God of Elements
+ShowEffect 1625359162.2817824 effectType 4 targetObjectID 13270112 color -65536 duration 0.0
+x: 217.6512908935547 y: 34.4511604309082
+x: 0.0 y: 0.0
+
+Aoe 1625359163.6799774 radius 2.5 damage 300 effect 0 duration 0.0 origType 6039
+x: 217.6512908935547 y: 34.4511604309082
+
+MapChange: Realm
+enemy 28619 name Jade Statue
+ShowEffect 1625359197.4651873 effectType 4 targetObjectID 13247376 color -16640 duration 0.0
+x: 277.28851318359375 y: 1101.130126953125
+x: 0.0 y: 0.0
+
+enemy 28619 name Jade Statue
+ShowEffect 1625359197.4651873 effectType 4 targetObjectID 13247376 color -16640 duration 0.0
+x: 277.28851318359375 y: 1101.130126953125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625359230.9033887 effectType 4 targetObjectID 13217496 color -65536 duration 0.0
+x: 1052.2161865234375 y: 945.5114135742188
+x: 0.0 y: 0.0
+
+Aoe 1625359232.3282356 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1052.2161865234375 y: 945.5114135742188
+
+enemy 1620 name Medusa
+ShowEffect 1625359233.1045108 effectType 4 targetObjectID 13328422 color -65536 duration 0.0
+x: 1013.3619384765625 y: 937.2373657226562
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625359233.9051433 effectType 4 targetObjectID 13328424 color -65536 duration 0.0
+x: 1004.7620239257812 y: 935.2528076171875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625359233.9071376 effectType 4 targetObjectID 13328423 color -65536 duration 0.0
+x: 1004.7620239257812 y: 935.2528076171875
+x: 0.0 y: 0.0
+
+Aoe 1625359234.532924 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1013.3619384765625 y: 937.2373657226562
+
+enemy 3422 name Pentaract Tower
+ShowEffect 1625359253.8656912 effectType 4 targetObjectID 13352679 color -65536 duration 0.0
+x: 832.0099487304688 y: 881.862548828125
+x: 0.0 y: 0.0
+
+Aoe 1625359255.2937477 radius 4.0 damage 100 effect 0 duration 0.0 origType 3422
+x: 832.0099487304688 y: 881.862548828125
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.861094 effectType 4 targetObjectID 13465333 color -65536 duration 0.0
+x: 410.0549621582031 y: 809.5983276367188
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.861094 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 417.5 y: 805.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 416.32843017578125 y: 808.3284301757812
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 413.5 y: 809.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 410.67156982421875 y: 808.3284301757812
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 409.5 y: 805.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 410.67156982421875 y: 802.6715698242188
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 413.5 y: 801.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359348.8620582 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 416.32843017578125 y: 802.6715698242188
+x: 0.0 y: 0.0
+
+Aoe 1625359350.2731009 radius 5.0 damage 200 effect 0 duration 0.0 origType 26568
+x: 410.0549621582031 y: 809.5983276367188
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359369.1131728 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 413.5 y: 809.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625359369.1131728 effectType 4 targetObjectID 13465333 color -16640 duration 0.0
+x: 409.5 y: 805.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 13499088
+
+ShowEffect had KeyError: 13499087
+
+Aoe 1625359372.1300578 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 411.80303955078125 y: 808.260498046875
+
+Aoe 1625359372.1300578 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 411.80303955078125 y: 808.260498046875
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625359375.9111977 effectType 4 targetObjectID 13499086 color -65536 duration 0.0
+x: 412.0416564941406 y: 811.4197998046875
+x: 0.0 y: 0.0
+
+Aoe 1625359377.3245149 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 412.0416564941406 y: 811.4197998046875
+
+enemy 26569 name Corrupted Stone Gargoyle
+ShowEffect 1625359381.1196618 effectType 4 targetObjectID 13499088 color -65536 duration 0.0
+x: 408.2894287109375 y: 809.8861694335938
+x: 0.0 y: 0.0
+
+Aoe 1625359382.5433803 radius 2.0 damage 200 effect 0 duration 0.0 origType 26569
+x: 408.2894287109375 y: 809.8861694335938
+
+MapChange: Nexus
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625359420.5611439 effectType 4 targetObjectID 13410102 color -65536 duration 0.0
+x: 409.7444763183594 y: 809.7410888671875
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625359420.5611439 effectType 4 targetObjectID 13410102 color -16640 duration 0.0
+x: 412.0793151855469 y: 804.6695556640625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625359421.75951 effectType 4 targetObjectID 13410102 color -65536 duration 0.0
+x: 406.1386413574219 y: 810.3271484375
+x: 0.0 y: 0.0
+
+Aoe 1625359421.9830914 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 409.7444763183594 y: 809.7410888671875
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625359422.960153 effectType 4 targetObjectID 13410102 color -65536 duration 0.0
+x: 408.46795654296875 y: 809.0648803710938
+x: 0.0 y: 0.0
+
+Aoe 1625359423.17562 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 406.1386413574219 y: 810.3271484375
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1625359424.1598792 effectType 4 targetObjectID 13410102 color -65536 duration 0.0
+x: 408.46795654296875 y: 809.0648803710938
+x: 0.0 y: 0.0
+
+Aoe 1625359424.374332 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 408.46795654296875 y: 809.0648803710938
+
+Aoe 1625359425.5831482 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 408.46795654296875 y: 809.0648803710938
+
+Connection was reset
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Aspect Hall
+MapChange: Nexus
+MapChange: Aspect Hall
+MapChange: Nexus
+MapChange: Aspect Hall
+MapChange: Nexus
+MapChange: Vault
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625359531.4389796 effectType 4 targetObjectID 12556628 color -65536 duration 0.0
+x: 1024.3878173828125 y: 846.6456298828125
+x: 0.0 y: 0.0
+
+Aoe 1625359531.6394434 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1018.4302978515625 y: 843.197509765625
+
+Aoe 1625359532.8415542 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1024.3878173828125 y: 846.6456298828125
+
+enemy 1620 name Medusa
+ShowEffect 1625359535.0382004 effectType 4 targetObjectID 13246525 color -65536 duration 0.0
+x: 1025.5069580078125 y: 863.9620361328125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625359536.058696 effectType 4 targetObjectID 12556038 color -65536 duration 0.0
+x: 1021.7001342773438 y: 872.003173828125
+x: 0.0 y: 0.0
+
+Aoe 1625359536.4600854 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1025.5069580078125 y: 863.9620361328125
+
+enemy 1620 name Medusa
+ShowEffect 1625359537.0444942 effectType 4 targetObjectID 12555304 color -65536 duration 0.0
+x: 1013.3541259765625 y: 874.2924194335938
+x: 0.0 y: 0.0
+
+Aoe 1625359537.4480486 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1021.7001342773438 y: 872.003173828125
+
+Aoe 1625359538.4561348 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1013.3541259765625 y: 874.2924194335938
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Snake Pit
+MapChange: Ascended Snake Pit
+MapChange: Realm
+MapChange: Superhuman Hideout
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359722.154476 effectType 4 targetObjectID 13676017 color -65536 duration 0.0
+x: 38.42367172241211 y: 46.35062789916992
+x: 0.0 y: 0.0
+
+Aoe 1625359723.5371685 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 38.42367172241211 y: 46.35062789916992
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359729.5490775 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 49.33949661254883 y: 72.63325500488281
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359730.5001423 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 58.113338470458984 y: 70.19464874267578
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359730.6922803 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 61.87693405151367 y: 68.87875366210938
+x: 0.0 y: 0.0
+
+Aoe 1625359730.888883 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.33949661254883 y: 72.63325500488281
+
+Aoe 1625359731.8977947 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 58.113338470458984 y: 70.19464874267578
+
+Aoe 1625359732.0870242 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 61.87693405151367 y: 68.87875366210938
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359737.0457444 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 57.705814361572266 y: 74.77947998046875
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359738.1214907 effectType 4 targetObjectID 13676221 color -65536 duration 0.0
+x: 49.566402435302734 y: 72.55499267578125
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359738.1214907 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 56.774051666259766 y: 73.49369812011719
+x: 0.0 y: 0.0
+
+Aoe 1625359738.6306863 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 57.705814361572266 y: 74.77947998046875
+
+Aoe 1625359739.4263804 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 56.774051666259766 y: 73.49369812011719
+
+Aoe 1625359739.4263804 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.566402435302734 y: 72.55499267578125
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359741.732079 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 47.915496826171875 y: 67.61360931396484
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359741.7330775 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 53.47420120239258 y: 68.2386703491211
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359741.7340748 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 53.47420120239258 y: 68.2386703491211
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359741.7340748 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 53.47420120239258 y: 68.2386703491211
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359742.4512162 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 52.567752838134766 y: 69.30738830566406
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359742.643129 effectType 4 targetObjectID 13676221 color -65536 duration 0.0
+x: 52.567752838134766 y: 69.30738830566406
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359742.6440947 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 52.567752838134766 y: 69.30738830566406
+x: 0.0 y: 0.0
+
+Aoe 1625359743.047157 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 53.47420120239258 y: 68.2386703491211
+
+Aoe 1625359743.0481348 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 53.47420120239258 y: 68.2386703491211
+
+Aoe 1625359743.0481348 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 53.47420120239258 y: 68.2386703491211
+
+Aoe 1625359743.0481348 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 47.915496826171875 y: 67.61360931396484
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359743.2582939 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 52.567752838134766 y: 69.30738830566406
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359743.8469021 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 52.567752838134766 y: 69.30738830566406
+x: 0.0 y: 0.0
+
+Aoe 1625359743.8598685 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 52.567752838134766 y: 69.30738830566406
+
+Aoe 1625359744.0582063 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 52.567752838134766 y: 69.30738830566406
+
+Aoe 1625359744.059204 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 52.567752838134766 y: 69.30738830566406
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359744.4541895 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 44.26264953613281 y: 74.2362289428711
+x: 0.0 y: 0.0
+
+Aoe 1625359744.6576123 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 52.567752838134766 y: 69.30738830566406
+
+Aoe 1625359745.2649004 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 52.567752838134766 y: 69.30738830566406
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359745.6554704 effectType 4 targetObjectID 13676221 color -65536 duration 0.0
+x: 46.76395797729492 y: 79.44268798828125
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359745.8605254 effectType 4 targetObjectID 13676221 color -65536 duration 0.0
+x: 46.9583625793457 y: 78.46153259277344
+x: 0.0 y: 0.0
+
+Aoe 1625359745.861553 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 44.26264953613281 y: 74.2362289428711
+
+Aoe 1625359747.04537 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 46.76395797729492 y: 79.44268798828125
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359747.2438285 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 49.29875946044922 y: 67.72135925292969
+x: 0.0 y: 0.0
+
+Aoe 1625359747.2667346 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 46.9583625793457 y: 78.46153259277344
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359747.4610198 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 49.29875946044922 y: 67.72135925292969
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359748.2459848 effectType 4 targetObjectID 13676221 color -65536 duration 0.0
+x: 45.41636276245117 y: 73.76731872558594
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359748.663101 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 55.904666900634766 y: 70.46952819824219
+x: 0.0 y: 0.0
+
+Aoe 1625359748.6651282 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.29875946044922 y: 67.72135925292969
+
+Aoe 1625359748.860808 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.29875946044922 y: 67.72135925292969
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359749.4637988 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 53.033729553222656 y: 74.04997253417969
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359749.4757657 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 53.033729553222656 y: 74.04997253417969
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359749.6900485 effectType 4 targetObjectID 13676221 color -65536 duration 0.0
+x: 46.81846237182617 y: 73.19883728027344
+x: 0.0 y: 0.0
+
+Aoe 1625359749.6930425 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 45.41636276245117 y: 73.76731872558594
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359749.845002 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 51.561588287353516 y: 75.0685806274414
+x: 0.0 y: 0.0
+
+Aoe 1625359750.0602324 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 55.904666900634766 y: 70.46952819824219
+
+Aoe 1625359750.861418 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 53.033729553222656 y: 74.04997253417969
+
+Aoe 1625359750.861418 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 53.033729553222656 y: 74.04997253417969
+
+Aoe 1625359751.0542855 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 46.81846237182617 y: 73.19883728027344
+
+Aoe 1625359751.2619913 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 51.561588287353516 y: 75.0685806274414
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359751.6461964 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 52.078346252441406 y: 69.84156799316406
+x: 0.0 y: 0.0
+
+Aoe 1625359753.062204 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 52.078346252441406 y: 69.84156799316406
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359753.4625168 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 49.162330627441406 y: 76.1794662475586
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359753.4625168 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 49.162330627441406 y: 76.1794662475586
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359753.4625168 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 49.162330627441406 y: 76.1794662475586
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359753.4625168 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 49.162330627441406 y: 76.1794662475586
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359754.4487913 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 48.90821075439453 y: 78.5361099243164
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359754.4507875 effectType 4 targetObjectID 13676252 color -65536 duration 0.0
+x: 48.6689453125 y: 80.91182708740234
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359754.8964226 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 49.88734817504883 y: 69.06026458740234
+x: 0.0 y: 0.0
+
+Aoe 1625359754.898418 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.162330627441406 y: 76.1794662475586
+
+Aoe 1625359754.898418 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.162330627441406 y: 76.1794662475586
+
+Aoe 1625359754.898418 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.162330627441406 y: 76.1794662475586
+
+Aoe 1625359754.8994148 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.162330627441406 y: 76.1794662475586
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359755.4652073 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 55.69417190551758 y: 68.80518341064453
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359755.8770964 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 58.393985748291016 y: 72.05703735351562
+x: 0.0 y: 0.0
+
+Aoe 1625359755.885091 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 48.6689453125 y: 80.91182708740234
+
+Aoe 1625359755.885091 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 48.90821075439453 y: 78.5361099243164
+
+Aoe 1625359756.2873635 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.88734817504883 y: 69.06026458740234
+
+Aoe 1625359756.8823254 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 55.69417190551758 y: 68.80518341064453
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359757.0831885 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 57.865142822265625 y: 76.40174102783203
+x: 0.0 y: 0.0
+
+Aoe 1625359757.2667294 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 58.393985748291016 y: 72.05703735351562
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359758.4846425 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 59.53842544555664 y: 72.38961029052734
+x: 0.0 y: 0.0
+
+Aoe 1625359758.4856396 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 57.865142822265625 y: 76.40174102783203
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359758.6811533 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 59.235321044921875 y: 70.26142883300781
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359759.6909168 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 51.34719467163086 y: 70.41238403320312
+x: 0.0 y: 0.0
+
+Aoe 1625359759.897365 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 59.53842544555664 y: 72.38961029052734
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359760.8953695 effectType 4 targetObjectID 13676139 color -65536 duration 0.0
+x: 48.27183151245117 y: 69.9057388305664
+x: 0.0 y: 0.0
+
+Aoe 1625359761.1492746 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 51.34719467163086 y: 70.41238403320312
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359761.309407 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 48.48245620727539 y: 72.75706481933594
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359761.8910325 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 49.449798583984375 y: 75.79635620117188
+x: 0.0 y: 0.0
+
+Aoe 1625359761.8989682 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.71312713623047 y: 69.81254577636719
+
+Aoe 1625359761.8989682 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.71312713623047 y: 69.81254577636719
+
+Aoe 1625359762.311845 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 48.27183151245117 y: 69.9057388305664
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359762.698564 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 54.7396354675293 y: 77.16387939453125
+x: 0.0 y: 0.0
+
+Aoe 1625359762.7005281 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 48.48245620727539 y: 72.75706481933594
+
+Aoe 1625359763.2847009 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.449798583984375 y: 75.79635620117188
+
+Aoe 1625359764.1024053 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 54.7396354675293 y: 77.16387939453125
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359764.6404324 effectType 4 targetObjectID 13695257 color -65536 duration 0.0
+x: 57.57265090942383 y: 70.72261047363281
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359765.7414172 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 57.57265090942383 y: 70.72261047363281
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359765.7424152 effectType 4 targetObjectID 13676141 color -65536 duration 0.0
+x: 57.57265090942383 y: 70.72261047363281
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359765.760376 effectType 4 targetObjectID 13676140 color -65536 duration 0.0
+x: 57.57265090942383 y: 70.72261047363281
+x: 0.0 y: 0.0
+
+Aoe 1625359766.0462723 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 57.57265090942383 y: 70.72261047363281
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359766.7518632 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 47.45627212524414 y: 71.82177734375
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359766.7518632 effectType 4 targetObjectID 13676142 color -65536 duration 0.0
+x: 47.45627212524414 y: 71.82177734375
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359766.752863 effectType 4 targetObjectID 13676261 color -65536 duration 0.0
+x: 49.70243453979492 y: 89.7923812866211
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359766.752863 effectType 4 targetObjectID 13676252 color -65536 duration 0.0
+x: 47.90827941894531 y: 83.98999786376953
+x: 0.0 y: 0.0
+
+Aoe 1625359766.981178 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 57.57265090942383 y: 70.72261047363281
+
+Aoe 1625359766.981178 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 57.57265090942383 y: 70.72261047363281
+
+Aoe 1625359766.981178 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 57.57265090942383 y: 70.72261047363281
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359767.550129 effectType 4 targetObjectID 13676224 color -65536 duration 0.0
+x: 49.295169830322266 y: 81.27877807617188
+x: 0.0 y: 0.0
+
+Aoe 1625359768.16113 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 47.90827941894531 y: 83.98999786376953
+
+Aoe 1625359768.16113 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 49.70243453979492 y: 89.7923812866211
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359768.3527503 effectType 4 targetObjectID 13676303 color -65536 duration 0.0
+x: 61.32558822631836 y: 102.41205596923828
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359768.550801 effectType 4 targetObjectID 13676304 color -65536 duration 0.0
+x: 64.85457611083984 y: 103.0778579711914
+x: 0.0 y: 0.0
+
+Aoe 1625359769.8236763 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 61.32558822631836 y: 102.41205596923828
+
+Aoe 1625359770.0021663 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 64.85457611083984 y: 103.0778579711914
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359770.1929836 effectType 4 targetObjectID 13676331 color -65536 duration 0.0
+x: 76.28511810302734 y: 99.01293182373047
+x: 0.0 y: 0.0
+
+Aoe 1625359771.621822 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 76.28511810302734 y: 99.01293182373047
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359775.9746604 effectType 4 targetObjectID 13676067 color -65536 duration 0.0
+x: 81.4002914428711 y: 56.24062728881836
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359775.9746604 effectType 4 targetObjectID 13676068 color -65536 duration 0.0
+x: 81.4002914428711 y: 56.24062728881836
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359776.5658774 effectType 4 targetObjectID 13676035 color -65536 duration 0.0
+x: 81.4002914428711 y: 51.684627532958984
+x: 0.0 y: 0.0
+
+Aoe 1625359777.380617 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 81.4002914428711 y: 56.24062728881836
+
+Aoe 1625359777.380617 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 81.4002914428711 y: 56.24062728881836
+
+Aoe 1625359777.9849844 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 81.4002914428711 y: 51.684627532958984
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359780.3707788 effectType 4 targetObjectID 13676067 color -65536 duration 0.0
+x: 80.69925689697266 y: 51.32624435424805
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359780.3707788 effectType 4 targetObjectID 13676034 color -65536 duration 0.0
+x: 80.69925689697266 y: 51.32624435424805
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359781.5749133 effectType 4 targetObjectID 13676068 color -65536 duration 0.0
+x: 81.29934692382812 y: 59.61429214477539
+x: 0.0 y: 0.0
+
+Aoe 1625359781.7862837 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 80.69925689697266 y: 51.32624435424805
+
+Aoe 1625359781.7862837 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 80.69925689697266 y: 51.32624435424805
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359782.3771152 effectType 4 targetObjectID 13676034 color -65536 duration 0.0
+x: 81.36547088623047 y: 60.75624084472656
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359782.7830186 effectType 4 targetObjectID 13676067 color -65536 duration 0.0
+x: 81.36547088623047 y: 60.75624084472656
+x: 0.0 y: 0.0
+
+Aoe 1625359782.9855447 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.29934692382812 y: 59.61429214477539
+
+Aoe 1625359783.7882543 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.36547088623047 y: 60.75624084472656
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359784.1756365 effectType 4 targetObjectID 13676035 color -65536 duration 0.0
+x: 81.64053344726562 y: 65.50593566894531
+x: 0.0 y: 0.0
+
+Aoe 1625359784.1806204 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.36547088623047 y: 60.75624084472656
+
+Aoe 1625359785.580218 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.64053344726562 y: 65.50593566894531
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359787.1769254 effectType 4 targetObjectID 13676009 color -65536 duration 0.0
+x: 79.0702896118164 y: 55.21454620361328
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359787.1779153 effectType 4 targetObjectID 13676034 color -65536 duration 0.0
+x: 79.0702896118164 y: 55.21454620361328
+x: 0.0 y: 0.0
+
+Aoe 1625359788.584502 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 79.0702896118164 y: 55.21454620361328
+
+Aoe 1625359788.584502 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 79.0702896118164 y: 55.21454620361328
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359794.0343966 effectType 4 targetObjectID 13719384 color -65536 duration 0.0
+x: 80.50466918945312 y: 62.11333084106445
+x: 0.0 y: 0.0
+
+Aoe 1625359795.3982134 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 80.50466918945312 y: 62.11333084106445
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359799.0089004 effectType 4 targetObjectID 13676009 color -65536 duration 0.0
+x: 77.56492614746094 y: 52.911781311035156
+x: 0.0 y: 0.0
+
+Aoe 1625359800.4029021 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 77.56492614746094 y: 52.911781311035156
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359802.8252687 effectType 4 targetObjectID 13676012 color -65536 duration 0.0
+x: 81.19755554199219 y: 52.52842712402344
+x: 0.0 y: 0.0
+
+Aoe 1625359804.2986276 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.19755554199219 y: 52.52842712402344
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359804.699902 effectType 4 targetObjectID 13676009 color -65536 duration 0.0
+x: 81.33395385742188 y: 54.917823791503906
+x: 0.0 y: 0.0
+
+Aoe 1625359806.065126 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.33395385742188 y: 54.917823791503906
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359807.8550987 effectType 4 targetObjectID 13731564 color -65536 duration 0.0
+x: 83.03864288330078 y: 51.42141342163086
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359807.8560867 effectType 4 targetObjectID 13675994 color -65536 duration 0.0
+x: 82.48431396484375 y: 42.02604675292969
+x: 0.0 y: 0.0
+
+Aoe 1625359809.2471423 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 82.48431396484375 y: 42.02604675292969
+
+Aoe 1625359809.2471423 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 83.03864288330078 y: 51.42141342163086
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359810.6382773 effectType 4 targetObjectID 13731564 color -65536 duration 0.0
+x: 81.7676010131836 y: 59.67869186401367
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359810.8392174 effectType 4 targetObjectID 13675993 color -65536 duration 0.0
+x: 79.1382827758789 y: 38.78483200073242
+x: 0.0 y: 0.0
+
+Aoe 1625359812.05257 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 81.7676010131836 y: 59.67869186401367
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359817.6548731 effectType 4 targetObjectID 13731564 color -65536 duration 0.0
+x: 81.21149444580078 y: 69.36031341552734
+x: 0.0 y: 0.0
+
+Aoe 1625359819.1120837 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 81.21149444580078 y: 69.36031341552734
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359819.7098362 effectType 4 targetObjectID 13731564 color -65536 duration 0.0
+x: 82.4250717163086 y: 65.52982330322266
+x: 0.0 y: 0.0
+
+MapChange: Giggsman Lair
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359827.0934658 effectType 4 targetObjectID 13738557 color -65536 duration 0.0
+x: 12.625028610229492 y: 30.746610641479492
+x: 0.0 y: 0.0
+
+enemy 6752 name LGL Chamber Big
+ShowEffect 1625359827.8882887 effectType 4 targetObjectID 13738552 color -16640 duration 0.0
+x: 5.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 6752 name LGL Chamber Big
+ShowEffect 1625359827.8892858 effectType 4 targetObjectID 13738548 color -16640 duration 0.0
+x: 14.5 y: 7.5
+x: 0.0 y: 0.0
+
+enemy 6752 name LGL Chamber Big
+ShowEffect 1625359827.8892858 effectType 4 targetObjectID 13738553 color -16640 duration 0.0
+x: 22.5 y: 14.5
+x: 0.0 y: 0.0
+
+Aoe 1625359828.490586 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 12.625028610229492 y: 30.746610641479492
+
+ShowEffect had KeyError: 13745904
+
+ShowEffect had KeyError: 13745902
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359829.5002453 effectType 4 targetObjectID 13738557 color -65536 duration 0.0
+x: 11.099492073059082 y: 24.55809211730957
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359830.3032598 effectType 4 targetObjectID 13738557 color -65536 duration 0.0
+x: 10.299490928649902 y: 24.214794158935547
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359830.9019616 effectType 4 targetObjectID 13745904 color -65536 duration 0.0
+x: 3.183136463165283 y: 17.223596572875977
+x: 0.0 y: 0.0
+
+Aoe 1625359830.9049256 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 11.099492073059082 y: 24.55809211730957
+
+Aoe 1625359830.9049256 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 19.823474884033203 y: 14.317046165466309
+
+Aoe 1625359830.9049256 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 5.233761787414551 y: 16.674434661865234
+
+Aoe 1625359831.7148976 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 10.299490928649902 y: 24.214794158935547
+
+Aoe 1625359832.3024204 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 3.183136463165283 y: 17.223596572875977
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359832.501905 effectType 4 targetObjectID 13745904 color -65536 duration 0.0
+x: 3.3150954246520996 y: 18.95211410522461
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359833.5162733 effectType 4 targetObjectID 13745903 color -65536 duration 0.0
+x: 6.650135040283203 y: 15.574926376342773
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359833.9929488 effectType 4 targetObjectID 13745902 color -65536 duration 0.0
+x: 14.153915405273438 y: 21.465852737426758
+x: 0.0 y: 0.0
+
+Aoe 1625359834.0049605 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 3.3150954246520996 y: 18.95211410522461
+
+Aoe 1625359834.9643283 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 6.650135040283203 y: 15.574926376342773
+
+Aoe 1625359835.3477216 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 14.153915405273438 y: 21.465852737426758
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359838.1360633 effectType 4 targetObjectID 13745903 color -65536 duration 0.0
+x: 5.4260077476501465 y: 12.5283784866333
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359838.1360633 effectType 4 targetObjectID 13745902 color -65536 duration 0.0
+x: 20.389713287353516 y: 25.442075729370117
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359839.1365652 effectType 4 targetObjectID 13745902 color -65536 duration 0.0
+x: 11.94120979309082 y: 23.90281105041504
+x: 0.0 y: 0.0
+
+enemy 6752 name LGL Chamber Big
+ShowEffect 1625359839.5460463 effectType 4 targetObjectID 13738552 color -65536 duration 0.0
+x: 7.13274621963501 y: 11.876900672912598
+x: 0.0 y: 0.0
+
+Aoe 1625359839.5490427 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 20.389713287353516 y: 25.442075729370117
+
+Aoe 1625359839.5490427 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 5.4260077476501465 y: 12.5283784866333
+
+Aoe 1625359840.5392287 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 11.94120979309082 y: 23.90281105041504
+
+Aoe 1625359840.9503171 radius 4.0 damage 40 effect 0 duration 0.0 origType 6752
+x: 7.13274621963501 y: 11.876900672912598
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359841.3390124 effectType 4 targetObjectID 13745902 color -65536 duration 0.0
+x: 14.640241622924805 y: 16.53891372680664
+x: 0.0 y: 0.0
+
+Aoe 1625359842.7487693 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 14.640241622924805 y: 16.53891372680664
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625359842.9512348 effectType 4 targetObjectID 13745902 color -65536 duration 0.0
+x: 18.967390060424805 y: 16.026350021362305
+x: 0.0 y: 0.0
+
+enemy 6752 name LGL Chamber Big
+ShowEffect 1625359843.5433593 effectType 4 targetObjectID 13738548 color -65536 duration 0.0
+x: 16.47845458984375 y: 8.81877613067627
+x: 0.0 y: 0.0
+
+Aoe 1625359844.350101 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 18.967390060424805 y: 16.026350021362305
+
+Aoe 1625359844.9421246 radius 4.0 damage 40 effect 0 duration 0.0 origType 6752
+x: 16.47845458984375 y: 8.81877613067627
+
+enemy 6754 name LGL Red Chamber Big
+ShowEffect 1625359864.143926 effectType 4 targetObjectID 13738561 color -16640 duration 0.0
+x: 14.5 y: 36.5
+x: 0.0 y: 0.0
+
+enemy 6754 name LGL Red Chamber Big
+ShowEffect 1625359864.3493958 effectType 4 targetObjectID 13738558 color -16640 duration 0.0
+x: 5.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359868.1511889 effectType 4 targetObjectID 13738554 color -16640 duration 0.0
+x: 16.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359872.365347 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 13.427457809448242 y: 19.663301467895508
+x: 0.0 y: 0.0
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359873.5558608 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 20.055931091308594 y: 21.83433723449707
+x: 0.0 y: 0.0
+
+Aoe 1625359873.766339 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 13.427457809448242 y: 19.663301467895508
+
+Aoe 1625359874.9573479 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 20.055931091308594 y: 21.83433723449707
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359877.550049 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 15.696162223815918 y: 17.820314407348633
+x: 0.0 y: 0.0
+
+Aoe 1625359878.9558482 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 15.696162223815918 y: 17.820314407348633
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359880.9638207 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 21.110641479492188 y: 22.18349838256836
+x: 0.0 y: 0.0
+
+Aoe 1625359882.3547933 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 21.110641479492188 y: 22.18349838256836
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359886.1631596 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 17.458003997802734 y: 27.491161346435547
+x: 0.0 y: 0.0
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359887.350972 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 15.67309856414795 y: 27.38321876525879
+x: 0.0 y: 0.0
+
+Aoe 1625359887.554107 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 17.458003997802734 y: 27.491161346435547
+
+Aoe 1625359888.754601 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 15.67309856414795 y: 27.38321876525879
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359891.3624694 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 17.578964233398438 y: 22.958084106445312
+x: 0.0 y: 0.0
+
+Aoe 1625359892.7735686 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 17.578964233398438 y: 22.958084106445312
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359893.562244 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 13.682520866394043 y: 23.028722763061523
+x: 0.0 y: 0.0
+
+Aoe 1625359894.96349 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 13.682520866394043 y: 23.028722763061523
+
+enemy 6756 name LGL Mutant Larry
+ShowEffect 1625359895.9733503 effectType 4 targetObjectID 13738554 color -65536 duration 0.0
+x: 12.0330171585083 y: 20.96802520751953
+x: 0.0 y: 0.0
+
+Aoe 1625359897.3914242 radius 2.0 damage 150 effect 0 duration 0.0 origType 6756
+x: 12.0330171585083 y: 20.96802520751953
+
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625359923.015435 effectType 4 targetObjectID 12555764 color -65536 duration 0.0
+x: 657.2634887695312 y: 1124.6463623046875
+x: 0.0 y: 0.0
+
+MapChange: Lab
+MapChange: Realm
+Aoe 1625359930.6102767 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 790.0123901367188 y: 1092.8489990234375
+
+MapChange: Lair of Draconis
+enemy 29956 name NM Black Dragon God
+ShowEffect 1625360111.221315 effectType 4 targetObjectID 13816900 color -65536 duration 0.0
+x: 61.980735778808594 y: 103.2636489868164
+x: 0.0 y: 0.0
+
+Aoe 1625360112.6211143 radius 5.0 damage 100 effect 0 duration 0.0 origType 29956
+x: 61.980735778808594 y: 103.2636489868164
+
+enemy 29956 name NM Black Dragon God
+ShowEffect 1625360120.6222262 effectType 4 targetObjectID 13816900 color -65536 duration 0.0
+x: 59.529727935791016 y: 97.61425018310547
+x: 0.0 y: 0.0
+
+Aoe 1625360122.0089426 radius 5.0 damage 100 effect 0 duration 0.0 origType 29956
+x: 59.529727935791016 y: 97.61425018310547
+
+MapChange: The Ivory Wyvern
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360146.0480301 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 3.8500003814697266 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360146.0490289 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 7.850000381469727 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360146.0490289 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 23.850000381469727 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360146.0490289 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 18.850000381469727 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360148.457145 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 3.0 y: 5.0
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360148.457145 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 7.0 y: 5.0
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360148.457145 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 23.0 y: 5.0
+x: 0.0 y: 0.0
+
+enemy 30026 name lod Ivory Wyvern
+ShowEffect 1625360148.457145 effectType 4 targetObjectID 13980232 color -16640 duration 0.0
+x: 18.0 y: 5.0
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625360209.6690016 effectType 4 targetObjectID 13950292 color -65536 duration 0.0
+x: 1348.8155517578125 y: 1007.6441040039062
+x: 0.0 y: 0.0
+
+Aoe 1625360211.0743415 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1348.8155517578125 y: 1007.6441040039062
+
+MapChange: Storm Palace
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360251.7631562 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360251.7631562 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360251.7631562 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360251.7631562 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1625360253.162459 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1625360253.162459 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1625360253.162459 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1625360253.162459 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360254.963503 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360254.963503 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360254.963503 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1625360254.963503 effectType 4 targetObjectID 14025814 color -65536 duration 0.0
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1625360256.3555439 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1625360256.3605387 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1625360256.3605387 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1625360256.3605387 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+MapChange: Realm
+MapChange: Realm
+Something went terribly wrong.
+Restarting proxy...

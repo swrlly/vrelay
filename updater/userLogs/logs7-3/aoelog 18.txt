@@ -1,0 +1,123 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Crypt of the Illusionist
+enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624920928.342703 effectType 4 targetObjectID 10979152 color -65536 duration 0.0
+x: 80.74320983886719 y: 131.66949462890625
+x: 0.0 y: 0.0
+
+enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624920928.342703 effectType 4 targetObjectID 10979151 color -65536 duration 0.0
+x: 80.74320983886719 y: 131.66949462890625
+x: 0.0 y: 0.0
+
+enemy 21670 name CR Rogue of Illusionist
+ShowEffect 1624920936.5541801 effectType 4 targetObjectID 10978975 color -65536 duration 0.0
+x: 39.097557067871094 y: 33.53800964355469
+x: 0.0 y: 0.0
+
+Aoe 1624920937.9611437 radius 2.0 damage 200 effect 0 duration 0.0 origType 21670
+x: 39.097557067871094 y: 33.53800964355469
+
+enemy 21678 name The Illusionist
+ShowEffect 1624920988.1857007 effectType 4 targetObjectID 10979127 color -16640 duration 0.0
+x: 199.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1624920988.1857007 effectType 4 targetObjectID 10979127 color -16640 duration 0.0
+x: 191.5 y: 117.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1624920988.1857007 effectType 4 targetObjectID 10979127 color -16640 duration 0.0
+x: 183.5 y: 109.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1624920988.1857007 effectType 4 targetObjectID 10979127 color -16640 duration 0.0
+x: 191.5 y: 101.5
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1624920993.3936288 effectType 4 targetObjectID 10979127 color -16640 duration 0.0
+x: 191.43775939941406 y: 113.86703491210938
+x: 0.0 y: 0.0
+
+enemy 21678 name The Illusionist
+ShowEffect 1624920993.3936288 effectType 4 targetObjectID 10979127 color -16640 duration 0.0
+x: 191.43775939941406 y: 113.86703491210938
+x: 0.0 y: 0.0
+
+MapChange: Realm
+Aoe 1624921181.0667653 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 739.8467407226562 y: 1041.644287109375
+
+enemy 1620 name Medusa
+ShowEffect 1624921206.2500165 effectType 4 targetObjectID 11206819 color -65536 duration 0.0
+x: 769.2344360351562 y: 1027.53759765625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624921206.6472862 effectType 4 targetObjectID 11222447 color -65536 duration 0.0
+x: 755.5159912109375 y: 1018.9243774414062
+x: 0.0 y: 0.0
+
+Aoe 1624921207.67359 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 769.2344360351562 y: 1027.53759765625
+
+Aoe 1624921208.076257 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 755.5159912109375 y: 1018.9243774414062
+
+enemy 1620 name Medusa
+ShowEffect 1624921209.8551173 effectType 4 targetObjectID 11222447 color -65536 duration 0.0
+x: 746.6123046875 y: 1016.1068725585938
+x: 0.0 y: 0.0
+
+Aoe 1624921211.281659 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 746.6123046875 y: 1016.1068725585938
+
+enemy 1620 name Medusa
+ShowEffect 1624921213.057249 effectType 4 targetObjectID 11222447 color -65536 duration 0.0
+x: 744.1619262695312 y: 1023.81787109375
+x: 0.0 y: 0.0
+
+Aoe 1624921214.4854765 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 744.1619262695312 y: 1023.81787109375
+
+enemy 1620 name Medusa
+ShowEffect 1624921217.4616606 effectType 4 targetObjectID 10884395 color -65536 duration 0.0
+x: 750.2669677734375 y: 1018.0602416992188
+x: 0.0 y: 0.0
+
+Aoe 1624921218.9141743 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 750.2669677734375 y: 1018.0602416992188
+
+Aoe 1624921224.1231 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 750.2091064453125 y: 1041.1695556640625
+
+Aoe 1624921224.3149583 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 750.2091064453125 y: 1041.1695556640625
+
+enemy 1620 name Medusa
+ShowEffect 1624921225.8890142 effectType 4 targetObjectID 10078729 color -65536 duration 0.0
+x: 743.8724975585938 y: 1046.2650146484375
+x: 0.0 y: 0.0
+
+Aoe 1624921227.3137472 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 743.8724975585938 y: 1046.2650146484375
+
+Aoe 1624921227.511052 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 744.5677490234375 y: 1047.67138671875
+
+MapChange: The Catacombs
+MapChange: Nexus
+MapChange: Crimson Caverns
+MapChange: Nexus
+Connection was reset

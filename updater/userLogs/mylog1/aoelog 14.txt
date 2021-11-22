@@ -1,0 +1,22 @@
+MapChange: Nexus
+got txt
+got txt
+got txt
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634708617.885038 effectType 4 targetObjectID 9737113 color -65536 duration 1.5
+x: 971.989990234375 y: 1187.3704833984375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634708618.481363 effectType 4 targetObjectID 9507300 color -65536 duration 1.5
+x: 971.2737426757812 y: 1190.14013671875
+x: 0.0 y: 0.0
+
+Aoe 1634708619.2943068 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 971.989990234375 y: 1187.3704833984375
+
+got txt
+MapChange: Tunnel of Pain
+Something went terribly wrong.
+Restarting proxy...

@@ -1,0 +1,288 @@
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 11587491
+
+MapChange: Lab
+MapChange: Nexus
+MapChange: Tomb of the Ancients
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517410.6962264 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 27.116775512695312 y: 41.715423583984375
+x: 0.0 y: 0.0
+
+Aoe 1625517412.0573044 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 27.116775512695312 y: 41.715423583984375
+
+ShowEffect had KeyError: 800
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517419.1607103 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 22.117996215820312 y: 42.75600051879883
+x: 0.0 y: 0.0
+
+Aoe 1625517420.5687912 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 22.117996215820312 y: 42.75600051879883
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517428.5952501 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 25.289344787597656 y: 48.64322280883789
+x: 0.0 y: 0.0
+
+Aoe 1625517429.9333265 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 25.289344787597656 y: 48.64322280883789
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517431.3294065 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 22.857919692993164 y: 48.326927185058594
+x: 0.0 y: 0.0
+
+Aoe 1625517432.738487 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 22.857919692993164 y: 48.326927185058594
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517434.242573 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 23.408939361572266 y: 55.645938873291016
+x: 0.0 y: 0.0
+
+Aoe 1625517435.4856443 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 23.408939361572266 y: 55.645938873291016
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517442.6800559 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 26.56535530090332 y: 58.39034652709961
+x: 0.0 y: 0.0
+
+Aoe 1625517444.1761413 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 26.56535530090332 y: 58.39034652709961
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517445.55322 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 24.838035583496094 y: 52.5
+x: 0.0 y: 0.0
+
+Aoe 1625517446.8442938 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 24.838035583496094 y: 52.5
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517447.2633178 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 26.08864974975586 y: 53.33155822753906
+x: 0.0 y: 0.0
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517449.7454598 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 27.87315559387207 y: 49.35155487060547
+x: 0.0 y: 0.0
+
+Aoe 1625517451.0475342 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 27.87315559387207 y: 49.35155487060547
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517451.9605865 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 17.80912971496582 y: 46.90375900268555
+x: 0.0 y: 0.0
+
+Aoe 1625517453.2616608 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 17.80912971496582 y: 46.90375900268555
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517456.8638668 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 22.943750381469727 y: 47.62331008911133
+x: 0.0 y: 0.0
+
+Aoe 1625517458.1539407 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 22.943750381469727 y: 47.62331008911133
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517458.9729877 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 18.617162704467773 y: 53.94682693481445
+x: 0.0 y: 0.0
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517463.3932402 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 24.153690338134766 y: 43.78858184814453
+x: 0.0 y: 0.0
+
+Aoe 1625517464.8963263 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 24.153690338134766 y: 43.78858184814453
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517465.640369 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 26.18985366821289 y: 53.53923034667969
+x: 0.0 y: 0.0
+
+Aoe 1625517467.025448 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 26.18985366821289 y: 53.53923034667969
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517467.8404949 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 27.67890167236328 y: 49.02853012084961
+x: 0.0 y: 0.0
+
+Aoe 1625517469.2385745 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 27.67890167236328 y: 49.02853012084961
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517470.0726223 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 23.366981506347656 y: 48.89602279663086
+x: 0.0 y: 0.0
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517470.4656448 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 22.72545051574707 y: 49.97394561767578
+x: 0.0 y: 0.0
+
+Aoe 1625517471.4297001 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 23.366981506347656 y: 48.89602279663086
+
+Aoe 1625517471.836723 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 22.72545051574707 y: 49.97394561767578
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517472.8227797 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 26.191150665283203 y: 52.64654541015625
+x: 0.0 y: 0.0
+
+Aoe 1625517474.22186 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 26.191150665283203 y: 52.64654541015625
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517474.834895 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 27.660490036010742 y: 48.72275924682617
+x: 0.0 y: 0.0
+
+Aoe 1625517476.2809775 radius 4.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 27.660490036010742 y: 48.72275924682617
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517477.043021 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 25.468490600585938 y: 53.67430877685547
+x: 0.0 y: 0.0
+
+Aoe 1625517478.4591022 radius 4.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 25.468490600585938 y: 53.67430877685547
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1625517479.2561476 effectType 4 targetObjectID 12146428 color -65536 duration 0.0
+x: 32.65493392944336 y: 50.936222076416016
+x: 0.0 y: 0.0
+
+Aoe 1625517480.8422384 radius 4.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 32.65493392944336 y: 50.936222076416016
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Galactic Plateau
+Aoe 1625517812.1161861 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 65.45684814453125 y: 128.4719696044922
+
+enemy 18616 name Alien UFO
+ShowEffect 1625517812.692219 effectType 4 targetObjectID 12842964 color -65536 duration 0.0
+x: 58.042808532714844 y: 131.9219207763672
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625517812.9102316 effectType 4 targetObjectID 12842969 color -65536 duration 0.0
+x: 61.133419036865234 y: 131.9423370361328
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625517813.108243 effectType 4 targetObjectID 12842968 color -65536 duration 0.0
+x: 62.688438415527344 y: 131.16912841796875
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625517813.3052542 effectType 4 targetObjectID 12842963 color -65536 duration 0.0
+x: 63.7557373046875 y: 130.25099182128906
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625517813.7102773 effectType 4 targetObjectID 12842958 color -65536 duration 0.0
+x: 66.29353332519531 y: 127.7464828491211
+x: 0.0 y: 0.0
+
+enemy 18616 name Alien UFO
+ShowEffect 1625517813.897288 effectType 4 targetObjectID 12842964 color -65536 duration 0.0
+x: 67.02725219726562 y: 126.36029052734375
+x: 0.0 y: 0.0
+
+Aoe 1625517814.1283014 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 58.042808532714844 y: 131.9219207763672
+
+Aoe 1625517814.3853161 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 61.133419036865234 y: 131.9423370361328
+
+Aoe 1625517814.6933334 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 63.7557373046875 y: 130.25099182128906
+
+Aoe 1625517814.6943338 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 62.688438415527344 y: 131.16912841796875
+
+Aoe 1625517815.1513598 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 66.29353332519531 y: 127.7464828491211
+
+Aoe 1625517815.3533714 radius 4.0 damage 160 effect 0 duration 0.0 origType 18616
+x: 67.02725219726562 y: 126.36029052734375
+
+MapChange: The Regolith
+MapChange: Nexus
+MapChange: Realm
+Aoe 1625517936.3082895 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 977.8800659179688 y: 1067.0592041015625
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0723445 effectType 4 targetObjectID 13316770 color -65536 duration 0.0
+x: 1199.47607421875 y: 1501.9967041015625
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0733447 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1205.5 y: 1497.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0733447 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1204.328369140625 y: 1500.328369140625
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0743446 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1201.5 y: 1501.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0753448 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1198.671630859375 y: 1500.328369140625
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0753448 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1197.5 y: 1497.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.079345 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1198.671630859375 y: 1494.671630859375
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.079345 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1201.5 y: 1493.5
+x: 0.0 y: 0.0
+
+enemy 26568 name Corrupted Lord Stone Gargoyle
+ShowEffect 1625518147.0803452 effectType 4 targetObjectID 13316770 color -16640 duration 0.0
+x: 1204.328369140625 y: 1494.671630859375
+x: 0.0 y: 0.0
+
+Aoe 1625518148.5914314 radius 5.0 damage 200 effect 0 duration 0.0 origType 26568
+x: 1199.47607421875 y: 1501.9967041015625
+
+Connection was reset
+MapChange: Nexus
+Connection was reset
+Closed GUI. Shutting down proxy.

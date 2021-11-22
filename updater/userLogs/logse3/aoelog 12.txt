@@ -1,0 +1,114 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 20617 name Elemental Phantom
+ShowEffect 1625521177.737338 effectType 4 targetObjectID 17106080 color -65536 duration 0.0
+x: 1514.05908203125 y: 952.2635498046875
+x: 0.0 y: 0.0
+
+Aoe 1625521178.1403613 radius 3.0 damage 360 effect 0 duration 0.0 origType 20617
+x: 1514.05908203125 y: 952.2635498046875
+
+MapChange: Superhuman Hideout
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521242.2930305 effectType 4 targetObjectID 17463753 color -65536 duration 0.0
+x: 35.21429443359375 y: 1.5
+x: 0.0 y: 0.0
+
+Aoe 1625521242.63405 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 31.458112716674805 y: 12.676009178161621
+
+Aoe 1625521242.63505 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 31.458112716674805 y: 12.676009178161621
+
+Aoe 1625521242.63605 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 31.458112716674805 y: 12.676009178161621
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521242.968069 effectType 4 targetObjectID 17463753 color -65536 duration 0.0
+x: 38.26094055175781 y: 9.492901802062988
+x: 0.0 y: 0.0
+
+Aoe 1625521243.630107 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 35.21429443359375 y: 1.5
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521244.401151 effectType 4 targetObjectID 17463753 color -65536 duration 0.0
+x: 30.792184829711914 y: 1.5
+x: 0.0 y: 0.0
+
+Aoe 1625521244.4051511 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 38.26094055175781 y: 9.492901802062988
+
+Aoe 1625521246.3722637 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 30.792184829711914 y: 1.5
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521247.159309 effectType 4 targetObjectID 17463817 color -65536 duration 0.0
+x: 30.996625900268555 y: 23.989999771118164
+x: 0.0 y: 0.0
+
+Aoe 1625521248.5303872 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 30.996625900268555 y: 23.989999771118164
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521248.9004083 effectType 4 targetObjectID 17463891 color -65536 duration 0.0
+x: 34.966148376464844 y: 46.580692291259766
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521249.1434221 effectType 4 targetObjectID 17463878 color -65536 duration 0.0
+x: 35.94708251953125 y: 48.98765182495117
+x: 0.0 y: 0.0
+
+Aoe 1625521250.3364904 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 34.966148376464844 y: 46.580692291259766
+
+Aoe 1625521250.5155008 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 35.94708251953125 y: 48.98765182495117
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521250.9175236 effectType 4 targetObjectID 17464048 color -65536 duration 0.0
+x: 17.683908462524414 y: 72.02392578125
+x: 0.0 y: 0.0
+
+Aoe 1625521251.4915566 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 15.566946029663086 y: 65.96285247802734
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521252.0115862 effectType 4 targetObjectID 17464017 color -65536 duration 0.0
+x: 19.56226348876953 y: 72.57334899902344
+x: 0.0 y: 0.0
+
+Aoe 1625521252.0175867 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 13.222138404846191 y: 67.29492950439453
+
+Aoe 1625521252.3886077 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 17.683908462524414 y: 72.02392578125
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521253.1816533 effectType 4 targetObjectID 17463970 color -65536 duration 0.0
+x: 15.810522079467773 y: 54.38661575317383
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521253.1856534 effectType 4 targetObjectID 17463968 color -65536 duration 0.0
+x: 15.810522079467773 y: 54.38661575317383
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521253.1866534 effectType 4 targetObjectID 17463936 color -65536 duration 0.0
+x: 15.810522079467773 y: 54.38661575317383
+x: 0.0 y: 0.0
+
+Aoe 1625521253.3826647 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 19.56226348876953 y: 72.57334899902344
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625521253.7936883 effectType 4 targetObjectID 17463970 color -65536 duration 0.0
+x: 11.505772590637207 y: 56.1409797668457
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+Closed GUI. Shutting down proxy.

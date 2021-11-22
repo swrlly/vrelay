@@ -1,0 +1,250 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Gileon's Return
+MapChange: Nexus
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1635027047.0830686 effectType 4 targetObjectID 2673383 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1635027054.2460144 effectType 4 targetObjectID 2673383 color 65280 duration 1.5
+x: 14.613713264465332 y: 19.000717163085938
+x: 0.0 y: 0.0
+
+internal HP is now 875
+Aoe 1635027055.7575805 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 14.613713264465332 y: 19.000717163085938
+
+enemy 22047 name Zanarich
+ShowEffect 1635027057.448519 effectType 4 targetObjectID 2710033 color -65536 duration 1.5
+x: 12.674875259399414 y: 9.546156883239746
+x: 0.0 y: 0.0
+
+Aoe 1635027058.943442 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 12.674875259399414 y: 9.546156883239746
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Connection was aborted: [WinError 10053] An established connection was aborted by the software in your host machine
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+Aoe 1635027339.0312092 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 1105.91650390625 y: 1179.4229736328125
+
+enemy 30616 name Uber Shrek
+ShowEffect 1635027339.733773 effectType 4 targetObjectID 443249 color -65536 duration 1.5
+x: 1104.7879638671875 y: 1176.75048828125
+x: 0.0 y: 0.0
+
+internal HP is now 649
+Aoe 1635027341.3140175 radius 12.0 damage 50 effect 0 duration 0.0 origType 30616
+x: 1104.7879638671875 y: 1176.75048828125
+
+MapChange: Petrified Emporium
+MapChange: Realm
+enemy 1605 name Ogre King
+ShowEffect 1635027381.2792907 effectType 4 targetObjectID 286371 color -65536 duration 1.5
+x: 1252.4412841796875 y: 839.8375854492188
+x: 0.0 y: 0.0
+
+MapChange: Sky Palace
+MapChange: Nexus
+MapChange: Realm
+MapChange: Sky Palace
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1635027431.3424058 effectType 4 targetObjectID 649858 color -16640 duration 0.0
+x: 76.5710678100586 y: 1.4289321899414062
+x: 0.0 y: 0.0
+
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1635027431.3534937 effectType 4 targetObjectID 649858 color -16640 duration 0.0
+x: 76.5710678100586 y: 15.571067810058594
+x: 0.0 y: 0.0
+
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1635027431.3534937 effectType 4 targetObjectID 649858 color -16640 duration 0.0
+x: 62.428932189941406 y: 15.571067810058594
+x: 0.0 y: 0.0
+
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1635027431.3544376 effectType 4 targetObjectID 649858 color -16640 duration 0.0
+x: 62.428932189941406 y: 1.4289321899414062
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: The Catacombs
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1635027630.6475265 effectType 4 targetObjectID 1160818 color -65536 duration 1.5
+x: 1070.4716796875 y: 897.4461059570312
+x: 0.0 y: 0.0
+
+Aoe 1635027632.1470265 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1070.4716796875 y: 897.4461059570312
+
+enemy 1620 name Medusa
+ShowEffect 1635027634.0918994 effectType 4 targetObjectID 470659 color -65536 duration 1.5
+x: 1061.6949462890625 y: 908.7508544921875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1635027637.58605 effectType 4 targetObjectID 470357 color -65536 duration 1.5
+x: 1073.5198974609375 y: 890.6068725585938
+x: 0.0 y: 0.0
+
+internal HP is now 617
+enemy 1620 name Medusa
+ShowEffect 1635027638.6426096 effectType 4 targetObjectID 1169705 color -65536 duration 1.5
+x: 1059.1807861328125 y: 892.5930786132812
+x: 0.0 y: 0.0
+
+Aoe 1635027639.271758 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1073.5198974609375 y: 890.6068725585938
+
+Aoe 1635027639.93395 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1059.1807861328125 y: 892.5930786132812
+
+MapChange: Galactic Plateau
+MapChange: Nexus
+MapChange: Realm
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1635027721.8732238 effectType 4 targetObjectID 1372195 color 65280 duration 1.5
+x: 929.8783569335938 y: 1216.25927734375
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1635027722.276356 effectType 4 targetObjectID 1372195 color 65280 duration 1.5
+x: 929.9830322265625 y: 1220.21826171875
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1635027722.6867182 effectType 4 targetObjectID 1372195 color 65280 duration 1.5
+x: 929.1351928710938 y: 1219.2056884765625
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1635027723.1004975 effectType 4 targetObjectID 1372195 color 65280 duration 1.5
+x: 929.1646118164062 y: 1217.4833984375
+x: 0.0 y: 0.0
+
+Aoe 1635027723.3827457 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 929.8783569335938 y: 1216.25927734375
+
+Aoe 1635027723.8094764 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 929.9830322265625 y: 1220.21826171875
+
+Aoe 1635027724.213831 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 929.1351928710938 y: 1219.2056884765625
+
+Aoe 1635027724.60869 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 929.1646118164062 y: 1217.4833984375
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Tomb of the Ancients
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027845.4727054 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 23.137054443359375 y: 51.523983001708984
+x: 0.0 y: 0.0
+
+internal HP is now 768
+Aoe 1635027846.7881393 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 23.137054443359375 y: 51.523983001708984
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027847.3194132 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 26.382911682128906 y: 44.755733489990234
+x: 0.0 y: 0.0
+
+Aoe 1635027848.617021 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 26.382911682128906 y: 44.755733489990234
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027850.1001606 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 24.521852493286133 y: 53.469970703125
+x: 0.0 y: 0.0
+
+internal HP is now 708
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027851.586576 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 24.053722381591797 y: 52.92957305908203
+x: 0.0 y: 0.0
+
+Aoe 1635027851.8687236 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 24.521852493286133 y: 53.469970703125
+
+Aoe 1635027852.8819485 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 24.053722381591797 y: 52.92957305908203
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027853.3993225 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 29.217763900756836 y: 50.66722106933594
+x: 0.0 y: 0.0
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027854.6062255 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 27.356775283813477 y: 46.57585144042969
+x: 0.0 y: 0.0
+
+Aoe 1635027854.8451319 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 29.217763900756836 y: 50.66722106933594
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027855.0897422 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 27.356775283813477 y: 46.57585144042969
+x: 0.0 y: 0.0
+
+internal HP is now 643
+Aoe 1635027855.8629887 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 27.356775283813477 y: 46.57585144042969
+
+Aoe 1635027856.5981214 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 27.356775283813477 y: 46.57585144042969
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027857.7232893 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 22.83940887451172 y: 53.22459411621094
+x: 0.0 y: 0.0
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027858.0121772 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 22.83940887451172 y: 53.22459411621094
+x: 0.0 y: 0.0
+
+internal HP is now 687
+Aoe 1635027858.8197684 radius 3.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 22.83940887451172 y: 53.22459411621094
+
+internal HP is now 675
+Aoe 1635027859.3225439 radius 4.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 22.83940887451172 y: 53.22459411621094
+
+enemy 3367 name Tomb Attacker
+ShowEffect 1635027863.0198998 effectType 4 targetObjectID 1627984 color -65536 duration 1.5
+x: 23.62152862548828 y: 47.742244720458984
+x: 0.0 y: 0.0
+
+Aoe 1635027864.2930741 radius 4.0 damage 50 effect 0 duration 0.0 origType 3367
+x: 23.62152862548828 y: 47.742244720458984
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Connection was reset

@@ -1,0 +1,526 @@
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 21272047
+
+ShowEffect had KeyError: 21272047
+
+ShowEffect had KeyError: 21272047
+
+ShowEffect had KeyError: 21272047
+
+ShowEffect had KeyError: 21272047
+
+ShowEffect had KeyError: 21272047
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931439.8597188 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931439.8597188 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931439.8597188 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931443.0650675 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 15.687540054321289 y: 19.264244079589844
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931446.6661658 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 20.035531997680664 y: 20.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931446.6661658 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 12.96446418762207 y: 20.035533905029297
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931446.6671634 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 12.96446418762207 y: 12.964466094970703
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624931446.6671634 effectType 4 targetObjectID 21694568 color -16640 duration 0.0
+x: 20.035531997680664 y: 12.964466094970703
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Galactic Plateau
+MapChange: The Regolith
+MapChange: Realm
+MapChange: Hunter Cave
+MapChange: Realm
+MapChange: Galactic Plateau
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1624931784.0836751 effectType 4 targetObjectID 22109411 color -65536 duration 0.0
+x: 994.0651245117188 y: 1162.1358642578125
+x: 0.0 y: 0.0
+
+enemy 25765 name The Horrific
+ShowEffect 1624931854.2418876 effectType 4 targetObjectID 22103828 color 0 duration 0.0
+x: 957.2559204101562 y: 1525.883056640625
+x: 0.0 y: 0.0
+
+Aoe 1624931855.6569042 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 957.2559204101562 y: 1525.883056640625
+
+enemy 25765 name The Horrific
+ShowEffect 1624931856.4382021 effectType 4 targetObjectID 22103828 color 0 duration 0.0
+x: 957.2955932617188 y: 1525.4052734375
+x: 0.0 y: 0.0
+
+Aoe 1624931857.8707507 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 957.2955932617188 y: 1525.4052734375
+
+enemy 25765 name The Horrific
+ShowEffect 1624931858.6393058 effectType 4 targetObjectID 22103828 color 0 duration 0.0
+x: 957.3400268554688 y: 1524.8699951171875
+x: 0.0 y: 0.0
+
+Aoe 1624931860.0660908 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 957.3400268554688 y: 1524.8699951171875
+
+ShowEffect had KeyError: 21267502
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624931882.4459827 effectType 4 targetObjectID 21267502 color -16640 duration 0.0
+x: 787.89990234375 y: 828.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624931883.0458887 effectType 4 targetObjectID 21267502 color -16640 duration 0.0
+x: 784.2999267578125 y: 824.5
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931890.1446228 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 795.1478881835938 y: 844.750732421875
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931890.543912 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 795.1478881835938 y: 844.750732421875
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931890.9477181 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 795.1478881835938 y: 844.750732421875
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931891.3483186 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 795.1478881835938 y: 844.750732421875
+x: 0.0 y: 0.0
+
+Aoe 1624931891.5792782 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 795.1478881835938 y: 844.750732421875
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931891.7467625 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 796.7894897460938 y: 844.9597778320312
+x: 0.0 y: 0.0
+
+Aoe 1624931891.9788897 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 795.1478881835938 y: 844.750732421875
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931892.146907 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 796.5145263671875 y: 844.9597778320312
+x: 0.0 y: 0.0
+
+Aoe 1624931892.3800716 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 795.1478881835938 y: 844.750732421875
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931892.5473995 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 796.5145263671875 y: 844.9597778320312
+x: 0.0 y: 0.0
+
+Aoe 1624931892.7776275 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 795.1478881835938 y: 844.750732421875
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931892.9494154 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 796.5145263671875 y: 844.9597778320312
+x: 0.0 y: 0.0
+
+Aoe 1624931893.1740599 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 796.7894897460938 y: 844.9597778320312
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931893.347877 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 796.5145263671875 y: 844.9597778320312
+x: 0.0 y: 0.0
+
+Aoe 1624931893.5799785 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 796.5145263671875 y: 844.9597778320312
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931893.7590375 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 795.1478881835938 y: 844.750732421875
+x: 0.0 y: 0.0
+
+Aoe 1624931894.1046727 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 796.5145263671875 y: 844.9597778320312
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624931894.2479298 effectType 4 targetObjectID 22217523 color 65280 duration 0.0
+x: 795.1478881835938 y: 844.750732421875
+x: 0.0 y: 0.0
+
+Aoe 1624931894.4894555 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 796.5145263671875 y: 844.9597778320312
+
+Aoe 1624931894.8848927 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 796.5145263671875 y: 844.9597778320312
+
+Aoe 1624931895.2720115 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 795.1478881835938 y: 844.750732421875
+
+Aoe 1624931895.6752229 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 795.1478881835938 y: 844.750732421875
+
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932044.1519623 effectType 4 targetObjectID 22349856 color -65536 duration 0.0
+x: 1079.230224609375 y: 1017.0010986328125
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932044.955106 effectType 4 targetObjectID 22349856 color -16640 duration 0.0
+x: 1083.8526611328125 y: 1009.1417236328125
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932045.3532987 effectType 4 targetObjectID 22349856 color -65536 duration 0.0
+x: 1079.4835205078125 y: 1015.734375
+x: 0.0 y: 0.0
+
+Aoe 1624932045.5741105 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1079.230224609375 y: 1017.0010986328125
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932046.5550995 effectType 4 targetObjectID 22349856 color -65536 duration 0.0
+x: 1081.9683837890625 y: 1015.6477661132812
+x: 0.0 y: 0.0
+
+Aoe 1624932046.7776694 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1079.4835205078125 y: 1015.734375
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932047.7543094 effectType 4 targetObjectID 22349856 color -65536 duration 0.0
+x: 1081.9683837890625 y: 1016.2379150390625
+x: 0.0 y: 0.0
+
+Aoe 1624932047.976131 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1081.9683837890625 y: 1015.6477661132812
+
+Aoe 1624932049.175897 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1081.9683837890625 y: 1016.2379150390625
+
+Aoe 1624932075.0036013 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1039.899169921875 y: 989.0515747070312
+
+enemy 1620 name Medusa
+ShowEffect 1624932080.9814286 effectType 4 targetObjectID 21272444 color -65536 duration 0.0
+x: 1036.4688720703125 y: 959.4628295898438
+x: 0.0 y: 0.0
+
+Aoe 1624932082.3909383 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1036.4688720703125 y: 959.4628295898438
+
+enemy 1620 name Medusa
+ShowEffect 1624932082.5847633 effectType 4 targetObjectID 21272443 color -65536 duration 0.0
+x: 1033.5487060546875 y: 956.5737915039062
+x: 0.0 y: 0.0
+
+Aoe 1624932083.989269 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1033.5487060546875 y: 956.5737915039062
+
+enemy 1620 name Medusa
+ShowEffect 1624932086.9800339 effectType 4 targetObjectID 22407823 color -65536 duration 0.0
+x: 1021.013671875 y: 956.4404907226562
+x: 0.0 y: 0.0
+
+Aoe 1624932088.3890498 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1021.013671875 y: 956.4404907226562
+
+enemy 1620 name Medusa
+ShowEffect 1624932088.982257 effectType 4 targetObjectID 21272443 color -65536 duration 0.0
+x: 1024.294921875 y: 951.8055419921875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624932089.7846859 effectType 4 targetObjectID 22477517 color -65536 duration 0.0
+x: 1029.136474609375 y: 952.19873046875
+x: 0.0 y: 0.0
+
+Aoe 1624932090.3872807 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1024.294921875 y: 951.8055419921875
+
+enemy 1620 name Medusa
+ShowEffect 1624932090.779303 effectType 4 targetObjectID 21272445 color -65536 duration 0.0
+x: 1032.2113037109375 y: 955.4447021484375
+x: 0.0 y: 0.0
+
+Aoe 1624932091.1907728 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1029.136474609375 y: 952.19873046875
+
+Aoe 1624932092.2138042 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1032.2113037109375 y: 955.4447021484375
+
+enemy 1620 name Medusa
+ShowEffect 1624932106.5850337 effectType 4 targetObjectID 22421785 color -65536 duration 0.0
+x: 1067.6651611328125 y: 936.7415771484375
+x: 0.0 y: 0.0
+
+Aoe 1624932107.9959838 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1067.6651611328125 y: 936.7415771484375
+
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932139.6413715 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932139.6413715 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932139.6413715 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932139.6423712 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932142.8434985 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 17.63784408569336 y: 16.933517456054688
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932150.049593 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 20.55563735961914 y: 19.818363189697266
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932150.049593 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 13.484569549560547 y: 19.818363189697266
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932150.050595 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 13.484569549560547 y: 12.747295379638672
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932150.050595 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 20.55563735961914 y: 12.747295379638672
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932153.0542724 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 17.020103454589844 y: 11.782829284667969
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624932153.0552769 effectType 4 targetObjectID 22518442 color -16640 duration 0.0
+x: 17.020103454589844 y: 20.78282928466797
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1624932234.114661 effectType 4 targetObjectID 22584605 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1624932244.3018117 effectType 4 targetObjectID 22598600 color -65536 duration 0.0
+x: 14.9722318649292 y: 22.06941795349121
+x: 0.0 y: 0.0
+
+Aoe 1624932245.7207258 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 14.9722318649292 y: 22.06941795349121
+
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932380.0301256 effectType 4 targetObjectID 22662123 color -65536 duration 0.0
+x: 1026.1541748046875 y: 733.12353515625
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932380.0311282 effectType 4 targetObjectID 22662123 color -16640 duration 0.0
+x: 1025.3953857421875 y: 736.8319091796875
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1624932381.2457526 effectType 4 targetObjectID 22662123 color -65536 duration 0.0
+x: 1029.2962646484375 y: 734.8318481445312
+x: 0.0 y: 0.0
+
+Aoe 1624932381.463129 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1026.1541748046875 y: 733.12353515625
+
+Aoe 1624932382.6650033 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1029.2962646484375 y: 734.8318481445312
+
+MapChange: Sincryer's Gate
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9129503 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 20.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9199557 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 18.74264144897461 y: 18.74264144897461
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9209564 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 14.5 y: 20.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9209564 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 10.257359504699707 y: 18.74264144897461
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9209564 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 8.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.921953 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 10.257359504699707 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.921953 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 14.5 y: 8.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9229522 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 18.74264144897461 y: 10.257359504699707
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9229522 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 23.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9239538 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 14.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9239538 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 5.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932441.9239538 effectType 4 targetObjectID 22733997 color -16640 duration 0.0
+x: 14.5 y: 5.5
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624932445.9198146 effectType 4 targetObjectID 22790032 color -16640 duration 0.0
+x: 18.003437042236328 y: 18.176485061645508
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624932445.9208145 effectType 4 targetObjectID 22790038 color -16640 duration 0.0
+x: 18.003437042236328 y: 18.176485061645508
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624932445.9208145 effectType 4 targetObjectID 22790031 color -16640 duration 0.0
+x: 18.003437042236328 y: 18.176485061645508
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1624932445.9218154 effectType 4 targetObjectID 22790039 color -16640 duration 0.0
+x: 18.003437042236328 y: 18.176485061645508
+x: 0.0 y: 0.0
+
+enemy 8952 name AH The Sincryer
+ShowEffect 1624932453.5128746 effectType 4 targetObjectID 22733997 color -65536 duration 0.0
+x: 11.911480903625488 y: 16.63970375061035
+x: 0.0 y: 0.0
+
+Aoe 1624932454.931378 radius 4.0 damage 300 effect 0 duration 0.0 origType 8952
+x: 11.911480903625488 y: 16.63970375061035
+
+MapChange: Nontridus
+MapChange: Nexus
+MapChange: Ulgors Calling
+MapChange: Nexus
+MapChange: Realm
+Aoe 1624932610.966946 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1257.72607421875 y: 950.106689453125
+
+enemy 1620 name Medusa
+ShowEffect 1624932628.3672822 effectType 4 targetObjectID 22963736 color -65536 duration 0.0
+x: 1255.756591796875 y: 1012.9058227539062
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624932629.5671792 effectType 4 targetObjectID 22301141 color -65536 duration 0.0
+x: 1259.7767333984375 y: 1009.0825805664062
+x: 0.0 y: 0.0
+
+Aoe 1624932629.7912815 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1255.756591796875 y: 1012.9058227539062
+
+Aoe 1624932630.9899032 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1259.7767333984375 y: 1009.0825805664062
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+enemy 3522 name Great Coil Snake
+ShowEffect 1624932735.8984694 effectType 4 targetObjectID 21257067 color -16640 duration 0.0
+x: 522.0560913085938 y: 766.5353393554688
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624932736.4975333 effectType 4 targetObjectID 21257067 color -16640 duration 0.0
+x: 517.6560668945312 y: 770.9353637695312
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624932737.1000314 effectType 4 targetObjectID 21257067 color -16640 duration 0.0
+x: 513.6560668945312 y: 766.1353149414062
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624932737.6991923 effectType 4 targetObjectID 21257067 color -16640 duration 0.0
+x: 517.2560424804688 y: 762.5353393554688
+x: 0.0 y: 0.0
+
+MapChange: Nexus

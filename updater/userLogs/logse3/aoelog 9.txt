@@ -1,0 +1,597 @@
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Ultra Aldragine's Hideout
+enemy 8943 name Zol Bomber
+ShowEffect 1625439207.4935608 effectType 4 targetObjectID 30661477 color -16640 duration 0.0
+x: 58.15202331542969 y: 42.201011657714844
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439209.895698 effectType 4 targetObjectID 30661452 color -16640 duration 0.0
+x: 69.4869155883789 y: 20.71415901184082
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439211.2937782 effectType 4 targetObjectID 30661430 color -16640 duration 0.0
+x: 68.5 y: 18.739606857299805
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 30661426
+
+ShowEffect had KeyError: 800
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439217.704145 effectType 4 targetObjectID 30661430 color -16640 duration 0.0
+x: 65.67603302001953 y: 20.262487411499023
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439223.1114542 effectType 4 targetObjectID 30661418 color -65536 duration 0.0
+x: 73.63407135009766 y: 10.500175476074219
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439223.1174545 effectType 4 targetObjectID 30661417 color -65536 duration 0.0
+x: 73.63407135009766 y: 10.500175476074219
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439223.9024997 effectType 4 targetObjectID 30661423 color -16640 duration 0.0
+x: 65.5 y: 12.798090934753418
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439224.298522 effectType 4 targetObjectID 30661416 color -65536 duration 0.0
+x: 66.38862609863281 y: 12.379915237426758
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439224.2995224 effectType 4 targetObjectID 30661415 color -65536 duration 0.0
+x: 66.38862609863281 y: 12.379915237426758
+x: 0.0 y: 0.0
+
+Aoe 1625439224.5675373 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 73.63407135009766 y: 10.500175476074219
+
+Aoe 1625439224.5685377 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 73.63407135009766 y: 10.500175476074219
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439225.3065798 effectType 4 targetObjectID 30661405 color -16640 duration 0.0
+x: 72.0003662109375 y: 4.7121429443359375
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439225.31058 effectType 4 targetObjectID 30661406 color -16640 duration 0.0
+x: 72.0003662109375 y: 4.7121429443359375
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439225.522592 effectType 4 targetObjectID 30661417 color -65536 duration 0.0
+x: 72.0003662109375 y: 4.7121429443359375
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439225.5235922 effectType 4 targetObjectID 30661416 color -65536 duration 0.0
+x: 72.0003662109375 y: 4.7121429443359375
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1625439225.5255923 effectType 4 targetObjectID 30661415 color -65536 duration 0.0
+x: 72.0003662109375 y: 4.7121429443359375
+x: 0.0 y: 0.0
+
+Aoe 1625439225.7526052 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 66.38862609863281 y: 12.379915237426758
+
+Aoe 1625439225.7526052 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 66.38862609863281 y: 12.379915237426758
+
+Aoe 1625439226.9476736 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 72.0003662109375 y: 4.7121429443359375
+
+Aoe 1625439226.9486737 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 72.0003662109375 y: 4.7121429443359375
+
+Aoe 1625439226.9496737 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 72.0003662109375 y: 4.7121429443359375
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439243.4656184 effectType 4 targetObjectID 30661504 color -16640 duration 0.0
+x: 81.34186553955078 y: 26.42860221862793
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439276.0934846 effectType 4 targetObjectID 30661528 color -16640 duration 0.0
+x: 79.5 y: 51.14563751220703
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439277.2665517 effectType 4 targetObjectID 30661529 color -16640 duration 0.0
+x: 80.97504425048828 y: 51.990516662597656
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439290.69832 effectType 4 targetObjectID 30661596 color -16640 duration 0.0
+x: 81.83798217773438 y: 56.46921157836914
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439299.718836 effectType 4 targetObjectID 30661621 color -16640 duration 0.0
+x: 72.13230895996094 y: 63.593605041503906
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439307.0192535 effectType 4 targetObjectID 30661596 color -16640 duration 0.0
+x: 85.77032470703125 y: 58.191993713378906
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439307.044255 effectType 4 targetObjectID 30661623 color -16640 duration 0.0
+x: 80.17842102050781 y: 64.56585693359375
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439311.50151 effectType 4 targetObjectID 30661596 color -16640 duration 0.0
+x: 85.7553482055664 y: 60.40502166748047
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439315.2357235 effectType 4 targetObjectID 30661608 color -16640 duration 0.0
+x: 92.16090393066406 y: 59.5
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439330.2375815 effectType 4 targetObjectID 30661567 color -16640 duration 0.0
+x: 98.31619262695312 y: 61.22599792480469
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439334.3448164 effectType 4 targetObjectID 30661639 color -16640 duration 0.0
+x: 102.78739929199219 y: 60.8673210144043
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439334.389819 effectType 4 targetObjectID 30661644 color -16640 duration 0.0
+x: 102.78739929199219 y: 60.8673210144043
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439334.5918305 effectType 4 targetObjectID 30661558 color -16640 duration 0.0
+x: 104.72030639648438 y: 59.86560821533203
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439334.8108432 effectType 4 targetObjectID 30661602 color -16640 duration 0.0
+x: 106.53841400146484 y: 60.48350524902344
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439340.191151 effectType 4 targetObjectID 30661639 color -16640 duration 0.0
+x: 98.47628021240234 y: 60.97787094116211
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439342.5962884 effectType 4 targetObjectID 30661602 color -16640 duration 0.0
+x: 97.5 y: 63.9900016784668
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439345.4164498 effectType 4 targetObjectID 30661644 color -16640 duration 0.0
+x: 99.21031951904297 y: 60.8680419921875
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439349.2436686 effectType 4 targetObjectID 30661555 color -16640 duration 0.0
+x: 104.98395538330078 y: 60.50963592529297
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439349.2446687 effectType 4 targetObjectID 30661558 color -16640 duration 0.0
+x: 104.98395538330078 y: 60.50963592529297
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439349.830702 effectType 4 targetObjectID 30661615 color -16640 duration 0.0
+x: 104.24934387207031 y: 61.927127838134766
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439353.8319309 effectType 4 targetObjectID 30661615 color -16640 duration 0.0
+x: 103.56693267822266 y: 60.54298400878906
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439354.791986 effectType 4 targetObjectID 30661558 color -16640 duration 0.0
+x: 107.71637725830078 y: 60.79173278808594
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439354.7999864 effectType 4 targetObjectID 30661618 color -16640 duration 0.0
+x: 107.71637725830078 y: 60.79173278808594
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439358.8372173 effectType 4 targetObjectID 30661627 color -16640 duration 0.0
+x: 107.57971954345703 y: 63.035438537597656
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439358.8392174 effectType 4 targetObjectID 30661618 color -16640 duration 0.0
+x: 107.57971954345703 y: 63.035438537597656
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439362.0404003 effectType 4 targetObjectID 30661643 color -16640 duration 0.0
+x: 109.7500991821289 y: 67.31924438476562
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439367.6637223 effectType 4 targetObjectID 30661635 color -16640 duration 0.0
+x: 112.41035461425781 y: 73.60039520263672
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439371.1119194 effectType 4 targetObjectID 30661633 color -16640 duration 0.0
+x: 107.34370422363281 y: 68.31414794921875
+x: 0.0 y: 0.0
+
+MapChange: Ultra Sincryer's Gate
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6474962 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 24.068143844604492 y: 14.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6484964 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 22.31078338623047 y: 19.20184326171875
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6494963 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 18.068143844604492 y: 20.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6494963 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 13.8255033493042 y: 19.20184326171875
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6504965 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 12.068143844604492 y: 14.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6514964 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 13.8255033493042 y: 10.71656322479248
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6544964 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 18.068143844604492 y: 8.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6544964 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 22.31078338623047 y: 10.71656322479248
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6554966 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 27.068143844604492 y: 14.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6564965 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 18.068143844604492 y: 23.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.6564965 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 9.068143844604492 y: 14.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.832507 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 18.068143844604492 y: 5.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.8335068 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 24.068143844604492 y: 14.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.834507 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 18.068143844604492 y: 20.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.835507 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 12.068143844604492 y: 14.959203720092773
+x: 0.0 y: 0.0
+
+enemy 24870 name AH ULTRA The Sincryer
+ShowEffect 1625439433.835507 effectType 4 targetObjectID 30830148 color -16640 duration 0.0
+x: 18.068143844604492 y: 8.959203720092773
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439437.6567254 effectType 4 targetObjectID 30898568 color -16640 duration 0.0
+x: 12.445174217224121 y: 12.949621200561523
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439437.6577258 effectType 4 targetObjectID 30898572 color -16640 duration 0.0
+x: 19.23073959350586 y: 25.493261337280273
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439437.6607258 effectType 4 targetObjectID 30898571 color -16640 duration 0.0
+x: 19.23073959350586 y: 25.493261337280273
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439439.2568169 effectType 4 targetObjectID 30898563 color -16640 duration 0.0
+x: 12.96883487701416 y: 7.608918190002441
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439440.442885 effectType 4 targetObjectID 30898566 color -16640 duration 0.0
+x: 19.08806610107422 y: 24.502304077148438
+x: 0.0 y: 0.0
+
+enemy 8943 name Zol Bomber
+ShowEffect 1625439441.2459307 effectType 4 targetObjectID 30898567 color -16640 duration 0.0
+x: 18.36430549621582 y: 8.645933151245117
+x: 0.0 y: 0.0
+
+MapChange: NontridusUltra
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439484.4934044 effectType 4 targetObjectID 30923110 color -16640 duration 0.0
+x: 127.19367218017578 y: 91.217529296875
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439484.5434074 effectType 4 targetObjectID 30923112 color -16640 duration 0.0
+x: 127.19367218017578 y: 91.217529296875
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 800
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439494.6999881 effectType 4 targetObjectID 30923092 color -16640 duration 0.0
+x: 136.1732177734375 y: 84.2284927368164
+x: 0.0 y: 0.0
+
+enemy 8930 name Giant Cube of Zol
+ShowEffect 1625439515.2471633 effectType 4 targetObjectID 30922997 color -16640 duration 0.0
+x: 135.74790954589844 y: 47.49018478393555
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Gileon's Return
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Hunter Cave
+MapChange: Twisted Trials
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 31758837
+
+ShowEffect had KeyError: 31758818
+
+ShowEffect had KeyError: 31758818
+
+Aoe 1625440160.15505 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 34.15635681152344 y: 20.989999771118164
+
+Aoe 1625440160.1560502 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 34.15635681152344 y: 20.989999771118164
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 31758818
+
+Aoe 1625440161.3131163 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 34.5 y: 22.63454246520996
+
+Aoe 1625440162.5351863 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 37.20363998413086 y: 19.973278045654297
+
+MapChange: Nexus
+MapChange: GuildHall
+MapChange: Nexus
+MapChange: Nexus
+MapChange: GuildHall
+MapChange: Nexus
+MapChange: Aspect Hall
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lair of Draconis
+MapChange: Nexus
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440520.2196448 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440520.2206447 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440520.2216449 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440520.2226448 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440523.4138274 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 15.148576736450195 y: 14.99996566772461
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440535.9565449 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 18.17153549194336 y: 20.742448806762695
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440535.9575448 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 11.100468635559082 y: 20.742448806762695
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440535.9575448 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 11.100468635559082 y: 13.671380996704102
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440535.958545 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 18.17153549194336 y: 13.671380996704102
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440538.9467156 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 14.636002540588379 y: 12.706914901733398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1625440538.9477158 effectType 4 targetObjectID 32188008 color -16640 duration 0.0
+x: 14.636002540588379 y: 21.7069149017334
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Crimson Caverns
+Aoe 1625440567.834368 radius 4.0 damage 100 effect 0 duration 0.0 origType 18940
+x: 32.05982971191406 y: 19.691200256347656
+
+MapChange: Nexus
+MapChange: Crimson Caverns
+ShowEffect had KeyError: 802
+
+enemy 18936 name CRIM Crimson Wizard
+ShowEffect 1625440601.0972705 effectType 4 targetObjectID 32237146 color -65536 duration 0.0
+x: 10.37451457977295 y: 36.19386672973633
+x: 0.0 y: 0.0
+
+enemy 18936 name CRIM Crimson Wizard
+ShowEffect 1625440601.2932818 effectType 4 targetObjectID 32237147 color -65536 duration 0.0
+x: 10.37451457977295 y: 36.19386672973633
+x: 0.0 y: 0.0
+
+Aoe 1625440602.6173575 radius 2.0 damage 140 effect 0 duration 0.0 origType 18936
+x: 10.37451457977295 y: 36.19386672973633
+
+Aoe 1625440602.9693775 radius 2.0 damage 140 effect 0 duration 0.0 origType 18936
+x: 10.37451457977295 y: 36.19386672973633
+
+ShowEffect had KeyError: 802
+
+enemy 18936 name CRIM Crimson Wizard
+ShowEffect 1625440624.325599 effectType 4 targetObjectID 32237143 color -65536 duration 0.0
+x: 14.5 y: 39.272438049316406
+x: 0.0 y: 0.0
+
+Aoe 1625440625.9776938 radius 2.0 damage 140 effect 0 duration 0.0 origType 18936
+x: 14.5 y: 39.272438049316406
+
+enemy 18936 name CRIM Crimson Wizard
+ShowEffect 1625440626.739737 effectType 4 targetObjectID 32237143 color -65536 duration 0.0
+x: 15.602020263671875 y: 41.46085739135742
+x: 0.0 y: 0.0
+
+Aoe 1625440628.1378171 radius 2.0 damage 140 effect 0 duration 0.0 origType 18936
+x: 15.602020263671875 y: 41.46085739135742
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: OceanTrench
+enemy 5900 name Giant Squid
+ShowEffect 1625440761.0924215 effectType 4 targetObjectID 32354474 color -16640 duration 0.0
+x: 18.944345474243164 y: 32.19133758544922
+x: 0.0 y: 0.0
+
+MapChange: Ascended Ocean
+ShowEffect had KeyError: 802
+
+MapChange: Nexus
+Closed GUI. Shutting down proxy.

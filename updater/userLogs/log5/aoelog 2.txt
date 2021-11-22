@@ -1,0 +1,231 @@
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Zol Cave
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Zol Ship Entrance
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1625178387.5233765 effectType 4 targetObjectID 27539367 color -65536 duration 0.0
+x: 62.5 y: 56.5
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1625178387.5233765 effectType 4 targetObjectID 27539367 color -65536 duration 0.0
+x: 62.5 y: 56.5
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1625178387.5264077 effectType 4 targetObjectID 27539367 color -65536 duration 0.0
+x: 62.5 y: 56.5
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1625178387.5313516 effectType 4 targetObjectID 27539368 color -65536 duration 0.0
+x: 67.52535247802734 y: 53.17058563232422
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1625178387.5313516 effectType 4 targetObjectID 27539368 color -65536 duration 0.0
+x: 67.52535247802734 y: 53.17058563232422
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1625178387.5313516 effectType 4 targetObjectID 27539368 color -65536 duration 0.0
+x: 67.52535247802734 y: 53.17058563232422
+x: 0.0 y: 0.0
+
+Aoe 1625178388.954271 radius 1.0 damage 120 effect 0 duration 0.0 origType 32985
+x: 67.52535247802734 y: 53.17058563232422
+
+Aoe 1625178388.9562826 radius 2.0 damage 100 effect 0 duration 0.0 origType 32985
+x: 67.52535247802734 y: 53.17058563232422
+
+Aoe 1625178388.9572475 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 67.52535247802734 y: 53.17058563232422
+
+Aoe 1625178388.9572475 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 62.5 y: 56.5
+
+Aoe 1625178388.95823 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 62.5 y: 56.5
+
+Aoe 1625178388.9592302 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 62.5 y: 56.5
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 800
+
+ShowEffect had KeyError: 802
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.6404 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.27393341064453 y: 16.70583152770996
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.6404 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.02970123291016 y: 14.579090118408203
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.6404 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 67.39630889892578 y: 16.354835510253906
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.6404 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 69.7618179321289 y: 11.74718952178955
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.641387 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 73.45585632324219 y: 16.489837646484375
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.641387 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.036865234375 y: 11.548837661743164
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.641387 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.46724700927734 y: 13.17622184753418
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178432.641387 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.48016357421875 y: 14.89334487915039
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8613422 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 70.25587463378906 y: 13.925604820251465
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8613422 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 66.96549987792969 y: 10.377114295959473
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8613422 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.05742645263672 y: 9.237919807434082
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8613422 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 68.88256072998047 y: 12.338093757629395
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8643095 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 68.81623077392578 y: 11.387474060058594
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8643095 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 72.8227310180664 y: 9.582168579101562
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8643095 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 70.88630676269531 y: 14.374283790588379
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1625178437.8643095 effectType 4 targetObjectID 27539324 color -16640 duration 0.0
+x: 71.03034210205078 y: 12.1784086227417
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1625178568.783656 effectType 4 targetObjectID 27815686 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 27848394
+
+ShowEffect had KeyError: 802
+
+Aoe 1625178572.0321229 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 23.983150482177734 y: 18.40603256225586
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+ShowEffect had KeyError: 802
+
+enemy 22047 name Zanarich
+ShowEffect 1625178579.246327 effectType 4 targetObjectID 27848394 color -65536 duration 0.0
+x: 14.862858772277832 y: 17.94855499267578
+x: 0.0 y: 0.0
+
+Aoe 1625178580.6895013 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 14.862858772277832 y: 17.94855499267578
+
+MapChange: Realm
+Aoe 1625178594.8099031 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1177.15869140625 y: 887.3135375976562
+
+enemy 1620 name Medusa
+ShowEffect 1625178596.8012896 effectType 4 targetObjectID 26501253 color -65536 duration 0.0
+x: 1158.843017578125 y: 884.7445678710938
+x: 0.0 y: 0.0
+
+Aoe 1625178598.2218783 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1158.843017578125 y: 884.7445678710938
+
+MapChange: Nexus

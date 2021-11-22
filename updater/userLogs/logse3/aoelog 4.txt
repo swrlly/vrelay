@@ -1,0 +1,1264 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Undead Lair
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625368583.9723444 effectType 4 targetObjectID 20696809 color -65536 duration 0.0
+x: 55.013153076171875 y: 11.533843994140625
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 20696804
+
+Aoe 1625368584.9893444 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 55.013153076171875 y: 11.533843994140625
+
+Aoe 1625368584.9903443 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 55.013153076171875 y: 11.533843994140625
+
+Aoe 1625368584.9903443 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 55.013153076171875 y: 11.533843994140625
+
+ShowEffect had KeyError: 20696805
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625368587.1803443 effectType 4 targetObjectID 20696799 color -65536 duration 0.0
+x: 56.80094528198242 y: 13.834474563598633
+x: 0.0 y: 0.0
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625368587.1823442 effectType 4 targetObjectID 20696809 color -65536 duration 0.0
+x: 56.80094528198242 y: 13.834474563598633
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625368587.1823442 effectType 4 targetObjectID 20696804 color -65536 duration 0.0
+x: 56.80094528198242 y: 13.834474563598633
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625368587.1833441 effectType 4 targetObjectID 20696801 color -65536 duration 0.0
+x: 56.80094528198242 y: 13.834474563598633
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625368587.1843443 effectType 4 targetObjectID 20696800 color -65536 duration 0.0
+x: 56.80094528198242 y: 13.834474563598633
+x: 0.0 y: 0.0
+
+Aoe 1625368587.391344 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 66.05968475341797 y: 8.8460693359375
+
+Aoe 1625368588.6103442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 56.80094528198242 y: 13.834474563598633
+
+Aoe 1625368588.6103442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 56.80094528198242 y: 13.834474563598633
+
+Aoe 1625368588.611344 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 56.80094528198242 y: 13.834474563598633
+
+Aoe 1625368588.611344 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 56.80094528198242 y: 13.834474563598633
+
+Aoe 1625368588.6123443 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 56.80094528198242 y: 13.834474563598633
+
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625368688.5353441 effectType 4 targetObjectID 20744824 color -65536 duration 0.0
+x: 9.041516304016113 y: 18.51903533935547
+x: 0.0 y: 0.0
+
+Aoe 1625368689.9373443 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 9.041516304016113 y: 18.51903533935547
+
+MapChange: Realm
+Aoe 1625368711.7423441 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1016.2344360351562 y: 1038.2584228515625
+
+Aoe 1625368713.9463441 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1025.7869873046875 y: 1054.928466796875
+
+MapChange: Undead Lair
+ShowEffect had KeyError: 20786755
+
+ShowEffect had KeyError: 20786755
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625368728.950344 effectType 4 targetObjectID 20786755 color -65536 duration 0.0
+x: 74.98831176757812 y: 56.934486389160156
+x: 0.0 y: 0.0
+
+Aoe 1625368729.1563444 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 70.36634826660156 y: 61.72853088378906
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625368730.1433442 effectType 4 targetObjectID 20786740 color -65536 duration 0.0
+x: 79.70100402832031 y: 50.79386901855469
+x: 0.0 y: 0.0
+
+Aoe 1625368730.3573442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 74.98831176757812 y: 56.934486389160156
+
+Aoe 1625368731.5543442 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 79.70100402832031 y: 50.79386901855469
+
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625368759.1683443 effectType 4 targetObjectID 20811210 color -65536 duration 0.0
+x: 14.391389846801758 y: 19.000003814697266
+x: 0.0 y: 0.0
+
+Aoe 1625368760.5803444 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 14.391389846801758 y: 19.000003814697266
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625368774.7683444 effectType 4 targetObjectID 20811210 color -65536 duration 0.0
+x: 17.400320053100586 y: 18.194734573364258
+x: 0.0 y: 0.0
+
+Aoe 1625368776.5963442 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 17.400320053100586 y: 18.194734573364258
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625368779.4733443 effectType 4 targetObjectID 20811210 color -65536 duration 0.0
+x: 19.457189559936523 y: 11.067207336425781
+x: 0.0 y: 0.0
+
+Aoe 1625368780.5863442 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 19.457189559936523 y: 11.067207336425781
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+MapChange: Ascended Lab
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368847.0303442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 17.39531898498535 y: 12.79956340789795
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625368847.2373443 effectType 4 targetObjectID 20879911 color -65536 duration 0.0
+x: 17.01142692565918 y: 12.151681900024414
+x: 0.0 y: 0.0
+
+Aoe 1625368848.4373443 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 17.39531898498535 y: 12.79956340789795
+
+Aoe 1625368848.6753442 radius 3.0 damage 70 effect 0 duration 0.0 origType 28706
+x: 17.01142692565918 y: 12.151681900024414
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368848.8483443 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 10.232823371887207 y: 14.430099487304688
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625368849.0353441 effectType 4 targetObjectID 20879911 color -65536 duration 0.0
+x: 19.938013076782227 y: 12.602219581604004
+x: 0.0 y: 0.0
+
+Aoe 1625368850.263344 radius 3.0 damage 70 effect 0 duration 0.0 origType 28704
+x: 10.232823371887207 y: 14.430099487304688
+
+Aoe 1625368850.4403443 radius 3.0 damage 70 effect 0 duration 0.0 origType 28706
+x: 19.938013076782227 y: 12.602219581604004
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368854.4383442 effectType 4 targetObjectID 20871978 color -16640 duration 0.0
+x: 12.923604965209961 y: 15.960626602172852
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368855.8363442 effectType 4 targetObjectID 20871978 color -16640 duration 0.0
+x: 12.404215812683105 y: 21.003755569458008
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368856.8563442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 7.6926727294921875 y: 25.20561981201172
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368856.8563442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 3.6926727294921875 y: 21.20561981201172
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368856.8573442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 7.6926727294921875 y: 17.20561981201172
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368856.8573442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 11.692672729492188 y: 21.20561981201172
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368856.8603444 effectType 4 targetObjectID 20871978 color -16640 duration 0.0
+x: 6.224881172180176 y: 20.64324951171875
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368858.246344 effectType 4 targetObjectID 20871978 color -16640 duration 0.0
+x: 6.302546977996826 y: 13.188631057739258
+x: 0.0 y: 0.0
+
+Aoe 1625368858.2653441 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.692672729492188 y: 21.20561981201172
+
+Aoe 1625368858.2663443 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.6926727294921875 y: 17.20561981201172
+
+Aoe 1625368858.2673442 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 3.6926727294921875 y: 21.20561981201172
+
+Aoe 1625368858.2673442 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.6926727294921875 y: 25.20561981201172
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368859.0573442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 5.806777000427246 y: 14.74168872833252
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368859.0583441 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 1.806777000427246 y: 10.74168872833252
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368859.059344 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 5.806777000427246 y: 6.7416887283325195
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625368859.0703442 effectType 4 targetObjectID 20871978 color -65536 duration 0.0
+x: 9.806777000427246 y: 10.74168872833252
+x: 0.0 y: 0.0
+
+Aoe 1625368860.4693441 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 9.806777000427246 y: 10.74168872833252
+
+Aoe 1625368860.4693441 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 5.806777000427246 y: 6.7416887283325195
+
+Aoe 1625368860.4763443 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 1.806777000427246 y: 10.74168872833252
+
+Aoe 1625368860.4773443 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 5.806777000427246 y: 14.74168872833252
+
+MapChange: Realm
+enemy 2391 name Urgle
+ShowEffect 1625368978.7673442 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1256.56103515625 y: 1151.0810546875
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368978.7683444 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1252.3460693359375 y: 1157.9754638671875
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368978.7693443 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1255.45166015625 y: 1163.760498046875
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368979.9913442 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1255.3284912109375 y: 1156.7392578125
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368979.9923444 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1257.8460693359375 y: 1150.815185546875
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368979.9923444 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1264.58251953125 y: 1149.62744140625
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368979.9933443 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1268.974365234375 y: 1154.3331298828125
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368981.147344 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1264.76025390625 y: 1160.3896484375
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368981.1483443 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1268.2957763671875 y: 1163.9251708984375
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368981.1483443 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1271.124267578125 y: 1151.197265625
+x: 0.0 y: 0.0
+
+enemy 2391 name Urgle
+ShowEffect 1625368981.1493442 effectType 4 targetObjectID 20090127 color -16640 duration 0.0
+x: 1267.5887451171875 y: 1154.7327880859375
+x: 0.0 y: 0.0
+
+MapChange: Lab
+enemy 2422 name Dr Terrible
+ShowEffect 1625369014.783344 effectType 4 targetObjectID 20953881 color -16640 duration 0.0
+x: 40.77956771850586 y: 37.1722412109375
+x: 0.0 y: 0.0
+
+MapChange: Ascended Lab
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625369029.1863441 effectType 4 targetObjectID 20975398 color -65536 duration 0.0
+x: 20.39861488342285 y: 11.63012981414795
+x: 0.0 y: 0.0
+
+Aoe 1625369030.6093442 radius 3.0 damage 70 effect 0 duration 0.0 origType 28706
+x: 20.39861488342285 y: 11.63012981414795
+
+enemy 28705 name Ascended Hallucinating Clone 1
+ShowEffect 1625369030.802344 effectType 4 targetObjectID 20975397 color -65536 duration 0.0
+x: 14.513349533081055 y: 10.440023422241211
+x: 0.0 y: 0.0
+
+Aoe 1625369032.1993442 radius 3.0 damage 70 effect 0 duration 0.0 origType 28705
+x: 14.513349533081055 y: 10.440023422241211
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369032.4133441 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 9.957335472106934 y: 12.144369125366211
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625369032.4143443 effectType 4 targetObjectID 20975398 color -16640 duration 0.0
+x: 9.957335472106934 y: 12.144369125366211
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369033.7983441 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 6.727251052856445 y: 13.446680068969727
+x: 0.0 y: 0.0
+
+enemy 28706 name Ascended Hallucinating Clone 2
+ShowEffect 1625369033.7983441 effectType 4 targetObjectID 20975398 color -16640 duration 0.0
+x: 9.457852363586426 y: 5.5554680824279785
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369041.2253442 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 14.579706192016602 y: 11.713995933532715
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369042.6193442 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 16.550533294677734 y: 12.9879732131958
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369044.022344 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 15.217580795288086 y: 19.593236923217773
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369045.407344 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 8.411879539489746 y: 18.885717391967773
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369046.8623443 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 6.981043815612793 y: 18.604509353637695
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369048.2123444 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 5.617383003234863 y: 8.225628852844238
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369048.8363442 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 6.652932643890381 y: 11.165287017822266
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369048.8373442 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 2.652932643890381 y: 7.165286540985107
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369048.8373442 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 6.652932643890381 y: 3.1652865409851074
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369048.838344 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 10.652933120727539 y: 7.165286540985107
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369048.8453443 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 7.39715051651001 y: 5.3417487144470215
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369050.2123444 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 14.339495658874512 y: 6.442966938018799
+x: 0.0 y: 0.0
+
+Aoe 1625369050.2143443 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 10.652933120727539 y: 7.165286540985107
+
+Aoe 1625369050.2143443 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 6.652932643890381 y: 3.1652865409851074
+
+Aoe 1625369050.2153442 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 2.652932643890381 y: 7.165286540985107
+
+Aoe 1625369050.2153442 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 6.652932643890381 y: 11.165287017822266
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369051.0273442 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 17.93484115600586 y: 11.268192291259766
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369051.0333443 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 13.93484115600586 y: 7.268191814422607
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369051.0343442 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 17.93484115600586 y: 3.2681918144226074
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369051.0353441 effectType 4 targetObjectID 20971882 color -65536 duration 0.0
+x: 21.93484115600586 y: 7.268191814422607
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1625369051.6293442 effectType 4 targetObjectID 20971882 color -16640 duration 0.0
+x: 20.513498306274414 y: 8.628341674804688
+x: 0.0 y: 0.0
+
+Aoe 1625369052.4463441 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 21.93484115600586 y: 7.268191814422607
+
+Aoe 1625369052.447344 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 17.93484115600586 y: 3.2681918144226074
+
+Aoe 1625369052.447344 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 13.93484115600586 y: 7.268191814422607
+
+Aoe 1625369052.4483442 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 17.93484115600586 y: 11.268192291259766
+
+MapChange: Realm
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1625369147.5473442 effectType 4 targetObjectID 21034046 color -65536 duration 0.0
+x: 1393.912109375 y: 998.3134765625
+x: 0.0 y: 0.0
+
+Aoe 1625369148.8373442 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1393.912109375 y: 998.3134765625
+
+enemy 1620 name Medusa
+ShowEffect 1625369157.4853442 effectType 4 targetObjectID 21034046 color -65536 duration 0.0
+x: 1398.4520263671875 y: 1008.8790283203125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625369157.4883444 effectType 4 targetObjectID 21034553 color -65536 duration 0.0
+x: 1398.4520263671875 y: 1008.8790283203125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625369157.4893444 effectType 4 targetObjectID 21034044 color -65536 duration 0.0
+x: 1398.4520263671875 y: 1008.8790283203125
+x: 0.0 y: 0.0
+
+Aoe 1625369158.3733442 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1398.4520263671875 y: 1008.8790283203125
+
+Aoe 1625369158.3733442 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1398.4520263671875 y: 1008.8790283203125
+
+Aoe 1625369158.374344 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1398.4520263671875 y: 1008.8790283203125
+
+enemy 1620 name Medusa
+ShowEffect 1625369160.0973442 effectType 4 targetObjectID 21034046 color -65536 duration 0.0
+x: 1393.85302734375 y: 997.1668090820312
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1625369160.098344 effectType 4 targetObjectID 21034042 color -65536 duration 0.0
+x: 1406.594482421875 y: 1007.7427978515625
+x: 0.0 y: 0.0
+
+MapChange: Undead Lair
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.0813444 effectType 4 targetObjectID 21085794 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.0823443 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.0833442 effectType 4 targetObjectID 21085807 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.0923443 effectType 4 targetObjectID 21085794 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.0933442 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.0943441 effectType 4 targetObjectID 21085807 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+Aoe 1625369172.098344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+Aoe 1625369172.098344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+Aoe 1625369172.099344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.1053443 effectType 4 targetObjectID 21085794 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.1063442 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.1073442 effectType 4 targetObjectID 21085807 color -65536 duration 0.0
+x: 71.9318618774414 y: 77.50862121582031
+x: 0.0 y: 0.0
+
+Aoe 1625369172.111344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+Aoe 1625369172.1123443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+Aoe 1625369172.1133442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.9923444 effectType 4 targetObjectID 21085794 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.9933443 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369172.9943442 effectType 4 targetObjectID 21085806 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369172.9953442 effectType 4 targetObjectID 21085807 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+Aoe 1625369172.9983442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+Aoe 1625369172.9983442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+Aoe 1625369172.999344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 71.9318618774414 y: 77.50862121582031
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369173.9403443 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369173.9413443 effectType 4 targetObjectID 21085806 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369173.9423442 effectType 4 targetObjectID 21085794 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369173.943344 effectType 4 targetObjectID 21085807 color -65536 duration 0.0
+x: 64.87207794189453 y: 79.9128189086914
+x: 0.0 y: 0.0
+
+Aoe 1625369174.1373444 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369174.1383443 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369174.1383443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369174.1393442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369175.3423443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369175.3423443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369175.3433442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 64.87207794189453 y: 79.9128189086914
+
+Aoe 1625369175.3433442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 64.87207794189453 y: 79.9128189086914
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369181.5253444 effectType 4 targetObjectID 21085848 color -65536 duration 0.0
+x: 48.17803955078125 y: 103.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369181.5263443 effectType 4 targetObjectID 21085847 color -65536 duration 0.0
+x: 48.17803955078125 y: 103.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369181.5273442 effectType 4 targetObjectID 21085844 color -65536 duration 0.0
+x: 48.17803955078125 y: 103.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369181.7353442 effectType 4 targetObjectID 21085849 color -65536 duration 0.0
+x: 55.5 y: 113.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369181.7363443 effectType 4 targetObjectID 21085850 color -65536 duration 0.0
+x: 55.5 y: 113.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369182.3343441 effectType 4 targetObjectID 21085848 color -65536 duration 0.0
+x: 53.030364990234375 y: 111.52037048339844
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369182.3493443 effectType 4 targetObjectID 21085847 color -65536 duration 0.0
+x: 53.030364990234375 y: 111.52037048339844
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369182.3533442 effectType 4 targetObjectID 21085844 color -65536 duration 0.0
+x: 53.030364990234375 y: 111.52037048339844
+x: 0.0 y: 0.0
+
+Aoe 1625369182.562344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 48.17803955078125 y: 103.98999786376953
+
+Aoe 1625369182.5633442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 48.17803955078125 y: 103.98999786376953
+
+Aoe 1625369182.5643444 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 48.17803955078125 y: 103.98999786376953
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369183.0443444 effectType 4 targetObjectID 21085849 color -65536 duration 0.0
+x: 55.5 y: 106.5
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369183.0453444 effectType 4 targetObjectID 21085850 color -65536 duration 0.0
+x: 55.5 y: 106.5
+x: 0.0 y: 0.0
+
+Aoe 1625369183.1603444 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 55.5 y: 113.98999786376953
+
+Aoe 1625369183.1613443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 55.5 y: 113.98999786376953
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369183.5823443 effectType 4 targetObjectID 21085848 color -65536 duration 0.0
+x: 53.37345886230469 y: 109.47589874267578
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369183.5833442 effectType 4 targetObjectID 21085847 color -65536 duration 0.0
+x: 53.37345886230469 y: 109.47589874267578
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369183.5853443 effectType 4 targetObjectID 21085844 color -65536 duration 0.0
+x: 53.37345886230469 y: 109.47589874267578
+x: 0.0 y: 0.0
+
+Aoe 1625369183.7483444 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 53.030364990234375 y: 111.52037048339844
+
+Aoe 1625369183.7493443 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 53.030364990234375 y: 111.52037048339844
+
+Aoe 1625369183.7503443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 53.030364990234375 y: 111.52037048339844
+
+Aoe 1625369184.4553442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 55.5 y: 106.5
+
+Aoe 1625369184.4553442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 55.5 y: 106.5
+
+Aoe 1625369184.9593441 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 53.37345886230469 y: 109.47589874267578
+
+Aoe 1625369184.9593441 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 53.37345886230469 y: 109.47589874267578
+
+Aoe 1625369184.9603443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 53.37345886230469 y: 109.47589874267578
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369187.191344 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 63.5 y: 76.58528900146484
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369187.1923444 effectType 4 targetObjectID 21085794 color -65536 duration 0.0
+x: 63.5 y: 76.58528900146484
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369188.7893443 effectType 4 targetObjectID 21085792 color -65536 duration 0.0
+x: 56.859291076660156 y: 76.41381072998047
+x: 0.0 y: 0.0
+
+Aoe 1625369188.835344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 63.5 y: 76.58528900146484
+
+Aoe 1625369188.8363442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 63.5 y: 76.58528900146484
+
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369222.075344 effectType 4 targetObjectID 21099103 color -65536 duration 0.0
+x: 16.84369659423828 y: 10.182729721069336
+x: 0.0 y: 0.0
+
+Aoe 1625369223.9903443 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 16.84369659423828 y: 10.182729721069336
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369223.9963443 effectType 4 targetObjectID 21099103 color -65536 duration 0.0
+x: 16.84369659423828 y: 10.182729721069336
+x: 0.0 y: 0.0
+
+Aoe 1625369225.5353441 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 16.84369659423828 y: 10.182729721069336
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369227.062344 effectType 4 targetObjectID 21099103 color -65536 duration 0.0
+x: 16.84369659423828 y: 10.182729721069336
+x: 0.0 y: 0.0
+
+Aoe 1625369227.5023441 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 16.84369659423828 y: 10.182729721069336
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369240.1683443 effectType 4 targetObjectID 21099103 color -65536 duration 0.0
+x: 17.31587791442871 y: 6.196844577789307
+x: 0.0 y: 0.0
+
+Aoe 1625369241.9973443 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 17.31587791442871 y: 6.196844577789307
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369242.4223442 effectType 4 targetObjectID 21099103 color -65536 duration 0.0
+x: 17.31587791442871 y: 6.196844577789307
+x: 0.0 y: 0.0
+
+Aoe 1625369245.3723443 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 17.31587791442871 y: 6.196844577789307
+
+MapChange: Nexus
+MapChange: Realm
+MapChange: Undead Lair
+ShowEffect had KeyError: 21124564
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369275.9023442 effectType 4 targetObjectID 21124564 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369275.9033442 effectType 4 targetObjectID 21124549 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369275.9043443 effectType 4 targetObjectID 21124562 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369275.9053442 effectType 4 targetObjectID 21124561 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369275.9063442 effectType 4 targetObjectID 21124559 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369275.907344 effectType 4 targetObjectID 21124554 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369275.9093442 effectType 4 targetObjectID 21124552 color -65536 duration 0.0
+x: 149.1374053955078 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+Aoe 1625369275.9203444 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 140.733642578125 y: 65.72819519042969
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369276.8523443 effectType 4 targetObjectID 21124549 color -65536 duration 0.0
+x: 153.89744567871094 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369276.8533442 effectType 4 targetObjectID 21124562 color -65536 duration 0.0
+x: 153.89744567871094 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369276.8543441 effectType 4 targetObjectID 21124561 color -65536 duration 0.0
+x: 153.89744567871094 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369276.855344 effectType 4 targetObjectID 21124559 color -65536 duration 0.0
+x: 153.89744567871094 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369276.8563442 effectType 4 targetObjectID 21124554 color -65536 duration 0.0
+x: 153.89744567871094 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369276.8573442 effectType 4 targetObjectID 21124552 color -65536 duration 0.0
+x: 153.89744567871094 y: 74.98999786376953
+x: 0.0 y: 0.0
+
+Aoe 1625369276.8693442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369276.8803444 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369276.8813443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369276.8863442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369276.8873441 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369276.8883443 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369276.8893442 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 149.1374053955078 y: 74.98999786376953
+
+Aoe 1625369277.9923444 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 153.89744567871094 y: 74.98999786376953
+
+Aoe 1625369277.9933443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 153.89744567871094 y: 74.98999786376953
+
+Aoe 1625369277.9933443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 153.89744567871094 y: 74.98999786376953
+
+Aoe 1625369277.9943442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 153.89744567871094 y: 74.98999786376953
+
+Aoe 1625369278.0083444 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 153.89744567871094 y: 74.98999786376953
+
+Aoe 1625369278.0093443 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 153.89744567871094 y: 74.98999786376953
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369279.4543443 effectType 4 targetObjectID 21124518 color -65536 duration 0.0
+x: 163.86671447753906 y: 56.97993087768555
+x: 0.0 y: 0.0
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369279.4553442 effectType 4 targetObjectID 21124530 color -65536 duration 0.0
+x: 163.86671447753906 y: 56.97993087768555
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369279.4563444 effectType 4 targetObjectID 21124525 color -65536 duration 0.0
+x: 163.86671447753906 y: 56.97993087768555
+x: 0.0 y: 0.0
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369279.4573443 effectType 4 targetObjectID 21124524 color -65536 duration 0.0
+x: 163.86671447753906 y: 56.97993087768555
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369279.4583442 effectType 4 targetObjectID 21124521 color -65536 duration 0.0
+x: 163.86671447753906 y: 56.97993087768555
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369279.4593441 effectType 4 targetObjectID 21124519 color -65536 duration 0.0
+x: 163.86671447753906 y: 56.97993087768555
+x: 0.0 y: 0.0
+
+Aoe 1625369280.3203442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 163.86671447753906 y: 56.97993087768555
+
+Aoe 1625369280.3203442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 163.86671447753906 y: 56.97993087768555
+
+Aoe 1625369280.3213441 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 163.86671447753906 y: 56.97993087768555
+
+Aoe 1625369280.3223443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 163.86671447753906 y: 56.97993087768555
+
+Aoe 1625369280.3223443 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 163.86671447753906 y: 56.97993087768555
+
+Aoe 1625369280.3233442 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 163.86671447753906 y: 56.97993087768555
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369286.3563442 effectType 4 targetObjectID 21124468 color -65536 duration 0.0
+x: 109.70083618164062 y: 26.747743606567383
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369288.6173441 effectType 4 targetObjectID 21124434 color -65536 duration 0.0
+x: 103.18107604980469 y: 19.824838638305664
+x: 0.0 y: 0.0
+
+Aoe 1625369288.6193442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 109.70083618164062 y: 26.747743606567383
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369288.9173443 effectType 4 targetObjectID 21124427 color -65536 duration 0.0
+x: 93.5 y: 15.989999771118164
+x: 0.0 y: 0.0
+
+Aoe 1625369288.9233441 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 103.18107604980469 y: 19.824838638305664
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369290.1483443 effectType 4 targetObjectID 21124419 color -65536 duration 0.0
+x: 94.66699981689453 y: 14.822999954223633
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369290.4193442 effectType 4 targetObjectID 21124427 color -65536 duration 0.0
+x: 94.66699981689453 y: 14.822999954223633
+x: 0.0 y: 0.0
+
+Aoe 1625369290.4233441 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 93.5 y: 15.989999771118164
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369290.6493442 effectType 4 targetObjectID 21124419 color -65536 duration 0.0
+x: 94.66699981689453 y: 14.822999954223633
+x: 0.0 y: 0.0
+
+Aoe 1625369290.8883443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 94.66699981689453 y: 14.822999954223633
+
+Aoe 1625369291.4733443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 94.66699981689453 y: 14.822999954223633
+
+Aoe 1625369292.0903442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 94.66699981689453 y: 14.822999954223633
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369294.6723442 effectType 4 targetObjectID 21124480 color -65536 duration 0.0
+x: 67.16474914550781 y: 27.989999771118164
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369295.6773443 effectType 4 targetObjectID 21124475 color -65536 duration 0.0
+x: 57.05034255981445 y: 34.65628433227539
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369295.6783442 effectType 4 targetObjectID 21124472 color -65536 duration 0.0
+x: 57.05034255981445 y: 34.65628433227539
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369295.6833441 effectType 4 targetObjectID 21124473 color -65536 duration 0.0
+x: 57.05034255981445 y: 34.65628433227539
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369295.6843443 effectType 4 targetObjectID 21124480 color -65536 duration 0.0
+x: 57.05034255981445 y: 34.65628433227539
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369295.6863441 effectType 4 targetObjectID 21124479 color -65536 duration 0.0
+x: 57.05034255981445 y: 34.65628433227539
+x: 0.0 y: 0.0
+
+Aoe 1625369297.2353442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 67.16474914550781 y: 27.989999771118164
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369297.5723443 effectType 4 targetObjectID 21124472 color -65536 duration 0.0
+x: 54.5 y: 38.9900016784668
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369297.5733442 effectType 4 targetObjectID 21124473 color -65536 duration 0.0
+x: 54.5 y: 38.9900016784668
+x: 0.0 y: 0.0
+
+Aoe 1625369297.6933444 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 57.05034255981445 y: 34.65628433227539
+
+Aoe 1625369297.6943443 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 57.05034255981445 y: 34.65628433227539
+
+Aoe 1625369297.6963444 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 57.05034255981445 y: 34.65628433227539
+
+Aoe 1625369297.6963444 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 57.05034255981445 y: 34.65628433227539
+
+Aoe 1625369297.6973443 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 57.05034255981445 y: 34.65628433227539
+
+Aoe 1625369298.3363442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 54.5 y: 38.9900016784668
+
+Aoe 1625369298.3363442 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 54.5 y: 38.9900016784668
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369299.283344 effectType 4 targetObjectID 21124472 color -65536 duration 0.0
+x: 55.5 y: 39.5
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369299.2843444 effectType 4 targetObjectID 21124473 color -65536 duration 0.0
+x: 55.5 y: 39.5
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369300.4763443 effectType 4 targetObjectID 21124479 color -65536 duration 0.0
+x: 56.683570861816406 y: 35.25636291503906
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369301.1213443 effectType 4 targetObjectID 21124475 color -65536 duration 0.0
+x: 56.683570861816406 y: 35.25636291503906
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369301.1223443 effectType 4 targetObjectID 21124472 color -65536 duration 0.0
+x: 56.683570861816406 y: 35.25636291503906
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369301.1243443 effectType 4 targetObjectID 21124473 color -65536 duration 0.0
+x: 56.683570861816406 y: 35.25636291503906
+x: 0.0 y: 0.0
+
+enemy 3497 name Lair White Spectre
+ShowEffect 1625369301.1253443 effectType 4 targetObjectID 21124480 color -65536 duration 0.0
+x: 56.683570861816406 y: 35.25636291503906
+x: 0.0 y: 0.0
+
+Aoe 1625369301.3733442 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 55.5 y: 39.5
+
+Aoe 1625369301.374344 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 55.5 y: 39.5
+
+ShowEffect had KeyError: 21124558
+
+Aoe 1625369305.599344 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 44.5 y: 75.98999786376953
+
+ShowEffect had KeyError: 21124558
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369307.4893444 effectType 4 targetObjectID 21124558 color -65536 duration 0.0
+x: 44.43681335449219 y: 71.98999786376953
+x: 0.0 y: 0.0
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369307.4963443 effectType 4 targetObjectID 21124551 color -65536 duration 0.0
+x: 44.43681335449219 y: 71.98999786376953
+x: 0.0 y: 0.0
+
+Aoe 1625369307.687344 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 47.302974700927734 y: 73.44210815429688
+
+Aoe 1625369308.9033442 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 44.43681335449219 y: 71.98999786376953
+
+Aoe 1625369308.9033442 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 44.43681335449219 y: 71.98999786376953
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1625369310.8703442 effectType 4 targetObjectID 21124576 color -65536 duration 0.0
+x: 33.30354690551758 y: 93.94800567626953
+x: 0.0 y: 0.0
+
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1625369310.871344 effectType 4 targetObjectID 21124575 color -65536 duration 0.0
+x: 33.30354690551758 y: 93.94800567626953
+x: 0.0 y: 0.0
+
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369333.7133443 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 16.54996681213379 y: 10.274801254272461
+x: 0.0 y: 0.0
+
+Aoe 1625369335.5933442 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 16.54996681213379 y: 10.274801254272461
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369336.6863441 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 16.54996681213379 y: 10.274801254272461
+x: 0.0 y: 0.0
+
+Aoe 1625369337.4143443 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 16.54996681213379 y: 10.274801254272461
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369338.1623442 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 16.54996681213379 y: 10.274801254272461
+x: 0.0 y: 0.0
+
+Aoe 1625369339.4803443 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 16.54996681213379 y: 10.274801254272461
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369353.6833441 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 15.525635719299316 y: 6.814335346221924
+x: 0.0 y: 0.0
+
+Aoe 1625369354.6863441 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 15.525635719299316 y: 6.814335346221924
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369355.4823442 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 15.525635719299316 y: 6.814335346221924
+x: 0.0 y: 0.0
+
+Aoe 1625369356.9693441 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 15.525635719299316 y: 6.814335346221924
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369357.6973443 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 15.525635719299316 y: 6.814335346221924
+x: 0.0 y: 0.0
+
+Aoe 1625369359.3143442 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 15.525635719299316 y: 6.814335346221924
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369359.894344 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 15.525635719299316 y: 6.814335346221924
+x: 0.0 y: 0.0
+
+Aoe 1625369361.2923443 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 15.525635719299316 y: 6.814335346221924
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369362.0923443 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 15.525635719299316 y: 6.814335346221924
+x: 0.0 y: 0.0
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369362.8443444 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 15.525635719299316 y: 6.814335346221924
+x: 0.0 y: 0.0
+
+Aoe 1625369363.5503442 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 15.525635719299316 y: 6.814335346221924
+
+Aoe 1625369363.9373443 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 15.525635719299316 y: 6.814335346221924
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369365.9383442 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 13.945505142211914 y: 6.799162864685059
+x: 0.0 y: 0.0
+
+Aoe 1625369367.2203443 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 13.945505142211914 y: 6.799162864685059
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369367.2283442 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 13.197464942932129 y: 6.791979789733887
+x: 0.0 y: 0.0
+
+Aoe 1625369368.2963443 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 13.197464942932129 y: 6.791979789733887
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369368.6833441 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 12.02917766571045 y: 6.78076171875
+x: 0.0 y: 0.0
+
+Aoe 1625369370.0893443 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 12.02917766571045 y: 6.78076171875
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369370.894344 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 14.802809715270996 y: 6.807394504547119
+x: 0.0 y: 0.0
+
+Aoe 1625369372.3363442 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 14.802809715270996 y: 6.807394504547119
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1625369373.1683443 effectType 4 targetObjectID 21152012 color -65536 duration 0.0
+x: 11.793839454650879 y: 6.778501987457275
+x: 0.0 y: 0.0
+
+Aoe 1625369375.0073442 radius 8.0 damage 75 

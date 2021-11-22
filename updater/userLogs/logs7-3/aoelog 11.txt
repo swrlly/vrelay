@@ -1,0 +1,1640 @@
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Vault
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+MapChange: Sky Palace
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1624813251.746607 effectType 4 targetObjectID 26270854 color -65536 duration 0.0
+x: 936.4127197265625 y: 1040.239501953125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813251.746607 effectType 4 targetObjectID 26270853 color -65536 duration 0.0
+x: 936.4127197265625 y: 1040.239501953125
+x: 0.0 y: 0.0
+
+Aoe 1624813253.1666055 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 936.4127197265625 y: 1040.239501953125
+
+Aoe 1624813253.1666055 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 936.4127197265625 y: 1040.239501953125
+
+enemy 1620 name Medusa
+ShowEffect 1624813254.9506042 effectType 4 targetObjectID 26270854 color -65536 duration 0.0
+x: 933.4503173828125 y: 1040.830322265625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813254.9516041 effectType 4 targetObjectID 26270853 color -65536 duration 0.0
+x: 933.4503173828125 y: 1040.830322265625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813254.9526052 effectType 4 targetObjectID 26270852 color -65536 duration 0.0
+x: 933.4503173828125 y: 1040.830322265625
+x: 0.0 y: 0.0
+
+Aoe 1624813256.3756301 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 933.4503173828125 y: 1040.830322265625
+
+Aoe 1624813256.3756301 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 933.4503173828125 y: 1040.830322265625
+
+Aoe 1624813256.3756301 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 933.4503173828125 y: 1040.830322265625
+
+enemy 1620 name Medusa
+ShowEffect 1624813258.1546056 effectType 4 targetObjectID 26270854 color -65536 duration 0.0
+x: 938.834716796875 y: 1041.473876953125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813258.1556058 effectType 4 targetObjectID 26270853 color -65536 duration 0.0
+x: 938.834716796875 y: 1041.473876953125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813258.1556058 effectType 4 targetObjectID 26270852 color -65536 duration 0.0
+x: 934.061279296875 y: 1041.1949462890625
+x: 0.0 y: 0.0
+
+Aoe 1624813259.5776045 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 934.061279296875 y: 1041.1949462890625
+
+Aoe 1624813259.5776045 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 938.834716796875 y: 1041.473876953125
+
+Aoe 1624813259.5776045 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 938.834716796875 y: 1041.473876953125
+
+enemy 1620 name Medusa
+ShowEffect 1624813261.352729 effectType 4 targetObjectID 26270854 color -65536 duration 0.0
+x: 933.5880737304688 y: 1040.650390625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813261.353755 effectType 4 targetObjectID 26270853 color -65536 duration 0.0
+x: 933.5880737304688 y: 1040.650390625
+x: 0.0 y: 0.0
+
+enemy 24965 name Truvix, the Lord Wanderer
+ShowEffect 1624813262.3547566 effectType 4 targetObjectID 26337885 color -16640 duration 0.0
+x: 929.4063720703125 y: 1040.99365234375
+x: 0.0 y: 0.0
+
+Aoe 1624813262.7787254 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 933.5880737304688 y: 1040.650390625
+
+Aoe 1624813262.7787254 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 933.5880737304688 y: 1040.650390625
+
+enemy 1620 name Medusa
+ShowEffect 1624813264.5567553 effectType 4 targetObjectID 26270854 color -65536 duration 0.0
+x: 934.1980590820312 y: 1040.9644775390625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813264.558725 effectType 4 targetObjectID 26270853 color -65536 duration 0.0
+x: 934.1980590820312 y: 1040.9644775390625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813264.5597265 effectType 4 targetObjectID 26270852 color -65536 duration 0.0
+x: 934.1980590820312 y: 1040.9644775390625
+x: 0.0 y: 0.0
+
+Aoe 1624813265.9797285 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 934.1980590820312 y: 1040.9644775390625
+
+Aoe 1624813265.9797285 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 934.1980590820312 y: 1040.9644775390625
+
+Aoe 1624813265.9797285 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 934.1980590820312 y: 1040.9644775390625
+
+enemy 1620 name Medusa
+ShowEffect 1624813267.7567544 effectType 4 targetObjectID 26270854 color -65536 duration 0.0
+x: 938.6172485351562 y: 1040.99365234375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624813267.7577267 effectType 4 targetObjectID 26270853 color -65536 duration 0.0
+x: 938.6172485351562 y: 1040.99365234375
+x: 0.0 y: 0.0
+
+Aoe 1624813269.174749 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 938.6172485351562 y: 1040.99365234375
+
+Aoe 1624813269.174749 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 938.6172485351562 y: 1040.99365234375
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813287.161758 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1182.06396484375 y: 763.1726684570312
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813287.5607245 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1181.71630859375 y: 761.5912475585938
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813287.9627264 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1181.36865234375 y: 760.0098266601562
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813288.3607547 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1181.5 y: 762.5
+x: 0.0 y: 0.0
+
+Aoe 1624813288.5797274 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1182.06396484375 y: 763.1726684570312
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813288.7617514 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1181.5 y: 762.5
+x: 0.0 y: 0.0
+
+Aoe 1624813288.98176 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1181.71630859375 y: 761.5912475585938
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813289.1607244 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1180.7275390625 y: 762.6936645507812
+x: 0.0 y: 0.0
+
+Aoe 1624813289.381759 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1181.36865234375 y: 760.0098266601562
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813289.5607407 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1180.2235107421875 y: 762.6964111328125
+x: 0.0 y: 0.0
+
+Aoe 1624813289.7817492 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1181.5 y: 762.5
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1624813289.961726 effectType 4 targetObjectID 26448533 color 65280 duration 0.0
+x: 1180.07958984375 y: 762.6972045898438
+x: 0.0 y: 0.0
+
+Aoe 1624813290.1867547 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1181.5 y: 762.5
+
+Aoe 1624813290.5827298 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1180.7275390625 y: 762.6936645507812
+
+Aoe 1624813290.990724 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1180.2235107421875 y: 762.6964111328125
+
+Aoe 1624813291.394731 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 1180.07958984375 y: 762.6972045898438
+
+enemy 25765 name The Horrific
+ShowEffect 1624813330.64851 effectType 4 targetObjectID 26479404 color 0 duration 0.0
+x: 1133.4158935546875 y: 473.70556640625
+x: 0.0 y: 0.0
+
+Aoe 1624813332.1196215 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1133.4158935546875 y: 473.70556640625
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813361.7789297 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 513.0999755859375 y: 755.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813362.3849304 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 508.2999572753906 y: 759.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813362.98493 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 504.699951171875 y: 755.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813363.584931 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 507.89996337890625 y: 751.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813366.9849315 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 512.699951171875 y: 755.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813367.5919292 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 507.89996337890625 y: 759.0999755859375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813368.186525 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 504.2999572753906 y: 755.5
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813368.7871697 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 509.0999450683594 y: 752.300048828125
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813372.1868713 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 513.2752685546875 y: 753.400146484375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813372.7868712 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 509.67523193359375 y: 757.8001708984375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813373.3858712 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 506.4752197265625 y: 753.8001708984375
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813373.9878705 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 510.0819091796875 y: 750.0968627929688
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813377.389591 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 513.2999877929688 y: 752.4967651367188
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813377.9945908 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 508.5 y: 756.4967651367188
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813378.595614 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 504.8999938964844 y: 752.8967895507812
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1624813379.2016187 effectType 4 targetObjectID 24597374 color -16640 duration 0.0
+x: 508.8999938964844 y: 748.8967895507812
+x: 0.0 y: 0.0
+
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1624813405.0443332 effectType 4 targetObjectID 26563324 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22047 name Zanarich
+ShowEffect 1624813415.2450144 effectType 4 targetObjectID 26631293 color -65536 duration 0.0
+x: 16.189590454101562 y: 15.65567398071289
+x: 0.0 y: 0.0
+
+Aoe 1624813416.6650143 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 16.189590454101562 y: 15.65567398071289
+
+MapChange: Realm
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+Aoe 1624813458.2486672 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1370.5330810546875 y: 1022.0081176757812
+
+enemy 1620 name Medusa
+ShowEffect 1624813466.443647 effectType 4 targetObjectID 26618658 color -65536 duration 0.0
+x: 1321.8094482421875 y: 1003.4215087890625
+x: 0.0 y: 0.0
+
+Aoe 1624813467.8556645 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1321.8094482421875 y: 1003.4215087890625
+
+MapChange: Zol Cave
+enemy 32983 name Zol Ship
+ShowEffect 1624813626.6006103 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 27.724700927734375 y: 20.43891143798828
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813626.6006103 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 25.095975875854492 y: 20.368810653686523
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813626.6006103 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 28.54534912109375 y: 25.190277099609375
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813626.6006103 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 26.880420684814453 y: 18.1998348236084
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813688.6380925 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 23.05194091796875 y: 21.64610481262207
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813688.6380925 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 28.103328704833984 y: 21.060073852539062
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813688.6380925 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 24.596885681152344 y: 22.212373733520508
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813688.6380925 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 25.772794723510742 y: 21.532608032226562
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813719.1073542 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 26.574865341186523 y: 19.089223861694336
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813719.108356 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 25.495193481445312 y: 21.499774932861328
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813719.108356 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 23.848466873168945 y: 21.932390213012695
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813719.108356 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 28.539892196655273 y: 18.99693489074707
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813752.335378 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 21.098434448242188 y: 20.238866806030273
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813752.335378 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 24.467317581176758 y: 24.94904327392578
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813752.335378 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 21.42373275756836 y: 21.794445037841797
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813752.335378 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 25.064891815185547 y: 20.732269287109375
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813786.3583543 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 23.687223434448242 y: 20.262327194213867
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813786.3583543 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 29.10991096496582 y: 23.098125457763672
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813786.3583543 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 26.176809310913086 y: 21.578521728515625
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813786.3583543 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 24.65047264099121 y: 21.362003326416016
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813815.5780034 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 21.232501983642578 y: 21.830419540405273
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813815.5780034 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 26.817398071289062 y: 25.144895553588867
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813815.5780034 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 29.125364303588867 y: 20.978168487548828
+x: 0.0 y: 0.0
+
+enemy 32983 name Zol Ship
+ShowEffect 1624813815.5780034 effectType 4 targetObjectID 26913438 color -16640 duration 0.0
+x: 24.65793800354004 y: 22.79671859741211
+x: 0.0 y: 0.0
+
+MapChange: Zol Ship Entrance
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814082.2472634 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 57.503875732421875
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814082.248262 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 57.503875732421875
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814082.248262 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 57.503875732421875
+x: 0.0 y: 0.0
+
+Aoe 1624814083.6532636 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 57.503875732421875
+
+Aoe 1624814083.6532636 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 57.503875732421875
+
+Aoe 1624814083.6532636 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 57.503875732421875
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814084.4582624 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 57.503875732421875
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814085.054235 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 57.503875732421875
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814085.4512606 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 57.503875732421875
+x: 0.0 y: 0.0
+
+Aoe 1624814085.8476343 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 57.503875732421875
+
+Aoe 1624814086.4516366 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 57.503875732421875
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814086.6546369 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.45156478881836 y: 63.17561721801758
+x: 0.0 y: 0.0
+
+Aoe 1624814086.8506355 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 57.503875732421875
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814087.8496614 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 66.88309478759766 y: 64.96375274658203
+x: 0.0 y: 0.0
+
+Aoe 1624814088.0526607 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 62.45156478881836 y: 63.17561721801758
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814088.7066605 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 69.42343139648438 y: 63.432865142822266
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814088.7066605 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 69.42343139648438 y: 63.432865142822266
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814088.8676345 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 69.42343139648438 y: 63.432865142822266
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814088.8676345 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 69.42343139648438 y: 63.432865142822266
+x: 0.0 y: 0.0
+
+Aoe 1624814089.24966 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 66.88309478759766 y: 64.96375274658203
+
+Aoe 1624814090.083635 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 69.42343139648438 y: 63.432865142822266
+
+Aoe 1624814090.0856352 radius 1.0 damage 120 effect 0 duration 0.0 origType 32985
+x: 69.42343139648438 y: 63.432865142822266
+
+Aoe 1624814090.2486348 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 69.42343139648438 y: 63.432865142822266
+
+Aoe 1624814090.2486348 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 69.42343139648438 y: 63.432865142822266
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814090.6526353 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 64.22566223144531 y: 53.7546272277832
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814091.0616362 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 63.157108306884766 y: 53.51544952392578
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814091.8639731 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 60.75285720825195 y: 52.977294921875
+x: 0.0 y: 0.0
+
+Aoe 1624814092.0929723 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 64.22566223144531 y: 53.7546272277832
+
+Aoe 1624814092.4532423 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 63.157108306884766 y: 53.51544952392578
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814093.2562428 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 58.976585388183594 y: 60.793087005615234
+x: 0.0 y: 0.0
+
+Aoe 1624814093.2572427 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 60.75285720825195 y: 52.977294921875
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814093.465243 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 60.564453125 y: 61.3316535949707
+x: 0.0 y: 0.0
+
+Aoe 1624814094.667243 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 58.976585388183594 y: 60.793087005615234
+
+Aoe 1624814094.8552437 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 60.564453125 y: 61.3316535949707
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814095.0603647 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 64.49996948242188 y: 64.85423278808594
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814095.4573646 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 64.49996948242188 y: 64.85423278808594
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814096.2963653 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 66.20234680175781 y: 64.85423278808594
+x: 0.0 y: 0.0
+
+Aoe 1624814096.4603658 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 64.49996948242188 y: 64.85423278808594
+
+Aoe 1624814096.8583653 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 64.49996948242188 y: 64.85423278808594
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814097.6593654 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.96372985839844 y: 60.93979263305664
+x: 0.0 y: 0.0
+
+Aoe 1624814097.660365 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 66.20234680175781 y: 64.85423278808594
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814098.2553651 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.35127258300781 y: 61.61124038696289
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814099.0563648 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 63.38559341430664 y: 65.3308334350586
+x: 0.0 y: 0.0
+
+Aoe 1624814099.0573645 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 62.96372985839844 y: 60.93979263305664
+
+Aoe 1624814099.658365 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 61.35127258300781 y: 61.61124038696289
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814099.857365 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 67.14965057373047 y: 65.3308334350586
+x: 0.0 y: 0.0
+
+Aoe 1624814100.4614112 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 63.38559341430664 y: 65.3308334350586
+
+Aoe 1624814101.2524116 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 67.14965057373047 y: 65.3308334350586
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814101.454412 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 65.63988494873047 y: 61.15681838989258
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814101.4554112 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 65.63988494873047 y: 61.15681838989258
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814101.8504124 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 64.0572738647461 y: 61.15681838989258
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814102.0674121 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 63.201805114746094 y: 61.627323150634766
+x: 0.0 y: 0.0
+
+Aoe 1624814102.8574126 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 65.63988494873047 y: 61.15681838989258
+
+Aoe 1624814102.8574126 radius 1.0 damage 120 effect 0 duration 0.0 origType 32985
+x: 65.63988494873047 y: 61.15681838989258
+
+Aoe 1624814103.2564113 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 64.0572738647461 y: 61.15681838989258
+
+Aoe 1624814103.4644115 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 63.201805114746094 y: 61.627323150634766
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814104.2898133 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 68.23112487792969 y: 63.12356185913086
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814104.2898133 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 68.23112487792969 y: 63.12356185913086
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814104.6818125 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 66.00576782226562 y: 63.276405334472656
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814104.6818125 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 66.00576782226562 y: 63.276405334472656
+x: 0.0 y: 0.0
+
+Aoe 1624814105.6588118 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 68.23112487792969 y: 63.12356185913086
+
+Aoe 1624814105.6588118 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 68.23112487792969 y: 63.12356185913086
+
+Aoe 1624814106.0568125 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 66.00576782226562 y: 63.276405334472656
+
+Aoe 1624814106.0578134 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 66.00576782226562 y: 63.276405334472656
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814106.457812 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.23344802856445 y: 63.93629837036133
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814107.457771 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 60.97333908081055 y: 61.12411117553711
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814107.8558009 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 60.97333908081055 y: 60.20875930786133
+x: 0.0 y: 0.0
+
+Aoe 1624814107.8567722 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 61.23344802856445 y: 63.93629837036133
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814108.6668005 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 62.0225830078125 y: 57.22616195678711
+x: 0.0 y: 0.0
+
+Aoe 1624814108.85577 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 60.97333908081055 y: 61.12411117553711
+
+Aoe 1624814109.2587724 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 60.97333908081055 y: 60.20875930786133
+
+Aoe 1624814110.0667732 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 62.0225830078125 y: 57.22616195678711
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814110.2617729 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 63.74238204956055 y: 57.99576950073242
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814110.8677726 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.72348403930664 y: 59.18486785888672
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814111.0647707 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.66360092163086 y: 59.18486785888672
+x: 0.0 y: 0.0
+
+Aoe 1624814111.6678007 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 63.74238204956055 y: 57.99576950073242
+
+Aoe 1624814112.2593825 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 61.72348403930664 y: 59.18486785888672
+
+Aoe 1624814112.45835 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 61.66360092163086 y: 59.18486785888672
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814113.062391 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.9088249206543 y: 58.05278778076172
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814113.062391 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.9088249206543 y: 58.05278778076172
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814114.2613807 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 61.9088249206543 y: 58.05278778076172
+x: 0.0 y: 0.0
+
+Aoe 1624814114.4703493 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 61.9088249206543 y: 58.05278778076172
+
+Aoe 1624814114.4703493 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 61.9088249206543 y: 58.05278778076172
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814115.2604308 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 63.453128814697266 y: 62.81695556640625
+x: 0.0 y: 0.0
+
+Aoe 1624814115.6694305 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 61.9088249206543 y: 58.05278778076172
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814115.86143 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 64.16316223144531 y: 62.81695556640625
+x: 0.0 y: 0.0
+
+Aoe 1624814116.6634321 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 63.453128814697266 y: 62.81695556640625
+
+Aoe 1624814117.2624307 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 64.16316223144531 y: 62.81695556640625
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814117.4694302 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 67.16665649414062 y: 65.17029571533203
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814117.4694302 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 67.16665649414062 y: 65.17029571533203
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814118.7144308 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 69.93778991699219 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814118.7154307 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 69.93778991699219 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+Aoe 1624814118.9004304 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 67.16665649414062 y: 65.17029571533203
+
+Aoe 1624814118.9004304 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 67.16665649414062 y: 65.17029571533203
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814119.671431 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 73.17145538330078 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814119.6724298 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 73.17145538330078 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+Aoe 1624814120.069431 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 69.93778991699219 y: 65.70866394042969
+
+Aoe 1624814120.069431 radius 2.0 damage 100 effect 0 duration 0.0 origType 32985
+x: 69.93778991699219 y: 65.70866394042969
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814120.6684308 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 76.51632690429688 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814120.6694298 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 76.51632690429688 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+Aoe 1624814121.0704312 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 73.17145538330078 y: 65.70866394042969
+
+Aoe 1624814121.0704312 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 73.17145538330078 y: 65.70866394042969
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814121.4704313 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 78.1673812866211 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814121.471431 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 78.1673812866211 y: 65.70866394042969
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814121.8724306 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 79.75657653808594 y: 65.39411163330078
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814121.873431 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 79.75657653808594 y: 65.39411163330078
+x: 0.0 y: 0.0
+
+Aoe 1624814122.0724306 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 76.51632690429688 y: 65.70866394042969
+
+Aoe 1624814122.0724306 radius 1.0 damage 120 effect 0 duration 0.0 origType 32985
+x: 76.51632690429688 y: 65.70866394042969
+
+Aoe 1624814122.8804307 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 78.1673812866211 y: 65.70866394042969
+
+Aoe 1624814122.8804307 radius 2.0 damage 100 effect 0 duration 0.0 origType 32985
+x: 78.1673812866211 y: 65.70866394042969
+
+Aoe 1624814123.2724304 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 79.75657653808594 y: 65.39411163330078
+
+Aoe 1624814123.2724304 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 79.75657653808594 y: 65.39411163330078
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814123.8714306 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 78.24845123291016 y: 60.459503173828125
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814123.8714306 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 78.24845123291016 y: 60.459503173828125
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814124.0754302 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 75.83487701416016 y: 62.87308120727539
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814124.0754302 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 75.83487701416016 y: 62.87308120727539
+x: 0.0 y: 0.0
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814124.2864308 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 74.60086822509766 y: 64.10708618164062
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814124.2864308 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 74.60086822509766 y: 64.10708618164062
+x: 0.0 y: 0.0
+
+Aoe 1624814125.2914295 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 78.24845123291016 y: 60.459503173828125
+
+Aoe 1624814125.2914295 radius 1.0 damage 120 effect 0 duration 0.0 origType 32985
+x: 78.24845123291016 y: 60.459503173828125
+
+Aoe 1624814125.4804306 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 75.83487701416016 y: 62.87308120727539
+
+Aoe 1624814125.4804306 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 75.83487701416016 y: 62.87308120727539
+
+Aoe 1624814125.68043 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 74.60086822509766 y: 64.10708618164062
+
+Aoe 1624814125.68043 radius 2.0 damage 100 effect 0 duration 0.0 origType 32985
+x: 74.60086822509766 y: 64.10708618164062
+
+enemy 32985 name Zol Lieutenant R
+ShowEffect 1624814126.28043 effectType 4 targetObjectID 27231328 color -65536 duration 0.0
+x: 68.5967788696289 y: 64.23412322998047
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814126.28043 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 68.5967788696289 y: 64.23412322998047
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814127.0784307 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 67.27080535888672 y: 64.23412322998047
+x: 0.0 y: 0.0
+
+enemy 32984 name Zol Lieutenant L
+ShowEffect 1624814127.0784307 effectType 4 targetObjectID 27231327 color -65536 duration 0.0
+x: 67.27080535888672 y: 64.23412322998047
+x: 0.0 y: 0.0
+
+Aoe 1624814127.683433 radius 4.0 damage 80 effect 0 duration 0.0 origType 32984
+x: 68.5967788696289 y: 64.23412322998047
+
+Aoe 1624814127.683433 radius 4.0 damage 80 effect 0 duration 0.0 origType 32985
+x: 68.5967788696289 y: 64.23412322998047
+
+Aoe 1624814128.5254302 radius 2.0 damage 120 effect 0 duration 0.0 origType 32984
+x: 67.27080535888672 y: 64.23412322998047
+
+Aoe 1624814128.5254302 radius 2.0 damage 100 effect 0 duration 0.0 origType 32984
+x: 67.27080535888672 y: 64.23412322998047
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.03487396240234 y: 11.388040542602539
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 73.75755310058594 y: 13.1657133102417
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 72.89021301269531 y: 15.579339981079102
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.51813507080078 y: 11.291051864624023
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.21389770507812 y: 16.515533447265625
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.18251037597656 y: 13.898454666137695
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1201315 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 69.4587631225586 y: 11.726431846618652
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814262.1211321 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.63877868652344 y: 8.78470230102539
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.24360656738281 y: 13.636056900024414
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.06139373779297 y: 12.347439765930176
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 69.66046905517578 y: 12.28364372253418
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.70999145507812 y: 12.493480682373047
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.73524475097656 y: 12.16563892364502
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.75507354736328 y: 11.486224174499512
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.00574493408203 y: 12.242794036865234
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814267.3251312 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.52182006835938 y: 12.391833305358887
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814310.54038 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 71.21058654785156 y: 10.113048553466797
+x: 0.0 y: 0.0
+
+Aoe 1624814311.9543803 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 71.21058654785156 y: 10.113048553466797
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814313.7523792 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 71.33890533447266 y: 10.113048553466797
+x: 0.0 y: 0.0
+
+Aoe 1624814315.1513808 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 71.33890533447266 y: 10.113048553466797
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.962402 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.89176940917969 y: 9.808887481689453
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.962402 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.56360626220703 y: 8.808517456054688
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.962402 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.57356262207031 y: 9.658856391906738
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.9634027 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.43854522705078 y: 8.429048538208008
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.9634027 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.1621322631836 y: 5.747600555419922
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.9634027 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 74.37670135498047 y: 8.36190128326416
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.9634027 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.83333587646484 y: 10.105209350585938
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814325.9634027 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.59539794921875 y: 8.778604507446289
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.84964752197266 y: 9.097297668457031
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 75.68901824951172 y: 8.849125862121582
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 73.21077728271484 y: 11.181137084960938
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 75.38301849365234 y: 9.296433448791504
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 74.68211364746094 y: 9.146349906921387
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 71.09192657470703 y: 10.910789489746094
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.171853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.1849136352539 y: 11.773162841796875
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814331.1728287 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 73.82560729980469 y: 9.983264923095703
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814377.3757517 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 66.25259399414062 y: 12.103094100952148
+x: 0.0 y: 0.0
+
+Aoe 1624814378.7917511 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 66.25259399414062 y: 12.103094100952148
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814380.5757504 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 66.25259399414062 y: 12.103094100952148
+x: 0.0 y: 0.0
+
+Aoe 1624814381.9857512 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 66.25259399414062 y: 12.103094100952148
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 69.45094299316406 y: 8.307979583740234
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.5677490234375 y: 10.122476577758789
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 64.72016906738281 y: 7.334288120269775
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.16801452636719 y: 15.471160888671875
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.82776641845703 y: 12.601678848266602
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.387451171875 y: 13.432119369506836
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.09237670898438 y: 12.926960945129395
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814396.1777508 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 61.74882507324219 y: 9.467679977416992
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814430.4147506 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 63.58717727661133 y: 10.853134155273438
+x: 0.0 y: 0.0
+
+Aoe 1624814431.828182 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 63.58717727661133 y: 10.853134155273438
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814433.6191833 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 63.9141731262207 y: 10.919349670410156
+x: 0.0 y: 0.0
+
+Aoe 1624814435.0241828 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 63.9141731262207 y: 10.919349670410156
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 63.76262664794922 y: 10.650090217590332
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 63.421051025390625 y: 9.785979270935059
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.58055877685547 y: 9.698380470275879
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 64.12306213378906 y: 9.827157020568848
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.98446655273438 y: 13.992713928222656
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.9575080871582 y: 11.062501907348633
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 60.287322998046875 y: 8.621519088745117
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814445.8281853 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.256980895996094 y: 12.045101165771484
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814486.0504594 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 62.24877166748047 y: 18.090682983398438
+x: 0.0 y: 0.0
+
+Aoe 1624814487.507459 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 62.24877166748047 y: 18.090682983398438
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814489.2794838 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 62.24877166748047 y: 18.090682983398438
+x: 0.0 y: 0.0
+
+Aoe 1624814490.6694586 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 62.24877166748047 y: 18.090682983398438
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2784607 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 60.41545104980469 y: 18.63485336303711
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2784607 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 63.65622329711914 y: 20.958194732666016
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2784607 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.26261520385742 y: 15.895703315734863
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2784607 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 60.383460998535156 y: 20.288890838623047
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2784607 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.54164505004883 y: 18.77560806274414
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2784607 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.21633911132812 y: 15.050722122192383
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2794592 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 63.203651428222656 y: 22.175504684448242
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814503.2794592 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 59.62968444824219 y: 19.079153060913086
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 59.473087310791016 y: 18.79311752319336
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 61.44138717651367 y: 17.289461135864258
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.11819076538086 y: 18.5300350189209
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.31243133544922 y: 17.432682037353516
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.42276382446289 y: 18.65761375427246
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.83067321777344 y: 20.01671600341797
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.38140106201172 y: 16.538599014282227
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814510.2904603 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 64.63577270507812 y: 16.897674560546875
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814552.711415 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 67.45317077636719 y: 14.37419605255127
+x: 0.0 y: 0.0
+
+Aoe 1624814554.1144152 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 67.45317077636719 y: 14.37419605255127
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814555.8974152 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 67.45317077636719 y: 14.37419605255127
+x: 0.0 y: 0.0
+
+Aoe 1624814557.3034163 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 67.45317077636719 y: 14.37419605255127
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 64.1119384765625 y: 12.168375015258789
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.751953125 y: 13.904500961303711
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.1285400390625 y: 14.960929870605469
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 69.26516723632812 y: 15.130151748657227
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 64.37985229492188 y: 14.899639129638672
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.79320526123047 y: 13.704812049865723
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 64.51932525634766 y: 11.793636322021484
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814570.509835 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 62.84774398803711 y: 13.644054412841797
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7258358 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.49281311035156 y: 14.353737831115723
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7308357 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.90762329101562 y: 16.1007137298584
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7318354 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.35578155517578 y: 14.941082954406738
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7318354 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.3217544555664 y: 18.726341247558594
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7318354 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.37966918945312 y: 12.974553108215332
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7318354 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.8210220336914 y: 14.4292631149292
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7318354 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.42473602294922 y: 14.642516136169434
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814577.7318354 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.38446807861328 y: 14.70975112915039
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814614.5458345 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 75.53101348876953 y: 17.819238662719727
+x: 0.0 y: 0.0
+
+Aoe 1624814615.9491282 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 75.53101348876953 y: 17.819238662719727
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814617.747158 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 76.69001007080078 y: 18.47730255126953
+x: 0.0 y: 0.0
+
+Aoe 1624814619.1451285 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 76.69001007080078 y: 18.47730255126953
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 75.10547637939453 y: 23.141273498535156
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 80.38970184326172 y: 17.512569427490234
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 75.32450866699219 y: 16.747285842895508
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 79.89437866210938 y: 17.32744026184082
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 74.73770141601562 y: 17.860158920288086
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 73.46868896484375 y: 17.940757751464844
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 75.50662994384766 y: 18.69102668762207
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814629.9531295 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 74.55554962158203 y: 17.09649658203125
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.154153 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 74.73515319824219 y: 18.437116622924805
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.154153 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 75.401123046875 y: 20.47130012512207
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.154153 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 73.22400665283203 y: 14.836710929870605
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.154153 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 78.45282745361328 y: 15.337099075317383
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.154153 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 78.29193878173828 y: 15.470023155212402
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.154153 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 77.41240692138672 y: 17.967552185058594
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.1551561 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 76.00263214111328 y: 18.338281631469727
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814635.1551561 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 76.18501281738281 y: 17.581600189208984
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814671.161603 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 67.51444244384766 y: 22.851694107055664
+x: 0.0 y: 0.0
+
+Aoe 1624814672.5685663 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 67.51444244384766 y: 22.851694107055664
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814674.3675685 effectType 4 targetObjectID 27231284 color -65536 duration 0.0
+x: 67.51444244384766 y: 22.851694107055664
+x: 0.0 y: 0.0
+
+Aoe 1624814675.7595673 radius 3.0 damage 120 effect 0 duration 0.0 origType 33013
+x: 67.51444244384766 y: 22.851694107055664
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.90061950683594 y: 23.27617835998535
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.4739761352539 y: 27.476133346557617
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.3206558227539 y: 19.70785140991211
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 69.18030548095703 y: 23.110931396484375
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 70.8270492553711 y: 26.3913516998291
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.458740234375 y: 22.244888305664062
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.6802749633789 y: 22.806188583374023
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814686.5735667 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.86652374267578 y: 23.53323745727539
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.7765687 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 68.29144287109375 y: 23.80617332458496
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.95230865478516 y: 22.915231704711914
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 66.99803924560547 y: 20.822912216186523
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 69.24224090576172 y: 24.416576385498047
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.53711700439453 y: 22.83661651611328
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.80754089355469 y: 22.635601043701172
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 67.06195831298828 y: 22.590187072753906
+x: 0.0 y: 0.0
+
+enemy 33013 name Zol Captain
+ShowEffect 1624814691.777568 effectType 4 targetObjectID 27231284 color -16640 duration 0.0
+x: 65.40057373046875 y: 19.674827575683594
+x: 0.0 y: 0.0
+
+MapChange: Nexus

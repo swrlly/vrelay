@@ -1,0 +1,434 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1624997973.1905053 effectType 4 targetObjectID 21850974 color -65536 duration 0.0
+x: 1060.8358154296875 y: 861.9893188476562
+x: 0.0 y: 0.0
+
+Aoe 1624997974.6013408 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1060.8358154296875 y: 861.9893188476562
+
+enemy 2369 name Crystal Prisoner
+ShowEffect 1624998102.8128543 effectType 4 targetObjectID 22129527 color -16640 duration 0.0
+x: 1311.452880859375 y: 1041.5938720703125
+x: 0.0 y: 0.0
+
+enemy 2369 name Crystal Prisoner
+ShowEffect 1624998102.8128543 effectType 4 targetObjectID 22129527 color -16640 duration 0.0
+x: 1303.952880859375 y: 1037.2637939453125
+x: 0.0 y: 0.0
+
+enemy 2369 name Crystal Prisoner
+ShowEffect 1624998102.8138528 effectType 4 targetObjectID 22129527 color -16640 duration 0.0
+x: 1309.952880859375 y: 1047.656005859375
+x: 0.0 y: 0.0
+
+enemy 2369 name Crystal Prisoner
+ShowEffect 1624998102.8138528 effectType 4 targetObjectID 22129527 color -16640 duration 0.0
+x: 1309.952880859375 y: 1035.53173828125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998121.4369454 effectType 4 targetObjectID 22219408 color -65536 duration 0.0
+x: 1308.085205078125 y: 1054.3935546875
+x: 0.0 y: 0.0
+
+Aoe 1624998122.8371363 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1308.085205078125 y: 1054.3935546875
+
+enemy 1620 name Medusa
+ShowEffect 1624998131.0314531 effectType 4 targetObjectID 22219408 color -65536 duration 0.0
+x: 1300.765869140625 y: 1045.3516845703125
+x: 0.0 y: 0.0
+
+Aoe 1624998132.4483967 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1300.765869140625 y: 1045.3516845703125
+
+enemy 1620 name Medusa
+ShowEffect 1624998134.2334647 effectType 4 targetObjectID 22219408 color -65536 duration 0.0
+x: 1299.5140380859375 y: 1046.1884765625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998135.0423815 effectType 4 targetObjectID 22124245 color -65536 duration 0.0
+x: 1313.1962890625 y: 1058.6046142578125
+x: 0.0 y: 0.0
+
+Aoe 1624998135.643261 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1299.5140380859375 y: 1046.1884765625
+
+Aoe 1624998136.4432 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1313.1962890625 y: 1058.6046142578125
+
+enemy 1620 name Medusa
+ShowEffect 1624998137.4339643 effectType 4 targetObjectID 22219408 color -65536 duration 0.0
+x: 1304.539794921875 y: 1051.9007568359375
+x: 0.0 y: 0.0
+
+Aoe 1624998138.843866 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1304.539794921875 y: 1051.9007568359375
+
+enemy 1620 name Medusa
+ShowEffect 1624998141.4407053 effectType 4 targetObjectID 22124245 color -65536 duration 0.0
+x: 1304.095703125 y: 1050.858642578125
+x: 0.0 y: 0.0
+
+Aoe 1624998142.8509343 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1304.095703125 y: 1050.858642578125
+
+MapChange: Zol Cave
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Ulgors Calling
+MapChange: Vault
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+Aoe 1624998436.874621 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1379.08349609375 y: 1009.4100952148438
+
+enemy 1620 name Medusa
+ShowEffect 1624998454.2554865 effectType 4 targetObjectID 22286444 color -65536 duration 0.0
+x: 1329.782958984375 y: 1069.9403076171875
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998455.2475219 effectType 4 targetObjectID 22347774 color -65536 duration 0.0
+x: 1329.30419921875 y: 1067.8240966796875
+x: 0.0 y: 0.0
+
+Aoe 1624998455.6584635 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1329.782958984375 y: 1069.9403076171875
+
+enemy 1620 name Medusa
+ShowEffect 1624998456.648676 effectType 4 targetObjectID 22510026 color -65536 duration 0.0
+x: 1337.12939453125 y: 1067.37158203125
+x: 0.0 y: 0.0
+
+Aoe 1624998456.6536655 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1329.30419921875 y: 1067.8240966796875
+
+enemy 1620 name Medusa
+ShowEffect 1624998457.4487033 effectType 4 targetObjectID 22286444 color -65536 duration 0.0
+x: 1339.497802734375 y: 1064.0
+x: 0.0 y: 0.0
+
+Aoe 1624998458.0582244 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1337.12939453125 y: 1067.37158203125
+
+enemy 1620 name Medusa
+ShowEffect 1624998458.4522102 effectType 4 targetObjectID 22347774 color -65536 duration 0.0
+x: 1333.706298828125 y: 1059.462646484375
+x: 0.0 y: 0.0
+
+Aoe 1624998458.8579266 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1339.497802734375 y: 1064.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998459.8538773 effectType 4 targetObjectID 22510026 color -65536 duration 0.0
+x: 1326.7977294921875 y: 1059.953857421875
+x: 0.0 y: 0.0
+
+Aoe 1624998459.8648498 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1333.706298828125 y: 1059.462646484375
+
+Aoe 1624998461.2577891 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1326.7977294921875 y: 1059.953857421875
+
+enemy 1620 name Medusa
+ShowEffect 1624998461.6532795 effectType 4 targetObjectID 22347774 color -65536 duration 0.0
+x: 1323.2576904296875 y: 1066.3726806640625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998463.0544693 effectType 4 targetObjectID 22510026 color -65536 duration 0.0
+x: 1332.193359375 y: 1067.0250244140625
+x: 0.0 y: 0.0
+
+Aoe 1624998463.059456 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1323.2576904296875 y: 1066.3726806640625
+
+enemy 1620 name Medusa
+ShowEffect 1624998463.8547163 effectType 4 targetObjectID 22286444 color -65536 duration 0.0
+x: 1332.67919921875 y: 1061.576904296875
+x: 0.0 y: 0.0
+
+Aoe 1624998464.4604247 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1332.193359375 y: 1067.0250244140625
+
+enemy 1620 name Medusa
+ShowEffect 1624998464.8564055 effectType 4 targetObjectID 22347774 color -65536 duration 0.0
+x: 1327.2244873046875 y: 1060.1669921875
+x: 0.0 y: 0.0
+
+Aoe 1624998465.2606149 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1332.67919921875 y: 1061.576904296875
+
+enemy 1620 name Medusa
+ShowEffect 1624998466.2576036 effectType 4 targetObjectID 22510026 color -65536 duration 0.0
+x: 1325.2196044921875 y: 1068.0531005859375
+x: 0.0 y: 0.0
+
+Aoe 1624998466.2605941 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1327.2244873046875 y: 1060.1669921875
+
+enemy 1620 name Medusa
+ShowEffect 1624998467.0569582 effectType 4 targetObjectID 22286444 color -65536 duration 0.0
+x: 1332.0050048828125 y: 1065.86083984375
+x: 0.0 y: 0.0
+
+Aoe 1624998467.661401 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1325.2196044921875 y: 1068.0531005859375
+
+enemy 1620 name Medusa
+ShowEffect 1624998468.0573874 effectType 4 targetObjectID 22347774 color -65536 duration 0.0
+x: 1330.4549560546875 y: 1058.518310546875
+x: 0.0 y: 0.0
+
+Aoe 1624998468.4624293 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1332.0050048828125 y: 1065.86083984375
+
+Aoe 1624998469.4671776 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1330.4549560546875 y: 1058.518310546875
+
+enemy 1620 name Medusa
+ShowEffect 1624998470.2627769 effectType 4 targetObjectID 22286444 color -65536 duration 0.0
+x: 1327.492919921875 y: 1064.478759765625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998471.2657669 effectType 4 targetObjectID 22347774 color -65536 duration 0.0
+x: 1330.196533203125 y: 1059.2213134765625
+x: 0.0 y: 0.0
+
+Aoe 1624998471.6783133 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1327.492919921875 y: 1064.478759765625
+
+Aoe 1624998472.671534 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1330.196533203125 y: 1059.2213134765625
+
+enemy 1620 name Medusa
+ShowEffect 1624998473.6674247 effectType 4 targetObjectID 22516927 color -65536 duration 0.0
+x: 1333.8436279296875 y: 1062.9405517578125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998475.0671284 effectType 4 targetObjectID 21851048 color -65536 duration 0.0
+x: 1325.0587158203125 y: 1059.936279296875
+x: 0.0 y: 0.0
+
+Aoe 1624998475.0731125 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1333.8436279296875 y: 1062.9405517578125
+
+Aoe 1624998476.4727554 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1325.0587158203125 y: 1059.936279296875
+
+enemy 1620 name Medusa
+ShowEffect 1624998476.8683887 effectType 4 targetObjectID 22516927 color -65536 duration 0.0
+x: 1330.5400390625 y: 1060.8199462890625
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1624998478.2700539 effectType 4 targetObjectID 21851048 color -65536 duration 0.0
+x: 1335.714599609375 y: 1064.9927978515625
+x: 0.0 y: 0.0
+
+Aoe 1624998478.2750413 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1330.5400390625 y: 1060.8199462890625
+
+Aoe 1624998479.6765094 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1335.714599609375 y: 1064.9927978515625
+
+enemy 1620 name Medusa
+ShowEffect 1624998480.0805871 effectType 4 targetObjectID 22516927 color -65536 duration 0.0
+x: 1325.93994140625 y: 1062.8018798828125
+x: 0.0 y: 0.0
+
+Aoe 1624998481.4763002 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1325.93994140625 y: 1062.8018798828125
+
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Nexus
+MapChange: Realm
+Aoe 1624998579.1877253 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1378.286865234375 y: 1023.0361328125
+
+MapChange: Sprite World
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2694252 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 59.88873291015625 y: 95.31623840332031
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2704227 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 51.40345001220703 y: 95.31623840332031
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2704227 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 51.40345001220703 y: 86.83096313476562
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2704227 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 59.88873291015625 y: 86.83096313476562
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2704227 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 62.717159271240234 y: 98.14466857910156
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2714202 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 48.57502365112305 y: 98.14466857910156
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2714202 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 48.57502365112305 y: 84.00253295898438
+x: 0.0 y: 0.0
+
+enemy 3334 name Limon the Sprite God
+ShowEffect 1624998660.2714202 effectType 4 targetObjectID 22680812 color -16640 duration 0.0
+x: 62.717159271240234 y: 84.00253295898438
+x: 0.0 y: 0.0
+
+MapChange: Ascended Sprite Ruins
+MapChange: Ascended Sprite Ruins
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998683.534997 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998683.534997 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998683.534997 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998683.534997 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998686.713461 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 13.992897033691406 y: 20.111129760742188
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998699.2985244 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 19.167987823486328 y: 20.432899475097656
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998699.2985244 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 12.09692096710205 y: 20.432899475097656
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998699.2985244 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 12.09692096710205 y: 13.361831665039062
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998699.2985244 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 19.167987823486328 y: 13.361831665039062
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998702.322928 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 15.632454872131348 y: 12.39736557006836
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998702.322928 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 15.632454872131348 y: 21.39736557006836
+x: 0.0 y: 0.0
+
+enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624998712.2783391 effectType 4 targetObjectID 22742585 color -16640 duration 0.0
+x: 15.32973861694336 y: 19.61409568786621
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Ultra Aldragine's Hideout
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998762.9774692 effectType 4 targetObjectID 22833058 color -65536 duration 0.0
+x: 60.723445892333984 y: 60.84188461303711
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998764.1800928 effectType 4 targetObjectID 22833057 color -65536 duration 0.0
+x: 53.74258804321289 y: 60.30928421020508
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998764.1810896 effectType 4 targetObjectID 22833077 color -65536 duration 0.0
+x: 53.74258804321289 y: 60.30928421020508
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998764.1830857 effectType 4 targetObjectID 22833034 color -65536 duration 0.0
+x: 53.74258804321289 y: 60.30928421020508
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998764.1850798 effectType 4 targetObjectID 22833058 color -65536 duration 0.0
+x: 60.5 y: 63.23979568481445
+x: 0.0 y: 0.0
+
+Aoe 1624998764.5881577 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 60.723445892333984 y: 60.84188461303711
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998765.4463668 effectType 4 targetObjectID 22833034 color -65536 duration 0.0
+x: 56.23112106323242 y: 60.339263916015625
+x: 0.0 y: 0.0
+
+Aoe 1624998765.6717732 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 60.5 y: 63.23979568481445
+
+Aoe 1624998765.6717732 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 53.74258804321289 y: 60.30928421020508
+
+Aoe 1624998765.6717732 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 53.74258804321289 y: 60.30928421020508
+
+Aoe 1624998765.672771 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 53.74258804321289 y: 60.30928421020508
+
+Aoe 1624998766.886464 radius 7.0 damage 125 effect 0 duration 0.0 origType 24860
+x: 56.23112106323242 y: 60.339263916015625
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998768.248039 effectType 4 targetObjectID 22833058 color -65536 duration 0.0
+x: 60.5 y: 63.23979568481445
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998769.4513292 effectType 4 targetObjectID 22833057 color -65536 duration 0.0
+x: 50.84651184082031 y: 62.41195297241211
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998769.4523263 effectType 4 targetObjectID 22833077 color -65536 duration 0.0
+x: 50.84651184082031 y: 62.41195297241211
+x: 0.0 y: 0.0
+
+enemy 24860 name AH Feral of the Zol
+ShowEffect 1624998769.4533238 effectType 4 targetObjectID 22833034 color -65536 duration 0.0
+x: 50.84651184082031 y: 62.41195297241211
+x: 0.0 y: 0.0
+
+Aoe 1624998769.7033284 radius 7.0 

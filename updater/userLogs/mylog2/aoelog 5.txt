@@ -1,0 +1,141 @@
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1635039929.527003 effectType 4 targetObjectID 21885541 color -65536 duration 1.5
+x: 1368.199462890625 y: 1010.3582153320312
+x: 0.0 y: 0.0
+
+Aoe 1635039930.9373133 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1368.199462890625 y: 1010.3582153320312
+
+enemy 1620 name Medusa
+ShowEffect 1635039932.8520987 effectType 4 targetObjectID 21885542 color -65536 duration 1.5
+x: 1373.0255126953125 y: 1011.239990234375
+x: 0.0 y: 0.0
+
+Aoe 1635039934.2631726 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1373.0255126953125 y: 1011.239990234375
+
+enemy 1620 name Medusa
+ShowEffect 1635039941.5020406 effectType 4 targetObjectID 21886054 color -65536 duration 1.5
+x: 1302.6962890625 y: 1003.9628295898438
+x: 0.0 y: 0.0
+
+Aoe 1635039942.9492025 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1302.6962890625 y: 1003.9628295898438
+
+enemy 1620 name Medusa
+ShowEffect 1635039965.248488 effectType 4 targetObjectID 21885260 color -65536 duration 1.5
+x: 1222.700927734375 y: 981.431396484375
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1635039971.6660035 effectType 4 targetObjectID 21885259 color -65536 duration 1.5
+x: 1233.16943359375 y: 975.2022094726562
+x: 0.0 y: 0.0
+
+Aoe 1635039973.0818014 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1233.16943359375 y: 975.2022094726562
+
+enemy 1620 name Medusa
+ShowEffect 1635040015.9863174 effectType 4 targetObjectID 21885873 color -65536 duration 1.5
+x: 1163.5098876953125 y: 857.181884765625
+x: 0.0 y: 0.0
+
+internal HP is now 193
+Aoe 1635040017.447645 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1163.5098876953125 y: 857.181884765625
+
+enemy 1620 name Medusa
+ShowEffect 1635040121.4528003 effectType 4 targetObjectID 22218459 color -65536 duration 1.5
+x: 1025.845458984375 y: 870.5145874023438
+x: 0.0 y: 0.0
+
+internal HP is now 392
+Aoe 1635040122.8957236 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1025.845458984375 y: 870.5145874023438
+
+Aoe 1635040134.0909894 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1022.6136474609375 y: 905.1608276367188
+
+enemy 1620 name Medusa
+ShowEffect 1635040228.6141431 effectType 4 targetObjectID 22126315 color -65536 duration 1.5
+x: 1049.457275390625 y: 1074.1295166015625
+x: 0.0 y: 0.0
+
+Aoe 1635040230.032869 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1049.457275390625 y: 1074.1295166015625
+
+enemy 1620 name Medusa
+ShowEffect 1635040230.4098608 effectType 4 targetObjectID 22298187 color -65536 duration 1.5
+x: 1051.191650390625 y: 1079.6312255859375
+x: 0.0 y: 0.0
+
+internal HP is now 673
+Aoe 1635040236.6639764 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1051.191650390625 y: 1079.6312255859375
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Ulgors Calling
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+MapChange: Ascension Enclave
+MapChange: Fallen Grotto
+enemy 8677 name Mini Titan 2A
+ShowEffect 1635041406.6168783 effectType 4 targetObjectID 23868296 color -65536 duration 1.5
+x: 9.262691497802734 y: 90.44232940673828
+x: 0.0 y: 0.0
+
+enemy 8677 name Mini Titan 2A
+ShowEffect 1635041407.4187875 effectType 4 targetObjectID 23868296 color -65536 duration 1.5
+x: 9.262691497802734 y: 90.44232940673828
+x: 0.0 y: 0.0
+
+internal HP is now 765
+Aoe 1635041408.0781076 radius 5.0 damage 125 effect 0 duration 0.0 origType 8677
+x: 9.262691497802734 y: 90.44232940673828
+
+Aoe 1635041408.9041042 radius 5.0 damage 125 effect 0 duration 0.0 origType 8677
+x: 9.262691497802734 y: 90.44232940673828
+
+MapChange: Fallen Cave
+MapChange: Fallen Lava Crawl
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+MapChange: Davy Jones' Locker
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1635042123.175395 effectType 4 targetObjectID 24304238 color -65536 duration 1.5
+x: 1073.3831787109375 y: 1138.162841796875
+x: 0.0 y: 0.0
+
+Aoe 1635042124.5884619 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1073.3831787109375 y: 1138.162841796875
+
+Connection was reset
+MapChange: Nexus
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus

@@ -1,0 +1,23 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: The Catacombs
+MapChange: Nexus
+MapChange: Undead Lair
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1624815177.0376801 effectType 4 targetObjectID 28610843 color -65536 duration 0.0
+x: 11.95378589630127 y: 12.998976707458496
+x: 0.0 y: 0.0
+
+Aoe 1624815178.4496794 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 11.95378589630127 y: 12.998976707458496
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1624815179.2346814 effectType 4 targetObjectID 28610843 color -65536 duration 0.0
+x: 13.227118492126465 y: 15.539036750793457
+x: 0.0 y: 0.0
+
+Aoe 1624815180.6595905 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 13.227118492126465 y: 15.539036750793457
+
+MapChange: Nexus

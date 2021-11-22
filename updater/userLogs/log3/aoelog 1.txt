@@ -1,0 +1,97 @@
+MapChange: Nexus
+MapChange: Realm
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4007037 effectType 4 targetObjectID 7998733 color -65536 duration 0.0
+x: 268.798583984375 y: 1068.0516357421875
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4007037 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 275.5 y: 1065.5
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4007037 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 274.32843017578125 y: 1068.328369140625
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4007037 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 271.5 y: 1069.5
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4017398 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 268.67156982421875 y: 1068.328369140625
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4017398 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 267.5 y: 1065.5
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4017398 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 268.67156982421875 y: 1062.671630859375
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4017398 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 271.5 y: 1061.5
+x: 0.0 y: 0.0
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368651.4017398 effectType 4 targetObjectID 7998733 color -16640 duration 0.0
+x: 274.32843017578125 y: 1062.671630859375
+x: 0.0 y: 0.0
+
+Aoe 1624368652.8033872 radius 5.0 damage 160 effect 0 duration 0.0 origType 22226
+x: 268.798583984375 y: 1068.0516357421875
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368661.8035266 effectType 4 targetObjectID 7998733 color -65536 duration 0.0
+x: 267.807861328125 y: 1069.458740234375
+x: 0.0 y: 0.0
+
+Aoe 1624368663.203696 radius 5.0 damage 160 effect 0 duration 0.0 origType 22226
+x: 267.807861328125 y: 1069.458740234375
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368667.0850756 effectType 4 targetObjectID 7998733 color -65536 duration 0.0
+x: 267.807861328125 y: 1068.3057861328125
+x: 0.0 y: 0.0
+
+Aoe 1624368668.4066896 radius 5.0 damage 160 effect 0 duration 0.0 origType 22226
+x: 267.807861328125 y: 1068.3057861328125
+
+this is enemy 22226 name Lord Stone Gargoyle
+ShowEffect 1624368672.2026863 effectType 4 targetObjectID 7998733 color -65536 duration 0.0
+x: 267.807861328125 y: 1068.3057861328125
+x: 0.0 y: 0.0
+
+Death 1624368672.6894202 accountID 1048842 charID 28 killedBy Lord Stone Gargoyle
+MapChange: Nexus
+MapChange: Realm
+Connection was reset
+MapChange: Nexus
+this is enemy 802 name Huntress
+ShowEffect 1624368723.882776 effectType 4 targetObjectID 8022098 color -7339777 duration 0.0
+x: 78.5 y: 54.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624368726.0804334 effectType 4 targetObjectID 8022098 color -7339777 duration 0.0
+x: 79.5 y: 54.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624368727.8856306 effectType 4 targetObjectID 8022098 color -7339777 duration 0.0
+x: 78.5 y: 54.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624368729.8872228 effectType 4 targetObjectID 8022098 color -7339777 duration 0.0
+x: 78.5 y: 54.5
+x: 0.0 y: 0.0
+
+Connection was reset

@@ -1,0 +1,506 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Tunnel of Pain
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+MapChange: Zol Cave
+MapChange: Realm
+MapChange: Trial of the Illusionist
+MapChange: Nexus
+MapChange: Realm
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6382377 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 971.1139526367188 y: 1055.8759765625
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6382377 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 971.1139526367188 y: 1055.8759765625
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6382377 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 965.4570922851562 y: 1055.8759765625
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6382377 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 965.4570922851562 y: 1055.8759765625
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6382377 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 965.4570922851562 y: 1050.21923828125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6392357 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 965.4570922851562 y: 1050.21923828125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6392357 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 971.1139526367188 y: 1050.21923828125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510519.6392357 effectType 4 targetObjectID 6383303 color 255 duration 0.0
+x: 971.1139526367188 y: 1050.21923828125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510524.839613 effectType 4 targetObjectID 6176159 color -65536 duration 0.0
+x: 964.77734375 y: 1084.3104248046875
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510525.246463 effectType 4 targetObjectID 6175896 color -65536 duration 0.0
+x: 977.601318359375 y: 1089.9287109375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510526.2391257 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 982.256103515625 y: 1093.5645751953125
+x: 0.0 y: 0.0
+
+Aoe 1624510526.6470706 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 977.601318359375 y: 1089.9287109375
+
+Aoe 1624510527.64682 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 982.256103515625 y: 1093.5645751953125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510528.4452486 effectType 4 targetObjectID 6175896 color -65536 duration 0.0
+x: 990.5408935546875 y: 1086.7886962890625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510528.8396864 effectType 4 targetObjectID 6382981 color -65536 duration 0.0
+x: 990.6353759765625 y: 1084.1533203125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510529.4455142 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 987.3970336914062 y: 1083.932861328125
+x: 0.0 y: 0.0
+
+Aoe 1624510529.8499935 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 990.5408935546875 y: 1086.7886962890625
+
+Aoe 1624510530.258272 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 990.6353759765625 y: 1084.1533203125
+
+Aoe 1624510530.8527331 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 987.3970336914062 y: 1083.932861328125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510531.6497707 effectType 4 targetObjectID 6175896 color -65536 duration 0.0
+x: 984.8870239257812 y: 1089.5120849609375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510531.8411644 effectType 4 targetObjectID 6175897 color -65536 duration 0.0
+x: 986.0285034179688 y: 1089.5120849609375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510532.04163 effectType 4 targetObjectID 6382981 color -65536 duration 0.0
+x: 986.0285034179688 y: 1089.5120849609375
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510532.6408224 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 989.8179321289062 y: 1088.02783203125
+x: 0.0 y: 0.0
+
+Aoe 1624510533.0536146 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 984.8870239257812 y: 1089.5120849609375
+
+Aoe 1624510533.2556558 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 986.0285034179688 y: 1089.5120849609375
+
+Aoe 1624510533.4643304 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 986.0285034179688 y: 1089.5120849609375
+
+Aoe 1624510534.0541463 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 989.8179321289062 y: 1088.02783203125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510534.8431566 effectType 4 targetObjectID 6175896 color -65536 duration 0.0
+x: 984.9840698242188 y: 1082.291259765625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510535.0465708 effectType 4 targetObjectID 6175897 color -65536 duration 0.0
+x: 984.9840698242188 y: 1082.291259765625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510535.2451692 effectType 4 targetObjectID 6382981 color -65536 duration 0.0
+x: 983.3816528320312 y: 1083.8936767578125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510535.8402064 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 981.826416015625 y: 1085.4488525390625
+x: 0.0 y: 0.0
+
+Aoe 1624510536.2544634 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 984.9840698242188 y: 1082.291259765625
+
+Aoe 1624510536.4536796 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 984.9840698242188 y: 1082.291259765625
+
+Aoe 1624510536.6510823 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 983.3816528320312 y: 1083.8936767578125
+
+Aoe 1624510537.2528071 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 981.826416015625 y: 1085.4488525390625
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510538.0447307 effectType 4 targetObjectID 6175896 color -65536 duration 0.0
+x: 988.998779296875 y: 1087.36376953125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510538.447752 effectType 4 targetObjectID 6382981 color -65536 duration 0.0
+x: 988.998779296875 y: 1085.0640869140625
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510539.049244 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 985.9124145507812 y: 1082.3173828125
+x: 0.0 y: 0.0
+
+Aoe 1624510539.4508195 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 988.998779296875 y: 1087.36376953125
+
+Aoe 1624510539.8503234 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 988.998779296875 y: 1085.0640869140625
+
+Aoe 1624510540.4509823 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 985.9124145507812 y: 1082.3173828125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510541.2451131 effectType 4 targetObjectID 6175896 color -65536 duration 0.0
+x: 985.3892211914062 y: 1088.69189453125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510541.651103 effectType 4 targetObjectID 6382981 color -65536 duration 0.0
+x: 987.600341796875 y: 1088.5186767578125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510542.243389 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 987.69091796875 y: 1086.3624267578125
+x: 0.0 y: 0.0
+
+Aoe 1624510542.6524806 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 985.3892211914062 y: 1088.69189453125
+
+Aoe 1624510543.0504153 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 987.600341796875 y: 1088.5186767578125
+
+Aoe 1624510543.650513 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 987.69091796875 y: 1086.3624267578125
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510545.4449408 effectType 4 targetObjectID 6175898 color -65536 duration 0.0
+x: 984.8792724609375 y: 1090.3909912109375
+x: 0.0 y: 0.0
+
+Aoe 1624510546.8503094 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 984.8792724609375 y: 1090.3909912109375
+
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2625163 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 971.2855224609375 y: 1063.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2625163 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 972.2855224609375 y: 1063.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2625163 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 973.2855224609375 y: 1063.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2625163 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 970.4068603515625 y: 1065.1689453125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2625163 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 971.1139526367188 y: 1065.8759765625
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 971.821044921875 y: 1066.5831298828125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 968.2855224609375 y: 1066.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 968.2855224609375 y: 1060.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 968.2855224609375 y: 1059.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 968.2855224609375 y: 1058.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 970.4068603515625 y: 1060.92626953125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2635472 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 971.1139526367188 y: 1060.21923828125
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510576.2694967 effectType 4 targetObjectID 6383305 color -16640 duration 0.0
+x: 971.821044921875 y: 1059.5120849609375
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624510581.080123 effectType 4 targetObjectID 6388185 color -7339777 duration 0.0
+x: 969.5 y: 1060.5
+x: 0.0 y: 0.0
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510588.0627458 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 974.2555541992188 y: 1050.831298828125
+x: 0.0 y: 0.0
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510589.266191 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 977.1469116210938 y: 1064.4349365234375
+x: 0.0 y: 0.0
+
+Aoe 1624510589.4716935 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 974.2555541992188 y: 1050.831298828125
+
+Aoe 1624510590.667876 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 977.1469116210938 y: 1064.4349365234375
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510591.0649164 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 968.1994018554688 y: 1063.989990234375
+x: 0.0 y: 0.0
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510592.266757 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 971.93798828125 y: 1050.629638671875
+x: 0.0 y: 0.0
+
+Aoe 1624510592.4692154 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 968.1994018554688 y: 1063.989990234375
+
+Aoe 1624510593.6745374 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 971.93798828125 y: 1050.629638671875
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510594.0639453 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 989.2125244140625 y: 1058.5550537109375
+x: 0.0 y: 0.0
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510595.264094 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 974.2320556640625 y: 1062.836181640625
+x: 0.0 y: 0.0
+
+Aoe 1624510595.4685464 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 989.2125244140625 y: 1058.5550537109375
+
+Aoe 1624510596.6700654 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 974.2320556640625 y: 1062.836181640625
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510597.0634015 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 964.3614501953125 y: 1062.22998046875
+x: 0.0 y: 0.0
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510598.264116 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 969.1146850585938 y: 1062.16455078125
+x: 0.0 y: 0.0
+
+Aoe 1624510598.473728 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 964.3614501953125 y: 1062.22998046875
+
+Aoe 1624510599.6761026 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 969.1146850585938 y: 1062.16455078125
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510600.0663443 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 974.0667114257812 y: 1065.0478515625
+x: 0.0 y: 0.0
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510601.267779 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 964.2089233398438 y: 1063.99853515625
+x: 0.0 y: 0.0
+
+Aoe 1624510601.4747415 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 974.0667114257812 y: 1065.0478515625
+
+Aoe 1624510602.6842046 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 964.2089233398438 y: 1063.99853515625
+
+this is enemy 30146 name Nagarith the Tormentor
+ShowEffect 1624510603.068037 effectType 4 targetObjectID 6385093 color 16711680 duration 0.0
+x: 979.1834716796875 y: 1060.052734375
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510603.8703775 effectType 4 targetObjectID 6383306 color -16640 duration 0.0
+x: 973.2855224609375 y: 1061.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510603.8703775 effectType 4 targetObjectID 6383306 color -16640 duration 0.0
+x: 973.2855224609375 y: 1055.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510603.8703775 effectType 4 targetObjectID 6383304 color -16640 duration 0.0
+x: 963.2855224609375 y: 1061.047607421875
+x: 0.0 y: 0.0
+
+this is enemy 30145 name Bastille Sorcerer
+ShowEffect 1624510603.8714104 effectType 4 targetObjectID 6383304 color -16640 duration 0.0
+x: 963.2855224609375 y: 1055.047607421875
+x: 0.0 y: 0.0
+
+Aoe 1624510604.4884188 radius 3.0 damage 100 effect 0 duration 0.0 origType 30146
+x: 979.1834716796875 y: 1060.052734375
+
+this is enemy 802 name Huntress
+ShowEffect 1624510604.4914448 effectType 4 targetObjectID 6414387 color -7339777 duration 0.0
+x: 967.5 y: 1058.5
+x: 0.0 y: 0.0
+
+MapChange: Nexus
+MapChange: Realm
+this is enemy 1620 name Medusa
+ShowEffect 1624510620.0905504 effectType 4 targetObjectID 6409925 color -65536 duration 0.0
+x: 949.40380859375 y: 1085.8125
+x: 0.0 y: 0.0
+
+this is enemy 1620 name Medusa
+ShowEffect 1624510621.2962043 effectType 4 targetObjectID 6176157 color -65536 duration 0.0
+x: 946.081298828125 y: 1088.6053466796875
+x: 0.0 y: 0.0
+
+Aoe 1624510621.4916642 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 949.40380859375 y: 1085.8125
+
+this is enemy 802 name Huntress
+ShowEffect 1624510640.7028573 effectType 4 targetObjectID 6414387 color -7339777 duration 0.0
+x: 969.5 y: 1069.5
+x: 0.0 y: 0.0
+
+this is enemy 802 name Huntress
+ShowEffect 1624510645.7052684 effectType 4 targetObjectID 6414387 color -7339777 duration 0.0
+x: 970.5 y: 1069.5
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Giant's Hill
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+MapChange: Sprite World
+MapChange: Ascended Sprite Ruins
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512220.6626017 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 21.1568546295166 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512220.663602 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 9.843145370483398 y: 22.1568546295166
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512220.663602 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 9.843145370483398 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512220.663602 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 21.1568546295166 y: 10.843145370483398
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512223.8610213 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 15.294302940368652 y: 18.150480270385742
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512227.059654 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 19.172733306884766 y: 20.44713020324707
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512227.059654 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 12.101665496826172 y: 20.44713020324707
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512227.0606165 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 12.101665496826172 y: 13.376062393188477
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512227.0606165 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 19.172733306884766 y: 13.376062393188477
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512230.0622683 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 15.637199401855469 y: 12.411596298217773
+x: 0.0 y: 0.0
+
+this is enemy 32950 name Ascended Limon the Lost Sprite
+ShowEffect 1624512230.0622683 effectType 4 targetObjectID 7189214 color -16640 duration 0.0
+x: 15.637199401855469 y: 21.411596298217773
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Nexus

@@ -1,0 +1,4216 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Tomb of the Ancients
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634598155.2203894 effectType 4 targetObjectID 36865067 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634598165.4274957 effectType 4 targetObjectID 36865067 color 65280 duration 1.5
+x: 16.424100875854492 y: 21.03059196472168
+x: 0.0 y: 0.0
+
+Aoe 1634598167.1209495 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.424100875854492 y: 21.03059196472168
+
+enemy 22047 name Zanarich
+ShowEffect 1634598169.6250734 effectType 4 targetObjectID 36888930 color -65536 duration 1.5
+x: 17.656978607177734 y: 20.167757034301758
+x: 0.0 y: 0.0
+
+Aoe 1634598171.0690045 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 17.656978607177734 y: 20.167757034301758
+
+MapChange: Realm
+enemy 1605 name Ogre King
+ShowEffect 1634598296.9566293 effectType 4 targetObjectID 36280775 color -65536 duration 1.5
+x: 622.1331176757812 y: 1155.29931640625
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: GuildHall
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634598669.2552936 effectType 4 targetObjectID 37136011 color -65536 duration 1.5
+x: 1193.48974609375 y: 1127.7239990234375
+x: 0.0 y: 0.0
+
+Aoe 1634598670.6842504 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1193.48974609375 y: 1127.7239990234375
+
+enemy 1620 name Medusa
+ShowEffect 1634598671.6587555 effectType 4 targetObjectID 36281619 color -65536 duration 1.5
+x: 1190.4876708984375 y: 1134.11083984375
+x: 0.0 y: 0.0
+
+Aoe 1634598673.0924113 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1190.4876708984375 y: 1134.11083984375
+
+enemy 1620 name Medusa
+ShowEffect 1634598674.3174052 effectType 4 targetObjectID 36281620 color -65536 duration 1.5
+x: 1194.9207763671875 y: 1140.1077880859375
+x: 0.0 y: 0.0
+
+Aoe 1634598675.7422175 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1194.9207763671875 y: 1140.1077880859375
+
+MapChange: Abyss
+MapChange: Ascended Abyss
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1634598698.3802862 effectType 4 targetObjectID 37395710 color -65536 duration 1.5
+x: 14.914081573486328 y: 20.229372024536133
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1634598698.3802862 effectType 4 targetObjectID 37395710 color -65536 duration 1.5
+x: 7.843013763427734 y: 20.229372024536133
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1634598698.3812835 effectType 4 targetObjectID 37395710 color -65536 duration 1.5
+x: 7.843013763427734 y: 13.158304214477539
+x: 0.0 y: 0.0
+
+enemy 32943 name Ascended Archdemon Malphas
+ShowEffect 1634598698.3812835 effectType 4 targetObjectID 37395710 color -65536 duration 1.5
+x: 14.914081573486328 y: 13.158304214477539
+x: 0.0 y: 0.0
+
+internal HP is now 447
+internal HP is now 390
+Aoe 1634598699.78514 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.914081573486328 y: 13.158304214477539
+
+Aoe 1634598699.7861385 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.843013763427734 y: 13.158304214477539
+
+Aoe 1634598699.7861385 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 7.843013763427734 y: 20.229372024536133
+
+Aoe 1634598699.7861385 radius 4.0 damage 80 effect 0 duration 0.0 origType 32943
+x: 14.914081573486328 y: 20.229372024536133
+
+MapChange: Realm
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634598738.9641871 effectType 4 targetObjectID 37342414 color -65536 duration 1.5
+x: 1146.1890869140625 y: 654.8919067382812
+x: 0.0 y: 0.0
+
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634598738.9641871 effectType 4 targetObjectID 37342414 color -16640 duration 0.0
+x: 1143.87109375 y: 651.664306640625
+x: 0.0 y: 0.0
+
+internal HP is now 823
+enemy 26567 name The Corrupted Conjurer
+ShowEffect 1634598740.162362 effectType 4 targetObjectID 37342414 color -65536 duration 1.5
+x: 1148.5 y: 651.5
+x: 0.0 y: 0.0
+
+Aoe 1634598740.3915553 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1146.1890869140625 y: 654.8919067382812
+
+Aoe 1634598741.609787 radius 3.0 damage 120 effect 0 duration 0.0 origType 26567
+x: 1148.5 y: 651.5
+
+MapChange: Sincryer's Gate
+MapChange: Nontridus
+enemy 8959 name AH The Vision of Aldragine
+ShowEffect 1634598851.8734374 effectType 4 targetObjectID 37475669 color -16640 duration 0.0
+x: 152.5 y: 7.5
+x: 0.0 y: 0.0
+
+enemy 8959 name AH The Vision of Aldragine
+ShowEffect 1634598851.8734374 effectType 4 targetObjectID 37475669 color -16640 duration 0.0
+x: 152.5 y: 19.5
+x: 0.0 y: 0.0
+
+MapChange: Core of the Hideout
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Vault
+MapChange: Realm
+MapChange: {oryx.OryxAPOSs_Castle}
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.8305495 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 116.5 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.8315048 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 115.5710678100586 y: 18.571067810058594
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.8325427 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 108.5 y: 19.5
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.833497 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 101.4289321899414 y: 18.571067810058594
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.833497 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 100.5 y: 11.5
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.8344932 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 101.4289321899414 y: 4.428932189941406
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.8344932 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 108.5 y: 3.5
+x: 0.0 y: 0.0
+
+enemy 8200 name md Janus the Doorwarden
+ShowEffect 1634599313.8344932 effectType 4 targetObjectID 37878330 color -16640 duration 0.0
+x: 115.5710678100586 y: 4.428932189941406
+x: 0.0 y: 0.0
+
+MapChange: Puppet Master's Encore
+enemy 30062 name Encore Trickster
+ShowEffect 1634599352.4523976 effectType 4 targetObjectID 38010697 color -65536 duration 1.5
+x: 16.90696907043457 y: 21.321758270263672
+x: 0.0 y: 0.0
+
+Aoe 1634599353.875393 radius 3.0 damage 100 effect 0 duration 0.0 origType 30062
+x: 16.90696907043457 y: 21.321758270263672
+
+enemy 29793 name Puppet Master v2
+ShowEffect 1634599365.659969 effectType 4 targetObjectID 37979131 color -65536 duration 1.5
+x: 12.849608421325684 y: 17.035276412963867
+x: 0.0 y: 0.0
+
+Aoe 1634599367.071917 radius 5.0 damage 120 effect 0 duration 0.0 origType 29793
+x: 12.849608421325684 y: 17.035276412963867
+
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634599384.4520285 effectType 4 targetObjectID 37918710 color -65536 duration 1.5
+x: 1235.8594970703125 y: 931.0250244140625
+x: 0.0 y: 0.0
+
+Aoe 1634599385.8682647 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1235.8594970703125 y: 931.0250244140625
+
+enemy 1620 name Medusa
+ShowEffect 1634599410.685552 effectType 4 targetObjectID 37918757 color -65536 duration 1.5
+x: 1193.0635986328125 y: 925.5342407226562
+x: 0.0 y: 0.0
+
+Aoe 1634599412.0922933 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1193.0635986328125 y: 925.5342407226562
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+enemy 2422 name Dr Terrible
+ShowEffect 1634599542.1000133 effectType 4 targetObjectID 38188636 color -16640 duration 0.0
+x: 66.5 y: 35.5
+x: 0.0 y: 0.0
+
+enemy 2422 name Dr Terrible
+ShowEffect 1634599546.7328932 effectType 4 targetObjectID 38188636 color -16640 duration 0.0
+x: 65.31444549560547 y: 39.203369140625
+x: 0.0 y: 0.0
+
+MapChange: Ascended Lab
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599567.3347182 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 12.953369140625 y: 17.89027214050293
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599568.7096384 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 8.87653923034668 y: 22.833839416503906
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599570.1205254 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 5.597075462341309 y: 15.426215171813965
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599571.5433683 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 11.314240455627441 y: 13.996758460998535
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599571.550383 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 7.314240455627441 y: 9.996758460998535
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599571.5513847 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 11.314240455627441 y: 5.996758460998535
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599571.552416 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 15.314240455627441 y: 9.996758460998535
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599571.553343 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 12.47350025177002 y: 9.655721664428711
+x: 0.0 y: 0.0
+
+internal HP is now 823
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599572.9159167 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 19.704160690307617 y: 7.551943778991699
+x: 0.0 y: 0.0
+
+Aoe 1634599572.9278846 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 15.314240455627441 y: 9.996758460998535
+
+Aoe 1634599572.9278846 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.314240455627441 y: 5.996758460998535
+
+Aoe 1634599572.9278846 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 7.314240455627441 y: 9.996758460998535
+
+Aoe 1634599572.9278846 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 11.314240455627441 y: 13.996758460998535
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599573.7241805 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 21.062725067138672 y: 13.839529991149902
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599573.7252302 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 17.062725067138672 y: 9.839529991149902
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599573.7252302 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 21.062725067138672 y: 5.839529991149902
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599573.726173 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 25.062725067138672 y: 9.839529991149902
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599574.321057 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 19.00614356994629 y: 14.832967758178711
+x: 0.0 y: 0.0
+
+Aoe 1634599575.122737 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 25.062725067138672 y: 9.839529991149902
+
+Aoe 1634599575.122737 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 21.062725067138672 y: 5.839529991149902
+
+Aoe 1634599575.122737 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 17.062725067138672 y: 9.839529991149902
+
+Aoe 1634599575.122737 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 21.062725067138672 y: 13.839529991149902
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599575.7296438 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 16.46552085876465 y: 21.758071899414062
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599575.925675 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 17.165082931518555 y: 24.852272033691406
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599575.926672 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 13.165082931518555 y: 20.852272033691406
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599575.926672 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 17.165082931518555 y: 16.852272033691406
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599575.9277024 effectType 4 targetObjectID 38206273 color -65536 duration 1.5
+x: 21.165082931518555 y: 20.852272033691406
+x: 0.0 y: 0.0
+
+enemy 28704 name Ascended Dr Terrible
+ShowEffect 1634599577.1126115 effectType 4 targetObjectID 38206273 color -16640 duration 0.0
+x: 6.7874932289123535 y: 21.119165420532227
+x: 0.0 y: 0.0
+
+Aoe 1634599577.3406906 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 21.165082931518555 y: 20.852272033691406
+
+Aoe 1634599577.3406906 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 17.165082931518555 y: 16.852272033691406
+
+Aoe 1634599577.3417318 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 13.165082931518555 y: 20.852272033691406
+
+Aoe 1634599577.3417318 radius 4.0 damage 120 effect 0 duration 0.0 origType 28704
+x: 17.165082931518555 y: 24.852272033691406
+
+MapChange: Realm
+MapChange: Hunter Cave
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1634599613.1542804 effectType 4 targetObjectID 38251429 color -16640 duration 0.0
+x: 22.158430099487305 y: 23.17812728881836
+x: 0.0 y: 0.0
+
+enemy 25468 name BD Berikao, the Dark Hunter
+ShowEffect 1634599634.0717924 effectType 4 targetObjectID 38251429 color -16640 duration 0.0
+x: 23.707012176513672 y: 32.610774993896484
+x: 0.0 y: 0.0
+
+MapChange: Twisted Trials
+ShowEffect had KeyError: 38301080
+
+AutoNexus: haven't seen the enemy yet.
+Aoe 1634599682.482574 radius 1.0 damage 350 effect 0 duration 0.0 origType 24849
+x: 34.5531005859375 y: 18.809391021728516
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634599687.2757502 effectType 4 targetObjectID 38301114 color -16640 duration 0.0
+x: 52.00480651855469 y: 47.6645393371582
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634599687.2767775 effectType 4 targetObjectID 38301114 color -16640 duration 0.0
+x: 41.76216506958008 y: 43.421897888183594
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634599687.2767775 effectType 4 targetObjectID 38301114 color -16640 duration 0.0
+x: 46.00480651855469 y: 41.6645393371582
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634599687.2777874 effectType 4 targetObjectID 38301114 color -16640 duration 0.0
+x: 50.2474479675293 y: 43.421897888183594
+x: 0.0 y: 0.0
+
+enemy 24848 name BD Stone Urgle
+ShowEffect 1634599691.489425 effectType 4 targetObjectID 38301114 color -65536 duration 1.5
+x: 45.037017822265625 y: 44.267906188964844
+x: 0.0 y: 0.0
+
+internal HP is now 1172
+Aoe 1634599692.8977606 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 45.037017822265625 y: 44.267906188964844
+
+enemy 24849 name BD Bastille Defender
+ShowEffect 1634599696.755871 effectType 4 targetObjectID 38301125 color -65536 duration 1.5
+x: 42.31279373168945 y: 62.04423522949219
+x: 0.0 y: 0.0
+
+Aoe 1634599698.1706073 radius 4.0 damage 140 effect 0 duration 0.0 origType 24849
+x: 42.31279373168945 y: 62.04423522949219
+
+MapChange: Twisted Domain
+Aoe 1634599790.2140946 radius 6.0 damage 200 effect 0 duration 0.0 origType 24848
+x: 17.536216735839844 y: 31.960535049438477
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634599814.0225754 effectType 4 targetObjectID 38432855 color -65536 duration 1.5
+x: 20.8333740234375 y: 36.261688232421875
+x: 0.0 y: 0.0
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634599815.2259526 effectType 4 targetObjectID 38432855 color -65536 duration 1.5
+x: 22.265113830566406 y: 31.072141647338867
+x: 0.0 y: 0.0
+
+Aoe 1634599815.434619 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 20.8333740234375 y: 36.261688232421875
+
+Aoe 1634599816.6338918 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 22.265113830566406 y: 31.072141647338867
+
+enemy 25505 name Revil, the Twisted Vanguard
+ShowEffect 1634599817.6411972 effectType 4 targetObjectID 38432855 color -65536 duration 1.5
+x: 23.53302001953125 y: 28.9132080078125
+x: 0.0 y: 0.0
+
+Aoe 1634599819.0438526 radius 3.0 damage 500 effect 0 duration 0.0 origType 25505
+x: 23.53302001953125 y: 28.9132080078125
+
+MapChange: The Steps 2
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599871.502962 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.8222017288208 y: 25.91766357421875
+x: 0.0 y: 0.0
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599872.6870713 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 11.049300193786621 y: 26.534543991088867
+x: 0.0 y: 0.0
+
+Aoe 1634599872.9078534 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.8222017288208 y: 25.91766357421875
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599873.9119964 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.008813858032227 y: 24.0429630279541
+x: 0.0 y: 0.0
+
+Aoe 1634599874.1085181 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 11.049300193786621 y: 26.534543991088867
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599875.171964 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.008813858032227 y: 24.0429630279541
+x: 0.0 y: 0.0
+
+Aoe 1634599875.3834538 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.008813858032227 y: 24.0429630279541
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599876.3051775 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.008813858032227 y: 24.0429630279541
+x: 0.0 y: 0.0
+
+Aoe 1634599876.5095994 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.008813858032227 y: 24.0429630279541
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599877.494136 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.008813858032227 y: 24.0429630279541
+x: 0.0 y: 0.0
+
+Aoe 1634599877.706521 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.008813858032227 y: 24.0429630279541
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599878.698301 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.008813858032227 y: 24.0429630279541
+x: 0.0 y: 0.0
+
+Aoe 1634599878.9037964 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.008813858032227 y: 24.0429630279541
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599879.8991501 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 13.692540168762207 y: 28.634641647338867
+x: 0.0 y: 0.0
+
+Aoe 1634599880.1019216 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.008813858032227 y: 24.0429630279541
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599881.099086 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 8.008813858032227 y: 24.0429630279541
+x: 0.0 y: 0.0
+
+Aoe 1634599881.2945719 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 13.692540168762207 y: 28.634641647338867
+
+Aoe 1634599882.5218618 radius 4.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 8.008813858032227 y: 24.0429630279541
+
+enemy 25544 name Scorching Wrath Real
+ShowEffect 1634599887.9198353 effectType 4 targetObjectID 38483566 color 65535 duration 1.5
+x: 13.917316436767578 y: 22.14985466003418
+x: 0.0 y: 0.0
+
+internal HP is now 1106
+Aoe 1634599889.354717 radius 2.0 damage 300 effect 0 duration 0.0 origType 25544
+x: 13.917316436767578 y: 22.14985466003418
+
+MapChange: Summoning Point
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.963123 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 66.50149536132812 y: 44.514888763427734
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.963123 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.32991790771484 y: 47.34331512451172
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.963123 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 62.50149154663086 y: 48.514888763427734
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.9740937 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 59.673065185546875 y: 47.34331512451172
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.9740937 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 58.50149154663086 y: 44.514888763427734
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.9750986 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 59.673065185546875 y: 41.68646240234375
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.9750986 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 62.50149154663086 y: 40.514888763427734
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599942.9750986 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.32991790771484 y: 41.68646240234375
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1655507 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 66.9014892578125 y: 44.11488723754883
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1655507 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.72991943359375 y: 46.94331359863281
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1655507 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 62.901493072509766 y: 48.11488723754883
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1655507 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 60.07306671142578 y: 46.94331359863281
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1655507 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 58.901493072509766 y: 44.11488723754883
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1665802 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 60.07306671142578 y: 41.286460876464844
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1665802 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 62.901493072509766 y: 40.11488723754883
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599943.1665802 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.72991943359375 y: 41.286460876464844
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599967.378138 effectType 4 targetObjectID 38542760 color -65536 duration 1.5
+x: 62.150726318359375 y: 48.956748962402344
+x: 0.0 y: 0.0
+
+internal HP is now 1323
+Aoe 1634599968.8020515 radius 4.0 damage 80 effect 0 duration 0.0 origType 25575
+x: 62.150726318359375 y: 48.956748962402344
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599984.1935682 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 59.733821868896484 y: 44.67920684814453
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634599984.1935682 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.73382568359375 y: 44.67920684814453
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 38617252
+
+AutoNexus: haven't seen the enemy yet.
+ShowEffect had KeyError: 38617251
+
+AutoNexus: haven't seen the enemy yet.
+Aoe 1634599987.2188172 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 62.577239990234375 y: 44.74734878540039
+
+Aoe 1634599987.2198157 radius 4.0 damage 140 effect 0 duration 0.0 origType 25827
+x: 62.577239990234375 y: 44.74734878540039
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.2140517 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 66.48942565917969 y: 44.508975982666016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.215049 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.31785583496094 y: 47.33740234375
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.215049 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 62.48942947387695 y: 48.508975982666016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.215049 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 59.66100311279297 y: 47.33740234375
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.216046 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 58.48942947387695 y: 44.508975982666016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.216046 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 59.66100311279297 y: 41.68054962158203
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.216046 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 62.48942947387695 y: 40.508975982666016
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.2170434 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 65.31785583496094 y: 41.68054962158203
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.2170434 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 67.43917846679688 y: 49.45872497558594
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.2170434 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 57.53968048095703 y: 49.45872497558594
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.2170434 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 57.53968048095703 y: 39.559226989746094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600011.2170434 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 67.43917846679688 y: 39.559226989746094
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600015.4070363 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 67.27482604980469 y: 51.451969146728516
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600015.4170108 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 57.375328063964844 y: 51.451969146728516
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600015.4170108 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 57.375328063964844 y: 41.55247116088867
+x: 0.0 y: 0.0
+
+enemy 25575 name Drannol, the Eternal Beast
+ShowEffect 1634600015.418008 effectType 4 targetObjectID 38542760 color -16640 duration 0.0
+x: 67.27482604980469 y: 41.55247116088867
+x: 0.0 y: 0.0
+
+Aoe 1634600019.6273906 radius 3.0 damage 542 effect 0 duration 0.0 origType 25841
+x: 62.436622619628906 y: 54.732704162597656
+
+Aoe 1634600022.021015 radius 3.0 damage 547 effect 0 duration 0.0 origType 25841
+x: 59.97563171386719 y: 57.49344253540039
+
+Aoe 1634600024.226875 radius 3.0 damage 511 effect 0 duration 0.0 origType 25841
+x: 63.19396209716797 y: 52.481929779052734
+
+Aoe 1634600026.214944 radius 3.0 damage 549 effect 0 duration 0.0 origType 25841
+x: 60.491798400878906 y: 61.301822662353516
+
+Aoe 1634600028.4198248 radius 3.0 damage 516 effect 0 duration 0.0 origType 25841
+x: 63.394248962402344 y: 66.54147338867188
+
+Aoe 1634600030.8277936 radius 3.0 damage 541 effect 0 duration 0.0 origType 25841
+x: 59.07630920410156 y: 64.50321960449219
+
+Aoe 1634600041.6745872 radius 3.0 damage 532 effect 0 duration 0.0 origType 25841
+x: 57.69672775268555 y: 62.025089263916016
+
+Aoe 1634600043.6432855 radius 3.0 damage 520 effect 0 duration 0.0 origType 25841
+x: 65.0611801147461 y: 61.548301696777344
+
+Aoe 1634600045.4578166 radius 3.0 damage 509 effect 0 duration 0.0 origType 25841
+x: 63.81804275512695 y: 61.86506271362305
+
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Realm
+MapChange: Gileon's Return
+MapChange: Nexus
+MapChange: Realm
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634600320.4696364 effectType 4 targetObjectID 37919346 color -65536 duration 1.5
+x: 862.4265747070312 y: 965.4349365234375
+x: 0.0 y: 0.0
+
+MapChange: Lair of Draconis
+MapChange: Realm
+enemy 3522 name Great Coil Snake
+ShowEffect 1634600530.2907078 effectType 4 targetObjectID 37914137 color -16640 duration 0.0
+x: 1138.300048828125 y: 1514.300048828125
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1634600530.8908658 effectType 4 targetObjectID 37914137 color -16640 duration 0.0
+x: 1134.300048828125 y: 1519.10009765625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1634600531.4974594 effectType 4 targetObjectID 37914137 color -16640 duration 0.0
+x: 1130.7000732421875 y: 1515.5001220703125
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1634600532.0905497 effectType 4 targetObjectID 37914137 color -16640 duration 0.0
+x: 1134.7000732421875 y: 1511.5001220703125
+x: 0.0 y: 0.0
+
+ShowEffect had KeyError: 37891866
+
+AutoNexus: haven't seen the enemy yet.
+ShowEffect had KeyError: 37891866
+
+AutoNexus: haven't seen the enemy yet.
+enemy 3522 name Great Coil Snake
+ShowEffect 1634600551.8993363 effectType 4 targetObjectID 37891866 color -16640 duration 0.0
+x: 947.7798461914062 y: 1700.6207275390625
+x: 0.0 y: 0.0
+
+enemy 3522 name Great Coil Snake
+ShowEffect 1634600555.3110323 effectType 4 targetObjectID 37891866 color -16640 duration 0.0
+x: 951.2058715820312 y: 1705.4534912109375
+x: 0.0 y: 0.0
+
+MapChange: Elemental Ruins
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600568.7609293 effectType 4 targetObjectID 39168829 color -65536 duration 1.5
+x: 134.86599731445312 y: 291.989990234375
+x: 0.0 y: 0.0
+
+Aoe 1634600570.178127 radius 3.0 damage 200 effect 0 duration 0.0 origType 6018
+x: 134.86599731445312 y: 291.989990234375
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.379581 effectType 4 targetObjectID 39168720 color -16640 duration 0.0
+x: 221.5 y: 179.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.379581 effectType 4 targetObjectID 39168720 color -16640 duration 0.0
+x: 219.5 y: 181.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.379581 effectType 4 targetObjectID 39168720 color -16640 duration 0.0
+x: 217.5 y: 179.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.379581 effectType 4 targetObjectID 39168720 color -16640 duration 0.0
+x: 219.5 y: 177.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.583409 effectType 4 targetObjectID 39168733 color -16640 duration 0.0
+x: 218.5 y: 188.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.583409 effectType 4 targetObjectID 39168733 color -16640 duration 0.0
+x: 216.5 y: 190.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.583409 effectType 4 targetObjectID 39168733 color -16640 duration 0.0
+x: 214.5 y: 188.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600577.584467 effectType 4 targetObjectID 39168733 color -16640 duration 0.0
+x: 216.5 y: 186.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600579.5725906 effectType 4 targetObjectID 39168687 color -16640 duration 0.0
+x: 220.5 y: 142.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600579.5725906 effectType 4 targetObjectID 39168687 color -16640 duration 0.0
+x: 218.5 y: 144.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600579.5725906 effectType 4 targetObjectID 39168687 color -16640 duration 0.0
+x: 216.5 y: 142.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600579.5725906 effectType 4 targetObjectID 39168687 color -16640 duration 0.0
+x: 218.5 y: 140.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600580.5884707 effectType 4 targetObjectID 39168679 color -16640 duration 0.0
+x: 222.5 y: 122.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600580.5884707 effectType 4 targetObjectID 39168679 color -16640 duration 0.0
+x: 220.5 y: 124.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600580.5884707 effectType 4 targetObjectID 39168679 color -16640 duration 0.0
+x: 218.5 y: 122.5
+x: 0.0 y: 0.0
+
+enemy 6018 name Summoner of Elements
+ShowEffect 1634600580.5884707 effectType 4 targetObjectID 39168679 color -16640 duration 0.0
+x: 220.5 y: 120.5
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Ancient Depths
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634600678.3165145 effectType 4 targetObjectID 39248728 color -16640 duration 0.0
+x: 21.5 y: 14.5
+x: 0.0 y: 0.0
+
+enemy 22061 name Xanarich, the Chosen One
+ShowEffect 1634600686.1122048 effectType 4 targetObjectID 39248728 color 65280 duration 1.5
+x: 16.07198715209961 y: 20.683364868164062
+x: 0.0 y: 0.0
+
+Aoe 1634600687.5405743 radius 3.0 damage 200 effect 0 duration 0.0 origType 22061
+x: 16.07198715209961 y: 20.683364868164062
+
+enemy 22047 name Zanarich
+ShowEffect 1634600688.51814 effectType 4 targetObjectID 39262846 color -65536 duration 1.5
+x: 14.618281364440918 y: 18.40907859802246
+x: 0.0 y: 0.0
+
+internal HP is now 721
+Aoe 1634600689.9596193 radius 3.0 damage 280 effect 0 duration 0.0 origType 22047
+x: 14.618281364440918 y: 18.40907859802246
+
+MapChange: Abandoned Basement
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Concealment of the Dreadnought
+MapChange: Nexus
+MapChange: Realm
+MapChange: Woodland Labyrinth
+enemy 28780 name Epic Larva
+ShowEffect 1634601147.986944 effectType 4 targetObjectID 39758652 color -16640 duration 0.0
+x: 112.5 y: 141.5
+x: 0.0 y: 0.0
+
+MapChange: Realm
+MapChange: Puppet Master's Theatre
+objectID: 39821595 slotID: 1 itemData: 
+x: 95.5 y: 114.5
+time 0 useType 1
+
+x: 35 y: 67
+objectID 39821595 tickID 0 time 0
+records:
+
+objectID: 39821595 slotID: 1 itemData: 
+x: 35 y: 67
+time 0 useType 1
+
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634601251.4464064 effectType 4 targetObjectID 39683693 color -65536 duration 1.5
+x: 963.1386108398438 y: 871.780517578125
+x: 0.0 y: 0.0
+
+enemy 1620 name Medusa
+ShowEffect 1634601251.448405 effectType 4 targetObjectID 39683692 color -65536 duration 1.5
+x: 963.1386108398438 y: 871.780517578125
+x: 0.0 y: 0.0
+
+Aoe 1634601252.8995135 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 963.1386108398438 y: 871.780517578125
+
+Aoe 1634601252.8995135 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 963.1386108398438 y: 871.780517578125
+
+MapChange: The Catacombs
+MapChange: Nexus
+MapChange: Serenity
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0346305 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 20.43185043334961 y: 19.017635345458984
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0376477 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 25.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0460405 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 16.767948150634766 y: 19.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.046983 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.847293853759766 y: 16.53038215637207
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.046983 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 23.27398681640625 y: 13.380521774291992
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0479808 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 20.492387771606445 y: 18.325687408447266
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0479808 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.484777450561523 y: 18.848621368408203
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0479808 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 21.32842445373535 y: 21.32842445373535
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0510051 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 15.999998092651367 y: 22.83012580871582
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0510051 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.064023971557617 y: 16.684036254882812
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0539627 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 24.408843994140625 y: 19.541887283325195
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0539627 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 20.650205612182617 y: 24.10148048400879
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0539627 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 15.964288711547852 y: 23.93784523010254
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0549936 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 23.291810989379883 y: 14.889107704162598
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0549936 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 26.017539978027344 y: 21.236160278320312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0549936 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 17.11081314086914 y: 26.378459930419922
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0559583 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.982457160949707 y: 15.763836860656738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.058986 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 27.43291473388672 y: 19.59682273864746
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0599797 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 21.08818817138672 y: 28.159255981445312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0599797 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.308477401733398 y: 24.235763549804688
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0599797 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 27.132076263427734 y: 26.835899353027344
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0599797 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 14.991537094116211 y: 29.97565460205078
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601501.0609837 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 6.964858055114746 y: 15.192350387573242
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0440862 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 29.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0460832 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0460832 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.049031 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.049031 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 29.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.049031 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.049031 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0510669 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0510669 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 7.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0520592 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0550137 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0560157 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0560157 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 7.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0560157 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0560157 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601504.0570447 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.855385 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 29.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.855385 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.855385 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.855385 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.855385 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 29.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8563428 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8563428 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8563428 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8563428 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 7.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8563428 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8563428 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8643217 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8663156 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 7.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.8663156 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.867313 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601505.867313 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+Aoe 1634601505.9132342 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 14.29047966003418
+
+Aoe 1634601505.9132342 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 10.721823692321777
+
+Aoe 1634601505.9132342 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 8.337323188781738
+
+Aoe 1634601505.9132342 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 7.499998092651367
+
+Aoe 1634601505.9132342 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 8.337323188781738
+
+Aoe 1634601505.9142337 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 10.721823692321777
+
+Aoe 1634601505.9181995 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 14.29047966003418
+
+Aoe 1634601505.9181995 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 7.499998092651367 y: 18.499998092651367
+
+Aoe 1634601505.9181995 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 22.709516525268555
+
+Aoe 1634601505.9181995 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 26.27817153930664
+
+Aoe 1634601505.927132 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 28.662673950195312
+
+Aoe 1634601505.927132 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 29.499998092651367
+
+Aoe 1634601505.927132 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 28.662673950195312
+
+Aoe 1634601505.927132 radius 3.0 damage 100 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 26.27817153930664
+
+Aoe 1634601505.927132 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 22.709516525268555
+
+Aoe 1634601505.927132 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 29.499998092651367 y: 18.499998092651367
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6463602 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 29.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6463602 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6653206 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6653206 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 29.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 7.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.666311 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6673036 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 7.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6673036 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6673036 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601507.6673036 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+Aoe 1634601507.6892116 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 14.29047966003418
+
+Aoe 1634601507.6912062 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 10.721823692321777
+
+Aoe 1634601507.6912062 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 8.337323188781738
+
+Aoe 1634601507.6951957 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 7.499998092651367
+
+Aoe 1634601507.6951957 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 8.337323188781738
+
+Aoe 1634601507.6951957 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 10.721823692321777
+
+Aoe 1634601507.6951957 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 14.29047966003418
+
+Aoe 1634601507.6951957 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 7.499998092651367 y: 18.499998092651367
+
+Aoe 1634601507.696193 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 22.709516525268555
+
+Aoe 1634601507.696193 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 26.27817153930664
+
+Aoe 1634601507.696193 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 28.662673950195312
+
+Aoe 1634601507.700216 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 29.499998092651367
+
+Aoe 1634601507.700216 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 28.662673950195312
+
+Aoe 1634601507.700216 radius 3.0 damage 100 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 26.27817153930664
+
+Aoe 1634601507.700216 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 22.709516525268555
+
+Aoe 1634601507.700216 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 29.499998092651367 y: 18.499998092651367
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.449107 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 29.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.449107 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4500937 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4500937 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4530988 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 29.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4530988 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4530988 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4530988 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4600356 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 7.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4600356 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4620304 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4630277 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4630277 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 7.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4650238 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4650238 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601509.4650238 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+Aoe 1634601509.503961 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 14.29047966003418
+
+Aoe 1634601509.503961 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 10.721823692321777
+
+Aoe 1634601509.5049274 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 8.337323188781738
+
+Aoe 1634601509.5059454 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 7.499998092651367
+
+Aoe 1634601509.5059454 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 8.337323188781738
+
+Aoe 1634601509.51194 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 10.721823692321777
+
+Aoe 1634601509.5159304 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 14.29047966003418
+
+Aoe 1634601509.5159304 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 7.499998092651367 y: 18.499998092651367
+
+Aoe 1634601509.5159304 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 22.709516525268555
+
+Aoe 1634601509.5159304 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 26.27817153930664
+
+Aoe 1634601509.5159304 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 28.662673950195312
+
+Aoe 1634601509.5159304 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 29.499998092651367
+
+Aoe 1634601509.5169165 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 28.662673950195312
+
+Aoe 1634601509.518919 radius 3.0 damage 100 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 26.27817153930664
+
+Aoe 1634601509.519908 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 22.709516525268555
+
+Aoe 1634601509.519908 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 29.499998092651367 y: 18.499998092651367
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2478888 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 29.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2518682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2588563 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2608538 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2618048 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 29.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2618048 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 28.662673950195312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2638426 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 26.27817153930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2638426 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 22.709516525268555
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2647977 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 7.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2658455 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 8.337323188781738 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2668376 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.721823692321777 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.267822 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 14.29047966003418 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2687876 effectType 4 targetObjectID 40168955 color 0 duration 2.0
+x: 18.499998092651367 y: 7.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2698345 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.709516525268555 y: 8.337323188781738
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.2707818 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.27817153930664 y: 10.721823692321777
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601511.271839 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.662673950195312 y: 14.29047966003418
+x: 0.0 y: 0.0
+
+Aoe 1634601511.486567 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 14.29047966003418
+
+Aoe 1634601511.487564 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 10.721823692321777
+
+Aoe 1634601511.4885614 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 8.337323188781738
+
+Aoe 1634601511.4905703 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 7.499998092651367
+
+Aoe 1634601511.491556 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 8.337323188781738
+
+Aoe 1634601511.4925961 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 10.721823692321777
+
+Aoe 1634601511.495566 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 14.29047966003418
+
+Aoe 1634601511.495566 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 7.499998092651367 y: 18.499998092651367
+
+Aoe 1634601511.495566 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 22.709516525268555
+
+Aoe 1634601511.495566 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 26.27817153930664
+
+Aoe 1634601511.497571 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 28.662673950195312
+
+Aoe 1634601511.497571 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 29.499998092651367
+
+Aoe 1634601511.497571 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 28.662673950195312
+
+Aoe 1634601511.5005455 radius 3.0 damage 100 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 26.27817153930664
+
+Aoe 1634601511.5005455 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 22.709516525268555
+
+Aoe 1634601511.5005455 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 29.499998092651367 y: 18.499998092651367
+
+Aoe 1634601513.107797 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 14.29047966003418
+
+Aoe 1634601513.1097915 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 10.721823692321777
+
+Aoe 1634601513.1097915 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 8.337323188781738
+
+Aoe 1634601513.1108222 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 7.499998092651367
+
+Aoe 1634601513.1108222 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 8.337323188781738
+
+Aoe 1634601513.1128306 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 10.721823692321777
+
+Aoe 1634601513.1128306 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 14.29047966003418
+
+Aoe 1634601513.1137812 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 7.499998092651367 y: 18.499998092651367
+
+Aoe 1634601513.1137812 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 8.337323188781738 y: 22.709516525268555
+
+Aoe 1634601513.1137812 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 10.721823692321777 y: 26.27817153930664
+
+Aoe 1634601513.114825 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 14.29047966003418 y: 28.662673950195312
+
+Aoe 1634601513.1168144 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 18.499998092651367 y: 29.499998092651367
+
+Aoe 1634601513.1168144 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 22.709516525268555 y: 28.662673950195312
+
+Aoe 1634601513.1198063 radius 3.0 damage 100 effect 0 duration 0.0 origType 10873
+x: 26.27817153930664 y: 26.27817153930664
+
+Aoe 1634601513.1198063 radius 3.0 damage 300 effect 0 duration 0.0 origType 10873
+x: 28.662673950195312 y: 22.709516525268555
+
+Aoe 1634601513.1198063 radius 3.5 damage 100 effect 0 duration 0.0 origType 10873
+x: 29.499998092651367 y: 18.499998092651367
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4664915 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 30.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4664915 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 30.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4664915 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 6.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4674857 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 6.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4694808 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 26.985279083251953 y: 26.985279083251953
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4694808 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.014717102050781 y: 26.985279083251953
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4705057 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 31.30249786376953 y: 20.757423400878906
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601516.4705057 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 31.30249786376953 y: 16.242572784423828
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6765263 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 30.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6775563 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 30.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6795533 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 6.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6885242 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 6.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6885242 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 26.985279083251953 y: 26.985279083251953
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6895216 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.014717102050781 y: 26.985279083251953
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6925058 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 31.30249786376953 y: 20.757423400878906
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601521.6925058 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 31.30249786376953 y: 16.242572784423828
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601526.8733766 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 30.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601526.8753726 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 6.499998092651367 y: 18.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601526.8793185 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.499998092651367 y: 6.499998092651367
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601526.8793185 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 26.985279083251953 y: 26.985279083251953
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601526.8793185 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.014717102050781 y: 26.985279083251953
+x: 0.0 y: 0.0
+
+AutoNexus: Got error: 0
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9825401 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9835515 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9935222 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9935222 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 9.617082595825195 y: 26.329824447631836
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9944756 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 8.786548614501953 y: 25.692533493041992
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9944756 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9944756 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601569.9944756 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4453547 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 23.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4463506 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 21.44974708557129 y: 21.44974708557129
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4473498 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 16.5 y: 23.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4504156 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 11.550252914428711 y: 21.44974708557129
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4504156 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 9.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4504156 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 11.550252914428711 y: 11.550252914428711
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.451382 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 16.5 y: 9.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.451382 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 21.44974708557129 y: 11.550252914428711
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4553258 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4553258 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 9.617082595825195 y: 26.329824447631836
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4563255 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 8.786548614501953 y: 25.692533493041992
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601586.4563255 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 15.454131126403809 y: 28.454336166381836
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601592.8854973 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601592.8854973 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 21.354103088378906 y: 20.026710510253906
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601592.8895178 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.354101181030273 y: 22.20633888244629
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0131567 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 14.64589786529541 y: 22.20633888244629
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0131567 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 11.64589786529541 y: 20.026710510253906
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0131567 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0131567 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.836881637573242 y: 12.385503768920898
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0131567 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 14.336880683898926 y: 9.84260368347168
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0141535 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.972135543823242 y: 8.891548156738281
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0141535 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.972135543823242 y: 11.797718048095703
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0141535 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0141535 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0151837 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 9.617082595825195 y: 26.329824447631836
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0151837 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 8.786548614501953 y: 25.692533493041992
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0151837 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 15.454131126403809 y: 28.454336166381836
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601593.0151837 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 5.223688125610352 y: 12.395757675170898
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2841375 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 16.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2841375 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 16.63917350769043 y: 17.49026870727539
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2851384 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 14.945708274841309 y: 17.75864028930664
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2881267 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.972135543823242 y: 8.891548156738281
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2881267 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.621320724487305 y: 14.378679275512695
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2901216 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.492389678955078 y: 16.6743106842041
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2911186 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 20.497562408447266 y: 16.639598846435547
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2960658 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 19.816150665283203 y: 18.736770629882812
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.2980573 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 13.421692848205566 y: 20.440053939819336
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3000512 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 19.223194122314453 y: 12.306647300720215
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3010838 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.426130294799805 y: 17.43860626220703
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3010838 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 19.008575439453125 y: 23.035062789916992
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3010838 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.155845642089844 y: 19.458328247070312
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3020785 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 21.273988723754883 y: 11.380523681640625
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3020785 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 20.857112884521484 y: 23.20936393737793
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3040729 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 13.569887161254883 y: 25.009666442871094
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3050704 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 10.282832145690918 y: 11.465436935424805
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3050704 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.537677764892578 y: 11.251527786254883
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.30607 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 26.425460815429688 y: 17.718692779541016
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.307065 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 18.371204376220703 y: 25.303329467773438
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.308063 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 8.95196533203125 y: 21.401752471923828
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.381876 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 25.494518280029297 y: 16.18590545654297
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.381876 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 22.091928482055664 y: 24.790374755859375
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3828697 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 13.576282501220703 y: 26.063047409057617
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601600.3828697 effectType 4 targetObjectID 40168955 color -16640 duration 0.0
+x: 6.887383460998535 y: 13.743626594543457
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.40624 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.40624 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.40624 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.40624 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.40624 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4072058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4072058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4072058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4072058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4082031 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4082031 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601602.4082031 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.6042585 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.605217 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.607246 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.6092074 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.6112351 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601603.614233 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601604.2487898 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601604.2508147 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601604.2548041 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601604.255802 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.806175 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.806175 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.806175 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.806175 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.8071728 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.8081417 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.809134 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.813124 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.813124 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.8141208 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.8251255 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601604.8281221 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601605.4540405 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601605.456035 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601605.456035 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601605.4580326 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601605.4580326 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601605.4650104 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601605.4650104 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601605.4650104 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601605.4660106 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601605.4660106 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601605.4660106 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601605.4660106 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.0047085 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.006703 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.0077033 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.0077033 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.0077033 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.0106945 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.014682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.014682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.014682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.014682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.014682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601606.014682 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601606.8616662 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601606.862658 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601606.862658 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2107253 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2107253 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2107253 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2107253 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601607.2117388 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601608.053531 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601608.053531 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601608.053531 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601608.054531 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601608.0565271 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601608.0565271 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601608.0575266 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601608.0575266 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601608.06252 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601608.06252 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601608.06252 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601608.06252 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.4118252 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.413821 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.413821 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.413821 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.414817 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.414817 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.414817 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.414817 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.414817 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.414817 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.4158142 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601608.4158142 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601609.238268 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601609.2402647 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601609.2402647 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601609.2402647 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601609.242214 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601609.2432127 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601609.2432127 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601609.2442482 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601609.2448332 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601609.245833 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601609.245833 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601609.2468731 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6119 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6119 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6119 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6128957 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6128957 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6128957 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6128957 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6178758 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6188843 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6198764 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6238656 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601609.6238656 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601610.44182 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601610.4427745 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601610.4427745 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601610.4447713 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601610.4447713 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601610.4457672 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601610.4457672 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601610.4468052 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601610.4478037 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601610.4497979 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601610.4497979 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601610.4507952 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8023007 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.807282 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.807282 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.807282 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.807282 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8082497 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8082497 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8102431 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8102431 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8112402 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8122377 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601610.8122377 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601611.4411833 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601611.4411833 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601611.4411833 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601611.4451725 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601611.4451725 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601611.44617 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601611.44617 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601611.44617 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601611.44617 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601611.44617 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601611.44617 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601611.4491618 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.008032 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0090296 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0100267 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0150497 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.016012 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0170095 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0190387 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0190387 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0200338 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.0210323 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.022056 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601612.022056 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601612.7411103 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601612.7421043 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601612.746103 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601612.7481194 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601612.7481194 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601612.7490952 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601612.7500925 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601612.7590733 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601612.7620616 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601612.7630486 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601612.7670035 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601612.773025 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2206395 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2236316 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2246273 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2275856 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2325716 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601613.2355638 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601613.8616478 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601613.8675902 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601613.8776062 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601613.8776062 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601613.8776062 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601613.8776062 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601613.8776062 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601613.8786056 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601613.8786056 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601613.8786056 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601613.8786056 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601613.8786056 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4360697 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4500747 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.454064 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.454064 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.454064 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601614.4550626 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601615.0813875 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601615.0853806 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601615.0853806 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601615.086383 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601615.086383 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601615.0873713 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601615.0873713 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601615.093355 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601615.0953088 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601615.0953088 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601615.0953088 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601615.0953088 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.6298482 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.6467602 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.6467602 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601615.649793 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601616.2791226 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601616.2801208 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601616.2821498 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.838653 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.838653 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.838653 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8436058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8436058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8436058 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8446345 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8446345 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8446345 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8456476 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8456476 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601616.8475943 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601617.4998732 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601617.4998732 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601617.4998732 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601617.5008483 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601617.5008483 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601617.5018885 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601617.502843 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601617.5038824 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601617.5078628 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601617.5078628 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601617.5078628 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601617.5078628 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0351517 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0351517 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0371425 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0381382 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0381382 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0418718 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0418718 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0418718 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0428565 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0438595 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0448532 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601618.0458503 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601618.688636 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601618.688636 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601618.688636 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601618.6896784 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601618.6896784 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601618.6986492 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601618.6996408 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601618.7016344 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601618.7016344 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601618.7026422 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601618.7036386 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601618.7056391 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2362914 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2382772 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2382772 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2412288 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2412288 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.242226 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2432241 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2432241 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2432241 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2482095 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2582252 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601619.2582252 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601619.937041 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601619.9410408 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601619.9410408 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601619.9410408 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601619.9440384 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601619.9440384 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601619.9440384 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601619.9440384 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601619.94503 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601619.9520135 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601619.962938 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601619.962938 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4555254 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.458518 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.458518 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4605615 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4605615 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4615514 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4615514 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.46255 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4635046 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4645457 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.4655483 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601620.475473 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601621.1048808 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601621.1048808 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601621.1048808 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601621.1078415 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601621.1078415 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601621.108841 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601621.108841 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601621.108841 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601621.108841 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601621.1108332 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601621.1158195 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601621.1158195 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6542866 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 28.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.659319 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.659319 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.659319 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 28.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6603034 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 26.892303466796875
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6623113 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 22.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6623113 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 4.5 y: 16.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.667252 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 6.107695579528809 y: 10.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.667252 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 10.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6682825 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 16.5 y: 4.5
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6682825 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 22.5 y: 6.107695579528809
+x: 0.0 y: 0.0
+
+enemy 10873 name Serenity the Ripper
+ShowEffect 1634601621.6682825 effectType 4 targetObjectID 40168955 color -65536 duration 2.0
+x: 26.892303466796875 y: 10.5
+x: 0.0 y: 0.0
+
+Aoe 1634601622.4940934 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601622.4940934 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601622.4950898 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601622.4950898 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601622.499037 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601622.499037 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601622.499037 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601622.5000343 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601622.5000343 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601622.50203 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601622.5040572 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601622.5040572 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+Aoe 1634601623.6771066 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 10.5
+
+Aoe 1634601623.6771066 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 6.107695579528809
+
+Aoe 1634601623.67814 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 4.5
+
+Aoe 1634601623.67814 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 6.107695579528809
+
+Aoe 1634601623.67814 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 10.5
+
+Aoe 1634601623.6791492 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 4.5 y: 16.5
+
+Aoe 1634601623.6791492 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 6.107695579528809 y: 22.5
+
+Aoe 1634601623.6811383 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 10.5 y: 26.892303466796875
+
+Aoe 1634601623.6811383 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 16.5 y: 28.5
+
+Aoe 1634601623.692068 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 22.5 y: 26.892303466796875
+
+Aoe 1634601623.692068 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 26.892303466796875 y: 22.5
+
+Aoe 1634601623.6930645 radius 4.0 damage 200 effect 0 duration 0.0 origType 10873
+x: 28.5 y: 16.5
+
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634601695.3333094 effectType 4 targetObjectID 40101000 color -65536 duration 1.5
+x: 1401.7005615234375 y: 1029.674560546875
+x: 0.0 y: 0.0
+
+Aoe 1634601696.742888 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1401.7005615234375 y: 1029.674560546875
+
+enemy 1620 name Medusa
+ShowEffect 1634601711.9784005 effectType 4 targetObjectID 39683652 color -65536 duration 1.5
+x: 1370.8778076171875 y: 1046.5584716796875
+x: 0.0 y: 0.0
+
+Aoe 1634601713.3632765 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1370.8778076171875 y: 1046.5584716796875
+
+enemy 1620 name Medusa
+ShowEffect 1634601715.1469452 effectType 4 targetObjectID 39683652 color -65536 duration 1.5
+x: 1362.81396484375 y: 1047.706787109375
+x: 0.0 y: 0.0
+
+internal HP is now 532
+Aoe 1634601716.5673075 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1362.81396484375 y: 1047.706787109375
+
+MapChange: Nexus
+MapChange: Realm
+enemy 1620 name Medusa
+ShowEffect 1634601807.2588415 effectType 4 targetObjectID 40171877 color -65536 duration 1.5
+x: 1154.0474853515625 y: 1075.157470703125
+x: 0.0 y: 0.0
+
+Aoe 1634601808.7095659 radius 4.0 damage 150 effect 0 duration 0.0 origType 1620
+x: 1154.0474853515625 y: 1075.157470703125
+
+MapChange: Storm Palace
+enemy 5717 name Construct of the Storm
+ShowEffect 1634601850.746645 effectType 4 targetObjectID 40486175 color -65536 duration 1.5
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634601850.746645 effectType 4 targetObjectID 40486175 color -65536 duration 1.5
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634601850.746645 effectType 4 targetObjectID 40486175 color -65536 duration 1.5
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634601850.746645 effectType 4 targetObjectID 40486175 color -65536 duration 1.5
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1634601852.1507022 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1634601852.1507022 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1634601852.1507022 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1634601852.1507022 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+MapChange: Realm
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0065765 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1183.0003662109375 y: 1342.5999755859375
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0065765 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1177.0003662109375 y: 1342.5999755859375
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0065765 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1184.9244384765625 y: 1343.46826171875
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0065765 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1175.0762939453125 y: 1341.731689453125
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0065765 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1181.71044921875 y: 1347.2984619140625
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0076094 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1186.5782470703125 y: 1344.994140625
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0076094 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1173.4224853515625 y: 1340.205810546875
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0085723 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1181.2159423828125 y: 1349.49365234375
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0095701 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1188.66064453125 y: 1347.5999755859375
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0095701 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1171.340087890625 y: 1337.5999755859375
+x: 0.0 y: 0.0
+
+enemy 2335 name Ent Ancient
+ShowEffect 1634601927.0095701 effectType 4 targetObjectID 39649159 color -16640 duration 0.0
+x: 1180.0003662109375 y: 1352.5999755859375
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Lab
+MapChange: Ascended Lab
+MapChange: Realm
+MapChange: Nexus
+MapChange: Undead Lair
+enemy 3495 name Lair Grey Spectre
+ShowEffect 1634602109.6551917 effectType 4 targetObjectID 40797651 color -65536 duration 1.5
+x: 51.085426330566406 y: 63.43217086791992
+x: 0.0 y: 0.0
+
+MapChange: Ascended Undead Lair
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602141.6599712 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 13.3807954788208 y: 16.37717628479004
+x: 0.0 y: 0.0
+
+internal HP is now 859
+Aoe 1634602143.0888886 radius 3.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 13.3807954788208 y: 16.37717628479004
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602163.6911564 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 18.598482131958008 y: 7.119281768798828
+x: 0.0 y: 0.0
+
+internal HP is now 860
+Aoe 1634602165.078061 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 18.598482131958008 y: 7.119281768798828
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602165.8780215 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 13.969664573669434 y: 5.00270938873291
+x: 0.0 y: 0.0
+
+internal HP is now 862
+Aoe 1634602167.2952616 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 13.969664573669434 y: 5.00270938873291
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602172.5070915 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 17.5 y: 6.5
+x: 0.0 y: 0.0
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602172.8845036 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 17.7349853515625 y: 7.067305564880371
+x: 0.0 y: 0.0
+
+internal HP is now 562
+internal HP is now 562
+Aoe 1634602173.890258 radius 4.0 damage 50 effect 0 duration 0.0 origType 32939
+x: 17.5 y: 6.5
+
+Aoe 1634602174.3079512 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 17.7349853515625 y: 7.067305564880371
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602175.090434 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 12.933781623840332 y: 6.839721202850342
+x: 0.0 y: 0.0
+
+internal HP is now 785
+Aoe 1634602176.4911592 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 12.933781623840332 y: 6.839721202850342
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602177.2924998 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 6.844738483428955 y: 7.347419261932373
+x: 0.0 y: 0.0
+
+Aoe 1634602178.809231 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 6.844738483428955 y: 7.347419261932373
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602179.1315787 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 16.941452026367188 y: 9.397286415100098
+x: 0.0 y: 0.0
+
+internal HP is now 807
+Aoe 1634602180.490279 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 16.941452026367188 y: 9.397286415100098
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602181.3016832 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 13.991454124450684 y: 2.308711528778076
+x: 0.0 y: 0.0
+
+Aoe 1634602182.6906214 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 13.991454124450684 y: 2.308711528778076
+
+enemy 32939 name Ascended Septavius the Ghost Goddess
+ShowEffect 1634602183.5032315 effectType 4 targetObjectID 40826503 color -65536 duration 1.5
+x: 9.408584594726562 y: 2.4377312660217285
+x: 0.0 y: 0.0
+
+Aoe 1634602184.9064379 radius 8.0 damage 75 effect 0 duration 0.0 origType 32939
+x: 9.408584594726562 y: 2.4377312660217285
+
+Connection was reset
+MapChange: Nexus
+MapChange: Realm
+MapChange: Undead Lair
+ShowEffect had KeyError: 40932055
+
+AutoNexus: haven't seen the enemy yet.
+ShowEffect had KeyError: 40932051
+
+AutoNexus: haven't seen the enemy yet.
+ShowEffect had KeyError: 40932049
+
+AutoNexus: haven't seen the enemy yet.
+enemy 3497 name Lair White Spectre
+ShowEffect 1634602246.7582316 effectType 4 targetObjectID 40932044 color -65536 duration 1.5
+x: 31.2495174407959 y: 86.1983642578125
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1634602246.7642152 effectType 4 targetObjectID 40932049 color -65536 duration 1.5
+x: 31.2495174407959 y: 86.1983642578125
+x: 0.0 y: 0.0
+
+enemy 3496 name Lair Blue Spectre
+ShowEffect 1634602246.765238 effectType 4 targetObjectID 40932045 color -65536 duration 1.5
+x: 31.2495174407959 y: 86.1983642578125
+x: 0.0 y: 0.0
+
+Aoe 1634602246.9649794 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 36.717559814453125 y: 93.89069366455078
+
+Aoe 1634602246.9649794 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 36.717559814453125 y: 93.89069366455078
+
+Aoe 1634602246.9649794 radius 2.5 damage 50 effect 0 duration 0.0 origType 3495
+x: 36.717559814453125 y: 93.89069366455078
+
+Aoe 1634602248.1808114 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 31.2495174407959 y: 86.1983642578125
+
+Aoe 1634602248.1808114 radius 2.5 damage 70 effect 0 duration 0.0 origType 3496
+x: 31.2495174407959 y: 86.1983642578125
+
+Aoe 1634602248.1808114 radius 2.5 damage 90 effect 0 duration 0.0 origType 3497
+x: 31.2495174407959 y: 86.1983642578125
+
+MapChange: Ascended Undead Lair
+MapChange: Realm
+enemy 1605 name Ogre King
+ShowEffect 1634602352.8445735 effectType 4 targetObjectID 39683122 color -65536 duration 1.5
+x: 797.0447998046875 y: 868.765625
+x: 0.0 y: 0.0
+
+enemy 1605 name Ogre King
+ShowEffect 1634602353.847989 effectType 4 targetObjectID 39683122 color -65536 duration 1.5
+x: 795.3759155273438 y: 869.7125854492188
+x: 0.0 y: 0.0
+
+Connection was reset
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+enemy 25765 name The Horrific
+ShowEffect 1634602534.3213098 effectType 4 targetObjectID 41264321 color 0 duration 1.5
+x: 1429.5 y: 1141.1544189453125
+x: 0.0 y: 0.0
+
+internal HP is now 843
+Aoe 1634602535.7476625 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1429.5 y: 1141.1544189453125
+
+enemy 25765 name The Horrific
+ShowEffect 1634602536.526664 effectType 4 targetObjectID 41264321 color 0 duration 1.5
+x: 1429.5247802734375 y: 1140.6302490234375
+x: 0.0 y: 0.0
+
+internal HP is now 806
+Aoe 1634602537.9703133 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1429.5247802734375 y: 1140.6302490234375
+
+enemy 25765 name The Horrific
+ShowEffect 1634602538.7209024 effectType 4 targetObjectID 41264321 color 0 duration 1.5
+x: 1429.985595703125 y: 1139.947021484375
+x: 0.0 y: 0.0
+
+internal HP is now 769
+Aoe 1634602540.1650858 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 1429.985595703125 y: 1139.947021484375
+
+enemy 25765 name The Horrific
+ShowEffect 1634602582.626295 effectType 4 targetObjectID 41267496 color 0 duration 1.5
+x: 751.4649047851562 y: 1046.0355224609375
+x: 0.0 y: 0.0
+
+Aoe 1634602584.0544174 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 751.4649047851562 y: 1046.0355224609375
+
+enemy 25765 name The Horrific
+ShowEffect 1634602584.830386 effectType 4 targetObjectID 41267496 color 0 duration 1.5
+x: 747.1121826171875 y: 1052.187255859375
+x: 0.0 y: 0.0
+
+internal HP is now 843
+Aoe 1634602586.2631347 radius 6.0 damage 100 effect 0 duration 0.0 origType 25765
+x: 747.1121826171875 y: 1052.187255859375
+
+MapChange: Storm Palace
+enemy 5717 name Construct of the Storm
+ShowEffect 1634602622.9017715 effectType 4 targetObjectID 41322181 color -65536 duration 1.5
+x: 142.5 y: 195.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634602622.9017715 effectType 4 targetObjectID 41322181 color -65536 duration 1.5
+x: 150.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634602622.9017715 effectType 4 targetObjectID 41322181 color -65536 duration 1.5
+x: 134.5 y: 187.5
+x: 0.0 y: 0.0
+
+enemy 5717 name Construct of the Storm
+ShowEffect 1634602622.9017715 effectType 4 targetObjectID 41322181 color -65536 duration 1.5
+x: 142.5 y: 179.5
+x: 0.0 y: 0.0
+
+Aoe 1634602624.3008049 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 179.5
+
+Aoe 1634602624.3017707 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 134.5 y: 187.5
+
+Aoe 1634602624.3017707 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 150.5 y: 187.5
+
+Aoe 1634602624.3017707 radius 6.0 damage 100 effect 0 duration 0.0 origType 5717
+x: 142.5 y: 195.5
+
+MapChange: Realm
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602653.6842117 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 898.009521484375 y: 895.420166015625
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602654.0841832 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 898.009521484375 y: 895.420166015625
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602654.484564 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 900.3899536132812 y: 901.3046264648438
+x: 0.0 y: 0.0
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602654.8924115 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 900.3899536132812 y: 901.3046264648438
+x: 0.0 y: 0.0
+
+Aoe 1634602655.1025453 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 898.009521484375 y: 895.420166015625
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602655.2850633 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 899.617431640625 y: 901.6434326171875
+x: 0.0 y: 0.0
+
+internal HP is now 823
+Aoe 1634602655.5075183 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 898.009521484375 y: 895.420166015625
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602655.687818 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 900.1508178710938 y: 902.1145629882812
+x: 0.0 y: 0.0
+
+internal HP is now 823
+Aoe 1634602655.9032161 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 900.3899536132812 y: 901.3046264648438
+
+enemy 27119 name Sorgigas, the Sor Giant
+ShowEffect 1634602656.0836997 effectType 4 targetObjectID 41363538 color 65280 duration 1.5
+x: 902.833740234375 y: 901.678955078125
+x: 0.0 y: 0.0
+
+internal HP is now 823
+Aoe 1634602656.29718 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 900.3899536132812 y: 901.3046264648438
+
+internal HP is now 823
+Aoe 1634602656.7120366 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 899.617431640625 y: 901.6434326171875
+
+Aoe 1634602657.1030278 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 900.1508178710938 y: 902.1145629882812
+
+Aoe 1634602657.5188496 radius 4.0 damage 120 effect 0 duration 0.0 origType 27119
+x: 902.833740234375 y: 901.678955078125
+
+ShowEffect had KeyError: 39653953
+
+AutoNexus: haven't seen the enemy yet.
+MapChange: Sky Palace
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1634602741.3259184 effectType 4 targetObjectID 41433271 color -16640 duration 0.0
+x: 76.5710678100586 y: 1.4289321899414062
+x: 0.0 y: 0.0
+
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1634602741.3268857 effectType 4 targetObjectID 41433271 color -16640 duration 0.0
+x: 76.5710678100586 y: 15.571067810058594
+x: 0.0 y: 0.0
+
+enemy 26634 name Colothiois the Exalted
+ShowEffect 1634602741.3278797 effectType 4 targetObjectID 41433271 color -16640 duration 0.0
+x: 62.428932189941406

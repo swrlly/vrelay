@@ -1,0 +1,223 @@
+MapChange: Nexus
+MapChange: Realm
+MapChange: Tunnel of Pain
+MapChange: Tunnel of Pain
+MapChange: Realm
+enemy 3422 name Pentaract Tower
+ShowEffect 1625274859.0509598 effectType 4 targetObjectID 40385726 color -65536 duration 0.0
+x: 1516.3248291015625 y: 1018.7012939453125
+x: 0.0 y: 0.0
+
+Aoe 1625274860.4727263 radius 4.0 damage 100 effect 0 duration 0.0 origType 3422
+x: 1516.3248291015625 y: 1018.7012939453125
+
+enemy 3422 name Pentaract Tower
+ShowEffect 1625274865.4524505 effectType 4 targetObjectID 40385722 color -65536 duration 0.0
+x: 1504.50927734375 y: 995.1414184570312
+x: 0.0 y: 0.0
+
+enemy 3422 name Pentaract Tower
+ShowEffect 1625274865.4524505 effectType 4 targetObjectID 40385723 color -65536 duration 0.0
+x: 1501.528564453125 y: 1012.031494140625
+x: 0.0 y: 0.0
+
+enemy 3422 name Pentaract Tower
+ShowEffect 1625274865.6970766 effectType 4 targetObjectID 40385725 color -65536 duration 0.0
+x: 1513.9525146484375 y: 991.751953125
+x: 0.0 y: 0.0
+
+Aoe 1625274866.877088 radius 4.0 damage 100 effect 0 duration 0.0 origType 3422
+x: 1501.528564453125 y: 1012.031494140625
+
+Aoe 1625274866.878085 radius 4.0 damage 100 effect 0 duration 0.0 origType 3422
+x: 1504.50927734375 y: 995.1414184570312
+
+MapChange: The Unspeakable
+MapChange: Domain of the Dark Knight
+MapChange: Realm
+MapChange: Tunnel of Pain
+MapChange: Realm
+MapChange: Elemental Ruins
+MapChange: Realm
+MapChange: Superhuman Hideout
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275295.3428113 effectType 4 targetObjectID 40899683 color -65536 duration 0.0
+x: 33.63333511352539 y: 18.90615463256836
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275296.5489395 effectType 4 targetObjectID 40899715 color -65536 duration 0.0
+x: 33.34626388549805 y: 28.58222770690918
+x: 0.0 y: 0.0
+
+Aoe 1625275296.7492285 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 33.63333511352539 y: 18.90615463256836
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275297.1876595 effectType 4 targetObjectID 40899713 color -65536 duration 0.0
+x: 32.9605598449707 y: 35.06708908081055
+x: 0.0 y: 0.0
+
+Aoe 1625275297.9676347 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 33.34626388549805 y: 28.58222770690918
+
+Aoe 1625275298.5657704 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 32.9605598449707 y: 35.06708908081055
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275300.949535 effectType 4 targetObjectID 40899868 color -65536 duration 0.0
+x: 15.086746215820312 y: 67.14108276367188
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275300.949535 effectType 4 targetObjectID 40899866 color -65536 duration 0.0
+x: 15.086746215820312 y: 67.14108276367188
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275303.956634 effectType 4 targetObjectID 40899901 color -65536 duration 0.0
+x: 55.395843505859375 y: 73.18169403076172
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275303.956634 effectType 4 targetObjectID 40899900 color -65536 duration 0.0
+x: 55.395843505859375 y: 73.18169403076172
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275305.3550203 effectType 4 targetObjectID 40899983 color -65536 duration 0.0
+x: 58.725059509277344 y: 74.10856628417969
+x: 0.0 y: 0.0
+
+Aoe 1625275305.3679817 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 55.395843505859375 y: 73.18169403076172
+
+Aoe 1625275305.3679817 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 55.395843505859375 y: 73.18169403076172
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275306.4034111 effectType 4 targetObjectID 40899899 color -65536 duration 0.0
+x: 47.69892501831055 y: 71.36567687988281
+x: 0.0 y: 0.0
+
+Aoe 1625275306.7762709 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 58.725059509277344 y: 74.10856628417969
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275307.365452 effectType 4 targetObjectID 40899980 color -65536 duration 0.0
+x: 53.28947067260742 y: 77.70539855957031
+x: 0.0 y: 0.0
+
+Aoe 1625275307.777185 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 47.69892501831055 y: 71.36567687988281
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275308.6164303 effectType 4 targetObjectID 40900011 color -65536 duration 0.0
+x: 53.41150665283203 y: 81.68569946289062
+x: 0.0 y: 0.0
+
+Aoe 1625275308.7727025 radius 4.0 damage 40 effect 0 duration 0.0 origType 6757
+x: 53.28947067260742 y: 77.70539855957031
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275309.3686128 effectType 4 targetObjectID 40899899 color -65536 duration 0.0
+x: 56.85895919799805 y: 73.20352172851562
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275310.0104878 effectType 4 targetObjectID 40899898 color -65536 duration 0.0
+x: 56.411312103271484 y: 72.1354751586914
+x: 0.0 y: 0.0
+
+Aoe 1625275310.0414102 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 53.41150665283203 y: 81.68569946289062
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275310.5843577 effectType 4 targetObjectID 40899980 color -65536 duration 0.0
+x: 49.39252853393555 y: 78.0615463256836
+x: 0.0 y: 0.0
+
+Aoe 1625275310.786584 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 56.85895919799805 y: 73.20352172851562
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275311.1995516 effectType 4 targetObjectID 40899901 color -65536 duration 0.0
+x: 50.496734619140625 y: 69.490966796875
+x: 0.0 y: 0.0
+
+Aoe 1625275311.3881745 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 56.411312103271484 y: 72.1354751586914
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275311.7788312 effectType 4 targetObjectID 40899898 color -65536 duration 0.0
+x: 47.967384338378906 y: 68.25736999511719
+x: 0.0 y: 0.0
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275311.983423 effectType 4 targetObjectID 40899900 color -65536 duration 0.0
+x: 48.89188003540039 y: 67.11376953125
+x: 0.0 y: 0.0
+
+Aoe 1625275311.9874115 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 49.39252853393555 y: 78.0615463256836
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275312.1808717 effectType 4 targetObjectID 40899899 color -65536 duration 0.0
+x: 50.94003677368164 y: 65.6566162109375
+x: 0.0 y: 0.0
+
+Aoe 1625275312.585418 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 50.496734619140625 y: 69.490966796875
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275313.2182794 effectType 4 targetObjectID 40918052 color -65536 duration 0.0
+x: 54.0970458984375 y: 71.348876953125
+x: 0.0 y: 0.0
+
+Aoe 1625275313.2352614 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 47.967384338378906 y: 68.25736999511719
+
+enemy 6757 name LGL Cryoblob
+ShowEffect 1625275313.423744 effectType 4 targetObjectID 40899789 color -65536 duration 0.0
+x: 37.60821533203125 y: 50.190486907958984
+x: 0.0 y: 0.0
+
+Aoe 1625275313.4526646 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 48.89188003540039 y: 67.11376953125
+
+Aoe 1625275313.6451178 radius 4.0 damage 120 effect 0 duration 0.0 origType 6757
+x: 50.94003677368164 y: 65.6566162109375
+
+Death 1625275313.6523263 accountID 1207848 charID 11 killedBy LGL Cryoblob
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Nexus
+MapChange: Vault
+MapChange: Nexus
+MapChange: Marketplace
+Connection was reset
+MapChange: Nexus
+MapChange: Nexus
+MapChange: Marketplace
+MapChange: Realm
+enemy 30616 name Uber Shrek
+ShowEffect 1625275612.5894241 effectType 4 targetObjectID 40591874 color -65536 duration 0.0
+x: 796.4497680664062 y: 764.4497680664062
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625275612.5894241 effectType 4 targetObjectID 40591874 color -65536 duration 0.0
+x: 786.5502319335938 y: 764.4497680664062
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625275612.5904222 effectType 4 targetObjectID 40591874 color -65536 duration 0.0
+x: 786.5502319335938 y: 754.5502319335938
+x: 0.0 y: 0.0
+
+enemy 30616 name Uber Shrek
+ShowEffect 1625275612.5904222 effectType 4 targetObjectID 40591874 color -65536 duration 0.0
+x: 796.4497680664062 y: 754.5502319335938
+x: 0.0 y: 0.0
+
+Aoe 1625275612.809686 radius 5.0 damage

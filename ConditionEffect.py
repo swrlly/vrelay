@@ -27,7 +27,7 @@ effect0 = {
 	"SlowedImmune" : 2147483648,
 	"Unstable" : 536870912,
 	"Darkness" : 1073741824,
-	"Bleeding" : 32768
+	"Bleeding" : 32768,
 }
 
 effect1 = {
@@ -47,7 +47,7 @@ effect1 = {
 	"Bravery" : 262144,
 	"Exhausted" : 524288,
 	"JacketOffense" : 2,
-	"JacketDefense" : 4
+	"JacketDefense" : 4,
 }
 
 effect2 = {
@@ -65,6 +65,6 @@ effect2 = {
 	"DarknessImmunity" : 16384,
 	"ExhaustedImmunity" : 32768,
 	"StasisImmune" : 4194304,
-	"CorruptedImmune" : 65536
+	"CorruptedImmune" : 65536,
 }
 
