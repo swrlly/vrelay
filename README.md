@@ -24,8 +24,9 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 
 1. Install Python [64-bit](https://www.python.org/downloads/).
 2. `git clone --recurse-submodules https://github.com/swrlly/vrelay.git`
-3. `py proxy.py` to start the proxy server.
-4. In Valor, connect to the proxy server in the server list and you're good to go.
+3. `py -m pip install -r requirements.txt`
+4. `py proxy.py` to start the proxy server.
+5. In Valor, connect to the proxy server in the server list and you're good to go.
 
 ## How to write my own plugins?
 [A README in the `plugins` folder](https://github.com/swrlly/vrelay/tree/main/Plugins) explains the necessary steps for writing plugins.
