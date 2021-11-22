@@ -4,16 +4,18 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 
 **Updated for Valor version 3.3.3.**
 
-# Table of Contents
-- [How to update vrelay?](https://github.com/swrlly/vrelay#how-to-update-vrelay?)
-- [How to use vrelay?](https://github.com/swrlly/vrelay#how-to-use-vrelay?)
-- [Features](https://github.com/swrlly/vrelay#features)
-- [Disclaimer](https://github.com/swrlly/vrelay#disclaimer)
-- [Credits](https://github.com/swrlly/vrelay#credits)
 
 <p align="center">
   <img src="images/vrelay.png" />
 </p>
+
+# Table of Contents
+- [How to update vrelay?](https://github.com/swrlly/vrelay#how-to-update-vrelay)
+- [How to use vrelay?](https://github.com/swrlly/vrelay#how-to-use-vrelay)
+- [Features](https://github.com/swrlly/vrelay#features)
+- [Disclaimer](https://github.com/swrlly/vrelay#disclaimer)
+- [Credits](https://github.com/swrlly/vrelay#credits)
+
 
 ## How to update vrelay?
 [A README in the `updater` folder](https://github.com/swrlly/vrelay/tree/main/updater) explains what and how to update.
@@ -65,5 +67,5 @@ A person who has lawfully obtained the right to use a copy of a computer program
 This repository contains the latest RotMG Valor hacks and hacked client. If you are looking for RotMG Exalt hacks or a RotMG Unity hacked client this is not the place.
 
 ## Credits
-- [JPEXS](https://www.free-decompiler.com/flash/download/) for reverse engineering and modifying the client. Huge help for being able to peek into the contents of `swf` files.
+- [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler/releases) for reverse engineering and modifying the client. Huge help for being able to peek into the contents of `swf` files.
 - This project is inspired by [KRelay](https://github.com/TheKronks/KRelay), an open source proxy for production RotMG.
