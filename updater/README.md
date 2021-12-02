@@ -61,6 +61,7 @@ Ever since the inception of vrelay in April 2021, Arcanuo and the Valor team hav
     - Copy paste the output into `valorlib/Packets/PacketTypes.py` and add `Text = 96` at the bottom.
 3. Condition effect updates:
     - find where the condition effects are unmapped, similiar to the string in `parsecondition.py`. As before, copy paste the string and run the script (this is automatically ran in `updater.bat`).
+4. Whatever you can think of..
 
 # Caveats
 1. The more monsters you see, the more complete and better autonexus is at predicting AoE's. This is because the log files will be more likely to capture various AoE's

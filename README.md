@@ -2,7 +2,7 @@
 
 A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, QoL plugins such as predictive autonexus, and data science-based scripts to autoupdate `vrelay`.
 
-**Updated for Valor version 3.3.3.**
+This repository is now archived.
 
 
 <p align="center">
@@ -57,16 +57,14 @@ Each feature has a toggle key as shown in the image above. Keys will only be reg
 - `/safe`: disable all commands shown above and autonexus messages.
 
 
-
-
 ## Disclaimer
 
 Digital Millennium Copyright Act (DMCA) USC § 1201 (f) states:
 
 A person who has lawfully obtained the right to use a copy of a computer program may circumvent a technological measure that effectively controls access to a particular portion of that program for the sole purpose of identifying and analyzing those elements of the program that are necessary to achieve interoperability of an independently created computer program with other programs, and that have not previously been readily available to the person engaging in the circumvention, to the extent any such acts of identification and analysis do not constitute infringement under this title.
 
-This repository contains the latest RotMG Valor hacks and hacked client. If you are looking for RotMG Exalt hacks or a RotMG Unity hacked client this is not the place.
+This repository contains the latest RotMG Valor hacks and hacked client. If you are looking for RotMG Exalt hacks, RotMG Unity hacked client, or RotMG dupes (item duplication method) this is not the place.
 
 ## Credits
-- [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler/releases) for reverse engineering and modifying the client. Huge help for being able to peek into the contents of `swf` files.
+- [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler/releases) for reverse engineering and modifying the client. 
 - This project is inspired by [KRelay](https://github.com/TheKronks/KRelay), an open source proxy for production RotMG.
