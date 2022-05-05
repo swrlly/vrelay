@@ -1,8 +1,6 @@
 # vrelay
 
-A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, QoL plugins such as predictive autonexus, and data science-based scripts to autoupdate `vrelay`.
-
-This repository is now archived.
+A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, QoL plugins such as predictive autonexus, and data science-based scripts to autoupdate `vrelay`. Also contains patched exploits that can be generalized to any game.
 
 
 <p align="center">
