@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+
+	<Object type="0x12B5" id="Darkroot Repeater">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>realmLegendaries8x8Embed</File>
+			<Index>0x18</Index>
+		</Texture>
+		<SlotType>3</SlotType>
+		<Description>A very strong compound repeater created with Darkroot from the oldest of Therani's Ents. The magic arrows seem to have a mind of their own, though.</Description>
+		<RateOfFire>0.55</RateOfFire>
+		<Sound>weapon/double_bow</Sound>
+		<Projectile>
+			<ObjectId>TheraniBowTwo</ObjectId>
+			<Speed>165</Speed>
+			<MinDamage>55</MinDamage>
+			<MaxDamage>555</MaxDamage>
+			<LifetimeMS>560</LifetimeMS>
+			<MultiHit/>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>1.2</Frequency>
+		</Projectile>
+		<BagType>11</BagType>
+		<FameBonus>9</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<TrialItem/>
+		<Legend id="4" stat="27">
+			<Name>Sudden Root</Name>
+			<Description>When you're below 20% HP, you gain increased speed.</Description>
+			<HP>0</HP>
+			<MP>0</MP>
+			<Surge>0</Surge>
+		</Legend>
+		<OldSound>arrowShoot</OldSound>
+	</Object>
+	<Object type="0x12B4" id="Divers Sunken Boot" setType="0x0021" setName="Deep Sea Fishing Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x34f</Index>
+		</Texture>
+		<SlotType>9</SlotType>
+		<Description>The sky will split and shatter, like prisms of light landing on a bygone land.</Description>
+		<ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="102" amount="4">IncrementStat</ActivateOnEquip>
+		<Steal type="mana" amount="2"/>
+		<BagType>11</BagType>
+		<FameBonus>8</FameBonus>
+		<feedPower>900</feedPower>
+		<ExtraTooltipData>
+			<EffectInfo name="Special" description="You do not sink with all pieces equipped. Also gain an extra six fortune."/>
+		</ExtraTooltipData>
+		<TrialItem/>
+	</Object>
+	<Object type="0x12B3" id="Shiny Divers Breastplate" setType="0x0021" setName="Deep Sea Fishing Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x2f8</Index>
+		</Texture>
+		<SlotType>7</SlotType>
+		<Description>An armor made of sapphire jewels and encrusted with a metal charged with fury.</Description>
+		<ActivateOnEquip stat="21" amount="22">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="102" amount="4">IncrementStat</ActivateOnEquip>
+		<TrialItem/>
+		<ExtraTooltipData>
+			<EffectInfo name="Special" description="You do not sink with all pieces equipped. Also gain an extra six fortune."/>
+		</ExtraTooltipData>
+		<BagType>11</BagType>
+		<FameBonus>10</FameBonus>
+	</Object>
+	<Object type="0x79ac" id="Skirmisher" setType="0x6af8" setName="Righteous Trials Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x2fb</Index>
+		</Texture>
+		<SlotType>1</SlotType>
+		<Description>A sharp and light spear. This ruby infused weapon was forged with one purpose in mind.</Description>
+		<RateOfFire>1.20</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>Fire Storm</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>190</MinDamage>
+			<MaxDamage>235</MaxDamage>
+			<LifetimeMS>410</LifetimeMS>
+			<CondChance effect="Dazed" chance="0.7" duration="0.5"/>
+		</Projectile>
+		<ActivateOnEquip stat="26" amount="10" isPerc="true">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="112" amount="10">IncrementStat</ActivateOnEquip>
+		<TrialItem/>
+		<Soulbound/>
+		<BagType>11</BagType>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>8</ArcGap>
+		<FameBonus>8</FameBonus>
+		<feedPower>3000</feedPower>
+		<OldSound>weapon/mithril_sword</OldSound>
+	</Object>
+	<Object type="0x12B2" id="Plate of Righteous Fury" setType="0x6af8" setName="Righteous Trials Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x2fa</Index>
+		</Texture>
+		<SlotType>7</SlotType>
+		<Description>An armor made of sapphire jewels and encrusted with a metal charged with fury.</Description>
+		<ActivateOnEquip stat="26" amount="25" isPerc="true">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="112" amount="25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="114" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="150">IncrementStat</ActivateOnEquip>
+		<TrialItem/>
+		<BagType>11</BagType>
+		<FameBonus>10</FameBonus>
+	</Object>
+	<Object type="0x68e4" id="Plungerplonk" setType="0x0021" setName="Deep Sea Fishing Set">
+		<Class>Equipment</Class>>
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x2f7</Index>
+		</Texture>
+		<SlotType>16</SlotType>
+		<Description>An unusual helm narrowly pulled from Wrackjaw's foul maw. The harrowing encounter inspires great swiftness in the wearer.</Description>
+		<ActivateOnEquip stat="27" amount="12">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="102" amount="4">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>11</BagType>
+		<FameBonus>13</FameBonus>
+		<MpCost>95</MpCost>
+		<Activate effect="Berserk" duration="6" range="5">ConditionEffectAura</Activate>
+		<Activate effect="Speedy" duration="6">ConditionEffectSelf</Activate>
+		<Cooldown>6</Cooldown>
+		<TrialItem/>
+		<ExtraTooltipData>
+			<EffectInfo name="Special" description="You do not sink with all pieces equipped. Also gain an extra six fortune."/>
+		</ExtraTooltipData>
+		<feedPower>1880</feedPower>
+		<DisplayId>Plungerplonk</DisplayId>
+	</Object>
+	<Object type="0x68e3" id="Bejeweled Spear" setType="0x0021" setName="Deep Sea Fishing Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x2f6</Index>
+		</Texture>
+		<SlotType>1</SlotType>
+		<Description>A robust seaslayer spear that emanates grandeur and precision. The ruby infused within seems to have preserved it all these years, its exact purpose still unfulfilled.</Description>
+		<RateOfFire>1.10</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>Fire Storm</ObjectId>
+			<Speed>55</Speed>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>280</MaxDamage>
+			<LifetimeMS>550</LifetimeMS>
+		</Projectile>
+		<ActivateOnEquip stat="27" amount="5" isPerc="true">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="10" isPerc="true">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="102" amount="4">IncrementStat</ActivateOnEquip>
+		<TrialItem/>
+		<ExtraTooltipData>
+			<EffectInfo name="Special" description="You do not sink with all pieces equipped. Also gain an extra six fortune."/>
+		</ExtraTooltipData>
+		<BagType>11</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>12</FameBonus>
+		<feedPower>3000</feedPower>
+		<OldSound>weapon/mithril_sword</OldSound>
+	</Object>
+	<Object type="0x79ad" id="Reign Maker" setType="0x6af8" setName="Righteous Trials Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x2fd</Index>
+		</Texture>
+		<SlotType>5</SlotType>
+		<Description>A regal shield native to a forlorn order of titanweft knights from the planes below, which they seem to have conquered with ease.</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Silver Shield</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>480</MinDamage>
+			<MaxDamage>580</MaxDamage>
+			<LifetimeMS>200</LifetimeMS>
+			<Size>140</Size>
+			<MultiHit/>
+			<PassesCover/>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="26" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="140">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<TrialItem/>
+		<Soulbound/>
+		<BagType>11</BagType>
+		<FameBonus>12</FameBonus>
+		<MpCost>115</MpCost>
+		<Activate effect="Damaging" duration="2.5" range="0.5" color="0xFF5733" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
+		<Activate>Shoot</Activate>
+		<NumProjectiles>8</NumProjectiles>
+		<feedPower>380</feedPower>
+	</Object>
+</Objects>

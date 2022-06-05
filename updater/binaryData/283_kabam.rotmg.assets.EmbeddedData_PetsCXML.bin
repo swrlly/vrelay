@@ -1,5 +1,136 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <Objects>
+	<Object type="0x2b46" id="Holiday Mello Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>84</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A marshmello?!? It's very squishy...</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Holiday Mello">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Holiday Mello</DisplayId>
+	</Object>
+	<Object type="0x2b45" id="Holiday Mello">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>84</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b44" id="Golden Reindeer Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>83</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>He comes in gold??</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Golden Reindeer">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Golden Reindeer</DisplayId>
+	</Object>
+	<Object type="0x2b43" id="Golden Reindeer">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>83</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b42" id="Winter Rabbit Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>170</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Do you have any carrots?</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Winter Rabbit">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Winter Rabbit</DisplayId>
+	</Object>
+	<Object type="0x2b41" id="Winter Rabbit">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>170</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+	</Object>
+	<Object type="0x2b40" id="Red Nosed Reindeer Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>82</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>You know Dasher and Dancer and Prancer and Vixen.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Red Nosed Reindeer">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Red Nosed Reindeer</DisplayId>
+	</Object>
+	<Object type="0x2b39" id="Red Nosed Reindeer">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>82</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
 	<Object type="0x2b38" id="Anniversary Slice Generator">
 		<Class>Equipment</Class>
 		<Item/>
@@ -34,7 +165,7 @@
 		<ParalyzeImmune/>
 		<Pet/>
 		<DazedImmune/>
-		<Size>35</Size>
+		<Size>30</Size>
 	</Object>
 	<Object type="0x2b36" id="Cake Anniversary Generator">
 		<Class>Equipment</Class>
@@ -51,7 +182,7 @@
 		<Sound>use_potion</Sound>
 		<BagType>10</BagType>
 		<Activate objectId="Anniversary Cake">PermaPet</Activate>
-		<InvUse/>
+		<Consumable/>
 		<VaultItem/>
 		<ScaleValue>3</ScaleValue>
 		<Soulbound/>
@@ -70,7 +201,7 @@
 		<ParalyzeImmune/>
 		<Pet/>
 		<DazedImmune/>
-		<Size>35</Size>
+		<Size>30</Size>
 	</Object>
 	<Object type="0x2b34" id="Golden Ghoul Generator">
 		<Class>Equipment</Class>

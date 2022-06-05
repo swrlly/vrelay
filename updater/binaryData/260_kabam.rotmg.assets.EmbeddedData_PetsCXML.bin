@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+	<Object type="0x2cd6" id="Perry the Platypus Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>32</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Agent P reporting for duty.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Spriter" description="Shiff"/>
+		</ExtraTooltipData>
+		<Activate objectId="Perry the Platypus">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Perry the Platypus Generator</DisplayId>
+	</Object>
+	<Object type="0x2cd5" id="Perry the Platypus">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>32</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2cd4" id="Garden Caster Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>47</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>In another life, this witch protected the Garden of Chaos. Credit to ZipZar.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Garden Caster">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Size>40</Size>
+		<ScaleValue>3</ScaleValue>
+		<DisplayId>Garden Caster Generator</DisplayId>
+	</Object>
+	<Object type="0x2cd3" id="Garden Caster">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>47</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x2cd2" id="Forest Guardian Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>46</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>This fearsome protector cares deeply about preserving nature. Credit to ZipZar.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Forest Guardian">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Size>40</Size>
+		<ScaleValue>3</ScaleValue>
+		<DisplayId>Forest Guardian Generator</DisplayId>
+	</Object>
+	<Object type="0x2cd1" id="Forest Guardian">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>46</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x2bd5" id="Snowden's Serenity Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>45</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Serenity for Snowden/Mike.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Mini Serenity">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Size>40</Size>
+		<ScaleValue>3</ScaleValue>
+		<DisplayId>Snowdenns Serenity Generator</DisplayId>
+	</Object>
+	<Object type="0x2bd4" id="Mini Serenity">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>45</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2bd3" id="Fat Penguin Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>31</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>This penguin is large and in charge.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Spriter" description="TehEnd"/>
+		</ExtraTooltipData>
+		<Activate objectId="Fat Penguin">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Fat Penguin Generator</DisplayId>
+	</Object>
+	<Object type="0x2bd2" id="Fat Penguin">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>31</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2bd1" id="Divine's Reaper Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>30</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Divine's Reaper Pet.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Divine Reaper">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Divine's Reaper Generator</DisplayId>
+	</Object>
+	<Object type="0x2bd8" id="Divine Reaper">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>30</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2bd7" id="Avatar's Arcanica Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>29</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A miniature Arcania for Avatar.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Mini Arcanica">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Avatar's Arcanica Generator</DisplayId>
+	</Object>
+	<Object type="0x2bd6" id="Mini Arcanica">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>29</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2bc6" id="Corgi Dog Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>28</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A Dog for Dog</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Corgi Dog">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Corgi Dog Generator</DisplayId>
+	</Object>
+	<Object type="0x2bc5" id="Corgi Dog">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>28</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2bc4" id="Summrs Pink Panda Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>27</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Pink Pandas? Really? A Panda for Summr. Not an Editor's Eyepiece though..</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Pink Panda">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Pink Panda Generator</DisplayId>
+	</Object>
+	<Object type="0x2bc3" id="Pink Panda">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>27</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2bc2" id="Mini Abomination Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>43</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A Mini Horrific. Super Scary! Ahhhh. Thanks to ZipZar. </Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Mini Abomination Pet">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Mini Abomination</DisplayId>
+	</Object>
+	<Object type="0x2bc1" id="Mini Abomination Pet">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>43</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>60</Size>
+	</Object>
+	<Object type="0x2b59" id="Mini Drannol Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>42</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A Mini Drannol. He's pocket sized and everything! Thanks to ZipZar. </Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Mini Drannol Pet">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Mini Drannol Pet</DisplayId>
+	</Object>
+	<Object type="0x2b58" id="Mini Drannol Pet">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>42</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>60</Size>
+	</Object>
+	<Object type="0x2b57" id="Valorian GF Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>41</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Too busy with Valor? </Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Valorian GF">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Valorian GF Generator</DisplayId>
+	</Object>
+	<Object type="0x2b56" id="Valorian GF">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>41</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>60</Size>
+	</Object>
+	<Object type="0x2b55" id="White Swan Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>40</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>The Swan is a beautiful and majestic animal.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="White Swan">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>White Swan Generator</DisplayId>
+	</Object>
+	<Object type="0x2b54" id="White Swan">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>40</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>60</Size>
+	</Object>
+	<Object type="0x2b53" id="Flaming Heart Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>39</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>The ultimate heart pet. Watch out... It has a fiery side!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Flaming Heart">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Flaming Heart Generator</DisplayId>
+	</Object>
+	<Object type="0x2b52" id="Flaming Heart">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>39</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>60</Size>
+	</Object>
+	<Object type="0x2b51" id="Demonite the Defiler Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>172</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Watch out for the lava trail!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Demonite the Defiler">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Demonite the Defiler</DisplayId>
+	</Object>
+	<Object type="0x2b49" id="Demonite the Defiler">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>172</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+	</Object>
+	<Object type="0x2b48" id="Sluggum Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>171</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Watch out for the lava trail!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Sluggum">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Sluggum</DisplayId>
+	</Object>
+	<Object type="0x2b47" id="Sluggum">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>171</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+	</Object>
+	<Object type="0x2b46" id="Holiday Mello Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>84</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A marshmello?!? It's very squishy...</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Holiday Mello">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Holiday Mello</DisplayId>
+	</Object>
+	<Object type="0x2b45" id="Holiday Mello">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>84</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b44" id="Golden Reindeer Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>83</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>He comes in gold??</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Golden Reindeer">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Golden Reindeer</DisplayId>
+	</Object>
+	<Object type="0x2b43" id="Golden Reindeer">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>83</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b42" id="Winter Rabbit Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>170</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Do you have any carrots?</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Winter Rabbit">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Winter Rabbit</DisplayId>
+	</Object>
+	<Object type="0x2b41" id="Winter Rabbit">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>170</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+	</Object>
+	<Object type="0x2b40" id="Red Nosed Reindeer Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>82</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>You know Dasher and Dancer and Prancer and Vixen.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Red Nosed Reindeer">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Red Nosed Reindeer</DisplayId>
+	</Object>
+	<Object type="0x2b39" id="Red Nosed Reindeer">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>82</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b38" id="Anniversary Slice Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>79</Index>
+		</AnimatedTexture>
+		<ExtraTooltipData>
+			<EffectInfo name="One Use" description="This pet is one use from the Two Year Celebration."/>
+		</ExtraTooltipData>
+		<SlotType>10</SlotType>
+		<Description>This enchanted cake follows you around the realm. Happy Two Years!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>8</BagType>
+		<Activate objectId="Anniversary Slice">PermaPet</Activate>
+		<Consumable/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Anniversary Slice</DisplayId>
+	</Object>
+	<Object type="0x2b37" id="Anniversary Slice">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>79</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>30</Size>
+	</Object>
+	<Object type="0x2b36" id="Cake Anniversary Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>78</Index>
+		</AnimatedTexture>
+		<ExtraTooltipData>
+			<EffectInfo name="One Use" description="This pet is one use from the Two Year Celebration."/>
+		</ExtraTooltipData>
+		<SlotType>10</SlotType>
+		<Description>This enchanted cake follows you around the realm. Happy Two Years!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>8</BagType>
+		<Activate objectId="Anniversary Cake">PermaPet</Activate>
+		<Consumable/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Anniversary Cake</DisplayId>
+	</Object>
+	<Object type="0x2b35" id="Anniversary Cake">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>78</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>30</Size>
+	</Object>
+	<Object type="0x2b34" id="Golden Ghoul Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>74</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A spooky ghoul made out of gold!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Golden Ghoul">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Golden Ghoul</DisplayId>
+	</Object>
+	<Object type="0x2b33" id="Golden Ghoul">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>74</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b32" id="Wandering Mummy Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>73</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Extra strong ply!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Wandering Mummy">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Wandering Mummy</DisplayId>
+	</Object>
+	<Object type="0x2b31" id="Wandering Mummy">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>73</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b30" id="Jack O Lantern Generator">
+		<DisplayId>Jack O Lantern Generator</DisplayId>
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>26</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Reminds me of something.</Description>
+		<Sound>spell/light_heal</Sound>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Activate objectId="Jack O Lantern">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x2b29" id="Jack O Lantern">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>26</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<LegendPet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x2b28" id="Megunin Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>70</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Megunin!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Megunin">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Megunin</DisplayId>
+	</Object>
+	<Object type="0x2b27" id="Megunin">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>70</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2b26" id="Bat Swarm Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>26</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Summons a swarm of bats.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Bat Swarm">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Bat Swarm</DisplayId>
+	</Object>
+	<Object type="0x2b25" id="Bat Swarm">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>69</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x50ef" id="Haunting Skull Generator">
+		<DisplayId>Haunting Skull Generator</DisplayId>
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>159</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Reminds me of something.</Description>
+		<Sound>spell/light_heal</Sound>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Activate objectId="Haunting Skull">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x50ee" id="Haunting Skull">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>159</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<LegendPet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x50ed" id="Slithering Snake Generator">
+		<DisplayId>Slithering Snake Generator</DisplayId>
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>157</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Reminds me of something.</Description>
+		<Sound>spell/light_heal</Sound>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Activate objectId="Slithering Snake">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x50ec" id="Slithering Snake">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>157</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<LegendPet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x50eb" id="Cyclops Eye Generator">
+		<DisplayId>Cyclops Eye Generator</DisplayId>
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>156</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Reminds me of something.</Description>
+		<Sound>spell/light_heal</Sound>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Activate objectId="Cyclops Eye">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x50ea" id="Cyclops Eye">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>156</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<LegendPet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x2b24" id="Soaring Witch Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>68</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Everyone deserves a chance to fly.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Soaring Witch">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Soaring Witch</DisplayId>
+	</Object>
+	<Object type="0x2b23" id="Soaring Witch">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>68</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x2B22" id="Ducky Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>24</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Quack Quack.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Ducky">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+	</Object>
+	<Object type="0x2B21" id="Ducky">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>24</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2B20" id="Assistant Pepe Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>24</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Pepe Jr.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Assistant Pepe">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+	</Object>
+	<Object type="0x2B19" id="Assistant Pepe">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>24</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>100</Size>
+	</Object>
+	<Object type="0x2B18" id="Floating Vault Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiEnvironment3</File>
+			<Index>0xf8</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Dedicated to Destiny!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Floating Vault">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+	</Object>
+	<Object type="0x2B17" id="Floating Vault">
+		<Class>Character</Class>
+		<Texture>
+			<File>lofiEnvironment3</File>
+			<Index>0xf8</Index>
+		</Texture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+	</Object>
+	<Object type="0x2B16" id="Orbital Pepe Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>23</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Dedicated to Orbit!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Orbital Pepe">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+	</Object>
+	<Object type="0x2B15" id="Orbital Pepe">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>23</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2B14" id="Shroomo Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>5</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A very special magical mushroom. It is real, right?!?</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Shroomo">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Shroomo Generator</DisplayId>
+	</Object>
+	<Object type="0x2B13" id="Shroomo">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>5</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2B12" id="Big Green Glop Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>1</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A large green blob.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Big Green Glop">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Big Green Glop Generator</DisplayId>
+	</Object>
+	<Object type="0x2B11" id="Big Green Glop">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>1</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A99" id="Golden Djinn Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>0</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>This funsized Golden Djinn will follow you into combat! He won't explode though.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Golden Djinn">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Golden Djinn Generator</DisplayId>
+	</Object>
+	<Object type="0x2A98" id="Golden Djinn">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>0</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A97" id="Skull of Bitu Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>22</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Who's is it and why is it following you around? I NEED ANSWERS!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Bitu Skull">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Skull of Bitu Generator</DisplayId>
+	</Object>
+	<Object type="0x2A96" id="Bitu Skull">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>22</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A95" id="Sebs Mystical Dog Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>21</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Its a pomeranian I think maybe.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="White Dog">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>White Dog Generator</DisplayId>
+	</Object>
+	<Object type="0x2A94" id="White Dog">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>21</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A93" id="Xhacks Mask Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>20</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Why don't you put it on?</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Black and Blue Mask">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Mask Generator</DisplayId>
+	</Object>
+	<Object type="0x2A92" id="Black and Blue Mask">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>20</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A91" id="ScottMans Chattering lobster Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>19</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>The lobster's blue coloration is a result of a genetic defect that causes the lobster to produce more of a certain protein than normal.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Blue Lobster">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Blue Lobster Generator</DisplayId>
+	</Object>
+	<Object type="0x2A90" id="Blue Lobster">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>19</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Pet/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A8F" id="Polish Pride Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>18</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Poland has not yet perished, So long as we still live. What the foreign force has taken from us, We shall with sabre retrieve.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Polish Flag">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Polish Pride Generator</DisplayId>
+	</Object>
+	<Object type="0x2A8E" id="Polish Flag">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>18</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A8D" id="Skullz Electriz Rat Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>17</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>It's Pikachu.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Electric Rat">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Skullz Electriz Rat Generator</DisplayId>
+	</Object>
+	<Object type="0x2A8C" id="Electric Rat">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>17</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A8B" id="TehEnds Companion Simon Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>16</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>The best one.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Simon">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>TehEnd's Companion Simon Generator</DisplayId>
+	</Object>
+	<Object type="0x2A8A" id="Simon">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>16</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A89" id="Snipers Vibing Cat Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>15</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>The cat that vibes.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Vibe Cat">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Snipers Vibing Cat Generator</DisplayId>
+	</Object>
+	<Object type="0x2A88" id="Vibe Cat">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>15</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x2A87" id="Produdction Ready Bread Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>14</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Smh my bread.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Bread">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Produdction Ready Bread Generator</DisplayId>
+	</Object>
+	<Object type="0x2A86" id="Bread">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>14</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x1A28" id="Zemagaia's Cursed Snake Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>13</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Hissssssss. This cursed snake is dedicated to Zemagaia.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Zemagaia's Cursed Snake">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>KFC Pet Generator</DisplayId>
+	</Object>
+	<Object type="0x1A27" id="Zemagaia's Cursed Snake">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>13</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x1A26" id="Bucket of KFC Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>11</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<ExtraTooltipData>
+			<EffectInfo name="KFC 2 Piece Meal Deal" description="This one goes out to the King of the Meal Deal."/>
+		</ExtraTooltipData>
+		<Description>This special pet is dedicated to Groovester.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Bucket of KFC">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>KFC Pet Generator</DisplayId>
+	</Object>
+	<Object type="0x1A25" id="Bucket Of KFC">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>pets8x8</File>
+			<Index>11</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Pet/>
+		<Size>150</Size>
+	</Object>
+	<Object type="0x1A23" id="Summer Toucan Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>65</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>BAAAAAWK.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Summer Toucan">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Summer Toucan Generator</DisplayId>
+	</Object>
+	<Object type="0x1A22" id="Summer Toucan">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>65</Index>
+		</AnimatedTexture>
+		<Pet/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x1A21" id="Desert Camel Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>33</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>The Camel had one hump! This trust steady has been all across the Desert.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Desert Camel">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Desert Camel Generator</DisplayId>
+	</Object>
+	<Object type="0x1A15" id="Desert Camel">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>d1chars16x16r</File>
+			<Index>33</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<Pet/>
+		<DazedImmune/>
+		<Size>50</Size>
+	</Object>
+	<Object type="0x40f1" id="Arcanuo Roadster">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>62</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<Pet/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x40e9" id="Stone Gargoyle Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>61</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Generates the infamous Mr. Stoney!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Mr Stoney">PermaPet</Activate>
+		<InvUse/>
+		<ScaleValue>3</ScaleValue>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Stone Gargoyle Generator</DisplayId>
+	</Object>
+	<Object type="0x40e8" id="Mr Stoney">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>61</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Pet/>
+		<Size>60</Size>
+	</Object>
+	<Object type="0x41d4" id="Roadster Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>63</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Skrrrt. Skrrrrt.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Roadster">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Roadster Generator</DisplayId>
+	</Object>
+	<Object type="0x41d3" id="Roadster">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>63</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Pet/>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x41d2" id="Police Cruiser Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>64</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Stop in the name of the law!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Police Cruiser">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Police Cruiser Generator</DisplayId>
+	</Object>
+	<Object type="0x41d1" id="Police Cruiser">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>64</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Pet/>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x40f2" id="Arcanuo Roadster Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>62</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Vrooooooooooooooom.</Description>
+		<Sound>use_potion</Sound>
+		<BagType>10</BagType>
+		<Activate objectId="Arcanuo Roadster">PermaPet</Activate>
+		<InvUse/>
+		<VaultItem/>
+		<ScaleValue>3</ScaleValue>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<DisplayId>Arcanuo Roadster Generator</DisplayId>
+	</Object>
+	<Object type="0x40e1" id="Valentine Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>165</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>A special valentines thank you!</Description>
+		<Sound>use_potion</Sound>
+		<BagType>8</BagType>
+		<Activate objectId="Valentines Heart">PermaPet</Activate>
+		<Consumable/>
+		<Soulbound/>
+		<DisplayId>Valentines Generator</DisplayId>
+	</Object>
+	<Object type="0x39f9" id="Valentines Heart">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>165</Index>
+		</AnimatedTexture>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Z>0.24</Z>
+		<Flying/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x38e9" id="Brain-O-Mac Generator">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>50</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>BRAAAAAAAAAAAAAAAAAAINS.</Description>
+		<Sound>spell/light_heal</Sound>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<ScaleValue>3</ScaleValue>
+		<Activate objectId="Brain-O-Mac 9000">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+		<DisplayId>Brain-O-Mac 9000</DisplayId>
+	</Object>
+	<Object type="0x38e8" id="Brain-O-Mac 9000">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>mountainTempleChars16x16</File>
+			<Index>50</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<Z>0.24</Z>
+		<Flying/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x34d4" id="Red Is Sus Generator">
+		<DisplayId>Red Is Sus Generator</DisplayId>
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>161</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Reminds me of something.</Description>
+		<Sound>spell/light_heal</Sound>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Activate objectId="Red Is Sus">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x34d3" id="Red Is Sus">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>161</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<Size>75</Size>
+	</Object>
+	<Object type="0x34d2" id="Golden Riches Generator">
+		<DisplayId>Golden Riches Generator</DisplayId>
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>160</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Dollar Dollar Bills.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Soulbound/>
+		<InvUse/>
+		<VaultItem/>
+		<Soulbound/>
+		<Cooldown>10</Cooldown>
+		<Activate objectId="Golden Riches">PermaPet</Activate>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x34d1" id="Golden Riches">
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>160</Index>
+		</AnimatedTexture>
+		<NoMiniMap/>
+		<StasisImmune/>
+		<ParalyzeImmune/>
+		<DazedImmune/>
+		<StunImmune/>
+		<SlowImmune/>
+		<Pet/>
+		<Size>75</Size>
+	</Object>
+</Objects>

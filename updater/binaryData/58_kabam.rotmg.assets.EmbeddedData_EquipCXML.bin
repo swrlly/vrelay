@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Objects>
+	<Object type="0x1DD2" id="Santa Hat 2021">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>realmLegendaries8x8Embed</File>
+			<Index>0x36</Index>
+		</Texture>
+		<SlotType>9</SlotType>
+		<Description>Happy Holidays. 2021 Holiday Patch.</Description>
+		<ActivateOnEquip stat="102" amount="1">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>700</feedPower>
+		<Limited/>
+		<DisplayId>Santa Hat - 2021</DisplayId>
+		<Soulbound/>
+	</Object>
+	<Object type="0x1BC2" id="Christmas Grinch - Warrior">
+		<Class>Equipment</Class>
+		<Item/>
+		<AnimatedTexture>
+			<File>playerskins32</File>
+			<Index>3</Index>
+		</AnimatedTexture>
+		<SlotType>10</SlotType>
+		<Description>Unlocks the Christmas Grinch Skin.</Description>
+		<Activate objType="0x8825">UnlockSkin</Activate>
+		<Consumable/>
+		<Limited/>
+<ScaleValue>4</ScaleValue>
+		<BagType>10</BagType>
+		<DisplayId>Christmas Grinch - Warrior</DisplayId>
+	</Object>
+	<Object type="0x1BC1" id="Ability Tracker">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>realmLegendaries8x8Embed</File>
+			<Index>0x3b</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Combine this with a Legendary or greater tier item in the Item Forge to unlock Raid Boss Stat Tracking.</Description>
+		<BagType>8</BagType>
+		<Soulbound/>
+		<Augment/>
+		<DisplayId>Ability Tracker</DisplayId>
+	</Object>
+	<Object type="0x1BB9" id="Kings Mixup Chest">
+		<DisplayId>Kings Mixup Chest</DisplayId>
+		<Class>Character</Class>
+		<Group>Hexable</Group>
+		<Enemy/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xe7</Index>
+		</Texture>
+		<MaxHitPoints>3000000</MaxHitPoints>
+		<Defense>150</Defense>
+		<Size>200</Size>
+		<XpMult>0.0</XpMult>
+		<StasisImmune/>
+	</Object>
 	<Object type="0x1BB8" id="Four Paragons Portal">
 		<Class>Portal</Class>
 		<IntergamePortal/>
@@ -26,34 +91,33 @@
 		<feedPower>230</feedPower>
 		<DisplayId>Four Paragons Key</DisplayId>
 	</Object>
-	
 	<Object type="0x1BA7" id="Helldom Shell">
-        <Class>Equipment</Class>
-        <Item/>
-        <Texture>
-            <File>realmLegendaries8x8Embed</File>
-            <Index>0x1b</Index>
-        </Texture>
-        <SlotType>7</SlotType>
-        <Description>A once serene plate. This armor is a twisted shell of what it once was, pulsating with fiery energy.</Description>
-        <ActivateOnEquip stat="0" amount="200">IncrementStat</ActivateOnEquip>
-        <ActivateOnEquip stat="21" amount="40">IncrementStat</ActivateOnEquip>
-        <ActivateOnEquip stat="28" amount="10">IncrementStat</ActivateOnEquip>
-        <ActivateOnEquip stat="20" amount="10">IncrementStat</ActivateOnEquip>
-        <ActivateOnEquip stat="26" amount="50">IncrementStat</ActivateOnEquip>
-        <ActivateOnEquip stat="27" amount="-20">IncrementStat</ActivateOnEquip>
-        <BagType>11</BagType>
-        <DisplayId>Helldom Shell</DisplayId>
-        <FameBonus>16</FameBonus>
-        <Relic/>
-        <Legend id="91" stat="27">
-            <Name>Unstoppable</Name>
-            <Description>The lower your HP, the more buffs that activate.                                                                        80% HP: +15 Attack and Dexterity Buff.                                         60% HP: +50 Vitality boost.                                                              40% HP: Gain Armored effect.                                                     20% HP: Gain Healing effect.                                                     5% HP: Your Protection bar gets a refill.(60s Cooldown) </Description>
-            <HP>0</HP>
-            <MP>0</MP>
-            <Surge>0</Surge>
-        </Legend>
-    </Object>
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>realmLegendaries8x8Embed</File>
+			<Index>0x1b</Index>
+		</Texture>
+		<SlotType>7</SlotType>
+		<Description>A once serene plate. This armor is a twisted shell of what it once was, pulsating with fiery energy.</Description>
+		<ActivateOnEquip stat="0" amount="200">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="-20">IncrementStat</ActivateOnEquip>
+		<BagType>11</BagType>
+		<DisplayId>Helldom Shell</DisplayId>
+		<FameBonus>16</FameBonus>
+		<Relic/>
+		<Legend id="91" stat="27">
+			<Name>Unstoppable</Name>
+			<Description>The lower your HP, the more buffs that activate.                                                                        80% HP: +15 Attack and Dexterity Buff.                                         60% HP: +50 Vitality boost.                                                              40% HP: Gain Armored effect.                                                     20% HP: Gain Healing effect.                                                     5% HP: Your Protection bar gets a refill.(60s Cooldown) </Description>
+			<HP>0</HP>
+			<MP>0</MP>
+			<Surge>0</Surge>
+		</Legend>
+	</Object>
 	<Object type="0x1BA5" id="Jester's Tattered Cloth">
 		<Class>Equipment</Class>
 		<Item/>
@@ -192,10 +256,10 @@
 			<Index>0x25</Index>
 		</Texture>
 		<SlotType>10</SlotType>
-		<Description>Combine this with a Legendary or greater tier item in the Item Forge to unlock Raid Boss Stat Tracking.</Description>
+		<Description>Combine this with a Legendary or greater tier Ability in the Item Forge to unlock Ability use tracking.</Description>
 		<BagType>8</BagType>
 		<Soulbound/>
-		<Material/>
+		<Augment/>
 		<ExtraTooltipData>
 			<EffectInfo name="Crafting Costs" description=""/>
 			<EffectInfo name="Legendary" description="10000"/>
@@ -647,6 +711,7 @@
 			<File>realmLegendaries8x8Embed</File>
 			<Index>0x14</Index>
 		</Texture>
+		<Augment/>
 		<SlotType>10</SlotType>
 		<Description>This unique item is used to rewrite the very Fabric of the Realm, and grant your weapon a unique name!</Description>
 		<BagType>8</BagType>
@@ -2380,7 +2445,7 @@
 		<SlowImmune/>
 		<Size>75</Size>
 	</Object>
-	<Object type="0x17a4" id="Santa Hat">
+	<Object type="0x17a4" id="Santa Hat 2020">
 		<Class>Equipment</Class>
 		<Item/>
 		<Texture>
@@ -2396,7 +2461,7 @@
 		<BagType>6</BagType>
 		<FameBonus>6</FameBonus>
 		<feedPower>700</feedPower>
-		<DisplayId>Santa Hat</DisplayId>
+		<DisplayId>Santa Hat - 2020</DisplayId>
 		<Soulbound/>
 	</Object>
 	<Object type="0x17a2" id="Staff of Sworn Duty">
@@ -4594,7 +4659,6 @@
 			<LifetimeMS>490</LifetimeMS>
 		</Projectile>
 	</Object>
-
 	<Object type="0x6ed3" id="Trial Chest Therani">
 		<DisplayId>Trial Rewards</DisplayId>
 		<Class>Character</Class>
@@ -6436,6 +6500,7 @@
 		<Class>Character</Class>
 		<Group>Hexable</Group>
 		<Enemy/>
+		<StasisImmune/>
 		<Texture>
 			<File>lofiObj2</File>
 			<Index>0x17d</Index>
@@ -7234,7 +7299,7 @@
 		<BagType>6</BagType>
 		<MpCost>150</MpCost>
 		<Activate effect="Berserk" duration="2">ConditionEffectSelf</Activate>
-		<Activate amount="20" amount2="20" noStack="false">JacketAbility</Activate>
+		<Activate amount="20" amount2="40" noStack="false">JacketAbility</Activate>
 		<Cooldown>4</Cooldown>
 		<Fabled/>
 		<FameBonus>6</FameBonus>
@@ -52557,76 +52622,76 @@
 		<Size>100</Size>
 	</Object>
 	<Object type="0x6af1" id="Blackwood Piercer" setType="0x6af5" setName="Trial of Blackwood Set">
-	<Class>Equipment</Class>
-	<Item/>
-	<Texture>
-		<File>lofiObj2</File>
-		<Index>0x1c0</Index>
-	</Texture>
-	<SlotType>3</SlotType>
-	<Description>This bow was crafted by Therani’s mother herself in belief that it has the power to stop Therani once and for all. This bow does not behave like any other bow I’ve held, might it be the darkroot within the bow?</Description>
-	<RateOfFire>1.25</RateOfFire>
-	<Sound>weapon/double_bow</Sound>
-	<Projectile>
-		<ObjectId>Therani Arrow</ObjectId>
-		<Speed>180</Speed>
-		<MinDamage>380</MinDamage>
-		<MaxDamage>505</MaxDamage>
-		<LifetimeMS>375</LifetimeMS>
-		<Amplitude>0.3</Amplitude>
-		<Frequency>1.1</Frequency>
-		<MultiHit/>
-	</Projectile>
-	<ActivateOnEquip stat="20" amount="-10">IncrementStat</ActivateOnEquip>
-	<BagType>11</BagType>
-	<ArcGap>1</ArcGap>
-	<FameBonus>8</FameBonus>
-	<NumProjectiles>1</NumProjectiles>
-	<OldSound>arrowShoot</OldSound>
-	<feedPower>1200</feedPower>
-	<TrialItem/>
-	<DisplayId>Blackwood Piercer</DisplayId>
-</Object>
-<Object type="0x6af2" id="Darkroot Quiver" setType="0x6af5" setName="Trial of Blackwood Set">
-	<Class>Equipment</Class>
-	<Item/>
-	<Texture>
-		<File>lofiObj2</File>
-		<Index>0x1c1</Index>
-	</Texture>
-	<SlotType>15</SlotType>
-	<Description>This quiver does not seem to accept anything other than darkroot arrows. Maybe Therani’s mages have enchanted it?</Description>
-	<Sound>spell/fire_spray</Sound>
-	<Projectile>
-		<ObjectId>Darkroot Projectile</ObjectId>
-		<Speed>150</Speed>
-		<MinDamage>900</MinDamage>
-		<MaxDamage>2100</MaxDamage>
-		<LifetimeMS>1000</LifetimeMS>
-		<Size>150</Size>
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x1c0</Index>
+		</Texture>
+		<SlotType>3</SlotType>
+		<Description>This bow was crafted by Therani’s mother herself in belief that it has the power to stop Therani once and for all. This bow does not behave like any other bow I’ve held, might it be the darkroot within the bow?</Description>
+		<RateOfFire>1.25</RateOfFire>
+		<Sound>weapon/double_bow</Sound>
+		<Projectile>
+			<ObjectId>Therani Arrow</ObjectId>
+			<Speed>180</Speed>
+			<MinDamage>380</MinDamage>
+			<MaxDamage>505</MaxDamage>
+			<LifetimeMS>375</LifetimeMS>
+			<Amplitude>0.3</Amplitude>
+			<Frequency>1.1</Frequency>
+			<MultiHit/>
+		</Projectile>
+		<ActivateOnEquip stat="20" amount="-10">IncrementStat</ActivateOnEquip>
+		<BagType>11</BagType>
+		<ArcGap>1</ArcGap>
+		<FameBonus>8</FameBonus>
+		<NumProjectiles>1</NumProjectiles>
+		<OldSound>arrowShoot</OldSound>
+		<feedPower>1200</feedPower>
+		<TrialItem/>
+		<DisplayId>Blackwood Piercer</DisplayId>
+	</Object>
+	<Object type="0x6af2" id="Darkroot Quiver" setType="0x6af5" setName="Trial of Blackwood Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x1c1</Index>
+		</Texture>
+		<SlotType>15</SlotType>
+		<Description>This quiver does not seem to accept anything other than darkroot arrows. Maybe Therani’s mages have enchanted it?</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Darkroot Projectile</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>900</MinDamage>
+			<MaxDamage>2100</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>150</Size>
+			<ConditionEffect duration="4">Curse</ConditionEffect>
+			<ConditionEffect duration="2.5">Paralyzed</ConditionEffect>
+			<ParticleTrail>0x325c59</ParticleTrail>
+		</Projectile>
+		<ActivateOnEquip stat="27" amount="8">IncrementStat</ActivateOnEquip>
 		<ConditionEffect duration="4">Curse</ConditionEffect>
 		<ConditionEffect duration="2.5">Paralyzed</ConditionEffect>
-		<ParticleTrail>0x325c59</ParticleTrail>
-	</Projectile>
-	<ActivateOnEquip stat="27" amount="8">IncrementStat</ActivateOnEquip>
-	<ConditionEffect duration="4">Curse</ConditionEffect>
-	<ConditionEffect duration="2.5">Paralyzed</ConditionEffect>
-	<Usable/>
-	<BagType>11</BagType>
-	<FameBonus>8</FameBonus>
-	<MpCost>130</MpCost>
-	<Activate>Shoot</Activate>
-	<Cooldown>4</Cooldown>
-	<feedPower>800</feedPower>
-	<TrialItem/>
-	<DisplayId>Darkroot Quiver</DisplayId>
-</Object>
-<Object type="0x6af3" id="Blackwood Carapace" setType="0x6af5" setName="Trial of Blackwood Set">
-	<Class>Equipment</Class>
-	<Item/>
-	<Texture>
-		<File>lofiObj2</File>
-		<Index>0x1c2</Index>
+		<Usable/>
+		<BagType>11</BagType>
+		<FameBonus>8</FameBonus>
+		<MpCost>130</MpCost>
+		<Activate>Shoot</Activate>
+		<Cooldown>4</Cooldown>
+		<feedPower>800</feedPower>
+		<TrialItem/>
+		<DisplayId>Darkroot Quiver</DisplayId>
+	</Object>
+	<Object type="0x6af3" id="Blackwood Carapace" setType="0x6af5" setName="Trial of Blackwood Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x1c2</Index>
 		</Texture>
 		<SlotType>6</SlotType>
 		<Description>This hide was often mentioned in the tales of the broodbreakers. Who are they? We might never know.</Description>
@@ -52659,5 +52724,250 @@
 		<feedPower>1200</feedPower>
 		<TrialItem/>
 		<DisplayId>Necklace of Therani</DisplayId>
+	</Object>
+	<Object type="0x6af9" id="Santa's Coat">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3c0</Index>
+		</Texture>
+		<SlotType>14</SlotType>
+		<Description/>
+		<ExtraTooltipData>
+			<EffectInfo name="Infinite Knowledge" description="This robe grants immense magic regeneration after a period of time."/>
+		</ExtraTooltipData>
+		<ActivateOnEquip stat="0" amount="220">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="18">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="18">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<EffectEquip effect="Empowered" delay="60"/>
+		<FameBonus>8</FameBonus>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of Robes of Aldragine"/>
+		</ExtraTooltipData>
+		<Limited/>
+		<Steal type="mana" amount="4"/>
+		<DisplayId>Santa's Coat</DisplayId>
+	</Object>
+	<Object type="0x6ba0" id="Santa's Battle Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3c1</Index>
+		</Texture>
+		<SlotType>7</SlotType>
+		<Description>A rare special armor created from the gem of the Eternal Beast.</Description>
+		<ActivateOnEquip stat="0" amount="1000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="-20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="-15">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+		<feedPower>2200</feedPower>
+		<Legend id="4" stat="27">
+			<Name>Titan's Curse</Name>
+			<Description>Using your ability also cost health equal to twice your mana cost.</Description>
+			<HP>0</HP>
+			<MP>0</MP>
+			<Surge>0</Surge>
+		</Legend>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of Drannol's Judgement"/>
+		</ExtraTooltipData>
+		<Limited/>
+		<DisplayId>Santa's Battle Armor</DisplayId>
+	</Object>
+	<Object type="0x6ba1" id="Kurisumasu no Uwagi">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3c2</Index>
+		</Texture>
+		<SlotType>6</SlotType>
+		<Description>A featherweight coat of strange design, seemingly a brittle patchwork of hexed fabric that channels the wearer's physical potential to dangerous extremes.</Description>
+		<ActivateOnEquip stat="20" amount="12">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="112" amount="20">IncrementStat</ActivateOnEquip>
+		<Steal type="mana" amount="2"/>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of Ikari no Uwagi"/>
+		</ExtraTooltipData>
+		<Limited/>
+		<DisplayId>Kurisumasu no Uwagi</DisplayId>
+	</Object>
+	<Object type="0x6ba2" id="Candy Cane Launcher">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d0</Index>
+		</Texture>
+		<SlotType>3</SlotType>
+		<Description>This strange weapon seems designed to launch the contents of the specialized syringe. The exact components of this particular vicious concoction within are hard to discern.</Description>
+		<RateOfFire>1.2</RateOfFire>
+		<Sound>weapon/heavy_crossbow</Sound>
+		<Projectile>
+			<ObjectId>Syringe Liquid Reskin</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>125</MinDamage>
+			<MaxDamage>325</MaxDamage>
+			<LifetimeMS>517</LifetimeMS>
+			<Amplitude>0.4</Amplitude>
+			<Frequency>0.77</Frequency>
+			<Size>85</Size>
+			<ParticleTrail lifetimeMS="85">0x73C758</ParticleTrail>
+		</Projectile>
+		<NumProjectiles>1</NumProjectiles>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<EssenceUpgrade/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of the Protosyphic Launcher"/>
+		</ExtraTooltipData>
+		<Limited/>
+		<OldSound>weapon/heavy_crossbow</OldSound>
+		<DisplayId>Candy Cane Launcher</DisplayId>
+	</Object>
+	<Object type="0x6ba3" id="Syringe Liquid Reskin">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d1</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x6ba4" id="Santa's Piece">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e0</Index>
+		</Texture>
+		<SlotType>3</SlotType>
+		<Description>This enhanced mechanism allows this futuristic device to compress substances into volatile capsules for later use, to lethal effect.</Description>
+		<RateOfFire>1.5</RateOfFire>
+		<Sound>weapon/poison_fang_dagger</Sound>
+		<Projectile>
+			<ObjectId>CShooter Pills Reskin</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>225</MinDamage>
+			<MaxDamage>450</MaxDamage>
+			<LifetimeMS>517</LifetimeMS>
+			<Amplitude>0.25</Amplitude>
+			<Frequency>1.5</Frequency>
+			<Size>85</Size>
+			<CondChance effect="Dazed" chance="2" duration="2"/>
+			<PassesCover/>
+			<MultHit/>
+		</Projectile>
+		<NumProjectiles>1</NumProjectiles>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of the Encapsulator"/>
+		</ExtraTooltipData>
+		<Limited/>
+		<OldSound>weapon/poison_fang_dagger</OldSound>
+		<DisplayId>Santa's Piece</DisplayId>
+	</Object>
+	<Object type="0x6ba5" id="CShooter Pills Reskin">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e1</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x6ba6" id="Spruce Shank">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3f0</Index>
+		</Texture>
+		<SlotType>29</SlotType>
+		<Description>A conduit between the wielder's soul and the verdant lands they guard, this lance is known as the weapon of choice for humanoid templars who dedicate themselves to the natural Realm.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>RuneLance Proj Reskin</ObjectId>
+			<Speed>120</Speed>
+			<MinDamage>425</MinDamage>
+			<MaxDamage>675</MaxDamage>
+			<LifetimeMS>450</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>0.55</Frequency>
+		</Projectile>
+		<ActivateOnEquip stat="22" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="112" amount="25">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+		<OldSound>weapon/blunt_sword</OldSound>
+		<NumProjectiles>1</NumProjectiles>
+		<DisplayId>Spruce Shank</DisplayId>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of Orbis Terrae"/>
+		</ExtraTooltipData>
+		<Limited/>
+	</Object>
+	<Object type="0x6ba7" id="RuneLance Proj Reskin">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3f1</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x6ba8" id="Santa's Mitten">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x400</Index>
+		</Texture>
+		<SlotType>9</SlotType>
+		<Description>A gigantic bracelet worn by Garnet. Wearing this makes you feel like you can strike down anything. Thanks to: Png</Description>
+		<ActivateOnEquip stat="0" amount="150">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="112" amount="35">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of Garnet's Onslaught"/>
+		</ExtraTooltipData>
+		<Limited/>
+	</Object>
+	<Object type="0x6ba9" id="Santa Hat">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x401</Index>
+		</Texture>
+		<SlotType>9</SlotType>
+		<Description>A gigantic bracelet worn by Jade. Wearing this gives you comprehension to unknown energies. Thanks to: Png</Description>
+		<ActivateOnEquip stat="3" amount="300">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="15">IncrementStat</ActivateOnEquip>
+		<Steal type="mana" amount="2"/>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+		<Legendary/>
+		<ExtraTooltipData>
+			<EffectInfo name="Christmas 2021" description="Reskin of Jade's Judgement"/>
+		</ExtraTooltipData>
+		<Limited/>
 	</Object>
 </Objects>

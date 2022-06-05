@@ -1,0 +1,6082 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+	<Object type="0x7461" id="Puppet Master v2">
+		<DisplayId>The Puppet Master</DisplayId>
+		<Class>Character</Class>
+		<Group>Master</Group>
+		<Enemy/>
+		<OryxAspect/>
+		<Boss/>
+		<AnimatedTexture>
+			<File>d3Chars16x16rEmbedAlt</File>
+			<Index>0x02</Index>
+		</AnimatedTexture>
+		<AltTexture id="1">
+			<AnimatedTexture>
+				<File>d3Chars16x16rEmbedAlt</File>
+				<Index>0x01</Index>
+			</AnimatedTexture>
+		</AltTexture>
+		<AltTexture id="2">
+			<AnimatedTexture>
+				<File>d3Chars16x16rEmbedAlt</File>
+				<Index>0x03</Index>
+			</AnimatedTexture>
+		</AltTexture>
+		<HitSound>monster/skeletons_hit</HitSound>
+		<DeathSound>monster/skeletons_death</DeathSound>
+		<Size>140</Size>
+		<ShadowSize>90</ShadowSize>
+		<MaxHitPoints>110000</MaxHitPoints>
+		<Defense>40</Defense>
+		<Exp>1636</Exp>
+		<Level>20</Level>
+		<Quest/>
+		<StasisImmune/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<EventChestBoss/>
+		<Projectile id="0">
+			<ObjectId>Jester Bolt</ObjectId>
+			<Speed>30</Speed>
+			<Damage>150</Damage>
+			<LifetimeMS>5000</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Puppet Green Wheel</ObjectId>
+			<Speed>85</Speed>
+			<Damage>70</Damage>
+			<Size>100</Size>
+			<LifetimeMS>1800</LifetimeMS>
+			<ConditionEffect duration="4">Slowed</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Jester Bolt</ObjectId>
+			<Speed>60</Speed>
+			<Damage>80</Damage>
+			<LifetimeMS>3000</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>Puppet Green Wheel</ObjectId>
+			<Speed>35</Speed>
+			<Damage>55</Damage>
+			<LifetimeMS>7000</LifetimeMS>
+			<Size>80</Size>
+			<ConditionEffect duration="4">Slowed</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>Jester Bolt</ObjectId>
+			<Speed>50</Speed>
+			<Damage>150</Damage>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>140</Size>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x7464" id="Melee Puppet">
+		<DisplayId>Huntress Puppet Statue</DisplayId>
+		<Class>Character</Class>
+		<Group>Statues</Group>
+		<Enemy/>
+		<AnimatedTexture>
+			<File>d3Chars8x8rEmbed</File>
+			<Index>0x02</Index>
+		</AnimatedTexture>
+		<HitSound>monster/skeletons_hit</HitSound>
+		<DeathSound>monster/skeletons_death</DeathSound>
+		<Size>120</Size>
+		<ShadowSize>25</ShadowSize>
+		<MaxHitPoints>60000</MaxHitPoints>
+		<Defense>30</Defense>
+		<XpMult>1.5</XpMult>
+		<Level>20</Level>
+		<StasisImmune/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>65</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>400</LifetimeMS>
+			<Size>60</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x748a" id="Puppet Clone">
+		<DisplayId>Puppet Clone</DisplayId>
+		<Class>Character</Class>
+		<Group>Statues</Group>
+		<Enemy/>
+		<AnimatedTexture>
+			<File>d3Chars8x8rEmbed</File>
+			<Index>0x02</Index>
+		</AnimatedTexture>
+		<HitSound>monster/skeletons_hit</HitSound>
+		<DeathSound>monster/skeletons_death</DeathSound>
+		<Size>120</Size>
+		<ShadowSize>25</ShadowSize>
+		<MaxHitPoints>20000</MaxHitPoints>
+		<Defense>30</Defense>
+		<XpMult>1.5</XpMult>
+		<Level>20</Level>
+		<StasisImmune/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>65</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>400</LifetimeMS>
+			<Size>60</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x7465" id="Huntress Trap">
+		<DisplayId>Huntress Trap</DisplayId>
+		<Class>Character</Class>
+		<Enemy/>
+		<Texture>
+			<File>d3LofiObjEmbed</File>
+			<Index>0x18</Index>
+		</Texture>
+		<MaxHitPoints>30000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>0</XpMult>
+		<Size>40</Size>
+		<ShadowSize>30</ShadowSize>
+		<StasisImmune/>
+		<StunImmune/>
+		<Projectile id="1">
+			<ObjectId>Dark Purple Magic</ObjectId>
+			<Damage>65</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<ConditionEffect duration="3">Slowed</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x746e" id="Range Puppet">
+		<DisplayId>Trickster Puppet Statue</DisplayId>
+		<Class>Character</Class>
+		<Group>Statues</Group>
+		<Enemy/>
+		<AnimatedTexture>
+			<File>d3Chars8x8rEmbed</File>
+			<Index>0x02</Index>
+		</AnimatedTexture>
+		<HitSound>monster/skeletons_hit</HitSound>
+		<DeathSound>monster/skeletons_death</DeathSound>
+		<Size>120</Size>
+		<ShadowSize>25</ShadowSize>
+		<MaxHitPoints>60000</MaxHitPoints>
+		<Defense>30</Defense>
+		<XpMult>1.5</XpMult>
+		<Level>20</Level>
+		<StasisImmune/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>65</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>75</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x7474" id="Status Puppet 1">
+		<DisplayId>Puppet Master Statue A</DisplayId>
+		<Class>Character</Class>
+		<Group>Statue</Group>
+		<Enemy/>
+		<AnimatedTexture>
+			<File>d3Chars8x8rEmbed</File>
+			<Index>0x03</Index>
+		</AnimatedTexture>
+		<HitSound>monster/skeletons_hit</HitSound>
+		<DeathSound>monster/skeletons_death</DeathSound>
+		<Size>120</Size>
+		<ShadowSize>25</ShadowSize>
+		<MaxHitPoints>60000</MaxHitPoints>
+		<Defense>30</Defense>
+		<XpMult>1.5</XpMult>
+		<Level>20</Level>
+		<StasisImmune/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>Yellow Star</ObjectId>
+			<Speed>57</Speed>
+			<Damage>100</Damage>
+			<Size>80</Size>
+			<LifetimeMS>3000</LifetimeMS>
+			<MultiHit/>
+			<ConditionEffect duration="1.5">Confused</ConditionEffect>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>100</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x7489" id="Status Puppet 2">
+		<DisplayId>Puppet Master Statue B</DisplayId>
+		<Class>Character</Class>
+		<Group>Statue</Group>
+		<Enemy/>
+		<AnimatedTexture>
+			<File>d3Chars8x8rEmbed</File>
+			<Index>0x03</Index>
+		</AnimatedTexture>
+		<HitSound>monster/skeletons_hit</HitSound>
+		<DeathSound>monster/skeletons_death</DeathSound>
+		<Size>120</Size>
+		<ShadowSize>25</ShadowSize>
+		<MaxHitPoints>60000</MaxHitPoints>
+		<Defense>30</Defense>
+		<XpMult>1.5</XpMult>
+		<Level>20</Level>
+		<StasisImmune/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>Ice Bullet</ObjectId>
+			<Speed>45</Speed>
+			<Damage>110</Damage>
+			<LifetimeMS>4445</LifetimeMS>
+			<ConditionEffect duration="2">Bleeding</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>100</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x778B" id="AsylumBomb">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumBomb</Id>
+		</RemoteTexture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>500</MaxHitPoints>
+		<Defense>130</Defense>
+		<XpMult>0</XpMult>
+		<Size>80</Size>
+		<ShadowSize>60</ShadowSize>
+		<Projectile id="0">
+			<ObjectId>Asylum Spike2</ObjectId>
+			<Damage>55</Damage>
+			<Speed>55</Speed>
+			<Size>90</Size>
+			<LifetimeMS>1400</LifetimeMS>
+		</Projectile>
+		<DisplayId>{manorOfTheImmortals.RockBomb}</DisplayId>
+	</Object>
+	<Object type="0x778E" id="AsylumLootProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumLootProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Size>125</Size>
+	</Object>
+	<Object type="0x778F" id="AsylumLootBomb">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumLootBomb</Id>
+		</RemoteTexture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>2500</MaxHitPoints>
+		<Defense>100</Defense>
+		<XpMult>0</XpMult>
+		<Size>80</Size>
+		<ShadowSize>60</ShadowSize>
+		<Projectile id="0">
+			<ObjectId>AsylumLootSpike</ObjectId>
+			<Damage>200</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>1400</LifetimeMS>
+		</Projectile>
+		<DisplayId>{manorOfTheImmortals.RockBomb}</DisplayId>
+	</Object>
+	<Object type="0x779A" id="AsylumLootSpike">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumLootSpike</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x779C" id="AsylumStatueProj1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumStatueProj1</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x779D" id="AsylumStatueProj1A">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumStatueProj1A</Id>
+		</RemoteTexture>
+		<Rotation>-80</Rotation>
+	</Object>
+	<Object type="0x779E" id="AsylumStatueProj1B">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumStatueProj1B</Id>
+		</RemoteTexture>
+		<Rotation>80</Rotation>
+	</Object>
+	<Object type="0x779F" id="AsylumStatueProj3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumStatueProj3</Id>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+		<Size>125</Size>
+	</Object>
+	<Object type="0x780D" id="WizzardProj0">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WizzardProj0</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x780E" id="WizzardProj1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WizzardProj1</Id>
+		</RemoteTexture>
+		<Rotation>100</Rotation>
+	</Object>
+	<Object type="0x780F" id="WizzardProj2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WizzardProj2</Id>
+		</RemoteTexture>
+		<Rotation>100</Rotation>
+	</Object>
+	<Object type="0x781A" id="WizzardProj3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WizzardProj3</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x781B" id="WizzardSpawnProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WizzardSpawnProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<!-- Mobs -->
+	<Object type="0x119" id="BedlamGod">
+		<DisplayId>Bedlam - God of Chaos</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BedlamGod</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Defense>200</Defense>
+		<Quest/>
+		<God/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fire Bolt</ObjectId>
+			<Damage>100</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+			<Boomerang/>
+			<Amplitude>1</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Star</ObjectId>
+			<Damage>150</Damage>
+			<Speed>30</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ConditionEffect duration="5">Slowed</ConditionEffect>
+			<MultiHit/>
+			<Boomerang/>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Blade</ObjectId>
+			<Damage>100</Damage>
+			<Speed>150</Speed>
+			<LifetimeMS>450</LifetimeMS>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>Purple Star</ObjectId>
+			<Damage>80</Damage>
+			<Speed>40</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<ConditionEffect duration="5">Blind</ConditionEffect>
+			<ConditionEffect duration="5">Darkness</ConditionEffect>
+			<Size>80</Size>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>BedlamProjectile360</ObjectId>
+			<Damage>120</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>1200</LifetimeMS>
+			<ConditionEffect duration="10">Quiet</ConditionEffect>
+			<Size>125</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x11A" id="Chaos Guardians">
+		<DisplayId>Guardians of Bedlam</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Chaos Guardians</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>80</Size>
+		<MaxHitPoints>5000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>0</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fire Bolt</ObjectId>
+			<Damage>60</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Red Star</ObjectId>
+			<Damage>60</Damage>
+			<Speed>40</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<ConditionEffect duration="1">Paralyzed</ConditionEffect>
+			<ArmorPiercing/>
+			<Size>50</Size>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Blade</ObjectId>
+			<Damage>60</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>500</LifetimeMS>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>Crystal Serpent Missile</ObjectId>
+			<RateOfFire>0.5</RateOfFire>
+			<Speed>50</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>120</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+	</Object>
+	<Object type="0x11D" id="Insane Patient">
+		<DisplayId>Asylum Patient</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Insane Patient</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>player/archer_death</DeathSound>
+		<Size>80</Size>
+		<MaxHitPoints>1500</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Souls1</ObjectId>
+			<Damage>100</Damage>
+			<Speed>30</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+			<ConditionEffect duration="2">Unstable</ConditionEffect>
+			<Size>50</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Red Star</ObjectId>
+			<Damage>50</Damage>
+			<Speed>40</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<ConditionEffect duration="2">Confused</ConditionEffect>
+			<Size>50</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x12E" id="Nurse">
+		<DisplayId>Asylum Patient</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Nurse</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>player/archer_death</DeathSound>
+		<Size>80</Size>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Red Fire</ObjectId>
+			<Speed>160</Speed>
+			<Damage>100</Damage>
+			<LifetimeMS>500</LifetimeMS>
+			<MultiHit/>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Syringe</ObjectId>
+			<Damage>160</Damage>
+			<Speed>60</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<ConditionEffect duration="3">Bleeding</ConditionEffect>
+			<Size>50</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x1471" id="Roach">
+		<DisplayId>Cockroach</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Roach</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>player/archer_death</DeathSound>
+		<Size>50</Size>
+		<MaxHitPoints>800</MaxHitPoints>
+		<Defense>200</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Darkness Bolt</ObjectId>
+			<Damage>50</Damage>
+			<Speed>120</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+			<Size>50</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x777B" id="AsylumEye">
+		<DisplayId>{shatters.shtrs_Blizzard}</DisplayId>
+		<Class>Character</Class>
+		<Group>Archmage Phoenixes</Group>
+		<Enemy/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumEye</Id>
+		</RemoteTexture>
+		<Size>100</Size>
+		<MaxHitPoints>50000</MaxHitPoints>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<Defense>100</Defense>
+		<XpMult>1.25</XpMult>
+		<Projectile id="0">
+			<ObjectId>AsylumMaggotsProj</ObjectId>
+			<Speed>50</Speed>
+			<Damage>150</Damage>
+			<LifetimeMS>4050</LifetimeMS>
+			<ConditionEffect duration="2">Curse</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x777C" id="AsylumMaggots">
+		<DisplayId>{shatters.shtrs_Ice_Shield_2}</DisplayId>
+		<Class>Character</Class>
+		<Group>AsylumEye</Group>
+		<Enemy/>
+		<Size>80</Size>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumMaggots</Id>
+		</RemoteTexture>
+		<MaxHitPoints>1500</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>0</XpMult>
+		<Projectile id="0">
+			<ObjectId>AsylumFly</ObjectId>
+			<Speed>25</Speed>
+			<MinDamage>75</MinDamage>
+			<MaxDamage>150</MaxDamage>
+			<LifetimeMS>3200</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+			<ConditionEffect duration="2">Slowed</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x777D" id="AsylumGuard">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumGuard</Id>
+		</RemoteTexture>
+		<HitSound>monster/elves_death</HitSound>
+		<DeathSound>monster/golems_death</DeathSound>
+		<MaxHitPoints>5000</MaxHitPoints>
+		<Defense>80</Defense>
+		<Size>100</Size>
+		<ShadowSize>60</ShadowSize>
+		<Projectile id="0">
+			<ObjectId>AsylumGuard Attack</ObjectId>
+			<Damage>200</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>3400</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Asylum Spike2</ObjectId>
+			<Damage>200</Damage>
+			<Speed>75</Speed>
+			<Size>80</Size>
+			<LifetimeMS>1400</LifetimeMS>
+		</Projectile>
+		<DisplayId>Asylum Guard</DisplayId>
+	</Object>
+	<Object type="0x778C" id="Bird3">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Bird3</Id>
+		</RemoteTexture>
+		<Size>100</Size>
+		<StasusImmune/>
+		<ArmorBreakImmune/>
+		<StunImmume/>
+		<CurseImmune/>
+		<ParalyzeImmune/>
+		<ShadowSize>40</ShadowSize>
+		<DisplayId>Asylum Guard</DisplayId>
+	</Object>
+	<Object type="0x778D" id="AsylumLootEye">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumLootEye</Id>
+		</RemoteTexture>
+		<Size>100</Size>
+		<MaxHitPoints>30000</MaxHitPoints>
+		<Defense>85</Defense>
+		<Projectile id="0">
+			<ObjectId>AsylumLootProj</ObjectId>
+			<Damage>125</Damage>
+			<Speed>35</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+		</Projectile>
+		<DisplayId>AsylumLootEye</DisplayId>
+	</Object>
+	<Object type="0x779B" id="AsylumStatue">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AsylumStatue</Id>
+		</RemoteTexture>
+		<Size>100</Size>
+		<MaxHitPoints>30000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasusImmune/>
+		<ArmorBreakImmune/>
+		<StunImmume/>
+		<CurseImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>AsylumStatueProj1</ObjectId>
+			<Damage>100</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>600</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>AsylumStatueProj1A</ObjectId>
+			<Damage>85</Damage>
+			<Speed>45</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<MultiHit/>
+			<ConditionEffect duration="2">Confused</ConditionEffect>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>AsylumStatueProj1B</ObjectId>
+			<Damage>85</Damage>
+			<Speed>45</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<MultiHit/>
+			<ConditionEffect duration="2">Confused</ConditionEffect>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>AsylumStatueProj3</ObjectId>
+			<Damage>125</Damage>
+			<Speed>35</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<Boomerang/>
+			<ConditionEffect duration="2">Slowed</ConditionEffect>
+		</Projectile>
+		<DisplayId>AsylumStatue</DisplayId>
+	</Object>
+	<Object type="0x780A" id="Asylum Wizzard">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Asylum Wizzard</Id>
+		</RemoteTexture>
+		<Size>100</Size>
+		<MaxHitPoints>50000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasusImmune/>
+		<ArmorBreakImmune/>
+		<StunImmume/>
+		<CurseImmune/>
+		<ParalyzeImmune/>
+		<Projectile id="0">
+			<ObjectId>WizzardProj0</ObjectId>
+			<Speed>80</Speed>
+			<Damage>100</Damage>
+			<Size>65</Size>
+			<LifetimeMS>1500</LifetimeMS>
+			<ConditionEffect duration="6">Weak</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>WizzardProj1</ObjectId>
+			<Speed>60</Speed>
+			<Damage>110</Damage>
+			<Size>90</Size>
+			<LifetimeMS>1700</LifetimeMS>
+			<MultiHit/>
+			<ConditionEffect duration="1.0">Confused</ConditionEffect>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>WizzardProj2</ObjectId>
+			<Speed>60</Speed>
+			<Damage>120</Damage>
+			<Size>100</Size>
+			<LifetimeMS>1700</LifetimeMS>
+			<MultiHit/>
+			<ConditionEffect duration="8">Slowed</ConditionEffect>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>WizzardProj3</ObjectId>
+			<Speed>47</Speed>
+			<Damage>140</Damage>
+			<Size>150</Size>
+			<LifetimeMS>2400</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<DisplayId>Asylum Wizzard</DisplayId>
+	</Object>
+	<Object type="0x780B" id="Wizzard Clone">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Asylum Wizzard</Id>
+		</RemoteTexture>
+		<HitSound>monster/ghost_god_hit</HitSound>
+		<DeathSound>monster/ghost_god_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Defense>12</Defense>
+		<Level>1</Level>
+		<XpMult>0.1</XpMult>
+		<Projectile id="0">
+			<ObjectId>WizzardProj0</ObjectId>
+			<Speed>70</Speed>
+			<Damage>85</Damage>
+			<Size>50</Size>
+			<LifetimeMS>1500</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<DisplayId>Wizzard Clone</DisplayId>
+	</Object>
+	<Object type="0x780C" id="Wizzard Spawn">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Wizzard Spawn</Id>
+		</RemoteTexture>
+		<HitSound>monster/cyclops_hit</HitSound>
+		<DeathSound>monster/cyclops_death</DeathSound>
+		<Size>60</Size>
+		<MaxHitPoints>6000</MaxHitPoints>
+		<Defense>11</Defense>
+		<Level>1</Level>
+		<XpMult>0.25</XpMult>
+		<Projectile id="0">
+			<ObjectId>WizzardSpawnProj</ObjectId>
+			<Speed>67</Speed>
+			<Damage>70</Damage>
+			<Size>80</Size>
+			<LifetimeMS>2000</LifetimeMS>
+			<ConditionEffect duration="2">Weak</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x6028" id="VorpalSword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>VorpalSword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Crafted with the finest "Muchness"</Description>
+		<RateOfFire>1.6</RateOfFire>
+		<OldSound>weapon/mithril_sword</OldSound>
+		<Projectile>
+			<ObjectId>WonderlandNew4</ObjectId>
+			<Speed>100</Speed>
+			<LifetimeMS>300</LifetimeMS>
+			<MinDamage>210</MinDamage>
+			<MaxDamage>270</MaxDamage>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Vorpal Sword</DisplayId>
+	</Object>
+	<Object type="0x126" id="Rabbit's Foot">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>RabbitsFoot</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>The rabbit is even later now...</Description>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<ActivateOnEquip stat="102" amount="10">IncrementStat</ActivateOnEquip>
+		<feedPower>0</feedPower>
+		<DisplayId>Rabbit's Foot</DisplayId>
+	</Object>
+	<Object type="0x7004" id="Card Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>CardArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>This enchanted armor is made from recycled paper. Remarkably, it is stronger than even mithril, and makes the wearer feel unbeatable.</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="25">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>800</feedPower>
+		<DisplayId>Card Armor</DisplayId>
+	</Object>
+	<Object type="0x6029" id="QueensHead">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QueensHead</Id>
+		</RemoteTexture>
+		<SlotType>19</SlotType>
+		<Description>Off with her head!</Description>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>135</MpCost>
+		<Activate effect="Berserk" duration="3">ConditionEffectSelf</Activate>
+		<Activate radius="5" totalDamage="60">VampireBlast</Activate>
+		<Cooldown>3</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Queens Head</DisplayId>
+	</Object>
+	<Object type="0x7025" id="Wonderland0">
+		<Group>Wonderland Minion</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>wonderland0</Id>
+		</RemoteTexture>
+		<HitSound>monster/default_hit</HitSound>
+		<DeathSound>monster/default_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>1000</MaxHitPoints>
+		<Defense>12</Defense>
+		<Projectile id="0">
+			<ObjectId>White Demon Shot</ObjectId>
+			<Damage>45</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>60</Size>
+			<ArmorPiercing/>
+			<MultiHit/>
+		</Projectile>
+		<DisplayId>Wonderland0</DisplayId>
+	</Object>
+	<Object type="0x793A" id="Wonderland1">
+		<Group>Wonderland Minion</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>wonderland1</Id>
+		</RemoteTexture>
+		<HitSound>monster/default_hit</HitSound>
+		<DeathSound>monster/default_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Defense>30</Defense>
+		<Projectile id="0">
+			<ObjectId>Dark Projectile</ObjectId>
+			<Damage>60</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>60</Size>
+			<ArmorPiercing/>
+		</Projectile>
+		<DisplayId>Wonderland1</DisplayId>
+	</Object>
+	<Object type="0x793B" id="Wonderland2">
+		<Group>Wonderland Minion</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>wonderland2</Id>
+		</RemoteTexture>
+		<HitSound>monster/default_hit</HitSound>
+		<DeathSound>monster/default_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Defense>30</Defense>
+		<Projectile id="0">
+			<ObjectId>Dark Projectile</ObjectId>
+			<Damage>60</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>60</Size>
+			<ArmorPiercing/>
+		</Projectile>
+		<DisplayId>Wonderland2</DisplayId>
+	</Object>
+	<Object type="0x793C" id="Wonderland3">
+		<Group>Wonderland Minion</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>wonderland3</Id>
+		</RemoteTexture>
+		<HitSound>monster/default_hit</HitSound>
+		<DeathSound>monster/default_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Defense>12</Defense>
+		<Projectile id="0">
+			<ObjectId>Stone Slash</ObjectId>
+			<Damage>60</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>70</Size>
+		</Projectile>
+		<DisplayId>Wonderland3</DisplayId>
+	</Object>
+	<Object type="0x125" id="Card Knight Black">
+		<DisplayId>Queens Guard</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Card Knight Black</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>80</Size>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>0</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dark Projectile</ObjectId>
+			<Damage>80</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x11F" id="Card Knight Red">
+		<DisplayId>Queens Guard 2</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Card Knight Red</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>player/archer_death</DeathSound>
+		<Size>80</Size>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>0</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dark Projectile3</ObjectId>
+			<Damage>80</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x6047" id="AngelTea">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AngelTea</Id>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>Tea of Angels</Description>
+		<Sound>use_potion</Sound>
+		<Activate range="6">RemoveNegativeConditions</Activate>
+		<Activate amount="500">Heal</Activate>
+		<Consumable/>
+		<Potion/>
+		<BagType>0</BagType>
+		<feedPower>0</feedPower>
+		<DisplayId>Angel Tea</DisplayId>
+	</Object>
+	<Object type="0x264" id="Tur-Key">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Turkey</Id>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>I hope you're hungry.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Turkey Portal">Create</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Tur-Key</DisplayId>
+	</Object>
+	<!-- Projectiles -->
+	<Object type="0x7040" id="Turkey Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>5080919094329344</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Rotation>90</Rotation>
+	</Object>
+	<Object type="0x7041" id="Turkey Leg Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>6323904540835840</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Rotation>90</Rotation>
+	</Object>
+	<Object type="0x7036" id="Infinity Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>americaProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<!-- Mobs -->
+	<Object type="0x7032" id="Turkey God">
+		<Group>Turkey</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>6057068523945984</Id>
+		</RemoteTexture>
+		<HitSound>monster/chicken_hit</HitSound>
+		<DeathSound>monster/chicken_death</DeathSound>
+		<Sound id="0">monster/chicken_hit</Sound>
+		<MaxHitPoints>50000</MaxHitPoints>
+		<Size>175</Size>
+		<Defense>0</Defense>
+		<XpMult>0.0</XpMult>
+		<Projectile id="0">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>135</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>160</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>240</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>450</LifetimeMS>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>160</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ConditionEffect duration="5">Blind</ConditionEffect>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>160</Damage>
+			<Speed>105</Speed>
+			<LifetimeMS>1200</LifetimeMS>
+		</Projectile>
+		<Projectile id="5">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>160</Damage>
+			<Speed>45</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ConditionEffect duration="3">Quiet</ConditionEffect>
+		</Projectile>
+		<Projectile id="6">
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Damage>160</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+		</Projectile>
+		<Projectile id="7">
+			<ObjectId>Turkey Projectile</ObjectId>
+			<Damage>15</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<ConditionEffect duration="10">Quiet</ConditionEffect>
+		</Projectile>
+		<Projectile id="8">
+			<ObjectId>Turkey Projectile</ObjectId>
+			<Damage>15</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<ConditionEffect duration="10">Weak</ConditionEffect>
+		</Projectile>
+		<StasisImmune/>
+	</Object>
+	<Object type="0x7033" id="Pilgrim">
+		<Group>Turkey</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>6678217062612992</Id>
+		</RemoteTexture>
+		<Size>130</Size>
+		<HitSound>monster/chicken_hit</HitSound>
+		<DeathSound>monster/chicken_death</DeathSound>
+		<Sound id="0">monster/chicken_hit</Sound>
+		<MaxHitPoints>1800</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Bone Dagger Shot</ObjectId>
+			<Speed>90</Speed>
+			<Size>100</Size>
+			<Damage>50</Damage>
+			<LifetimeMS>1800</LifetimeMS>
+			<ConditionEffect duration="3">Confused</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x7034" id="Turkey God Minion">
+		<Group>Turkey</Group>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>5347216931684352</Id>
+		</RemoteTexture>
+		<Size>95</Size>
+		<HitSound>monster/chicken_hit</HitSound>
+		<DeathSound>monster/chicken_death</DeathSound>
+		<Sound id="0">monster/chicken_hit</Sound>
+		<MaxHitPoints>3500</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Chicken Leg</ObjectId>
+			<Speed>90</Speed>
+			<Size>100</Size>
+			<Damage>10</Damage>
+			<LifetimeMS>1800</LifetimeMS>
+			<ConditionEffect duration="3">Confused</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<!-- Drops -->
+	<Object type="0x7035" id="America Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>1023436625</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>America!</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>Infinity Proj</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>180</MaxDamage>
+			<LifetimeMS>380</LifetimeMS>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+		<Undead/>
+		<BagType>8</BagType>
+		<FameBonus>5</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<Shop>
+			<Name>america</Name>
+			<Price>1776</Price>
+		</Shop>
+	</Object>
+	<Object type="0x7037" id="America Shield">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>1023464880</Id>
+		</RemoteTexture>
+		<SlotType>5</SlotType>
+		<Description>America!</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Silver Shield</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>450</MaxDamage>
+			<LifetimeMS>200</LifetimeMS>
+			<Size>140</Size>
+			<ConditionEffect duration="4">Stunned</ConditionEffect>
+			<MultiHit/>
+			<PassesCover/>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="4">IncrementStat</ActivateOnEquip>
+		<ConditionEffect duration="4">Stunned</ConditionEffect>
+		<Usable/>
+		<Undead/>
+		<BagType>8</BagType>
+		<FameBonus>5</FameBonus>
+		<MpCost>110</MpCost>
+		<Activate>Shoot</Activate>
+		<NumProjectiles>7</NumProjectiles>
+		<Shop>
+			<Name>america</Name>
+			<Price>1776</Price>
+		</Shop>
+	</Object>
+	<Object type="0x7038" id="America Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>1007589779</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>America!</Description>
+		<ActivateOnEquip stat="21" amount="17">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<Undead/>
+		<BagType>8</BagType>
+		<FameBonus>5</FameBonus>
+		<Shop>
+			<Name>america</Name>
+			<Price>1776</Price>
+		</Shop>
+	</Object>
+	<Object type="0x7039" id="Turkey Leg of Doom">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>draw</Instance>
+			<Id>6323904540835840</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>A Turkey leg made just on Thanksgiving.</Description>
+		<RateOfFire>0.8</RateOfFire>
+		<Sound>weapon/dirk</Sound>
+		<Size>75</Size>
+		<ScaleValue>3</ScaleValue>
+		<Projectile>
+			<ObjectId>Turkey Leg Projectile</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>45</MinDamage>
+			<MaxDamage>95</MaxDamage>
+			<LifetimeMS>600</LifetimeMS>
+			<Size>110</Size>
+		</Projectile>
+		<BagType>8</BagType>
+		<OldSound>daggerSwing</OldSound>
+		<FameBonus>6</FameBonus>
+	</Object>
+	<Object type="0x147" id="swmp Slug Warrior">
+		<DisplayId>Slug Warrior</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswampslugwarrior</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>5000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Blade</ObjectId>
+			<Damage>100</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>500</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x14A" id="swmp Slug Mage">
+		<DisplayId>Slug Mage</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswampslugmage</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Defense>20</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Purple Magic</ObjectId>
+			<Damage>85</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<Amplitude>2</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+	</Object>
+	<Object type="0x159" id="swmp Mama Toad">
+		<DisplayId>Mama Toad</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswampmamatoad</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>120</Size>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Defense>70</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dragon Attack Green Ball</ObjectId>
+			<Damage>170</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ConditionEffect duration="2">Slowed</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x15A" id="swmp Poisonous Frog">
+		<DisplayId>Poisonous Frog</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswamppfrog</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>90</Size>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Invisible</ObjectId>
+			<Damage>65</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>100</LifetimeMS>
+			<ConditionEffect duration="5">Bleeding</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x15B" id="swmp Venomous Frog">
+		<DisplayId>Venomous Frog</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswampvfrog</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>90</Size>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Ninja Star Wind</ObjectId>
+			<Damage>1</Damage>
+			<Speed>500</Speed>
+			<LifetimeMS>250</LifetimeMS>
+			<ConditionEffect duration="3">Slowed</ConditionEffect>
+			<ConditionEffect duration="5">Sick</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x15C" id="swmp Lizard Rogue">
+		<DisplayId>Lizard Rogue</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswamplizardrogue</Id>
+		</RemoteTexture>
+		<AltTexture id="1">
+			<AnimatedTexture>
+				<File>chars8x8dBeach</File>
+				<Index>2</Index>
+			</AnimatedTexture>
+		</AltTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Blade</ObjectId>
+			<Damage>70</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>500</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x15D" id="swmp Lizard Assassin">
+		<DisplayId>Lizard Assassin</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswamplizardassassin</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+	</Object>
+	<Object type="0x15E" id="swmp Lizard Priest">
+		<DisplayId>Lizard Priest</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswamplizardpriest</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>5000</MaxHitPoints>
+		<Defense>10</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Purple Magic</ObjectId>
+			<Damage>70</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+	<Object type="0x16C" id="swmp Cursed Dragonfly">
+		<DisplayId>Cursed Dragonfly</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswampfly</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>115</Size>
+		<MaxHitPoints>10000</MaxHitPoints>
+		<Defense>50</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Horseman Blast</ObjectId>
+			<Damage>200</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<ConditionEffect duration="5">Bleeding</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x246" id="swmp Swamp Spirit">
+		<DisplayId>Swamp Spirit</DisplayId>
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLswampspirit</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>200</Size>
+		<MaxHitPoints>300000</MaxHitPoints>
+		<Defense>10</Defense>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<StunImmune/>
+		<ParalyzeImmune/>
+		<StasisImmune/>
+		<Projectile id="0">
+			<ObjectId>BellaLeaf</ObjectId>
+			<Size>125</Size>
+			<Damage>100</Damage>
+			<Speed>150</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<ConditionEffect duration="3">Bleeding</ConditionEffect>
+			<ConditionEffect duration="3">Sick</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Eucalyptus</ObjectId>
+			<Size>200</Size>
+			<Damage>175</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ConditionEffect duration="5">Slowed</ConditionEffect>
+			<ConditionEffect duration="2">Dazed</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x25A" id="Moloch Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MoloSword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Curses with every blow , the incantatons you say when wielding it are only heard by those who are being attacked , it banishes there soul with every chant.</Description>
+		<RateOfFire>.85</RateOfFire>
+		<OldSound>weapon/mithril_sword</OldSound>
+		<Projectile>
+			<ObjectId>Moloch Proj</ObjectId>
+			<Speed>130</Speed>
+			<LifetimeMS>310</LifetimeMS>
+			<MinDamage>150</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>10</ArcGap>
+		<FameBonus>6</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>666</feedPower>
+		<DisplayId>Sword of the Flashing Devil</DisplayId>
+		<PlayerExclusive>Moloch</PlayerExclusive>
+	</Object>
+	<Object type="0x25E" id="Moloch Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MoloArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>The thick plating around the light armor allows you to draw your sword quick , which means more slit throats.</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="-10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>666</feedPower>
+		<DisplayId>Armor of the Lizard King</DisplayId>
+		<PlayerExclusive>Moloch</PlayerExclusive>
+	</Object>
+	<Object type="0x260" id="Moloch Shield">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MoloShield</Id>
+		</RemoteTexture>
+		<SlotType>5</SlotType>
+		<Description>Tainted , the shield that was ment to be wielded by the powerful archangel was corrupted and transformed into this tool of unholy anarchy , seems to be made of lizard skin.</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Moloch Proj Two</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>400</MaxDamage>
+			<LifetimeMS>230</LifetimeMS>
+			<Size>140</Size>
+			<ConditionEffect duration="5">Stunned</ConditionEffect>
+			<ConditionEffect duration="5">Curse</ConditionEffect>
+			<MultiHit/>
+			<PassesCover/>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ConditionEffect duration="5">Stunned</ConditionEffect>
+		<ConditionEffect duration="5">Curse</ConditionEffect>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>120</MpCost>
+		<Activate>Shoot</Activate>
+		<NumProjectiles>15</NumProjectiles>
+		<feedPower>666</feedPower>
+		<DisplayId>Shield of the Horridus</DisplayId>
+	</Object>
+	<Object type="0x261" id="Moloch Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MoloRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Your time is here, your time is now, the end is niegh, your fight is now!</Description>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="200">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>666</feedPower>
+		<DisplayId>Ring of Moloch</DisplayId>
+	</Object>
+	<Object type="0x290" id="The Flag Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>TrumpRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Unwavering, this flag symbolizes the great pserver that is nillys realm, and the addition of our new admin TheMemer. Wear it with pride, because with it you'll be able to make NR great again.</Description>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>2</FameBonus>
+		<feedPower>0</feedPower>
+	</Object>
+	<Object type="0x7005" id="Moloch's bammer weed">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>bammerWeed</Id>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>Only God knows where Moloch got this stuff. It looks awful... seriously wtf!?</Description>
+		<Sound>use_potion</Sound>
+		<Consumable/>
+		<BagType>0</BagType>
+		<Activate effect="Hallucinating" duration="60" range="420">ConditionEffectAura</Activate>
+		<feedPower>5</feedPower>
+		<DisplayId>Moloch's bammer weed</DisplayId>
+	</Object>
+	<Object type="0x7075" id="Reapers Darkness">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Darkness</Id>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>Darkness will consume us all....</Description>
+		<Sound>use_potion</Sound>
+		<Consumable/>
+		<BagType>0</BagType>
+		<Activate effect="Darkness" duration="60" range="420">ConditionEffectAura</Activate>
+		<Activate effect="Blind" duration="60" range="420">ConditionEffectAura</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Darkness</DisplayId>
+		<PlayerExclusive>Cyeclops</PlayerExclusive>
+	</Object>
+	<Object type="0x10d" id="Dark Helm">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Helm</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>A Helm made from a dark and evil magic, great damage to your foes comes at a price... A dark price...</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="21" amount="-5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-5">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>45</MpCost>
+		<Activate totalDamage="450" maxTargets="40" condEffect="Slowed" condEfffect="Cursed" condDuration="6" color="0x00FFFF">
+            Lightning
+        </Activate>
+		<Activate effect="Blind" duration="4" range="12">ConditionEffectAura</Activate>
+		<Activate effect="Healing" duration="2" range="12">ConditionEffectAura</Activate>
+		<Activate effect="Armored" duration="6" range="12">ConditionEffectAura</Activate>
+		<Activate effect="berserk" duration="4" range="12">ConditionEffectAura</Activate>
+		<Cooldown>6</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Helm</DisplayId>
+		<PlayerExclusive>Cyeclops</PlayerExclusive>
+	</Object>
+	<Object type="0x7023" id="Hadouken">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>hadouken4</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x6041" id="Souls3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Souls3</Id>
+		</RemoteTexture>
+		<Rotation>65</Rotation>
+	</Object>
+	<Object type="0x6035" id="Souls1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Souls1</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x6044" id="Souls2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Souls2</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x6036" id="Axe">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Axe</Id>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x7097" id="Dark Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Projectile</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x6046" id="Dark Projectile2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Projectile2</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x6037" id="Captain America Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Captain America Projectile</Id>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x6038" id="Fire Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Fire Projectile</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x6045" id="Star">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Star</Id>
+		</RemoteTexture>
+		<Rotation>45</Rotation>
+	</Object>
+	<Object type="0x6040" id="Hammer">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Hammer</Id>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x7051" id="Winter Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Winter Projectile</Id>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x123" id="QueenProj0">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QueenProj0</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x124" id="QueenProj1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QueenProj1</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x127" id="QueenProj2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QueenProj2</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x128" id="QueenProj3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QueenProj3</Id>
+		</RemoteTexture>
+		<Rotation>45</Rotation>
+	</Object>
+	<Object type="0x132" id="Dark Projectile3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Projectile3</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x13e" id="LightSlash">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>T13katanaProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x13d" id="NightSlash">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>T14katanaProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x771B" id="Unholy Arrow">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Arrow</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x771C" id="Phoenix Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Phoenix Projectile</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x771D" id="Unholy Dagger Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Dagger Proj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x771E" id="Unholy Staff Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Staff Proj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x12F" id="Bloodbath Dagger Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Bloodbath Dagger Proj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x772A" id="Ornias Bow Shot">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Ornias Bow Shot</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x772C" id="Unholy Shield Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Shield Proj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x773D" id="Unholy Short Sword Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Short Sword Proj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Rotation>80</Rotation>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x782A" id="Pizza Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Pizza Projectile</Id>
+		</RemoteTexture>
+		<Rotation>80</Rotation>
+		<Size>80</Size>
+	</Object>
+	<Object type="0x788e" id="Janusproj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Janusproj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x795A" id="ShockerProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ProjSteelShocker</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x795B" id="EternalProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EternalProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x796A" id="ProjFrunza">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ProjFrunza</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x797C" id="AvatarProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AvatarProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x798E" id="SottlerProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SottlerProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x22B" id="ProjWandPristine">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ProjWandPristine</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x22A" id="ShrimpProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ShrimpProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Rotation>80</Rotation>
+	</Object>
+	<Object type="0x222" id="MonkProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MonkProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x221" id="LuckyProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>LuckyProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x234" id="FSoFproj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FSoFproj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x23e" id="FTproj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FTproj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x24a" id="SoLLproj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLdaggerProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x262" id="Moloch Proj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MoloProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x263" id="Moloch Proj Two">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MoloProjTwo</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x26D" id="EntmanProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EntmanProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x271" id="EntmanProj2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EntmanProj2</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x279" id="FireStormProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FireStormProj</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x27A" id="BlasterProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BlasterProj</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x27D" id="ZeroSaberProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ZeroSaberProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x28D" id="Ancient Staff Shot">
+		<Class>Projectile</Class>
+		<RandomTexture>
+			<Texture>
+				<File>lofiObj2</File>
+				<Index>0x9a</Index>
+			</Texture>
+			<Texture>
+				<File>lofiObj2</File>
+				<Index>0x8a</Index>
+			</Texture>
+			<Texture>
+				<File>lofiObj2</File>
+				<Index>0x8c</Index>
+			</Texture>
+			<Texture>
+				<File>lofiObj2</File>
+				<Index>0x9c</Index>
+			</Texture>
+		</RandomTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x419" id="Hell Shot">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BloodSwordProj1</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x417" id="HeavenlyHammer">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HeavenlyHammer</Id>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x24E" id="Rip Emote">
+		<DisplayId>Rip Emote</DisplayId>
+		<Description>This item will unlock you the :rip: emote.</Description>
+		<Class>Equipment</Class>
+		<SlotType>10</SlotType>
+		<Texture>
+			<File>lofiChar28x8</File>
+			<Index>0x6f</Index>
+		</Texture>
+		<Activate id=":rip:">UnlockEmote</Activate>
+		<Consumable/>
+		<feedPower>100</feedPower>
+	</Object>
+	<!-- Mob -->
+	<Object type="0x129" id="Boshy">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Boshy</Id>
+		</RemoteTexture>
+		<HitSound>monster/Boshy_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>150</Size>
+		<MaxHitPoints>100000</MaxHitPoints>
+		<Defense>60</Defense>
+		<Quest/>
+		<God/>
+		<PerRealmMax>1</PerRealmMax>
+		<StasisImmune/>
+		<Level>20</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>BoshyProj</ObjectId>
+			<Damage>130</Damage>
+			<Speed>65</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>40</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>BoshyProj</ObjectId>
+			<Damage>90</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>40</Size>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>BoshyProj</ObjectId>
+			<Damage>150</Damage>
+			<Speed>65</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>60</Size>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>BoshyProj</ObjectId>
+			<Damage>250</Damage>
+			<Speed>40</Speed>
+			<LifetimeMS>10000</LifetimeMS>
+			<ConditionEffect duration="4">Slowed</ConditionEffect>
+			<MultiHit/>
+			<Size>50</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x12B" id="Boshy Minion">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Boshy</Id>
+		</RemoteTexture>
+		<HitSound>monster/Boshy_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>40</Size>
+		<MaxHitPoints>5000</MaxHitPoints>
+		<Defense>40</Defense>
+		<God/>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>BoshyProj</ObjectId>
+			<Damage>120</Damage>
+			<Speed>65</Speed>
+			<LifetimeMS>17500</LifetimeMS>
+			<Size>40</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>BoshyProj</ObjectId>
+			<Damage>90</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>17500</LifetimeMS>
+			<Size>40</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x135" id="The Kid">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Kid</Id>
+		</RemoteTexture>
+		<HitSound>monster/Boshy_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Defense>90</Defense>
+		<Quest/>
+		<God/>
+		<PerRealmMax>1</PerRealmMax>
+		<StasisImmune/>
+		<Level>20</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<Boomerang/>
+			<MultiHit/>
+			<ObjectId>KidProj</ObjectId>
+			<Damage>150</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>KidProj</ObjectId>
+			<Damage>100</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<Size>100</Size>
+			<ConditionEffect duration="2">Confused</ConditionEffect>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>KidProj</ObjectId>
+			<Damage>80</Damage>
+			<Speed>180</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>KidProj1</ObjectId>
+			<Damage>300</Damage>
+			<Speed>20</Speed>
+			<LifetimeMS>15000</LifetimeMS>
+			<MultiHit/>
+			<Size>140</Size>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>KidProj</ObjectId>
+			<Damage>10</Damage>
+			<Speed>50</Speed>
+			<LifetimeMS>10000</LifetimeMS>
+			<ConditionEffect duration="4">Confused</ConditionEffect>
+			<MultiHit/>
+			<Size>100</Size>
+		</Projectile>
+	</Object>
+	<!-- Projectiles -->
+	<Object type="0x12A" id="BoshyProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BoshyProj</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x134" id="KidProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>KidProj</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x136" id="KidProj1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>KidProj1</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x258" id="Lunar Capital Bell">
+		<Class>GameObject</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FoodBell</Id>
+		</RemoteTexture>
+		<HitSound>monster/trees_hit</HitSound>
+		<DeathSound>monster/tress_death</DeathSound>
+		<MaxHitPoints>1000</MaxHitPoints>
+		<MinSize>130</MinSize>
+		<MaxSize>160</MaxSize>
+		<SizeStep>5</SizeStep>
+		<Static/>
+		<XpMult>0.0</XpMult>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x259" id="Lunar Capital Tree">
+		<Class>GameObject</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FoodTree</Id>
+		</RemoteTexture>
+		<HitSound>monster/trees_hit</HitSound>
+		<DeathSound>monster/tress_death</DeathSound>
+		<MaxHitPoints>1000</MaxHitPoints>
+		<MinSize>130</MinSize>
+		<MaxSize>160</MaxSize>
+		<SizeStep>5</SizeStep>
+		<Static/>
+		<XpMult>0.0</XpMult>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x27E" id="Fanatic of Chaos">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FanaticChaos</Id>
+		</RemoteTexture>
+		<HitSound>monster/abyss_demons_hit</HitSound>
+		<DeathSound>monster/abyss_demons_death</DeathSound>
+		<Size>100</Size>
+		<Hero/>
+		<Quest/>
+		<God/>
+		<Encounter/>
+		<Level>20</Level>
+		<PerRealmMax>1</PerRealmMax>
+		<StasisImmune/>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Defense>60</Defense>
+		<Projectile id="0">
+			<ObjectId>Dye 1</ObjectId>
+			<Speed>70</Speed>
+			<Damage>100</Damage>
+			<Size>100</Size>
+			<LifetimeMS>1300</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Dye 2</ObjectId>
+			<Speed>140</Speed>
+			<Damage>60</Damage>
+			<Size>80</Size>
+			<LifetimeMS>1000</LifetimeMS>
+			<PassesCover/>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Dye 3</ObjectId>
+			<Speed>50</Speed>
+			<Damage>150</Damage>
+			<Size>150</Size>
+			<LifetimeMS>2000</LifetimeMS>
+			<PassesCover/>
+			<ConditionEffect duration="5.0">Slowed</ConditionEffect>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>Door 1</ObjectId>
+			<Speed>60</Speed>
+			<Damage>150</Damage>
+			<Size>150</Size>
+			<LifetimeMS>2000</LifetimeMS>
+			<ConditionEffect duration="5.0">Dazed</ConditionEffect>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>Door 2</ObjectId>
+			<Speed>120</Speed>
+			<Damage>200</Damage>
+			<Size>200</Size>
+			<LifetimeMS>1000</LifetimeMS>
+			<PassesCover/>
+		</Projectile>
+		<Projectile id="5">
+			<ObjectId>Cat 1</ObjectId>
+			<Speed>100</Speed>
+			<Damage>50</Damage>
+			<Size>100</Size>
+			<LifetimeMS>1000</LifetimeMS>
+			<PassesCover/>
+		</Projectile>
+		<Projectile id="6">
+			<ObjectId>Cat 2</ObjectId>
+			<Speed>100</Speed>
+			<Damage>100</Damage>
+			<Size>120</Size>
+			<LifetimeMS>1000</LifetimeMS>
+			<PassesCover/>
+		</Projectile>
+		<Projectile id="7">
+			<ObjectId>Cat 3</ObjectId>
+			<Speed>100</Speed>
+			<Damage>150</Damage>
+			<Size>140</Size>
+			<LifetimeMS>1000</LifetimeMS>
+			<PassesCover/>
+		</Projectile>
+	</Object>
+	<Object type="0x27F" id="Fluffy">
+		<Enemy/>
+		<Class>Character</Class>
+		<StasisImmune/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Fluffy</Id>
+		</RemoteTexture>
+		<HitSound>monster/flying_brain_hit</HitSound>
+		<DeathSound>monster/flying_brain_death</DeathSound>
+		<Size>200</Size>
+		<MaxHitPoints>30000</MaxHitPoints>
+		<Defense>15</Defense>
+		<Projectile id="0">
+			<ObjectId>Shadow Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ConditionEffect duration="3.0">Blind</ConditionEffect>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Blood Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ArmorPiercing/>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Ice Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ConditionEffect duration="3.0">Slowed</ConditionEffect>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>Smoke Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ConditionEffect duration="3.0">Weak</ConditionEffect>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>Shadow Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>750</LifetimeMS>
+			<ConditionEffect duration="3.0">Blind</ConditionEffect>
+			<Amplitude>.1</Amplitude>
+			<Frequency>.5</Frequency>
+		</Projectile>
+		<Projectile id="5">
+			<ObjectId>Blood Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>750</LifetimeMS>
+			<Amplitude>.1</Amplitude>
+			<Frequency>.5</Frequency>
+			<ArmorPiercing/>
+		</Projectile>
+		<Projectile id="6">
+			<ObjectId>Ice Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>750</LifetimeMS>
+			<ConditionEffect duration="3.0">Slowed</ConditionEffect>
+			<Amplitude>.1</Amplitude>
+			<Frequency>.5</Frequency>
+		</Projectile>
+		<Projectile id="7">
+			<ObjectId>Smoke Blitz</ObjectId>
+			<Damage>50</Damage>
+			<Speed>75</Speed>
+			<LifetimeMS>750</LifetimeMS>
+			<ConditionEffect duration="3.0">Weak</ConditionEffect>
+			<Amplitude>.1</Amplitude>
+			<Frequency>.5</Frequency>
+		</Projectile>
+	</Object>
+	<Object type="0x280" id="Dye 1">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiObj3</File>
+			<Index>0x10</Index>
+		</Texture>
+		<Rotation>120</Rotation>
+	</Object>
+	<Object type="0x281" id="Dye 2">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiObj3</File>
+			<Index>0x11</Index>
+		</Texture>
+		<Rotation>90</Rotation>
+	</Object>
+	<Object type="0x282" id="Dye 3">
+		<Class>Projectile</Class>
+		<RandomTexture>
+			<Texture>
+				<File>lofiObj3</File>
+				<Index>0x12</Index>
+			</Texture>
+			<Texture>
+				<File>lofiObj3</File>
+				<Index>0x16</Index>
+			</Texture>
+			<Texture>
+				<File>lofiObj3</File>
+				<Index>0x14</Index>
+			</Texture>
+		</RandomTexture>
+		<Rotation>90</Rotation>
+	</Object>
+	<Object type="0x283" id="Door 1">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiObj3</File>
+			<Index>0x33f</Index>
+		</Texture>
+		<Amplitude>.5</Amplitude>
+		<Frequency>1</Frequency>
+		<Rotation>120</Rotation>
+	</Object>
+	<Object type="0x284" id="Door 2">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiEnvironment2</File>
+			<Index>0x54</Index>
+		</Texture>
+		<Rotation>150</Rotation>
+	</Object>
+	<Object type="0x285" id="Cat 1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BlackCat</Id>
+		</RemoteTexture>
+		<Rotation>50</Rotation>
+	</Object>
+	<Object type="0x286" id="Cat 2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>OrangeCat</Id>
+		</RemoteTexture>
+		<Rotation>50</Rotation>
+	</Object>
+	<Object type="0x287" id="Cat 3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GreyCat</Id>
+		</RemoteTexture>
+		<Rotation>50</Rotation>
+	</Object>
+	<Object type="0x288" id="Shadow Blitz">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ShadowBlitz</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x289" id="Blood Blitz">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BloodBlitz</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x28A" id="Ice Blitz">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>IceBlitz</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x28B" id="Smoke Blitz">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SmokeBlitz</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<!-- Mob -->
+	<Object type="0x26E" id="Megaman">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Megaman</Id>
+		</RemoteTexture>
+		<HitSound>monster/megaman_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Defense>90</Defense>
+		<Quest/>
+		<God/>
+		<PerRealmMax>1</PerRealmMax>
+		<StasisImmune/>
+		<Level>20</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<MultiHit/>
+			<ObjectId>BlasterProj</ObjectId>
+			<Damage>120</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>100</Size>
+			<ConditionEffect duration="1">Sick</ConditionEffect>
+		</Projectile>
+		<Projectile id="1">
+			<MultiHit/>
+			<ObjectId>BlasterProj</ObjectId>
+			<Damage>200</Damage>
+			<Speed>120</Speed>
+			<LifetimeMS>4000</LifetimeMS>
+			<Size>125</Size>
+			<ConditionEffect duration="1">Quiet</ConditionEffect>
+		</Projectile>
+		<Projectile id="2">
+			<MultiHit/>
+			<ObjectId>BlasterProj</ObjectId>
+			<Damage>250</Damage>
+			<Speed>20</Speed>
+			<LifetimeMS>20000</LifetimeMS>
+			<Size>140</Size>
+			<ConditionEffect duration="2">Blind</ConditionEffect>
+			<ConditionEffect duration="2">Confused</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x274" id="MegamanGreen">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MegamanG</Id>
+		</RemoteTexture>
+		<HitSound>monster/megaman_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>100</Size>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Defense>90</Defense>
+		<Quest/>
+		<God/>
+		<PerRealmMax>1</PerRealmMax>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<MultiHit/>
+			<ObjectId>MegamanProj</ObjectId>
+			<Damage>150</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<Projectile id="1">
+			<MultiHit/>
+			<ObjectId>MegamanProjGreen</ObjectId>
+			<Damage>220</Damage>
+			<Speed>120</Speed>
+			<LifetimeMS>4000</LifetimeMS>
+			<Amplitude>1</Amplitude>
+			<Frequency>1</Frequency>
+			<Size>100</Size>
+		</Projectile>
+		<Projectile id="2">
+			<MultiHit/>
+			<ObjectId>MegamanProjGreen</ObjectId>
+			<Damage>250</Damage>
+			<Speed>20</Speed>
+			<LifetimeMS>20000</LifetimeMS>
+			<Size>110</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x275" id="MegamanGreenEnnemy">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MegamanGreenEnnemy</Id>
+		</RemoteTexture>
+		<HitSound>monster/megaman_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>70</Size>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Invisible</ObjectId>
+			<Damage>20</Damage>
+			<Speed>130</Speed>
+			<LifetimeMS>100</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x273" id="MegamanShield">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MegamanShield</Id>
+		</RemoteTexture>
+		<HitSound>monster/megaman_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>70</Size>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Defense>100</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Assassin Swipe</ObjectId>
+			<Damage>100</Damage>
+			<Speed>130</Speed>
+			<LifetimeMS>500</LifetimeMS>
+			<Size>100</Size>
+			<ConditionEffect duration="1">Bleeding</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x272" id="MegamanPinkThing">
+		<Enemy/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MegamanPinkThing</Id>
+		</RemoteTexture>
+		<HitSound>monster/megaman_hit</HitSound>
+		<DeathSound>monster/Boshy_death</DeathSound>
+		<Size>70</Size>
+		<MaxHitPoints>6000</MaxHitPoints>
+		<Defense>30</Defense>
+		<StasisImmune/>
+		<Level>1</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Rainbow Brick</ObjectId>
+			<Damage>40</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>500</LifetimeMS>
+			<Size>100</Size>
+			<ConditionEffect duration="1">Confused</ConditionEffect>
+		</Projectile>
+	</Object>
+	<!-- Projectiles -->
+	<Object type="0x270" id="MegamanProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MegamanProj</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x276" id="MegamanProjGreen">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MegamanProjGreen</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x1EF" id="Crimson Dagger of Tartarus">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>CrimsonDaggerOfTartarus</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>Forged in the deep pits of Tartarus, this dagger alone could slay even the the mightiest of titans.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/fire_dagger</Sound>
+		<Projectile>
+			<ObjectId>CrimsonDaggerOfTartarusProj</ObjectId>
+			<Speed>180</Speed>
+			<MinDamage>105</MinDamage>
+			<MaxDamage>210</MaxDamage>
+			<LifetimeMS>249</LifetimeMS>
+		</Projectile>
+		<ActivateOnEquip stat="27" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>950</feedPower>
+		<DisplayId>Crimson Dagger of Tartarus</DisplayId>
+	</Object>
+	<Object type="0x1F0" id="CrimsonDaggerOfTartarusProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>CrimsonDaggerOfTartarusProj</Id>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x1FB" id="Wand of the Curetes">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WandOfTheCuretes</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>In order to protect the champion of the sky, in his youth the Curetes used this wand to make an unbreakable barrier. A true unstappable force.</Description>
+		<RateOfFire>0.33</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>WandOfTheCuretesProj</ObjectId>
+			<Speed>6</Speed>
+			<MinDamage>300</MinDamage>
+			<MaxDamage>400</MaxDamage>
+			<LifetimeMS>11000</LifetimeMS>
+			<Parametric/>
+			<PassesCover/>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<OldSound>magicShoot</OldSound>
+		<feedPower>650</feedPower>
+		<DisplayId>Wand of the Curetes</DisplayId>
+	</Object>
+	<Object type="0x203" id="WandOfTheCuretesProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WandOfTheCuretesProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Rotation>80</Rotation>
+	</Object>
+	<Object type="0x20A" id="Quiver of Demonic Rage">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QuiverOfDemonicRage</Id>
+		</RemoteTexture>
+		<SlotType>15</SlotType>
+		<Description>Turn your fear into anger, turn your anger into strength, and turn your strength into power. It doesn't matter how hard you fall, it matters that you get back up.</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>QuiverOfDemonicRageProj</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>310</MinDamage>
+			<MaxDamage>360</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>150</Size>
+			<ConditionEffect duration="4">Dazed</ConditionEffect>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ConditionEffect duration="4">Dazed</ConditionEffect>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>100</MpCost>
+		<Activate>Shoot</Activate>
+		<Cooldown>6</Cooldown>
+		<feedPower>800</feedPower>
+		<DisplayId>Quiver of Demonic Rage</DisplayId>
+	</Object>
+	<Object type="0x20B" id="QuiverOfDemonicRageProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>QuiverOfDemonicRageProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x20C" id="Bow of the Hesperides">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BowOfTheHesperides</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>A bow embodied by the Hesperides, and the only weapon swift enough to slay hydras before they grow new heads.</Description>
+		<RateOfFire>1.25</RateOfFire>
+		<Sound>weapon/double_bow</Sound>
+		<Projectile>
+			<ObjectId>BowOfTheHesperidesProj</ObjectId>
+			<Speed>185</Speed>
+			<MinDamage>60</MinDamage>
+			<MaxDamage>80</MaxDamage>
+			<LifetimeMS>420</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<OldSound>arrowShoot</OldSound>
+		<feedPower>1200</feedPower>
+		<DisplayId>Bow of the Hesperides</DisplayId>
+	</Object>
+	<Object type="0x210" id="BowOfTheHesperidesProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BowOfTheHesperidesProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Size>70</Size>
+	</Object>
+	<Object type="0x25F" id="Staff of the Curved Beak">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Hallostaff</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<Description>It disturbes you to think about where you got the beak on the end of your staff. Sometimes you swear you can see it looking at you.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>HalloweenProjTwo</ObjectId>
+			<Speed>180</Speed>
+			<MinDamage>55</MinDamage>
+			<MaxDamage>100</MaxDamage>
+			<LifetimeMS>475</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<BagType>4</BagType>
+		<FameBonus>3</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>0</ArcGap>
+		<Soulbound/>
+		<OldSound>magicShoot</OldSound>
+		<feedPower>310</feedPower>
+		<DisplayId>Staff of the Curved Beak</DisplayId>
+	</Object>
+	<Object type="0x251" id="HalloweenProj">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HalloProj</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x25C" id="HalloweenProjTwo">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HalloProjTwo</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x252" id="Death Bringing Spell">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HalloSpell</Id>
+		</RemoteTexture>
+		<SlotType>11</SlotType>
+		<Description>This spell has brought death to everyone around it except the user. Better be carful where I place it.</Description>
+		<Sound>spell/magic_nova</Sound>
+		<Projectile>
+			<ObjectId>HalloweenProj</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>90</MinDamage>
+			<MaxDamage>155</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+		<Soulbound/>
+		<Usable/>
+		<BagType>4</BagType>
+		<FameBonus>3</FameBonus>
+		<MpCost>80</MpCost>
+		<Activate>BulletNova</Activate>
+		<feedPower>185</feedPower>
+		<DisplayId>Death Bringing Spell</DisplayId>
+	</Object>
+	<Object type="0x253" id="Stained Blood Robe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HalloRobe</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description>It's drenched in blood, heaven knows what whoever owned this before was using it for.</Description>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<Soulbound/>
+		<feedPower>308</feedPower>
+		<DisplayId>Stained Blood Robe</DisplayId>
+	</Object>
+	<Object type="0x254" id="Pigeon's Eye Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HalloRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Soulbound/>
+		<Description>You try not to think about what you are wearing on your finger. But it gives you health so why not use it?</Description>
+		<ActivateOnEquip stat="0" amount="140">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>300</feedPower>
+		<DisplayId>Pigeon's Eye Ring</DisplayId>
+	</Object>
+	<Object type="0x772F" id="Unholy Quiver">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Quiver</Id>
+		</RemoteTexture>
+		<SlotType>15</SlotType>
+		<Description>Hordes of Unholy archers came in the thousands, destroying all from a distance with poisoned arrows</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Unholy Arrow</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>375</MinDamage>
+			<MaxDamage>425</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>150</Size>
+			<ConditionEffect duration="7">Paralyzed</ConditionEffect>
+			<ConditionEffect duration="7">Curse</ConditionEffect>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>120</MpCost>
+		<Activate>Shoot</Activate>
+		<Cooldown>6</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Quiver</DisplayId>
+	</Object>
+	<Object type="0x773A" id="Unholy Seal">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Seal</Id>
+		</RemoteTexture>
+		<SlotType>12</SlotType>
+		<Description>A seal that summons power from the undead</Description>
+		<Sound>spell/light_heal</Sound>
+		<ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>120</MpCost>
+		<Activate stat="21" amount="60" duration="3" range="4" noStack="true" useWisMod="true">StatBoostAura</Activate>
+		<Activate effect="Healing" duration="2.5" range="4" useWisMod="true">ConditionEffectAura</Activate>
+		<Activate effect="Damaging" duration="3" range="4" useWisMod="true">ConditionEffectAura</Activate>
+		<Activate effect="Invulnerable" duration="1.3" range="4" useWisMod="true">ConditionEffectSelf</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Seal</DisplayId>
+	</Object>
+	<Object type="0x773B" id="Unholy Helm">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Helm</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>Undead soldiers, summoned to fight the great battle, would wear impenetrable helms..</Description>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>120</MpCost>
+		<Activate effect="Berserk" duration="6" range="4">ConditionEffectAura</Activate>
+		<Activate effect="Speedy" duration="6" range="4">ConditionEffectAura</Activate>
+		<Activate effect="Invulnerable" duration="1.5" range="4">ConditionEffectAura</Activate>
+		<Cooldown>7</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Helm</DisplayId>
+	</Object>
+	<Object type="0x773C" id="Unholy Short Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Short Sword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Short swords used by undead soldiers, were high in numbers, and were often thrown, impaling enemies all across the battlefield</Description>
+		<RateOfFire>0.8</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>Unholy Short Sword Proj</ObjectId>
+			<Speed>80</Speed>
+			<MinDamage>280</MinDamage>
+			<MaxDamage>350</MaxDamage>
+			<LifetimeMS>630</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Short Sword</DisplayId>
+	</Object>
+	<Object type="0x773E" id="Unholy Cloak">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Cloak</Id>
+		</RemoteTexture>
+		<SlotType>13</SlotType>
+		<Description>Skilled and deadly rogue thiefs, would be sent to infiltrate enemy headquarters and recover information on planned attacks, these unholy cloaks served well in these times.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>120</MpCost>
+		<Activate effect="Invisible" duration="6">ConditionEffectSelf</Activate>
+		<Activate effect="Speedy" duration="2">ConditionEffectSelf</Activate>
+		<Activate maxDistance="10">Teleport</Activate>
+		<Cooldown>6.5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Cloak</DisplayId>
+	</Object>
+	<Object type="0x7052" id="Boshy Gun">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BoshyGun</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>It was Boshy Time</Description>
+		<RateOfFire>0.5</RateOfFire>
+		<OldSound>weapon/boshy_gun</OldSound>
+		<Projectile>
+			<ObjectId>BoshyProj</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>50</MinDamage>
+			<MaxDamage>70</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<Size>40</Size>
+			<MultiHit/>
+			<PassesCover/>
+		</Projectile>
+		<NumProjectiles>5</NumProjectiles>
+		<ArcGap>5</ArcGap>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<Soulbound/>
+		<DisplayId>Boshy Gun</DisplayId>
+	</Object>
+	<Object type="0x15F" id="Flaming Boomerang">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FlamingBoomerang</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>You sometimes wish it wouldn't come back. </Description>
+		<RateOfFire>.5</RateOfFire>
+		<Sound>weapon/double_bow</Sound>
+		<Projectile>
+			<ObjectId>Fire Boomerang</ObjectId>
+			<Speed>200</Speed>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<LifetimeMS>800</LifetimeMS>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>1</Frequency>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<OldSound>arrowShoot</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Flaming Boomerang</DisplayId>
+	</Object>
+	<Object type="0x781F" id="Pizza Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Pizza Sword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Pizza Sword!!!.... Ummm.. hmm.</Description>
+		<RateOfFire>0.8</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>Pizza Projectile</ObjectId>
+			<Speed>80</Speed>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>250</MaxDamage>
+			<LifetimeMS>630</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Pizza Sword</DisplayId>
+	</Object>
+	<Object type="0x782B" id="Pizza Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Pizza Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>A ring made from the yummiest Pizza in town.</Description>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Pizza Ring</DisplayId>
+	</Object>
+	<Object type="0x782C" id="Pizza Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Pizza Armor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>Pizza Armor, made of Pizza :D err.</Description>
+		<ActivateOnEquip stat="21" amount="16">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="2">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Pizza Armor</DisplayId>
+	</Object>
+	<Object type="0x782D" id="Pizza Helm">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Pizza Helm</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>Pizza Helm.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>80</MpCost>
+		<Activate effect="Berserk" duration="5" range="5">ConditionEffectAura</Activate>
+		<Activate effect="Armored" duration="3" range="5">ConditionEffectAura</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Pizza Helm</DisplayId>
+	</Object>
+	<Object type="0x788A" id="Bow of Janus rage">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Janusbow</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>Janus the Doorwaden gave gifts to who could defeat him. This bow has got lucky ones.</Description>
+		<RateOfFire>0.35</RateOfFire>
+		<Sound>weapon/poor_quality_bow</Sound>
+		<Projectile>
+			<ObjectId>Janusproj</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>100</MinDamage>
+			<MaxDamage>150</MaxDamage>
+			<LifetimeMS>410</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<NumProjectiles>4</NumProjectiles>
+		<ArcGap>4</ArcGap>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>5</feedPower>
+		<DisplayId>Bow of Janus rage</DisplayId>
+	</Object>
+	<Object type="0x788b" id="Warden Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Janusarmor</Id>
+		</RemoteTexture>
+		<SlotType>6</SlotType>
+		<Description>Stange eye staring at me from the inside...</Description>
+		<ActivateOnEquip stat="3" amount="25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Warden Armor</DisplayId>
+	</Object>
+	<Object type="0x788c" id="Eye of Janus">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Janusring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Why is this sparkling eye still alive ? Thanks to petrovlolo to made this set</Description>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="-6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Eye of Janus</DisplayId>
+	</Object>
+	<Object type="0x788d" id="Key of Rage">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Janustrap</Id>
+		</RemoteTexture>
+		<SlotType>20</SlotType>
+		<Description>When Janus threw their keys -one different from the other, and lay motionless and quietly called me...</Description>
+		<ActivateOnEquip stat="20" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="-2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>135</MpCost>
+		<Activate radius="5" totalDamage="100" condEffect="Curse" condDuration="4">Trap</Activate>
+		<Activate effect="Berserk" duration="2">ConditionEffectSelf</Activate>
+		<Activate effect="Bleeding" duration="3">ConditionEffectSelf</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Key of Rage</DisplayId>
+	</Object>
+	<Object type="0x793E" id="Steel Shocker">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SteelShocker</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<Description>A powerful energy is enclosed within.</Description>
+		<RateOfFire>0.7</RateOfFire>
+		<Sound>weapon/fire_wand</Sound>
+		<Projectile>
+			<ObjectId>ShockerProj</ObjectId>
+			<Speed>137</Speed>
+			<MinDamage>60</MinDamage>
+			<MaxDamage>95</MaxDamage>
+			<LifetimeMS>475</LifetimeMS>
+			<Amplitude>0.3</Amplitude>
+			<Frequency>2</Frequency>
+			<Size>100</Size>
+			<MultiHit/>
+			<PassesCover/>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>1</ArcGap>
+		<ActivateOnEquip stat="0" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>5</feedPower>
+		<DisplayId>Steel Shocker</DisplayId>
+	</Object>
+	<Object type="0x793F" id="Short Circuit">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ShortCircuit</Id>
+		</RemoteTexture>
+		<SlotType>19</SlotType>
+		<Description>This skull proved to be a great conversationalist.</Description>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<MpCost>100</MpCost>
+		<Activate radius="3" totalDamage="0">VampireBlast</Activate>
+		<Activate effect="Paralyzed" duration="3" range="3" color="0x05c2b5" target="enemy" center="mouse" visualEffect="0">GenericActivate</Activate>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Short Circuit</DisplayId>
+	</Object>
+	<Object type="0x794A" id="Iron Protection">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>IronProtection</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description>A heavy armor, yet light as a feather.</Description>
+		<ActivateOnEquip stat="0" amount="25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="45">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Iron Protection</DisplayId>
+	</Object>
+	<Object type="0x794B" id="The Reactor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>TheReactor</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>This thing looks unstable. Better be careful, it might explode. Thx to BLOODQWEN, to draw this set.</Description>
+		<ActivateOnEquip stat="0" amount="75">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="75">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>The Reactor</DisplayId>
+	</Object>
+	<Object type="0x794C" id="Eternal rest">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AxeAnger</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Everything you need to humiliate the monsters.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>EternalProj</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>250</MaxDamage>
+			<LifetimeMS>400</LifetimeMS>
+			<Amplitude>0.44</Amplitude>
+			<Frequency>0.31</Frequency>
+			<Size>110</Size>
+			<PassesCover/>
+		</Projectile>
+		<NumProjectiles>1</NumProjectiles>
+		<ArcGap>10</ArcGap>
+		<ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>5</feedPower>
+		<DisplayId>Eternal rest</DisplayId>
+	</Object>
+	<Object type="0x794D" id="Lightweight Leather Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>LightweightLeather</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>Only one person had this, then they got eaten by a dragon.</Description>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="17">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="8">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Lightweight Leather Armor</DisplayId>
+	</Object>
+	<Object type="0x794E" id="Helm of the leader barbarians">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HelmLeader</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>This helmet sits perfectly on your head, and can only be used as a leader.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="0" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-3">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>80</MpCost>
+		<Activate effect="Berserk" duration="5.5" range="4.5">ConditionEffectAura</Activate>
+		<Activate effect="Slowed" duration="2" range="6" color="0x05c2b5" target="enemy" center="player" visualEffect="0">GenericActivate</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Helm of the leader barbarians</DisplayId>
+	</Object>
+	<Object type="0x794F" id="Heart Dragon">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HeartDragon</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>I think its still beating, better not eat it now. Thx to BLOODQWEN, to draw this set.</Description>
+		<ActivateOnEquip stat="0" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Heart Dragon</DisplayId>
+	</Object>
+	<Object type="0x795C" id="Forgotten Dagger">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>DaggerFronza</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description/>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/fire_dagger</Sound>
+		<Projectile>
+			<ObjectId>ProjFrunza</ObjectId>
+			<Speed>140</Speed>
+			<MinDamage>95</MinDamage>
+			<MaxDamage>175</MaxDamage>
+			<LifetimeMS>400</LifetimeMS>
+		</Projectile>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>450</feedPower>
+		<DisplayId>Forgotten Dagger</DisplayId>
+	</Object>
+	<Object type="0x795D" id="Dark Prism">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>DecoyFronza</Id>
+		</RemoteTexture>
+		<SlotType>22</SlotType>
+		<Description/>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>85</MpCost>
+		<Activate duration="5.5">Decoy</Activate>
+		<Activate maxDistance="20">Teleport</Activate>
+		<feedPower>380</feedPower>
+		<DisplayId>Dark Prism</DisplayId>
+	</Object>
+	<Object type="0x795E" id="Astral Hide">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ArmorFronza</Id>
+		</RemoteTexture>
+		<SlotType>6</SlotType>
+		<Description/>
+		<ActivateOnEquip stat="21" amount="17">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>435</feedPower>
+		<DisplayId>Astral Hide</DisplayId>
+	</Object>
+	<Object type="0x795F" id="Cornucopia">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>RingFronza</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Thx to Frunza and Sottler to made this Skin/Set</Description>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>500</feedPower>
+		<DisplayId>Cornucopia</DisplayId>
+	</Object>
+	<Object type="0x796C" id="Sadist Blade of the King">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GhostKingSword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>No corporeal creature can kill my sorrow.</Description>
+		<RateOfFire>0.5</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>White Ball</ObjectId>
+			<Speed>80</Speed>
+			<MinDamage>145</MinDamage>
+			<MaxDamage>155</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<Size>80</Size>
+			<MultiHit/>
+		</Projectile>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>25</ArcGap>
+		<ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Sadist Blade of the King</DisplayId>
+	</Object>
+	<Object type="0x796D" id="Armor of Masochism">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GhostKingArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>I feel my flesh again! For the first time in a thousand years I LIVE!</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Armor of Masochism</DisplayId>
+	</Object>
+	<Object type="0x796E" id="The Kings Crown">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GhostKingHelm</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>Just you? I guess you don't have any friends to play with but don't worry we can still be miserable together.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>85</MpCost>
+		<Activate effect="Healing" duration="4" range="6">ConditionEffectAura</Activate>
+		<Activate effect="Armored" duration="2" range="3">ConditionEffectSelf</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>The Kings Crown</DisplayId>
+	</Object>
+	<Object type="0x796F" id="Ring of Ashen Matrimony">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GhostKingRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>The King's wife died here. For her memory. Thx to Jinx, to draw this set.</Description>
+		<ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="110">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Ring of Ashen Matrimony</DisplayId>
+	</Object>
+	<Object type="0x797B" id="Staff of the Great Climbing">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AvatarStaff</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<Description>This staff is dusty... It may contain an ancient power...</Description>
+		<RateOfFire>1.00</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>AvatarProj</ObjectId>
+			<Speed>180</Speed>
+			<MinDamage>50</MinDamage>
+			<MaxDamage>80</MaxDamage>
+			<LifetimeMS>475</LifetimeMS>
+			<Amplitude>0.7</Amplitude>
+			<Frequency>1</Frequency>
+			<Size>100</Size>
+			<ArmorPiercing/>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>0</ArcGap>
+		<ActivateOnEquip stat="0" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Staff of the Great Climbing</DisplayId>
+	</Object>
+	<Object type="0x797D" id="AvatarRobe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AvatarArmor</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description>In this dress when it fought a brave monk. But the forces of darkness poglatili his soul.</Description>
+		<ActivateOnEquip stat="3" amount="70">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Robe of the Battle Monk</DisplayId>
+	</Object>
+	<Object type="0x797E" id="AvatarRing">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>AvatarRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Old ring. It was passed from hand to hand many generations. Thx to BLOODQWEN, to draw this set.</Description>
+		<ActivateOnEquip stat="0" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>The Bloody Legacy</DisplayId>
+	</Object>
+	<Object type="0x798A" id="SottlerWeap">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SottlerWeap</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>A dagger that seems just a tad bit... off</Description>
+		<RateOfFire>0.6</RateOfFire>
+		<Sound>weapon/blunt_dagger</Sound>
+		<Projectile>
+			<ObjectId>SottlerProj</ObjectId>
+			<Speed>95</Speed>
+			<MinDamage>240</MinDamage>
+			<MaxDamage>270</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<Size>90</Size>
+			<MultiHit/>
+			<PassesCover/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Bent Dagger</DisplayId>
+	</Object>
+	<Object type="0x798B" id="SottlerCloak">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SottlerCloak</Id>
+		</RemoteTexture>
+		<SlotType>13</SlotType>
+		<Description>That cloak looks awful familiar... How'd it get here? Am I imagining things?</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>100</MpCost>
+		<Activate effect="Healing" duration="2.5">ConditionEffectSelf</Activate>
+		<Activate effect="Invisible" duration="5.5">ConditionEffectSelf</Activate>
+		<Cooldown>6</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Cloak of the Asylum</DisplayId>
+	</Object>
+	<Object type="0x798C" id="SottlerArmor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SottlerArmor</Id>
+		</RemoteTexture>
+		<SlotType>6</SlotType>
+		<Description>Sure, you're fine now but...</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="-6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>435</feedPower>
+		<DisplayId>Infected Armor</DisplayId>
+	</Object>
+	<Object type="0x798D" id="SottlerRing">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SottlerRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Every time you look directly at it, you hear the sound of chains. Thx to Sottler to draw this set.</Description>
+		<ActivateOnEquip stat="20" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Constricting Collar</DisplayId>
+	</Object>
+	<Object type="0x799B" id="Gauntlet Mayhem">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GauntletofMayhem</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Venimus ut vinceret...</Description>
+		<ActivateOnEquip stat="0" amount="130">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Gauntlet of Mayhem</DisplayId>
+	</Object>
+	<Object type="0x799C" id="Gauntlet Chaos">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>GauntletofChaos</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Nos ad delendam...</Description>
+		<ActivateOnEquip stat="3" amount="130">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Gauntlet of Chaos</DisplayId>
+	</Object>
+	<Object type="0x799F" id="Sanic Helm">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SanicHelm</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>GOTTA GO FAST!!!</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="21" amount="-30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="-200">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="40">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>0</FameBonus>
+		<MpCost>20</MpCost>
+		<Activate effect="Speedy" duration="10" range="6">ConditionEffectSelf</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Sanic Head</DisplayId>
+	</Object>
+	<Object type="0x21A" id="Wand of Pristine Environments">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>WandPristine</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>This wand has been conserved in a great ancient temple, preventing whoever who destroys the Earth, punishing those who dare.</Description>
+		<RateOfFire>1.2</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>ProjWandPristine</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>90</MaxDamage>
+			<LifetimeMS>600</LifetimeMS>
+			<Size>100</Size>
+			<PassesCover/>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>8</ArcGap>
+		<ActivateOnEquip stat="0" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="2">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<ElementalSorUpgrade/>
+		<DisplayId>Wand of Pristine Environments</DisplayId>
+	</Object>
+	<Object type="0x219" id="ShrimpQuiver">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ShrimpQuiver</Id>
+		</RemoteTexture>
+		<SlotType>15</SlotType>
+		<Description> Crafted from the shells of the Hermit God and its minions, oddly enough it makes a good quiver. Thx to OppaLoopa</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>ShrimpProj</ObjectId>
+			<Speed>200</Speed>
+			<MinDamage>75</MinDamage>
+			<MaxDamage>125</MaxDamage>
+			<LifetimeMS>700</LifetimeMS>
+			<Size>100</Size>
+		</Projectile>
+		<ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<MpCost>20</MpCost>
+		<Activate>Shoot</Activate>
+		<Cooldown>0.5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>The Shrimp Shooter</DisplayId>
+	</Object>
+	<Object type="0x218" id="Staff of Noble Magic">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MonkStaff</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<Description> This weapon was crafted in the forges of the heavenly castle.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>MonkProj</ObjectId>
+			<Speed>180</Speed>
+			<MinDamage>55</MinDamage>
+			<MaxDamage>100</MaxDamage>
+			<LifetimeMS>475</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+			<Size>100</Size>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>0</ArcGap>
+		<ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>500</feedPower>
+		<DisplayId>Staff of Noble Magic</DisplayId>
+	</Object>
+	<Object type="0x217" id="Orb of Heavenly Sight">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MonkOrb</Id>
+		</RemoteTexture>
+		<SlotType>21</SlotType>
+		<Description>The eye of Heaven beholds all sins, tremble to the might of the heavenly crystal!</Description>
+		<ActivateOnEquip stat="3" amount="25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="10">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<MpCost>90</MpCost>
+		<Activate duration="5">StasisBlast</Activate>
+		<Activate effect="Healing" duration="6">ConditionEffectSelf</Activate>
+		<Cooldown>4</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Orb of Heavenly Sight</DisplayId>
+	</Object>
+	<Object type="0x216" id="Heaven Monk's Apparel">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MonkRobe</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description> The crystal riveted to the belt adorns the robe.</Description>
+		<ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="7">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Heaven Monk's Apparel</DisplayId>
+	</Object>
+	<Object type="0x215" id="Necklace of Crystalline Celestial Forces">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>MonkRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description> The power of the crystal will light the way for all to live under eternal harmony. Thx to BLOODQWEN</Description>
+		<ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Necklace of Crystalline Celestial Forces</DisplayId>
+	</Object>
+	<Object type="0x214" id="Lucky Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>LuckySword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>O' Sha sha sha 'laylee.</Description>
+		<RateOfFire>1.08</RateOfFire>
+		<ActivateOnEquip stat="102" amount="2">IncrementStat</ActivateOnEquip>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>LuckyProj</ObjectId>
+			<Speed>100</Speed>
+			<LifetimeMS>500</LifetimeMS>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>190</MaxDamage>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Shalaylee</DisplayId>
+	</Object>
+	<Object type="0x213" id="Lucky Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>LuckyArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description> I caught him, but he slipped out of his clothes, unfortunately revealing his bare bottom.</Description>
+		<ActivateOnEquip stat="21" amount="21">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="102" amount="2">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Unlucky Leprechaun's Coat</DisplayId>
+	</Object>
+	<Object type="0x212" id="Lucky Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>LuckyHat</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>He dashed off in the nude, absentmindedly leaving his hat behind. Thx to Cloudedshadow97</Description>
+		<ActivateOnEquip stat="21" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="102" amount="2">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Unlucky Leprechaun's Hat</DisplayId>
+	</Object>
+	<Object type="0x211" id="Lucky Seal">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>LuckySeal</Id>
+		</RemoteTexture>
+		<SlotType>12</SlotType>
+		<Description>They're after me lucky charms!</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>95</MpCost>
+		<Activate effect="Damaging" duration="5" range="4" useWisMod="true">ConditionEffectAura</Activate>
+		<Activate effect="Speedy" duration="4">ConditionEffectSelf</Activate>
+		<ActivateOnEquip stat="102" amount="4">IncrementStat</ActivateOnEquip>
+		<Cooldown>6</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>The Four-Leaf Seal</DisplayId>
+	</Object>
+	<Object type="0x232" id="Ring of Boiling Lava">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FSoFring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>This stone ring looks safe to handle, but something tells me to be careful about it...</Description>
+		<ActivateOnEquip stat="22" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="80">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="-25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>500</feedPower>
+		<DisplayId>Ring of Boiling Lava</DisplayId>
+	</Object>
+	<Object type="0x230" id="Seal of Splashing Lava">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FSoFseal</Id>
+		</RemoteTexture>
+		<SlotType>12</SlotType>
+		<Description>What lava is splashing, we don't know. How it knows it's splashing, we also don't know.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>6</BagType>
+		<MpCost>100</MpCost>
+		<Activate effect="Healing" duration="5" range="6" color="0x000000" target="player" center="player" visualEffect="5" useWisMod="true">
+            GenericActivate
+        </Activate>
+		<Activate effect="Damaging" duration="3" range="6" color="0xffffff" target="player" center="player" visualEffect="0" useWisMod="true">
+            GenericActivate
+        </Activate>
+		<Activate effect="Armored" duration="2" useWisMod="true">ConditionEffectSelf</Activate>
+		<Activate stat="0" amount="75" duration="3" range="6" noStack="true" useWisMod="true">StatBoostAura</Activate>
+		<feedPower>750</feedPower>
+		<DisplayId>Seal of Splashing Lava</DisplayId>
+	</Object>
+	<Object type="0x231" id="Steel Armor of Magma">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FSoFarmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>Warm on the inside, strong on the outside. With such protection, who would fear even Satan?</Description>
+		<ActivateOnEquip stat="21" amount="18">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>750</feedPower>
+		<DisplayId>Steel Armor of Magma</DisplayId>
+	</Object>
+	<Object type="0x233" id="Flaming Sword of Fury">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FSoFsword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>A fire-breathing sword filled with destructive energy. Even the dragons envy its might.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>FSoFproj</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>210</MinDamage>
+			<MaxDamage>255</MaxDamage>
+			<LifetimeMS>250</LifetimeMS>
+			<Amplitude>.25</Amplitude>
+			<Frequency>.2</Frequency>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>750</feedPower>
+		<DisplayId>Flaming Sword of Fury</DisplayId>
+	</Object>
+	<Object type="0x238" id="Skull of the Cubes">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SkullCube</Id>
+		</RemoteTexture>
+		<SlotType>19</SlotType>
+		<Description>This skull used to be used in the worshiping of the Cube god, but, since we are killing all of them they won't need it, right? Thanks to SyndicateXx for Idea/Sprite.</Description>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<MpCost>85</MpCost>
+		<Activate radius="5" totalDamage="100">VampireBlast</Activate>
+		<Activate effect="Slowed" duration="4" range="5" color="0xff0099" target="enemy" center="mouse" visualEffect="0">GenericActivate</Activate>
+		<FameBonus>4</FameBonus>
+		<feedPower>500</feedPower>
+		<DisplayId>Skull of the Cubes</DisplayId>
+	</Object>
+	<Object type="0x23A" id="Dagger of the Flaming Stinger">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>Production</Instance>
+			<Id>FTdagger</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>Extremely sharp and incredibly hot. With such a little thing, you have to be careful.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/fire_dagger</Sound>
+		<Projectile>
+			<ObjectId>FTproj</ObjectId>
+			<Speed>140</Speed>
+			<MinDamage>100</MinDamage>
+			<MaxDamage>140</MaxDamage>
+			<LifetimeMS>400</LifetimeMS>
+			<Size>100</Size>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>450</feedPower>
+		<DisplayId>Dagger of the Flaming Stinger</DisplayId>
+	</Object>
+	<Object type="0x240" id="Prism of Bright Star">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FTprism</Id>
+		</RemoteTexture>
+		<SlotType>22</SlotType>
+		<Description>It's so bright and shimmering. I'd better keep a watchful eye on it, just in case some one wants to steal it.</Description>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>120</MpCost>
+		<Activate duration="4.5">Decoy</Activate>
+		<Activate effect="Invulnerable" duration="1.5">ConditionEffectSelf</Activate>
+		<Cooldown>3</Cooldown>
+		<feedPower>400</feedPower>
+		<DisplayId>Prism of Bright Star</DisplayId>
+	</Object>
+	<Object type="0x241" id="Armor from the Bowels of Hell">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FTarmor</Id>
+		</RemoteTexture>
+		<SlotType>6</SlotType>
+		<Description>Armor from hell, it kinda of instills fear in you, but at the same time it makes you desire a Barbeque!</Description>
+		<ActivateOnEquip stat="21" amount="18">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="25">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="-25">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>700</feedPower>
+		<DisplayId>Armor from the Bowels of Hell</DisplayId>
+	</Object>
+	<Object type="0x242" id="The Ring of Flaming Power">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FTring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>A luxurious ring made with a magnificent stone. The owner looks even more luxurious.</Description>
+		<ActivateOnEquip stat="21" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>600</feedPower>
+		<DisplayId>The Ring of Flaming Power</DisplayId>
+	</Object>
+	<Object type="0x237" id="Torn Garment of Esben">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>IceRobe</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description>Well, you can't seem to find the tear anywhere. But, I bet it is somewhere.</Description>
+		<ActivateOnEquip stat="3" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="8">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Torn Garment of Esben</DisplayId>
+	</Object>
+	<Object type="0x239" id="The Frozen Ring of Esben">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>IceRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>When you put it on, it freezes you. You feel like you will never be warm again. </Description>
+		<ActivateOnEquip stat="20" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>The Frozen Ring of Esben</DisplayId>
+	</Object>
+	<Object type="0x247" id="Hairy Karambit">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLdagger</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>This knife has a built in sharp edge , so it doesn't need to shoot one out</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/fire_dagger</Sound>
+		<Projectile>
+			<ObjectId>SoLLproj</ObjectId>
+			<Speed>80</Speed>
+			<MinDamage>100</MinDamage>
+			<MaxDamage>100</MaxDamage>
+			<LifetimeMS>800</LifetimeMS>
+			<Size>100</Size>
+			<MultiHit/>
+			<ArmorPiercing/>
+			<PassesCover/>
+		</Projectile>
+		<ActivateOnEquip stat="27" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="-10">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>500</feedPower>
+		<DisplayId>Hairy Karambit</DisplayId>
+	</Object>
+	<Object type="0x243" id="Toad Bile Cannister">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLpoison</Id>
+		</RemoteTexture>
+		<SlotType>18</SlotType>
+		<Description>If the old men of the swamp are to be believed, this small jar of toad bile promotes good health.</Description>
+		<ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Heals players on impact."/>
+		</ExtraTooltipData>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>90</MpCost>
+		<Activate radius="5" totalDamage="500" duration="5" impactDamage="100" throwTime="1" useWisMod="true" durationAlt="2">PoisonGrenade</Activate>
+		<Activate radius="9" totalDamage="300" duration="3">HealingGrenade</Activate>
+		<feedPower>450</feedPower>
+		<DisplayId>Toad Bile Cannister</DisplayId>
+	</Object>
+	<Object type="0x244" id="Skinned Toad Hide">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLarmor</Id>
+		</RemoteTexture>
+		<SlotType>6</SlotType>
+		<Description>Wearing this armor has the added benefit of giving warts to enemies that touch you.</Description>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="10">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>500</feedPower>
+		<DisplayId>Skinned Toad Armor</DisplayId>
+	</Object>
+	<Object type="0x245" id="Frog's Eye Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>SoLLring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Obtaining this ring reminded you of your youth, back when you still did biology in school.</Description>
+		<ActivateOnEquip stat="0" amount="75">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="75">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="-5">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>450</feedPower>
+		<DisplayId>Frog's Eye Ring</DisplayId>
+	</Object>
+	<Object type="0x269" id="Ent Ancients Log">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EntmanWeapon</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>This heavy log has been made out of an Ent Ancients corpse. Hunted down by the Stone-born berserkers of Leernoth, used for absolute obliteration of their enemies in combat.</Description>
+		<RateOfFire>0.4</RateOfFire>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="-3">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-2">IncrementStat</ActivateOnEquip>
+		<Sound>weapon/mithril_sword</Sound>
+		<Projectile>
+			<ObjectId>EntmanProj</ObjectId>
+			<Speed>80</Speed>
+			<LifetimeMS>437</LifetimeMS>
+			<MinDamage>570</MinDamage>
+			<MaxDamage>660</MaxDamage>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>4</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Ent Ancients Log</DisplayId>
+	</Object>
+	<Object type="0x26A" id="Corpse of an Ent Ancient">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EntmanArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>The hollowed out trunk of an Elder Ent Ancient, destroyed by a Archmage of the Southern Golgari Guild in the mountains of Trasdon. It was used to fuel their necrotic quest for dominance across the swamps of the Greenland.</Description>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="23">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Corpse of an Ent Ancient</DisplayId>
+	</Object>
+	<Object type="0x26B" id="Ripe Apple">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EntmanRing</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>The heart of an old Ent Ancient, which provided the forests of Zendikar with life and magic, blossoming all the plants anew.</Description>
+		<ActivateOnEquip stat="0" amount="35">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Ripe Apple</DisplayId>
+	</Object>
+	<Object type="0x26C" id="Clump of Bark">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>EntmanShield</Id>
+		</RemoteTexture>
+		<SlotType>5</SlotType>
+		<Description>A small shield used by the Woodland Rangers of the Aether. It provided them with the speed and agility necessary to win the titanic war against the Berserkers of Leernoth for peace towards the Faeries in Mount Hallow.</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>EntmanProj2</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>240</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<LifetimeMS>238</LifetimeMS>
+			<Size>100</Size>
+			<ConditionEffect duration="3">Dazed</ConditionEffect>
+			<ConditionEffect duration="4">Slowed</ConditionEffect>
+			<PassesCover/>
+			<MultiHit/>
+		</Projectile>
+		<ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>90</MpCost>
+		<Activate>Shoot</Activate>
+		<NumProjectiles>4</NumProjectiles>
+		<feedPower>0</feedPower>
+		<DisplayId>Clump of Bark</DisplayId>
+	</Object>
+	<Object type="0x277" id="FireStorm">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>FireStorm</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>Theres a fire, not really a storm but it sounds cooler.</Description>
+		<RateOfFire>1.08</RateOfFire>
+		<Sound>weapon/blunt_dagger</Sound>
+		<Projectile>
+			<ObjectId>FireStormProj</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>90</MinDamage>
+			<MaxDamage>145</MaxDamage>
+			<LifetimeMS>400</LifetimeMS>
+			<Amplitude>0.3</Amplitude>
+			<Frequency>0.5</Frequency>
+			<Size>100</Size>
+		</Projectile>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>10</ArcGap>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>FireStorm</DisplayId>
+	</Object>
+	<Object type="0x278" id="Mega Blaster">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Blaster</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>A mechanical type of bow? A gun!?</Description>
+		<RateOfFire>1.25</RateOfFire>
+		<OldSound>weapon/blaster</OldSound>
+		<Projectile>
+			<ObjectId>BlasterProj</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>120</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<Frequency>10</Frequency>
+			<Size>85</Size>
+			<MultiHit/>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>7</ArcGap>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Mega Blaster</DisplayId>
+	</Object>
+	<Object type="0x27B" id="Kid Cape">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>CapeKid</Id>
+		</RemoteTexture>
+		<SlotType>13</SlotType>
+		<Description>The Kid had an adventurous soul, but trying to fly with the cape was a doomed adventure to begin with.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>100</MpCost>
+		<Activate effect="Sick" duration="3" range="5">ConditionEffectAura</Activate>
+		<Activate effect="Invisible" duration="3" range="5">ConditionEffectAura</Activate>
+		<Activate effect="Invisible" duration="7">ConditionEffectSelf</Activate>
+		<Cooldown>10</Cooldown>
+		<feedPower>0</feedPower>
+		<Soulbound/>
+		<DisplayId>Kid Cape</DisplayId>
+	</Object>
+	<Object type="0x27C" id="ZSaber">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>ZeroSaber</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>A legendary blade wielded by Megaman's arch rival Zero , it crackles with energy as you swing it.</Description>
+		<RateOfFire>1</RateOfFire>
+		<OldSound>weapon/z_saber</OldSound>
+		<Projectile>
+			<ObjectId>ZeroSaberProj</ObjectId>
+			<Speed>200</Speed>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<LifetimeMS>235</LifetimeMS>
+			<Size>100</Size>
+			<PassesCover/>
+			<ParticleTrail lifetimeMS="50">0x33ffcc</ParticleTrail>
+		</Projectile>
+		<NumProjectiles>1</NumProjectiles>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>5</feedPower>
+		<Soulbound/>
+		<DisplayId>Z-Saber</DisplayId>
+	</Object>
+	<Object type="0x28C" id="Staff of Insanity">
+		<Class>Equipment</Class>
+		<Item/>
+		<Sound>weapon/wand_of_death</Sound>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>StaffInsanity</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<RateOfFire>0.9</RateOfFire>
+		<Description>A magical staff of ancient origin.</Description>
+		<Projectile>
+			<ObjectId>Ancient Staff Shot</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>0</MinDamage>
+			<MaxDamage>200</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<Amplitude>0.3</Amplitude>
+			<Frequency>1.8</Frequency>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<OldSound>magicShoot</OldSound>
+		<ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+	</Object>
+	<Object type="0x418" id="Gladius of Hell's Forge">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>BloodSword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>A legendary weapon, used by the archdemon Malphas in his long forgotten raids against the realm.</Description>
+		<RateOfFire>0.9</RateOfFire>
+		<OldSound>weapon/gladius</OldSound>
+		<Projectile>
+			<ObjectId>Hell Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>150</MinDamage>
+			<MaxDamage>160</MaxDamage>
+			<LifetimeMS>350</LifetimeMS>
+			<Amplitude>1</Amplitude>
+			<Frequency>1</Frequency>
+			<Size>100</Size>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>58</ArcGap>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>450</feedPower>
+		<Soulbound/>
+		<DisplayId>Gladius of Hell's Forge</DisplayId>
+	</Object>
+	<Object type="0x363" id="Unholy Wand">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>UnholyWand</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>Decrepit wands used by undead mages, used to summon eldritch terrors from the far corners of hell to lay waste to all that stood in their way Thanks to Pringle/Turtlebat.</Description>
+		<RateOfFire>0.5</RateOfFire>
+		<Sound>weapon/fire_wand</Sound>
+		<Projectile>
+			<ObjectId>Unholy Wand Proj</ObjectId>
+			<Speed>40</Speed>
+			<MinDamage>65</MinDamage>
+			<MaxDamage>125</MaxDamage>
+			<LifetimeMS>2000</LifetimeMS>
+			<Amplitude>2.4</Amplitude>
+			<Frequency>3.4</Frequency>
+			<Size>100</Size>
+			<MultiHit/>
+			<PassesCover/>
+		</Projectile>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>20</ArcGap>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<DisplayId>Unholy Wand</DisplayId>
+	</Object>
+	<Object type="0x29F" id="Wavebreaker">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Wavebreaker</Id>
+		</RemoteTexture>
+		<SlotType>24</SlotType>
+		<Description>A legendary katana made of blue steel said to be found in the deepest trenches of the ocean. Its attacks can create tremendous waves of water out of thin air that devastates even the most hardy of enemies.</Description>
+		<RateOfFire>1.33</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Blue Bolt Shot</ObjectId>
+			<Size>150</Size>
+			<Speed>1</Speed>
+			<MinDamage>30</MinDamage>
+			<MaxDamage>65</MaxDamage>
+			<LifetimeMS>400</LifetimeMS>
+			<Amplitude>4.5</Amplitude>
+			<Frequency>0.38</Frequency>
+			<Range>0.04</Range>
+			<MultiHit/>
+			<PassesCover/>
+		</Projectile>
+		<NumProjectiles>4</NumProjectiles>
+		<ArcGap>166</ArcGap>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+		<FameBonus>6</FameBonus>
+		<DisplayId>Wavebreaker</DisplayId>
+	</Object>
+	<Object type="0x416" id="Heavenly Hammer">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HeavenlyHammer</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>A hammer forged by the gods; one swing is able to banish any evil it encounters.</Description>
+		<RateOfFire>0.4</RateOfFire>
+		<OldSound>daggerSwing</OldSound>
+		<Projectile>
+			<ObjectId>HeavenlyHammer</ObjectId>
+			<Speed>100</Speed>
+			<LifetimeMS>880</LifetimeMS>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<Boomerang/>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Heavenly Hammer</DisplayId>
+	</Object>
+	<Object type="0x2BF" id="Tremor Staff" setType="0x2BA" setName="Sky Guardian Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>TremorStaff</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<Description>Said to have been the treasure of an ancient cloud civilization, its icy tip seals in the souls of the fallen.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>Blue Missile</ObjectId>
+			<Speed>180</Speed>
+			<MinDamage>65</MinDamage>
+			<MaxDamage>105</MaxDamage>
+			<LifetimeMS>475</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<BagType>4</BagType>
+		<FameBonus>5</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>0</ArcGap>
+		<OldSound>magicShoot</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Tremor Staff</DisplayId>
+	</Object>
+	<Object type="0x2BE" id="Hymn of the Sky" setType="0x2BA" setName="Sky Guardian Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>HymnOfTheSky</Id>
+		</RemoteTexture>
+		<SlotType>11</SlotType>
+		<Description>A rousing spiritual, Arr. MrSott.</Description>
+		<Sound>spell/magic_nova</Sound>
+		<Projectile>
+			<ObjectId>Purple Bolt</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>165</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>80</MpCost>
+		<Activate>BulletNova</Activate>
+		<feedPower>380</feedPower>
+		<DisplayId>Hymn of the Sky</DisplayId>
+	</Object>
+	<Object type="0x2BD" id="Robe of Storms" setType="0x2BA" setName="Sky Guardian Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>RobeOfStorms</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description>The cloth feels wet to the touch, not at all like a pillow.</Description>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="7">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="65">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>6</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Robe of Storms</DisplayId>
+	</Object>
+	<Object type="0x2BC" id="The Frozen Compass" setType="0x2BA" setName="Sky Guardian Set">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>TheFrozenCompass</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>A glance at this mysterious artifact sends shivers down your spine, but it's oddly warm.</Description>
+		<ActivateOnEquip stat="0" amount="130">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>The Frozen Compass</DisplayId>
+	</Object>
+	<Object type="0x7024" id="Ansatsuken's Edge">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>sword</Id>
+		</RemoteTexture>
+		<SlotType>24</SlotType>
+		<Description>A noob friendly weapon for those who suck at fighting games.</Description>
+		<RateOfFire>.75</RateOfFire>
+		<Sound>weapon/ryu_hadouken</Sound>
+		<Projectile>
+			<ObjectId>Hadouken</ObjectId>
+			<Speed>120</Speed>
+			<LifetimeMS>350</LifetimeMS>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>240</MaxDamage>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<OldSound>weapon/ryu_hadouken</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Ansatsuken's Edge</DisplayId>
+	</Object>
+	<Object type="0x7066" id="Reapers Scythe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Reapers Scythe</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>The legendary weapon of the black horseman, Death, and is filled with the power to tear down the walls of reality. This weapon was not meant for the hands of mortals.</Description>
+		<RateOfFire>0.6</RateOfFire>
+		<OldSound>daggerSwing</OldSound>
+		<Projectile>
+			<ObjectId>Souls3</ObjectId>
+			<Speed>110</Speed>
+			<LifetimeMS>900</LifetimeMS>
+			<MinDamage>210</MinDamage>
+			<MaxDamage>260</MaxDamage>
+			<Amplitude>0.4</Amplitude>
+			<Frequency>0.2</Frequency>
+			<ParticleTrail>0x242424</ParticleTrail>
+			<Boomerang/>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Reapers Scythe</DisplayId>
+		<PlayerExclusive>Cyeclops</PlayerExclusive>
+	</Object>
+	<Object type="0x7068" id="Reapers Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Reapers Armor</Id>
+		</RemoteTexture>
+		<SlotType>6</SlotType>
+		<Description>This pitch-dark armor made from skins of the lost and tormented. It contains a power that seems to scare even the gods of our lands.</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Reapers Armor</DisplayId>
+		<PlayerExclusive>Cyeclops</PlayerExclusive>
+	</Object>
+	<Object type="0x7069" id="Reapers Cloak">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Reapers Cloak</Id>
+		</RemoteTexture>
+		<SlotType>13</SlotType>
+		<Description>It is unsure if this is the origin? But it exudes such a darkness that it is irrelevant to those who would wear it. Twisted faces of lost souls can be seen swirling in its material, and can strike from darkness itself.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>20</MpCost>
+		<Activate effect="Invisible" duration="6">ConditionEffectSelf</Activate>
+		<Activate maxDistance="20">Teleport</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Reapers Cloak</DisplayId>
+		<PlayerExclusive>Cyeclops</PlayerExclusive>
+	</Object>
+	<Object type="0x7070" id="Reapers Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Reapers Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>A gruesome ring adorned with the bones of fallen warriors. It grants the wielder an ungodly power, but at a terrible price, one that destroys the very soul.</Description>
+		<ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Reapers Ring</DisplayId>
+		<PlayerExclusive>Cyeclops</PlayerExclusive>
+	</Object>
+	<Object type="0x7076" id="Guardian Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Guardian Sword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Sword of Light, once wielded by the Archangel Michael, was forged for war with the Devil and his demons. Now you must carry on his work.</Description>
+		<RateOfFire>1</RateOfFire>
+		<OldSound>weapon/mithril_sword</OldSound>
+		<Projectile>
+			<ObjectId>Souls2</ObjectId>
+			<Speed>130</Speed>
+			<LifetimeMS>360</LifetimeMS>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>200</MaxDamage>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>10</ArcGap>
+		<FameBonus>6</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Guardian Sword</DisplayId>
+		<PlayerExclusive>Sottler</PlayerExclusive>
+	</Object>
+	<Object type="0x7078" id="Guardian Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Guardian Armor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>Armor worn by the army of angels, crafted to increases the abilities of any who wears it. Lightweight and maneuverable, while providing the maximum defense possible.</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Guardian Armor</DisplayId>
+		<PlayerExclusive>Sottler</PlayerExclusive>
+	</Object>
+	<Object type="0x7079" id="Guardian Helm">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Guardian Helm</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>Helm of the Guardian. Created by the Gods for a great war with the creatures of the abyss.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>20</MpCost>
+		<Activate effect="Berserk" duration="5" range="10">ConditionEffectAura</Activate>
+		<Activate effect="Armored" duration="5">ConditionEffectSelf</Activate>
+		<Cooldown>5</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Guardian Helm</DisplayId>
+		<PlayerExclusive>Sottler</PlayerExclusive>
+	</Object>
+	<Object type="0x7090" id="Guardian Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Guardian Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>A ring forged from holy light, created to defend against the minions of the dark and strike them down.</Description>
+		<ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="30">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Guardian Ring</DisplayId>
+	</Object>
+	<Object type="0x56" id="Dark Helm2">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Helm2</Id>
+		</RemoteTexture>
+		<SlotType>16</SlotType>
+		<Description>An ancient helm made from a dark and evil magic...Power comes at a price.</Description>
+		<Sound>spell/fire_nova</Sound>
+		<ActivateOnEquip stat="21" amount="-10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-10">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>80</MpCost>
+		<Activate totalDamage="300" maxTargets="20" condEffect="Slowed" condEfffect="Curse" condDuration="6" color="0x00FFFF">
+            Lightning
+        </Activate>
+		<Activate effect="Healing" duration="2" range="12">ConditionEffectAura</Activate>
+		<Activate effect="Blind" duration="6" range="12">ConditionEffectAura</Activate>
+		<Activate effect="Armored" duration="6" range="12">ConditionEffectAura</Activate>
+		<Cooldown>6</Cooldown>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Helm of Wrath</DisplayId>
+	</Object>
+	<Object type="0x6011" id="Dark Shield">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Shield</Id>
+		</RemoteTexture>
+		<SlotType>5</SlotType>
+		<Description>A shield that seems to avoid the direct gaze of any who looks upon it, almost as if it wishes to hide its true, and terrible form. It is so powerful, that it will cause even the most hardened warrior to stagger and fall under its mighty defense.</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Souls1</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>300</MinDamage>
+			<MaxDamage>400</MaxDamage>
+			<LifetimeMS>230</LifetimeMS>
+			<Size>140</Size>
+			<ConditionEffect duration="4">Armor Broken</ConditionEffect>
+			<ConditionEffect duration="4">Slowed</ConditionEffect>
+			<MultiHit/>
+			<PassesCover/>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="21" amount="14">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ConditionEffect duration="4">Armor Broken</ConditionEffect>
+		<ConditionEffect duration="4">Slowed</ConditionEffect>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>80</MpCost>
+		<Activate>Shoot</Activate>
+		<NumProjectiles>5</NumProjectiles>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Shield</DisplayId>
+	</Object>
+	<Object type="0x6012" id="Battle Axe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Battle Axe</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>One of the few axe weapons, and built solely for the destruction of one's foes. It gives no quarter, and will cut down any who dare to oppose it.</Description>
+		<RateOfFire>0.5</RateOfFire>
+		<OldSound>daggerSwing</OldSound>
+		<Projectile>
+			<ObjectId>Axe</ObjectId>
+			<Speed>40</Speed>
+			<LifetimeMS>600</LifetimeMS>
+			<MinDamage>300</MinDamage>
+			<MaxDamage>320</MaxDamage>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Battle Axe</DisplayId>
+	</Object>
+	<Object type="0x6013" id="Dark Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Sword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>A sword steeped in a darkness so pure, that not even the most despicable of creatures would touch it, raising the question of who would dare to forge such an awful weapon.</Description>
+		<RateOfFire>1</RateOfFire>
+		<OldSound>weapon/mithril_sword</OldSound>
+		<Projectile>
+			<ObjectId>Dark Projectile2</ObjectId>
+			<Speed>110</Speed>
+			<LifetimeMS>380</LifetimeMS>
+			<MinDamage>240</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Sword</DisplayId>
+	</Object>
+	<Object type="0x6014" id="Dark Armor2">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Armor2</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>A black plate forged in the deepest reaches of the abyss, created solely to sew destruction and chaos. It wields such a fearsome power that only the most twisted of beings dare to don this armor.</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Armor</DisplayId>
+	</Object>
+	<Object type="0x6015" id="Dark Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Armor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>A black plate forged in the deepest reaches of the abyss, created solely to sew destruction and chaos. It wields such a fearsome power that only the most twisted of beings dare to don this armor.</Description>
+		<ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Armor</DisplayId>
+	</Object>
+	<Object type="0x6016" id="Dark Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Dark Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>This ring has been used to control the beasts of shadows since time immemorial. Although it appears to be a simple ring, it exudes enormous power, and seems to carry a will of its own, a will that would see the destruction of all things.</Description>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="45">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="45">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Dark Ring</DisplayId>
+	</Object>
+	<Object type="0x6032" id="Assassin Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Assassin Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>An insignia worn by those adept in the art of killing</Description>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Seal of the Creed</DisplayId>
+	</Object>
+	<Object type="0x6033" id="Skull Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Skull Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>A ring made from the bones of fallen warriors.</Description>
+		<ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Skull Ring</DisplayId>
+	</Object>
+	<Object type="0x6034" id="War Hammer">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>War Hammer</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Depicted in Norse mythology as one of the most fearsome weapons, capable of leveling mountains.</Description>
+		<RateOfFire>0.4</RateOfFire>
+		<OldSound>daggerSwing</OldSound>
+		<Projectile>
+			<ObjectId>Hammer</ObjectId>
+			<Speed>100</Speed>
+			<LifetimeMS>880</LifetimeMS>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<Boomerang/>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<FameBonus>6</FameBonus>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>War Hammer</DisplayId>
+	</Object>
+	<Object type="0x6031" id="Assassin Star">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Assassin Star</Id>
+		</RemoteTexture>
+		<SlotType>25</SlotType>
+		<Description>A weapon of untold killing power. Many gods lie in its wake</Description>
+		<Sound>spell/fire_spray</Sound>
+		<ExtraTooltipData>
+			<EffectInfo name="{equip.While_Key_Held}" description=""/>
+			<EffectInfo name="" description="{equip.Speedy_on_self}"/>
+			<EffectInfo name="" description="{equip.Drain_10_MP/sec}"/>
+			<EffectInfo name="{equip.When_Key_Released}" description=""/>
+		</ExtraTooltipData>
+		<Projectile>
+			<ObjectId>Star</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>850</MinDamage>
+			<MaxDamage>950</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>120</Size>
+			<PassesCover/>
+		</Projectile>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>0</MpCost>
+		<MpEndCost>60</MpEndCost>
+		<MultiPhase/>
+		<Activate>ShurikenAbility</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Murderous Shuriken</DisplayId>
+	</Object>
+	<Object type="0x133" id="Queen of Hearts">
+		<DisplayId>Queen of Hearts</DisplayId>
+		<Enemy/>
+		<OryxAspect/>
+		<Boss/>
+		<Class>Character</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Queen of Hearts</Id>
+		</RemoteTexture>
+		<HitSound>monster/oryx_hit</HitSound>
+		<DeathSound>monster/oryx_death</DeathSound>
+		<Size>120</Size>
+		<MaxHitPoints>100000</MaxHitPoints>
+		<Defense>100</Defense>
+		<Quest/>
+		<God/>
+		<Level>20</Level>
+		<XpMult>1</XpMult>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>QueenProj0</ObjectId>
+			<Damage>100</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>500</LifetimeMS>
+			<ConditionEffect duration="5">Hallucinating</ConditionEffect>
+			<ConditionEffect duration="5">Confused</ConditionEffect>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>QueenProj1</ObjectId>
+			<Damage>150</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>600</LifetimeMS>
+			<ConditionEffect duration="5">Bleeding</ConditionEffect>
+			<MultiHit/>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>QueenProj2</ObjectId>
+			<Damage>80</Damage>
+			<Speed>150</Speed>
+			<LifetimeMS>450</LifetimeMS>
+			<ConditionEffect duration="3">Slowed</ConditionEffect>
+			<ConditionEffect duration="3">Bleeding</ConditionEffect>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>QueenProj3</ObjectId>
+			<Damage>150</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<ConditionEffect duration="5">Confused</ConditionEffect>
+			<Size>80</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x143" id="Oryx's Arena Key">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj3</File>
+			<Index>0x427</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>Fame, fortune, Death... Know what you're getting into before unlocking that door.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Soulbound/>
+		<BagType>6</BagType>
+		<Activate dungeonName="DeathArena" lockedName="Locked Oryx's Arena Portal">UnlockPortal</Activate>
+		<feedPower>500</feedPower>
+		<DisplayId>Oryx's Arena Key</DisplayId>
+	</Object>
+	<Object type="0x023D" id="Locked Oryx's Arena Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<NexusPortal/>
+		<LockedPortal/>
+		<Texture>
+			<File>lofiEnvironment</File>
+			<Index>0x7d</Index>
+		</Texture>
+		<ShadowSize>0</ShadowSize>
+		<DisplayId>Oryx's Arena Portal</DisplayId>
+	</Object>
+	<Object type="0x7026" id="Admin Dagger">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj5</File>
+			<Index>0x60</Index>
+		</Texture>
+		<SlotType>2</SlotType>
+		<Description>The Cult of Admin made this weapon because they could no longer stand to hear whining from all the dagger cultist.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/blunt_dagger</Sound>
+		<Projectile>
+			<ObjectId>Blade</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>1</MinDamage>
+			<MaxDamage>1</MaxDamage>
+			<LifetimeMS>650</LifetimeMS>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<OldSound>daggerSwing</OldSound>
+		<feedPower>0</feedPower>
+		<Soulbound/>
+		<DisplayId>Admin Dagger</DisplayId>
+	</Object>
+	<Object type="0x7027" id="Admin Wand">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj5</File>
+			<Index>0x40</Index>
+		</Texture>
+		<SlotType>8</SlotType>
+		<Description>The Cult of Admin made this weapon because they could no longer stand to hear whining from all the wand cultist.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/fire_wand</Sound>
+		<Projectile>
+			<ObjectId>Red Fire</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>1</MinDamage>
+			<MaxDamage>1</MaxDamage>
+			<LifetimeMS>650</LifetimeMS>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<OldSound>magicShoot</OldSound>
+		<feedPower>0</feedPower>
+		<Soulbound/>
+		<DisplayId>Admin Wand</DisplayId>
+	</Object>
+	<Object type="0x7028" id="Admin Bow">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj5</File>
+			<Index>0x50</Index>
+		</Texture>
+		<SlotType>3</SlotType>
+		<Description>The Cult of Admin made this weapon because they could no longer stand to hear whining from all the bow cultist.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/double_bow</Sound>
+		<Projectile>
+			<ObjectId>Green Arrow</ObjectId>
+			<Speed>185</Speed>
+			<MinDamage>1</MinDamage>
+			<MaxDamage>1</MaxDamage>
+			<LifetimeMS>520</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>3</NumProjectiles>
+		<OldSound>arrowShoot</OldSound>
+		<feedPower>0</feedPower>
+		<Soulbound/>
+		<DisplayId>Admin Bow</DisplayId>
+	</Object>
+	<Object type="0x7029" id="Admin Katana">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiObj3</File>
+			<Index>0x21c</Index>
+		</Texture>
+		<SlotType>24</SlotType>
+		<Description>The Cult of Admin made this weapon because they could no longer stand to hear whining from all the katana cultist.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Katana Slash</ObjectId>
+			<Speed>150</Speed>
+			<MinDamage>1</MinDamage>
+			<MaxDamage>1</MaxDamage>
+			<LifetimeMS>525</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>0</feedPower>
+		<Soulbound/>
+		<DisplayId>Admin Katana</DisplayId>
+	</Object>
+	<Object type="0x11C" id="Unholy Spell">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Spell</Id>
+		</RemoteTexture>
+		<SlotType>11</SlotType>
+		<Description>Spell of the Unholy</Description>
+		<Sound>spell/magic_nova</Sound>
+		<Projectile>
+			<ObjectId>Souls1</ObjectId>
+			<Speed>70</Speed>
+			<MinDamage>50</MinDamage>
+			<MaxDamage>170</MaxDamage>
+			<LifetimeMS>700</LifetimeMS>
+			<Amplitude>0.3</Amplitude>
+			<Frequency>1</Frequency>
+			<MultiHit/>
+		</Projectile>
+		<ActivateOnEquip stat="3" amount="20">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="20">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>100</MpCost>
+		<Activate>BulletNova</Activate>
+		<Activate radius="4" totalDamage="100">VampireBlast</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Spell</DisplayId>
+	</Object>
+	<Object type="0x2000" id="Blade of Purest Light">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>T13katana</Id>
+		</RemoteTexture>
+		<SlotType>24</SlotType>
+		<Tier>13</Tier>
+		<Description>This blade was forged in the depths of a star, and consumed the star in its making.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/long_sword</Sound>
+		<Projectile>
+			<ObjectId>LightSlash</ObjectId>
+			<Speed>120</Speed>
+			<MinDamage>130</MinDamage>
+			<MaxDamage>190</MaxDamage>
+			<LifetimeMS>350</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>4</BagType>
+		<FameBonus>5</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>450</feedPower>
+		<DisplayId>Blade of Light</DisplayId>
+	</Object>
+	<Object type="0x146" id="Blade of Purest Night">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>T14katana</Id>
+		</RemoteTexture>
+		<SlotType>24</SlotType>
+		<Tier>14</Tier>
+		<Description>For where there is light, shadow too must dwell.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/long_sword</Sound>
+		<Projectile>
+			<ObjectId>NightSlash</ObjectId>
+			<Speed>120</Speed>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>180</MaxDamage>
+			<LifetimeMS>350</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>4</BagType>
+		<FameBonus>5</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+		<feedPower>450</feedPower>
+		<DisplayId>Blade of Night</DisplayId>
+	</Object>
+	<Object type="0x608" id="Phoenix Wand">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Phoenix Wand</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>A wand empowered by the flames of the Phoenix</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/fire_wand</Sound>
+		<Projectile>
+			<ObjectId>Phoenix Projectile</ObjectId>
+			<Speed>140</Speed>
+			<MinDamage>100</MinDamage>
+			<MaxDamage>150</MaxDamage>
+			<LifetimeMS>650</LifetimeMS>
+		</Projectile>
+		<BagType>6</BagType>
+		<NumProjectiles>1</NumProjectiles>
+		<OldSound>magicShoot</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Wand of the Phoenix</DisplayId>
+	</Object>
+	<Object type="0x770A" id="Unholy Bow">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Bow</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>Enchanted with evil, bound in sorcery, and curse are those who use it.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/double_bow</Sound>
+		<Projectile>
+			<ObjectId>Unholy Arrow</ObjectId>
+			<Speed>125</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>90</MaxDamage>
+			<LifetimeMS>470</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<OldSound>arrowShoot</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Curse of the Unholy Bow</DisplayId>
+	</Object>
+	<Object type="0x770B" id="Phoenix Ring">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Phoenix Ring</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>Enchanted ring of the Phoenix</Description>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Phoenix Ring</DisplayId>
+	</Object>
+	<Object type="0x770C" id="Unholy Dagger">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Dagger</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>A true Unholy Dagger, used for many sacrifices to the Dark Lords of the Realm.</Description>
+		<RateOfFire>1.2</RateOfFire>
+		<Sound>weapon/dirk</Sound>
+		<Projectile>
+			<ObjectId>Unholy Dagger Proj</ObjectId>
+			<Speed>130</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>180</MaxDamage>
+			<LifetimeMS>440</LifetimeMS>
+			<Amplitude>0.15</Amplitude>
+			<Frequency>0.15</Frequency>
+		</Projectile>
+		<BagType>6</BagType>
+		<OldSound>daggerSwing</OldSound>
+		<FameBonus>4</FameBonus>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Dagger</DisplayId>
+	</Object>
+	<Object type="0x770D" id="Unholy Staff">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Staff</Id>
+		</RemoteTexture>
+		<SlotType>17</SlotType>
+		<Description>A staff which feels forever cold to the touch, it has a dark presence that can not be denied.</Description>
+		<RateOfFire>1</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>Unholy Staff Proj</ObjectId>
+			<Speed>130</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>120</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>2</Frequency>
+		</Projectile>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>0</ArcGap>
+		<OldSound>magicShoot</OldSound>
+		<feedPower>0</feedPower>
+		<DisplayId>Staff of the Unholy Church</DisplayId>
+	</Object>
+	<Object type="0x770E" id="Unholy Poison">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Poison</Id>
+		</RemoteTexture>
+		<SlotType>18</SlotType>
+		<Description>A dark brotherhood, a dark past, and an even darker secret, poisons, potions, spells, and this is only what you see...</Description>
+		<ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>4</BagType>
+		<FameBonus>4</FameBonus>
+		<MpCost>110</MpCost>
+		<Activate radius="5" totalDamage="950" duration="8">PoisonGrenade</Activate>
+		<ConditionEffect duration="4">Slowed</ConditionEffect>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Poison</DisplayId>
+	</Object>
+	<Object type="0x770F" id="Bloodbath Dagger">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Bloodbath Dagger</Id>
+		</RemoteTexture>
+		<SlotType>2</SlotType>
+		<Description>A dagger left behind from a great massacre in Bedlam Asylum.</Description>
+		<RateOfFire>1.2</RateOfFire>
+		<Sound>weapon/dirk</Sound>
+		<Projectile>
+			<ObjectId>Bloodbath Dagger Proj</ObjectId>
+			<Speed>130</Speed>
+			<MinDamage>60</MinDamage>
+			<MaxDamage>120</MaxDamage>
+			<LifetimeMS>440</LifetimeMS>
+			<Amplitude>0.1</Amplitude>
+			<Frequency>0.1</Frequency>
+		</Projectile>
+		<BagType>6</BagType>
+		<OldSound>daggerSwing</OldSound>
+		<FameBonus>4</FameBonus>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>8</ArcGap>
+		<feedPower>0</feedPower>
+		<ElementalSorUpgrade/>
+		<DisplayId>Bloodbath Dagger</DisplayId>
+	</Object>
+	<Object type="0x772B" id="Unholy Shield">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Shield</Id>
+		</RemoteTexture>
+		<SlotType>5</SlotType>
+		<Description>When the unholy army rose, shields gave them dark, almighty strength and power</Description>
+		<Sound>spell/fire_spray</Sound>
+		<Projectile>
+			<ObjectId>Unholy Shield Proj</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>280</MinDamage>
+			<MaxDamage>360</MaxDamage>
+			<LifetimeMS>250</LifetimeMS>
+			<Size>120</Size>
+			<ConditionEffect duration="4">Armor Broken</ConditionEffect>
+			<ConditionEffect duration="4">Slowed</ConditionEffect>
+			<MultiHit/>
+			<ArmorPiercing/>
+			<ParticleTrail/>
+		</Projectile>
+		<ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>100</MpCost>
+		<Activate>Shoot</Activate>
+		<NumProjectiles>15</NumProjectiles>
+		<ArcGap>23</ArcGap>
+		<feedPower>0</feedPower>
+		<EssenceUpgrade/>
+		<DisplayId>Unholy Shield</DisplayId>
+	</Object>
+	<Object type="0x772D" id="Unholy Prism">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Prism</Id>
+		</RemoteTexture>
+		<SlotType>22</SlotType>
+		<Description>Tricky situations called for tricky maneuvers when the Unholy battle begun, untrained enemy were quickly put to death.</Description>
+		<ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>95</MpCost>
+		<Activate duration="5">Decoy</Activate>
+		<Activate duration="5" angleOffset="180">Decoy</Activate>
+		<Activate effect="Invisible" duration="5">ConditionEffectSelf</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Prism</DisplayId>
+	</Object>
+	<Object type="0x772E" id="Unholy Tome">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Unholy Tome</Id>
+		</RemoteTexture>
+		<SlotType>4</SlotType>
+		<Description>An Unholy Brotherhood, Satanic rituals, sacrifice...</Description>
+		<Sound>spell/major_heal</Sound>
+		<ActivateOnEquip stat="26" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+		<Usable/>
+		<BagType>6</BagType>
+		<FameBonus>6</FameBonus>
+		<MpCost>125</MpCost>
+		<Activate amount="250" range="3.5" useWisMod="true">HealNova</Activate>
+		<Activate range="4">RemoveNegativeConditions</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Unholy Tome</DisplayId>
+	</Object>
+	<Object type="0x775E" id="Asylum Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Asylum Portal</Id>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+		<DisplayId>Asylum of Chaos</DisplayId>
+	</Object>
+	<!-- Key -->
+	<Object type="0x775F" id="Asylum Key">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>Asylum Key</Id>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>Dare open the doors to Bedlam's Asylum.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Asylum Portal">Create</Activate>
+		<feedPower>0</feedPower>
+		<DisplayId>Asylum Key</DisplayId>
+	</Object>
+	<Object type="0x63f4" id="Wine Cellar Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<Texture>
+			<File>lofiEnvironment</File>
+			<Index>0x7b</Index>
+		</Texture>
+		<ShadowSize>0</ShadowSize>
+		<DisplayId>Wine Cellar Portal</DisplayId>
+	</Object>
+	<Object type="0x63f5" id="Oryx's Temple Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<Texture>
+			<File>lofiEnvironment</File>
+			<Index>0x7b</Index>
+		</Texture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+</Objects>

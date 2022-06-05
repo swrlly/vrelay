@@ -1,5 +1,408 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <Objects>
+	<Object type="0x1BE2" id="Large Christmas Tree Snow 5">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x69</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BE1" id="Large Christmas Tree Snow 3">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x68</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD9" id="Large Christmas Tree Snow 2">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x67</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD8" id="Large Christmas Tree Snow 1">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x66</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD7" id="Large Christmas Tree Animated">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x64</Index>
+		</Texture>
+		<Animation prob="1" period="0.30">
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x65</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x64</Index>
+				</Texture>
+			</Frame>
+		</Animation>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD6" id="Large Christmas Tree 4">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x63</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD5" id="Large Christmas Tree 3">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x62</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD4" id="Large Christmas Tree 2">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x61</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD3" id="Large Christmas Tree">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x60</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BD2" id="Winter Rabbit Nexus">
+		<Group>Sheep</Group>
+		<Class>Character</Class>
+		<AnimatedTexture>
+			<File>chars8x8rEncounters</File>
+			<Index>170</Index>
+		</AnimatedTexture>
+		<Size>100</Size>
+		<XpMult>0.0</XpMult>
+		<DisplayId>Winter Rabbit</DisplayId>
+	</Object>
+	<Object type="0x1BD1" id="Christmas Tree">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x50</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+		<Animation prob="1" period="3.0">
+			<Frame time="0.2">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x51</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.2">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x52</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.2">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x53</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.2">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x54</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x55</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x56</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x57</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x58</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x59</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x5a</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x5b</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x5c</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x5d</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x5e</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.15">
+				<Texture>
+					<File>Objects32x32</File>
+					<Index>0x5f</Index>
+				</Texture>
+			</Frame>
+		</Animation>
+	</Object>
+	<Object type="0x1BC9" id="Tall Snowman">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xb6</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BC8" id="Wizard Snowman">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xa7</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BC7" id="Bleeding Snowman">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xb7</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BC6" id="Rogue Snowman">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xb8</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BC5" id="Knight Snowman">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xb9</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BC4" id="Dreadcull Snowman">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xdf</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
+	<Object type="0x1BC3" id="Kings Mixup Chest Static">
+		<Class>GameObject</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xde</Index>
+		</Texture>
+		<Animation prob="0.3" period="1.7">
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xe7</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xe8</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xe9</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xea</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xeb</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xec</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xed</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xee</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xef</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xf5</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xf6</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xf7</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xf8</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xf9</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xfa</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xde</Index>
+				</Texture>
+			</Frame>
+		</Animation>
+		<ShowName/>
+		<Size>200</Size>
+		<ShadowSize>100</ShadowSize>
+		<Static/>
+		<OccupySquare/>
+	</Object>
 	<Object type="0x1b46" id="Hallow Pumpkin Jack">
 		<Class>GameObject</Class>
 		<Texture>
@@ -44,7 +447,6 @@
 		<Static/>
 		<OccupySquare/>
 	</Object>
-
 	<Object type="0x1b42" id="Hallow Pumpkin Large">
 		<Class>GameObject</Class>
 		<Texture>
@@ -56,7 +458,6 @@
 		<Static/>
 		<OccupySquare/>
 	</Object>
-
 	<Object type="0x1b41" id="Hallow Pumpkin">
 		<Class>GameObject</Class>
 		<Texture>
@@ -68,7 +469,6 @@
 		<Static/>
 		<OccupySquare/>
 	</Object>
-
 	<Object type="0x1b35" id="Hallow Tree 7">
 		<Class>Character</Class>
 		<Texture>
@@ -644,7 +1044,6 @@
 					<Index>0x0c</Index>
 				</Texture>
 			</Frame>
-
 		</Animation>
 		<Size>60</Size>
 		<XpMult>0.0</XpMult>
@@ -1057,7 +1456,6 @@
 		<OccupySquare/>
 		<EnemyOccupySquare/>
 	</Object>
-
 	<Object type="0x83c6" id="NP DWall Book 7">
 		<Class>DoubleWall</Class>
 		<Texture>

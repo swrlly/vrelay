@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<Objects>
+    <Object type="0x0727e" id="The Shatters">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>The Shatters</DungeonName>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x44e</Index>
+        </Texture>
+        <DisplayId>{shatters.The_Shatters}</DisplayId>
+    </Object>
+    <Object type="0x717b" id="shtrs Shattered Walls">
+        <Class>Wall</Class>
+        <RandomTexture>
+            <Texture>
+                <File>lofiObj3</File>
+                <Index>0x454</Index>
+            </Texture>
+            <Texture>
+                <File>lofiObj3</File>
+                <Index>0x455</Index>
+            </Texture>
+            <Texture>
+                <File>lofiObj3</File>
+                <Index>0x456</Index>
+            </Texture>
+        </RandomTexture>
+        <Top>
+            <Texture>
+                <File>lofiObj3</File>
+                <Index>0x457</Index>
+            </Texture>
+        </Top>
+        <HitSound>monster/wooden_walls_hit</HitSound>
+        <DeathSound>monster/wooden_walls_death</DeathSound>
+        <Static/>
+        <FullOccupy/>
+        <OccupySquare/>
+        <EnemyOccupySquare/>
+        <BlocksSight/>
+        <DisplayId>{shatters.shtrs_Shattered_Walls}</DisplayId>
+    </Object>
+    <Object type="0x717e" id="shtrs Abandoned Switch 1">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_1}</DisplayId>
+    </Object>
+    <Object type="0x724a" id="shtrs Abandoned Switch 2">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_2}</DisplayId>
+    </Object>
+    <Object type="0x724b" id="shtrs Abandoned Switch 3">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_3}</DisplayId>
+    </Object>
+    <Object type="0x724c" id="shtrs Abandoned Switch 4">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_4}</DisplayId>
+    </Object>
+    <Object type="0x724d" id="shtrs Abandoned Switch 5">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_5}</DisplayId>
+    </Object>
+    <Object type="0x724e" id="shtrs Abandoned Switch 6">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_6}</DisplayId>
+    </Object>
+    <Object type="0x727c" id="shtrs Abandoned Switch 7">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_7}</DisplayId>
+    </Object>
+    <Object type="0x727d" id="shtrs Abandoned Switch 8">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_8}</DisplayId>
+    </Object>
+    <Object type="0x736e" id="shtrs Abandoned Switch 10">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_10}</DisplayId>
+    </Object>
+    <Object type="0x736f" id="shtrs Abandoned Switch 9">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>70</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Abandoned_Switch_9}</DisplayId>
+    </Object>
+    <Object type="0x717d" id="shtrs Unborken Column">
+        <Class>GameObject</Class>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x140</Index>
+        </Texture>
+        <AltTexture id="1">
+            <Texture>
+                <File>lofiObjBig</File>
+                <Index>0x140</Index>
+            </Texture>
+        </AltTexture>
+        <AltTexture id="2">
+            <Texture>
+                <File>lofiObjBig</File>
+                <Index>0x140</Index>
+            </Texture>
+        </AltTexture>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>200</Defense>
+        <XpMult>0.0</XpMult>
+        <DisplayId>{shatters.shtrs_Unborken_Column}</DisplayId>
+    </Object>
+    <Object type="0x726b" id="shtrs Bridge Titanum">
+        <DisplayId>{shatters.shtrs_Bridge_Titanum}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>73</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>15000</MaxHitPoints>
+        <Defense>50</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Destruction Star</ObjectId>
+            <Speed>180</Speed>
+            <Damage>125</Damage>
+            <LifetimeMS>800</LifetimeMS>
+            <Size>400</Size>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Rockbomb Spike</ObjectId>
+            <Speed>180</Speed>
+            <Damage>75</Damage>
+            <LifetimeMS>556</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x736c" id="shtrs Mage Closer 1">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Mage_Closer_1}</DisplayId>
+    </Object>
+    <Object type="0x736d" id="shtrs Mage Bridge Check">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Mage_Bridge_Check}</DisplayId>
+    </Object>
+    <Object type="0x717c" id="shtrs Final Fight Check">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Final_Fight_Check}</DisplayId>
+    </Object>
+    <Object type="0x722e" id="shtrs KillWall 1">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_KillWall_1}</DisplayId>
+    </Object>
+    <Object type="0x722f" id="shtrs KillWall 2">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_KillWall_2}</DisplayId>
+    </Object>
+    <Object type="0x731d" id="shtrs KillWall 3">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_KillWall_3}</DisplayId>
+    </Object>
+    <Object type="0x725a" id="shtrs KillWall 4">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_KillWall_4}</DisplayId>
+    </Object>
+    <Object type="0x734b" id="shtrs KillWall 7">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_KillWall_7}</DisplayId>
+    </Object>
+    <Object type="0x727a" id="shtrs MagiGenerators">
+        <DisplayId>{shatters.shtrs_MagiGenerators}</DisplayId>
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x151</Index>
+        </Texture>
+        <Size>150</Size>
+        <MaxHitPoints>9000</MaxHitPoints>
+        <Defense>55</Defense>
+        <StunImmune/>
+        <ParalyzeImmune/>
+        <StasisImmune/>
+        <DazedImmune/>
+        <XpMult>0.2</XpMult>
+        <AltTexture id="1">
+            <Texture>
+                <File>lofiObjBig</File>
+                <Index>0x152</Index>
+            </Texture>
+        </AltTexture>
+        <Projectile id="0">
+            <ObjectId>Archmage Shield</ObjectId>
+            <Speed>25</Speed>
+            <Damage>0</Damage>
+            <LifetimeMS>600</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ConditionEffect duration="3">Unstable</ConditionEffect>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Ball Of Hurt</ObjectId>
+            <Damage>250</Damage>
+            <Speed>35</Speed>
+            <Size>200</Size>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ConditionEffect duration="3">Unstable</ConditionEffect>
+        </Projectile>
+    </Object>
+    <Object type="0x727b" id="shtrs KillWall 6">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_KillWall_6}</DisplayId>
+    </Object>
+    <Object type="0x725b" id="shtrs Bridge Closer">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Bridge_Closer}</DisplayId>
+    </Object>
+    <Object type="0x725c" id="shtrs Player Check">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Player_Check}</DisplayId>
+    </Object>
+    <Object type="0x726f" id="shtrs Spawn Bridge">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Spawn_Bridge}</DisplayId>
+    </Object>
+    <Object type="0x728e" id="shtrs Bridge Review Board">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Bridge_Review_Board}</DisplayId>
+    </Object>
+    <Object type="0x725f" id="shtrs Goo Spawner">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Goo_Spawner}</DisplayId>
+    </Object>
+    <Object type="0x730c" id="shtrs Player Check Archmage">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Player_Check_Archmage}</DisplayId>
+    </Object>
+    <Object type="0x734c" id="shtrs Monster Cluster">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Monster_Cluster}</DisplayId>
+    </Object>
+    <Object type="0x726a" id="shtrs Blobomb">
+        <DisplayId>{shatters.shtrs_Blobomb}</DisplayId>
+        <Class>Character</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>108</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>7500</MaxHitPoints>
+        <Defense>30</Defense>
+        <XpMult>0.0</XpMult>
+        <StunImmune/>
+        <ParalyzeImmune/>
+        <Projectile id="0">
+            <ObjectId>Directed Explosion</ObjectId>
+            <Speed>100</Speed>
+            <Damage>120</Damage>
+            <LifetimeMS>600</LifetimeMS>
+            <Size>200</Size>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x725d" id="shtrs Bridge Obelisk A">
+        <DisplayId>{shatters.shtrs_Bridge_Obelisk_A}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>73</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>15000</MaxHitPoints>
+        <Defense>50</Defense>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <StunImmune/>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x725e" id="shtrs Bridge Obelisk B">
+        <DisplayId>{shatters.shtrs_Bridge_Obelisk_B}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>73</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>15000</MaxHitPoints>
+        <Defense>50</Defense>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <StunImmune/>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x726c" id="shtrs Bridge Obelisk C">
+        <DisplayId>{shatters.shtrs_Bridge_Obelisk_C}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x141</Index>
+        </Texture>
+        <Size>150</Size>
+        <MaxHitPoints>30000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x726d" id="shtrs Bridge Obelisk D">
+        <DisplayId>{shatters.shtrs_Bridge_Obelisk_D}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>73</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>15000</MaxHitPoints>
+        <Defense>50</Defense>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <StunImmune/>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x726e" id="shtrs Bridge Obelisk E">
+        <DisplayId>{shatters.shtrs_Bridge_Obelisk_E}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>73</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>15000</MaxHitPoints>
+        <Defense>50</Defense>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <StunImmune/>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x728f" id="shtrs Bridge Obelisk F">
+        <DisplayId>{shatters.shtrs_Bridge_Obelisk_F}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x141</Index>
+        </Texture>
+        <Size>150</Size>
+        <MaxHitPoints>30000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x710a" id="shtrs Titanum">
+        <DisplayId>{shatters.shtrs_Titanum}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>73</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>25000</MaxHitPoints>
+        <Defense>60</Defense>
+        <XpMult>0.5</XpMult>
+        <StasisImmune/>
+        <StunImmune/>
+        <ParalyzeImmune/>
+    </Object>
+    <Object type="0x715a" id="shtrs Paladin Obelisk">
+        <DisplayId>{shatters.shtrs_Paladin_Obelisk}</DisplayId>
+        <Class>Character</Class>
+        <Group>Spawners</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x141</Index>
+        </Texture>
+        <Size>150</Size>
+        <MaxHitPoints>30000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.5</XpMult>
+        <StasisImmune/>
+        <StunImmune/>
+        <ParalyzeImmune/>
+    </Object>
+    <Object type="0x710d" id="shtrs Ice Mage">
+        <DisplayId>{shatters.shtrs_Ice_Mage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>91</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>18000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.2</XpMult>
+        <StunImmune/>
+        <Projectile id="0">
+            <ObjectId>Blue Boomerang</ObjectId>
+            <Speed>40</Speed>
+            <Damage>165</Damage>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="2">Slowed</ConditionEffect>
+            <ConditionEffect duration="2">Darkness</ConditionEffect>
+            <Boomerang/>
+        </Projectile>
+    </Object>
+    <Object type="0x711a" id="shtrs Ice Adept">
+        <DisplayId>{shatters.shtrs_Ice_Adept}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>92</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>20000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.2</XpMult>
+        <StunImmune/>
+        <Projectile id="0">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Speed>45</Speed>
+            <Damage>175</Damage>
+            <LifetimeMS>4445</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="2">Darkness</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Confuse Shuriken</ObjectId>
+            <Speed>120</Speed>
+            <Damage>75</Damage>
+            <LifetimeMS>1000</LifetimeMS>
+            <ConditionEffect duration="3">Confused</ConditionEffect>
+        </Projectile>
+    </Object>
+    <Object type="0x711e" id="shtrs Glassier Archmage">
+        <DisplayId>{shatters.shtrs_Glassier_Archmage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Archmages</Group>
+        <Enemy/>
+        <StunImmune/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>93</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>24000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.2</XpMult>
+        <AltTexture id="1">
+            <AnimatedTexture>
+                <File>chars8x8rEncounters</File>
+                <Index>94</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <Projectile id="0">
+            <ObjectId>Large White Shuriken</ObjectId>
+            <Damage>120</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Damage>70</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ConditionEffect duration="3">Darkness</ConditionEffect>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Blue Missile</ObjectId>
+            <Damage>0</Damage>
+            <Speed>110</Speed>
+            <LifetimeMS>7000</LifetimeMS>
+            <ConditionEffect duration="3.5">Bleeding</ConditionEffect>
+            <ConditionEffect duration="3.5">Unstable</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ArmorPiercing/>
+            <Size>200</Size>
+        </Projectile>
+    </Object>
+    <Object type="0x710b" id="shtrs Fire Mage">
+        <DisplayId>{shatters.shtrs_Fire_Mage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Fire Mages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>95</Index>
+        </AnimatedTexture>
+        <Size>120</Size>
+        <MaxHitPoints>18000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.2</XpMult>
+        <ParalyzeImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>20</Speed>
+            <MinDamage>130</MinDamage>
+            <MaxDamage>135</MaxDamage>
+            <LifetimeMS>8000</LifetimeMS>
+            <Amplitude>0.5</Amplitude>
+            <Frequency>2</Frequency>
+            <ConditionEffect duration="3">Unstable</ConditionEffect>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Directed Explosion</ObjectId>
+            <Damage>75</Damage>
+            <Speed>40</Speed>
+            <LifetimeMS>1500</LifetimeMS>
+        </Projectile>
+    </Object>
+    <Object type="0x711b" id="shtrs Fire Adept">
+        <DisplayId>{shatters.shtrs_Fire_Adept}</DisplayId>
+        <Class>Character</Class>
+        <Group>Fire Mages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>96</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>20000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.2</XpMult>
+        <ParalyzeImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>20</Speed>
+            <MinDamage>75</MinDamage>
+            <MaxDamage>75</MaxDamage>
+            <LifetimeMS>8000</LifetimeMS>
+            <Amplitude>0.5</Amplitude>
+            <Frequency>2</Frequency>
+            <ConditionEffect duration="3">Unstable</ConditionEffect>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Directed Explosion</ObjectId>
+            <Damage>50</Damage>
+            <Speed>30</Speed>
+            <LifetimeMS>9000</LifetimeMS>
+        </Projectile>
+    </Object>
+    <Object type="0x711c" id="shtrs Archmage of Flame">
+        <DisplayId>{shatters.shtrs_Archmage_of_Flame}</DisplayId>
+        <Class>Character</Class>
+        <Group>Archmages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>97</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>24000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.2</XpMult>
+        <ParalyzeImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Missile</ObjectId>
+            <Damage>130</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+            <ConditionEffect duration="2">Unstable</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Fire Bolt</ObjectId>
+            <Damage>175</Damage>
+            <Speed>100</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Damage>175</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>1600</LifetimeMS>
+            <ConditionEffect duration="2">Unstable</ConditionEffect>
+            <ArmorPiercing/>
+        </Projectile>
+    </Object>
+    <Object type="0x710e" id="shtrs Stone Mage">
+        <DisplayId>{shatters.shtrs_Stone_Mage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>98</Index>
+        </AnimatedTexture>
+        <Size>140</Size>
+        <MaxHitPoints>16000</MaxHitPoints>
+        <Defense>75</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Stone Slash</ObjectId>
+            <Speed>50</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>120</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <Amplitude>1</Amplitude>
+            <Frequency>3</Frequency>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>50</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>110</MaxDamage>
+            <LifetimeMS>5000</LifetimeMS>
+            <Amplitude>1</Amplitude>
+            <Frequency>3</Frequency>
+        </Projectile>
+    </Object>
+    <Object type="0x711d" id="shtrs Stone Knight">
+        <DisplayId>{shatters.shtrs_Stone_Knight}</DisplayId>
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>99</Index>
+        </AnimatedTexture>
+        <HitSound>monster/pirates_hit</HitSound>
+        <DeathSound>monster/pirates_death</DeathSound>
+        <Size>140</Size>
+        <MaxHitPoints>5000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="1">
+            <ObjectId>Silver Shield</ObjectId>
+            <Damage>5</Damage>
+            <Speed>100</Speed>
+            <LifetimeMS>300</LifetimeMS>
+            <Size>200</Size>
+            <ConditionEffect duration="1">Paralyzed</ConditionEffect>
+            <MultiHit/>
+            <PassesCover/>
+            <ParticleTrail/>
+        </Projectile>
+    </Object>
+    <Object type="0x713c" id="shtrs Stone Paladin">
+        <DisplayId>{shatters.shtrs_Stone_Paladin}</DisplayId>
+        <Class>Character</Class>
+        <Group>Stone Paladin</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>100</Index>
+        </AnimatedTexture>
+        <Size>140</Size>
+        <MaxHitPoints>20000</MaxHitPoints>
+        <Defense>70</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Darkness Bolt</ObjectId>
+            <Damage>75</Damage>
+            <Speed>45</Speed>
+            <LifetimeMS>1500</LifetimeMS>
+        </Projectile>
+    </Object>
+    <Object type="0x727f" id="shtrs Spike">
+        <DisplayId>{shatters.shtrs_Spike}</DisplayId>
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x45d</Index>
+        </Texture>
+        <MaxHitPoints>1500</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.0</XpMult>
+        <ShadowSize>0</ShadowSize>
+        <Projectile id="0">
+            <ObjectId>Invisible</ObjectId>
+            <Damage>125</Damage>
+            <Speed>100</Speed>
+            <LifetimeMS>100</LifetimeMS>
+            <Size>75</Size>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x728a" id="shtrs Ice Shield">
+        <DisplayId>{shatters.shtrs_Ice_Shield}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>54</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>20000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Icey Magic Attack</ObjectId>
+            <Speed>25</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>150</MaxDamage>
+            <LifetimeMS>800</LifetimeMS>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>White Bullet</ObjectId>
+            <Damage>333</Damage>
+            <Speed>30</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+            <Size>75</Size>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x728b" id="shtrs Ice Portal">
+        <DisplayId>{shatters.shtrs_Ice_Portal}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x149</Index>
+        </Texture>
+        <MaxHitPoints>17500</MaxHitPoints>
+        <Defense>20</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>165</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="4">Slowed</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x728c" id="shtrs Fire Portal">
+        <DisplayId>{shatters.shtrs_Fire_Portal}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x14a</Index>
+        </Texture>
+        <MaxHitPoints>17500</MaxHitPoints>
+        <Defense>20</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>165</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="4">Confused</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x729b" id="shtrs S Archmage of Flame">
+        <DisplayId>{shatters.shtrs_S_Archmage_of_Flame}</DisplayId>
+        <Class>Character</Class>
+        <Group>Archmages</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>97</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>24000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.2</XpMult>
+        <ParalyzeImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Missile</ObjectId>
+            <Damage>135</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+            <ConditionEffect duration="2">Unstable</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Fire Bolt</ObjectId>
+            <Damage>165</Damage>
+            <Speed>100</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Damage>165</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>1600</LifetimeMS>
+            <ConditionEffect duration="2">Unstable</ConditionEffect>
+            <ArmorPiercing/>
+        </Projectile>
+    </Object>
+    <Object type="0x729c" id="shtrs S Glassier Archmage">
+        <DisplayId>{shatters.shtrs_S_Glassier_Archmage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Archmages</Group>
+        <Enemy/>
+        <StunImmune/>
+        <AnimatedTexture>
+            <File>chars8x8rEncounters</File>
+            <Index>93</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>2400</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.2</XpMult>
+        <AltTexture id="1">
+            <AnimatedTexture>
+                <File>chars8x8rEncounters</File>
+                <Index>94</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <Projectile id="0">
+            <ObjectId>Large White Shuriken</ObjectId>
+            <Damage>120</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Damage>80</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Blue Missile</ObjectId>
+            <Damage>0</Damage>
+            <Speed>110</Speed>
+            <LifetimeMS>7000</LifetimeMS>
+            <ConditionEffect duration="3.5">Unstable</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ArmorPiercing/>
+            <Size>200</Size>
+        </Projectile>
+    </Object>
+    <Object type="0x717f" id="shtrs Eyeguy">
+        <DisplayId>{shatters.shtrs_Eyeguy}</DisplayId>
+        <Class>Character</Class>
+        <Group>Finders</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>60</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>10000</MaxHitPoints>
+        <Defense>30</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Red Bullet</ObjectId>
+            <Damage>150</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>7000</LifetimeMS>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+            <ConditionEffect duration="3">Confused</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ConditionEffect duration="3">Hexed</ConditionEffect>
+            <ConditionEffect duration="3">Weak</ConditionEffect>
+        </Projectile>
+    </Object>
+    <Object type="0x714b" id="shtrs Bridge Sentinel">
+        <DisplayId>{shatters.shtrs_Bridge_Sentinel}</DisplayId>
+        <Class>Character</Class>
+        <Group>Stones</Group>
+        <Enemy/>
+        <OryxAspect/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>109</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>180000</MaxHitPoints>
+        <Defense>100</Defense>
+        <StasisImmune/>
+        <StunImmune/>
+        <ParalyzeImmune/>
+        <God/>
+        <XpMult>1.25</XpMult>
+        <AltTexture id="1">
+            <Texture>
+                <File>lofiObjBig</File>
+                <Index>0x14e</Index>
+            </Texture>
+        </AltTexture>
+        <AltTexture id="2">
+            <Texture>
+                <File>lofiObjBig</File>
+                <Index>0x14f</Index>
+            </Texture>
+        </AltTexture>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Damage>275</Damage>
+            <Speed>40</Speed>
+            <LifetimeMS>5000</LifetimeMS>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Small White Bullet</ObjectId>
+            <Damage>80</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Small White Bullet</ObjectId>
+            <Damage>80</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+        </Projectile>
+        <Projectile id="3">
+            <ObjectId>Small White Bullet</ObjectId>
+            <Damage>80</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+        </Projectile>
+        <Projectile id="4">
+            <ObjectId>Small White Shuriken</ObjectId>
+            <Damage>120</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+            <ConditionEffect duration="2">Slowed</ConditionEffect>
+            <Boomerang/>
+        </Projectile>
+        <Projectile id="5">
+            <ObjectId>Archmage Shield</ObjectId>
+            <Damage>150</Damage>
+            <Speed>30</Speed>
+            <LifetimeMS>670</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Confused</ConditionEffect>
+            <ConditionEffect duration="3">Unstable</ConditionEffect>
+            <Boomerang/>
+        </Projectile>
+    </Object>
+    <Object type="0x715d" id="shtrs Twilight Archmage">
+        <DisplayId>{shatters.shtrs_Twilight_Archmage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <OryxAspect/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x150</Index>
+        </Texture>
+        <Size>150</Size>
+        <MaxHitPoints>210000</MaxHitPoints>
+        <Defense>70</Defense>
+        <XpMult>1.25</XpMult>
+        <ShadowSize>40</ShadowSize>
+        <StasisImmune/>
+        <StunImmune/>
+        <ParalyzeImmune/>
+        <God/>
+        <HitSound>monster/medusa_hit</HitSound>
+        <DeathSound>monster/medusa_death</DeathSound>
+        <AltTexture id="1">
+            <AnimatedTexture>
+                <File>chars16x16rEncounters</File>
+                <Index>110</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <AltTexture id="2">
+            <AnimatedTexture>
+                <File>chars16x16rEncounters</File>
+                <Index>111</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <Projectile id="0">
+            <ObjectId>Large Blue Shuriken</ObjectId>
+            <Damage>120</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+            <ConditionEffect duration="2">Unstable</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Directed Explosion</ObjectId>
+            <Damage>100</Damage>
+            <Speed>25</Speed>
+            <LifetimeMS>2000</LifetimeMS>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Archmage Shield</ObjectId>
+            <Damage>145</Damage>
+            <Speed>35</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+            <Size>150</Size>
+            <ConditionEffect duration="3.5">Quiet</ConditionEffect>
+            <ArmorPiercing/>
+        </Projectile>
+        <Projectile id="3">
+            <ObjectId>Armor Pierce Bullet</ObjectId>
+            <Damage>120</Damage>
+            <Speed>35</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+            <Size>150</Size>
+            <ArmorPiercing/>
+        </Projectile>
+        <Projectile id="4">
+            <ObjectId>Paralyze Bullet</ObjectId>
+            <Damage>75</Damage>
+            <Speed>35</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+            <Size>150</Size>
+            <ConditionEffect duration="1.5">Paralyzed</ConditionEffect>
+        </Projectile>
+        <Projectile id="5">
+            <ObjectId>Confuse Shuriken</ObjectId>
+            <Damage>75</Damage>
+            <Speed>35</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="1.5">Confused</ConditionEffect>
+            <Size>150</Size>
+        </Projectile>
+        <Projectile id="6">
+            <ObjectId>Ball Of Hurt</ObjectId>
+            <Damage>400</Damage>
+            <Size>200</Size>
+            <Speed>35</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+    </Object>
+    <Object type="0x713f" id="shtrs Royal Guardian L">
+        <DisplayID>Royal Guardian</DisplayID>
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>114</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>45000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.2</XpMult>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>20</Speed>
+            <Damage>170</Damage>
+            <LifetimeMS>7000</LifetimeMS>
+            <Size>100</Size>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>130</MinDamage>
+            <MaxDamage>135</MaxDamage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Royal_Guardian_L}</DisplayId>
+    </Object>
+    <Object type="0x731b" id="shtrs Royal Guardian J">
+        <DisplayID>Royal Guardian</DisplayID>
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>114</Index>
+        </AnimatedTexture>
+        <Size>100</Size>
+        <MaxHitPoints>45000</MaxHitPoints>
+        <Defense>65</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>40</Speed>
+            <Damage>170</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="4">Slowed</ConditionEffect>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Royal_Guardian_J}</DisplayId>
+    </Object>
+    <Object type="0x716f" id="shtrs The Forgotten King">
+        <DisplayId>{shatters.shtrs_The_Forgotten_King}</DisplayId>
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <OryxAspect/>
+        <Boss/>
+        <God/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>115</Index>
+        </AnimatedTexture>
+        <Size>100</Size>
+        <MaxHitPoints>300000</MaxHitPoints>
+        <Defense>85</Defense>
+        <XpMult>1.25</XpMult>
+        <AltTexture id="1">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>81</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <StasisImmune/>
+        <StunImmune/>
+        <ParalyzeImmune/>
+        <DazedImmune/>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>220</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Armor Pierce Bullet</ObjectId>
+            <Speed>30</Speed>
+            <ArmorPiercing/>
+            <MinDamage>190</MinDamage>
+            <MaxDamage>220</MaxDamage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <Projectile id="2">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Damage>155</Damage>
+            <Speed>35</Speed>
+            <LifetimeMS>5000</LifetimeMS>
+            <ConditionEffect duration="2">Unstable</ConditionEffect>
+            <ConditionEffect duration="2">Quiet</ConditionEffect>
+            <Amplitude>1.5</Amplitude>
+            <Frequency>3</Frequency>
+        </Projectile>
+        <Projectile id="3">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Speed>25</Speed>
+            <Damage>155</Damage>
+            <LifetimeMS>7000</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <Amplitude>1.5</Amplitude>
+            <Frequency>3</Frequency>
+        </Projectile>
+        <Projectile id="4">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <ArmorPiercing/>
+            <MinDamage>190</MinDamage>
+            <MaxDamage>220</MaxDamage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+    </Object>
+    <Object type="0x728d" id="shtrs Firebomb">
+        <Class>Character</Class>
+        <DisplayId>{shatters.shtrs_Firebomb}</DisplayId>
+        <Enemy/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x45e</Index>
+        </Texture>
+        <Animation prob="1" period="0">
+            <Frame time="0.2">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x45e</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.2">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x45f</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.2">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x460</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.2">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x461</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.2">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x462</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x463</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x464</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x463</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x464</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x463</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x464</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x463</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x464</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x463</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x464</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x463</Index>
+                </Texture>
+            </Frame>
+            <Frame time="0.1">
+                <Texture>
+                    <File>lofiObj3</File>
+                    <Index>0x464</Index>
+                </Texture>
+            </Frame>
+            <Frame time="2">
+                <Texture>
+                    <File>invisible</File>
+                    <Index>0</Index>
+                </Texture>
+            </Frame>
+        </Animation>
+        <Projectile id="0">
+            <ObjectId>LavaBombBlast</ObjectId>
+            <Speed>20</Speed>
+            <Damage>150</Damage>
+            <Size>200</Size>
+            <LifetimeMS>1500</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <MaxHitPoints>10</MaxHitPoints>
+        <XpMult>0.0</XpMult>
+        <Size>100</Size>
+    </Object>
+    <Object type="0x729d" id="shtrs Inferno">
+        <DisplayId>{shatters.shtrs_Inferno}</DisplayId>
+        <Class>Character</Class>
+        <Group>Archmage Phoenixes</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>112</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>100000</MaxHitPoints>
+        <ParalyzeImmune/>
+        <StasisImmune/>
+        <Defense>45</Defense>
+        <XpMult>1.25</XpMult>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>40</Speed>
+            <MinDamage>130</MinDamage>
+            <MaxDamage>140</MaxDamage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="3">Unstable</ConditionEffect>
+            <ConditionEffect duration="3">Quiet</ConditionEffect>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Directed Explosion</ObjectId>
+            <Damage>125</Damage>
+            <Speed>50</Speed>
+            <LifetimeMS>900</LifetimeMS>
+        </Projectile>
+    </Object>
+    <Object type="0x729e" id="shtrs Blizzard">
+        <DisplayId>{shatters.shtrs_Blizzard}</DisplayId>
+        <Class>Character</Class>
+        <Group>Archmage Phoenixes</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16rEncounters</File>
+            <Index>113</Index>
+        </AnimatedTexture>
+        <Size>125</Size>
+        <MaxHitPoints>130000</MaxHitPoints>
+        <StunImmune/>
+        <ParalyzeImmune/>
+        <Defense>100</Defense>
+        <XpMult>1.25</XpMult>
+        <Projectile id="0">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Speed>45</Speed>
+            <Damage>225</Damage>
+            <LifetimeMS>4445</LifetimeMS>
+            <ConditionEffect duration="3">Slowed</ConditionEffect>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+        </Projectile>
+    </Object>
+    <Object type="0x729f" id="shtrs BirdSpawn 1">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_BirdSpawn_1}</DisplayId>
+    </Object>
+    <Object type="0x730a" id="shtrs BirdSpawn 2">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_BirdSpawn_2}</DisplayId>
+    </Object>
+    <Object type="0x730b" id="shtrs Bird Check">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Bird_Check}</DisplayId>
+    </Object>
+    <Object type="0x730d" id="shtrs Ice Shield 2">
+        <DisplayId>{shatters.shtrs_Ice_Shield_2}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Size>150</Size>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>54</Index>
+        </AnimatedTexture>
+        <MaxHitPoints>14000</MaxHitPoints>
+        <Defense>25</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Ice Bullet</ObjectId>
+            <Speed>25</Speed>
+            <MinDamage>75</MinDamage>
+            <MaxDamage>150</MaxDamage>
+            <LifetimeMS>3200</LifetimeMS>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>White Bullet</ObjectId>
+            <Damage>300</Damage>
+            <Speed>30</Speed>
+            <LifetimeMS>6000</LifetimeMS>
+            <Size>75</Size>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x730e" id="shtrs Ice Portal 2">
+        <DisplayId>{shatters.shtrs_Ice_Portal_2}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x149</Index>
+        </Texture>
+        <MaxHitPoints>10000</MaxHitPoints>
+        <Defense>10</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>White Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>150</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="4">Slowed</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x730f" id="shtrs Fire Portal 2">
+        <DisplayId>{shatters.shtrs_Fire_Portal_2}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObjBig</File>
+            <Index>0x14a</Index>
+        </Texture>
+        <MaxHitPoints>10000</MaxHitPoints>
+        <Defense>10</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>150</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="2.5">Confused</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x731c" id="shtrs The Cursed Crown">
+        <Class>Character</Class>
+        <Group>Stone Monster</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars16x16dEncounters2</File>
+            <Index>82</Index>
+        </AnimatedTexture>
+        <Size>100</Size>
+        <MaxHitPoints>25000</MaxHitPoints>
+        <Defense>45</Defense>
+        <XpMult>0.0</XpMult>
+        <AltTexture id="1">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>83</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <AltTexture id="2">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>84</Index>
+            </AnimatedTexture>
+            <Effect particle="SwirlingMist" cooldown="0.5">XMLEffect</Effect>
+        </AltTexture>
+        <AltTexture id="3">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>85</Index>
+            </AnimatedTexture>
+            <Effect particle="SwirlingMist" cooldown="0.5">XMLEffect</Effect>
+        </AltTexture>
+        <AltTexture id="4">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>86</Index>
+            </AnimatedTexture>
+            <Effect particle="SwirlingMist" cooldown="0.5">XMLEffect</Effect>
+        </AltTexture>
+        <AltTexture id="5">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>87</Index>
+            </AnimatedTexture>
+            <Effect particle="SwirlingMist" cooldown="0.5">XMLEffect</Effect>
+        </AltTexture>
+        <AltTexture id="6">
+            <AnimatedTexture>
+                <File>chars16x16dEncounters2</File>
+                <Index>81</Index>
+            </AnimatedTexture>
+        </AltTexture>
+        <DisplayId>{shatters.shtrs_The_Cursed_Crown}</DisplayId>
+    </Object>
+    <Object type="0x731e" id="shtrs Green Crystal">
+        <DisplayId>{shatters.shtrs_Green_Crystal}</DisplayId>
+        <Class>Character</Class>
+        <Group>Crystals</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>55</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>40000</MaxHitPoints>
+        <Defense>60</Defense>
+        <XpMult>0.0</XpMult>
+    </Object>
+    <Object type="0x731f" id="shtrs Yellow Crystal">
+        <DisplayId>{shatters.shtrs_Yellow_Crystal}</DisplayId>
+        <Class>Character</Class>
+        <Group>Crystals</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>56</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>50000</MaxHitPoints>
+        <Defense>60</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Paralyze Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>175</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+            <ConditionEffect duration="2">Paralyzed</ConditionEffect>
+            <MultiHit/>
+        </Projectile>
+    </Object>
+    <Object type="0x732a" id="shtrs Red Crystal">
+        <DisplayId>{shatters.shtrs_Red_Crystal}</DisplayId>
+        <Class>Character</Class>
+        <Group>Crystals</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>57</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>40000</MaxHitPoints>
+        <Defense>60</Defense>
+        <XpMult>0.0</XpMult>
+    </Object>
+    <Object type="0x732b" id="shtrs Blue Crystal">
+        <DisplayId>{shatters.shtrs_Blue_Crystal}</DisplayId>
+        <Class>Character</Class>
+        <Group>Crystals</Group>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>58</Index>
+        </AnimatedTexture>
+        <Size>150</Size>
+        <MaxHitPoints>4000</MaxHitPoints>
+        <Defense>60</Defense>
+        <XpMult>0.0</XpMult>
+    </Object>
+    <Object type="0x732c" id="shtrs Crystal Check">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Crystal_Check}</DisplayId>
+    </Object>
+    <Object type="0x732d" id="shtrs Add Lava">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Add_Lava}</DisplayId>
+    </Object>
+    <Object type="0x732e" id="shtrs Final Mediator Lava">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Final_Mediator_Lava}</DisplayId>
+    </Object>
+    <Object type="0x732f" id="shtrs Laser1">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>100</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>200</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Laser1}</DisplayId>
+    </Object>
+    <Object type="0x733a" id="shtrs Laser2">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>100</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>200</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Laser2}</DisplayId>
+    </Object>
+    <Object type="0x733b" id="shtrs Laser3">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>100</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>200</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Laser3}</DisplayId>
+    </Object>
+    <Object type="0x733c" id="shtrs Laser4">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>100</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>200</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Laser4}</DisplayId>
+    </Object>
+    <Object type="0x733d" id="shtrs Laser5">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>100</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>200</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Laser5}</DisplayId>
+    </Object>
+    <Object type="0x733e" id="shtrs Laser6">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>100</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <Projectile id="0">
+            <ObjectId>Fire Bullet</ObjectId>
+            <Speed>30</Speed>
+            <Damage>200</Damage>
+            <LifetimeMS>6000</LifetimeMS>
+        </Projectile>
+        <DisplayId>{shatters.shtrs_Laser6}</DisplayId>
+    </Object>
+    <Object type="0x733f" id="shtrs Lava Souls">
+        <DisplayId>{shatters.shtrs_Lava_Souls}</DisplayId>
+        <Class>Character</Class>
+        <Enemy/>
+        <AnimatedTexture>
+            <File>chars8x8dEncounters</File>
+            <Index>59</Index>
+        </AnimatedTexture>
+        <Size>100</Size>
+        <MaxHitPoints>3000</MaxHitPoints>
+        <Defense>15</Defense>
+        <XpMult>0.0</XpMult>
+        <Projectile id="0">
+            <ObjectId>Directed Explosion</ObjectId>
+            <Speed>100</Speed>
+            <Damage>50</Damage>
+            <LifetimeMS>600</LifetimeMS>
+            <Size>100</Size>
+            <ConditionEffect duration="3">Sick</ConditionEffect>
+            <ConditionEffect duration="3">Bleeding</ConditionEffect>
+        </Projectile>
+    </Object>
+    <Object type="0x734a" id="shtrs Soul Spawner">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <ParalyzeImmune/>
+        <DisplayId>{shatters.shtrs_Soul_Spawner}</DisplayId>
+    </Object>
+    <Object type="0x737d" id="shtrs Bridge Balloon Spawner">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Bridge_Balloon_Spawner}</DisplayId>
+    </Object>
+    <Object type="0x737e" id="shtrs Mage Balloon Spawner">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Mage_Balloon_Spawner}</DisplayId>
+    </Object>
+    <Object type="0x737f" id="shtrs King Balloon Spawner">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_King_Balloon_Spawner}</DisplayId>
+    </Object>
+    <Object type="0x731a" id="shtrs Loot Balloon Bridge">
+        <DisplayId>{shatters.shtrs_Loot_Balloon_Bridge}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x466</Index>
+        </Texture>
+        <MaxHitPoints>120000</MaxHitPoints>
+        <Defense>35</Defense>
+        <Size>160</Size>
+        <XpMult>0.0</XpMult>
+    </Object>
+    <Object type="0x737b" id="shtrs Loot Balloon Mage">
+        <DisplayId>{shatters.shtrs_Loot_Balloon_Mage}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x466</Index>
+        </Texture>
+        <MaxHitPoints>120000</MaxHitPoints>
+        <Defense>35</Defense>
+        <Size>160</Size>
+        <XpMult>0.0</XpMult>
+    </Object>
+    <Object type="0x737c" id="shtrs Loot Balloon King">
+        <DisplayId>{shatters.shtrs_Loot_Balloon_King}</DisplayId>
+        <Class>Character</Class>
+        <Group>Ice Mages</Group>
+        <Enemy/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x466</Index>
+        </Texture>
+        <MaxHitPoints>120000</MaxHitPoints>
+        <Defense>35</Defense>
+        <Size>160</Size>
+        <XpMult>0.0</XpMult>
+    </Object>
+    <Object type="0x7380" id="shtrs Pause Watcher">
+        <Class>Character</Class>
+        <Enemy/>
+        <Texture>
+            <File>invisible</File>
+            <Index>0</Index>
+        </Texture>
+        <NoMiniMap/>
+        <Size>0</Size>
+        <XpMult>0.0</XpMult>
+        <StasisImmune/>
+        <DisplayId>{shatters.shtrs_Pause_Watcher}</DisplayId>
+    </Object>
+</Objects>

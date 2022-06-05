@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <GroundTypes>
-
-	<Ground type="0x76c9" id="Cyber Tile Spawn">
+	<Ground type="0x79e2" id="Winter Ice  Edge 8">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x19f</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79e1" id="Winter Ice  Edge 7">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x19e</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d9" id="Winter Ice  Edge 6">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x19d</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d8" id="Winter Ice  Edge 5">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x18f</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d7" id="Winter Ice  Edge 4">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x18d</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d6" id="Winter Ice  Edge 3">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x17f</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d5" id="Winter Ice  Edge 2">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x17e</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d4" id="Winter Ice Edge 1">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x17d</Index>
+		</Texture>
+	</Ground>
+	<Ground type="0x79d3" id="Winter Ice">
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x17c</Index>
+		</Texture>
+		<SlideAmount>0.98</SlideAmount>
+	</Ground>
+	<Ground type="0x79c9" id="Cyber Tile Spawn">
 		<Texture>
 			<File>lofiEnvironment2</File>
 			<Index>0x205</Index>
@@ -34,22 +88,22 @@
 	<Ground type="0x77d4" id="Tutorial Castle TP Ground">
 		<Texture>
 			<File>lofiEnvironment2</File>
-				<Index>0xbc</Index>
+			<Index>0xbc</Index>
 		</Texture>
 	</Ground>
 	<Ground type="0x77d3" id="Guild TP Ground">
 		<Texture>
 			<File>lofiEnvironment2</File>
-				<Index>0xdd</Index>
+			<Index>0xdd</Index>
 		</Texture>
 	</Ground>
 	<Ground type="0x77d2" id="Home TP Ground">
 		<Texture>
 			<File>lofiEnvironment2</File>
-				<Index>0xdd</Index>
+			<Index>0xdd</Index>
 		</Texture>
 	</Ground>
-	<Ground type="0x76d2" id="Phalg Reality Grass Alt">
+	<Ground type="0x79d2" id="Phalg Reality Grass Alt">
 		<Texture>
 			<File>customGround8x8Embed</File>
 			<Index>0x6b</Index>
@@ -167,7 +221,7 @@
 			<Index>0x50</Index>
 		</Texture>
 	</Ground>
-	<Ground type="0x76c8" id="Phalg Light Tile">
+	<Ground type="0x79c8" id="Phalg Light Tile">
 		<Texture>
 			<File>customGround8x8Embed</File>
 			<Index>0x52</Index>
@@ -221,7 +275,7 @@
 			<Index>0x201</Index>
 		</Texture>
 	</Ground>
-	<Ground type="0x76d1" id="Serenity Bones 1">
+	<Ground type="0x79d1" id="Serenity Bones 1">
 		<Texture>
 			<File>lofiEnvironment2</File>
 			<Index>0x200</Index>
@@ -342,7 +396,6 @@
 		</InnerCorner>
 	</Ground>
 	<Ground type="0x3137" id="NP Carpet Purple">
-		<SameTypeEdgeMode/>
 		<Texture>
 			<File>valornexus</File>
 			<Index>0x139</Index>

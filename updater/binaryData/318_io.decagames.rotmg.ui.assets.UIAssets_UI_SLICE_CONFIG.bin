@@ -1,0 +1,514 @@
+{
+  "slices": {
+    "shop_blue_tag.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 6,
+        "h": 19
+      }
+    },
+    "tab_button_center_open.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 39,
+        "h": 41
+      }
+    },
+    "tab_cointainer_background.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 15,
+        "w": 1,
+        "x": 15,
+        "h": 1
+      }
+    },
+    "tab_cointainer_background_filled.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 15,
+        "w": 1,
+        "x": 15,
+        "h": 1
+      }
+    },
+    "tab_inset_content_background.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 8,
+        "w": 1,
+        "x": 9,
+        "h": 1
+      }
+    },
+    "tab_button_left_idle.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 8,
+        "h": 33
+      }
+    },
+    "popup_header.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 19,
+        "h": 127
+      }
+    },
+    "popup_content_decoration.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 12,
+        "w": 1,
+        "x": 12,
+        "h": 1
+      }
+    },
+    "shop_purple_tag.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 6,
+        "h": 19
+      }
+    },
+    "content_button_decoration.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 107,
+        "h": 85
+      }
+    },
+    "content_title_decoration.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 46,
+        "h": 34
+      }
+    },
+    "content_divider.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 9,
+        "h": 10
+      }
+    },
+    "content_divider_title.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 38,
+        "h": 31
+      }
+    },
+    "content_divider_white.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 9,
+        "h": 10
+      }
+    },
+    "content_divider_smalltitle_white.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 9,
+        "h": 16
+      }
+    },
+    "tab_button_left_open.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 40,
+        "h": 41
+      }
+    },
+    "tab_button_right_open.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 42,
+        "h": 41
+      }
+    },
+    "shop_title_background.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 16,
+        "h": 26
+      }
+    },
+    "shop_box_button_background.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 32,
+        "h": 43
+      }
+    },
+    "tab_open_decor_center.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 39,
+        "h": 41
+      }
+    },
+    "tab_button_center_idle.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 8,
+        "h": 33
+      }
+    },
+    "tab_button_borderless_idle.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 8,
+        "h": 33
+      }
+    },
+    "popup_footer.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 19,
+        "h": 43
+      }
+    },
+    "tab_open_decor_left.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 40,
+        "h": 41
+      }
+    },
+    "bordered_field.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 16,
+        "h": 28
+      }
+    },
+    "generic_green_button.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 17,
+        "h": 35
+      }
+    },
+    "shop_orange_tag.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 6,
+        "h": 19
+      }
+    },
+    "tab_button_right_idle.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 8,
+        "h": 33
+      }
+    },
+    "shop_green_tag.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 6,
+        "h": 19
+      }
+    },
+    "shop_red_tag.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 6,
+        "h": 19
+      }
+    },
+    "tab_open_decor_right.png": {
+      "sourceSize": {
+        "w": 44,
+        "h": 14
+      },
+      "frame": {
+        "y": 205,
+        "w": 44,
+        "x": 125,
+        "h": 14
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "w": 44,
+        "x": 0,
+        "h": 14
+      },
+      "rotated": false,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "trimmed": false
+    },
+    "popup_header_title.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 105,
+        "h": 70
+      }
+    },
+    "mystery_box_jackpot_diamond.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 40,
+        "w": 260,
+        "x": 0,
+        "h": 1
+      }
+    },
+    "mystery_box_jackpot_gold.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 40,
+        "w": 260,
+        "x": 0,
+        "h": 1
+      }
+    },
+    "mystery_box_jackpot_silver.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 40,
+        "w": 260,
+        "x": 0,
+        "h": 1
+      }
+    },
+    "listitem_content_background.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 9,
+        "w": 1,
+        "x": 9,
+        "h": 1
+      }
+    },
+    "listitem_content_background_inactive.png" : {
+      "type" : "9grid",
+      "rectangle" : {
+        "y" : 9,
+        "w" : 1,
+        "x" : 9,
+        "h" : 1
+      }
+    },
+    "listitem_content_background_indicator.png" : {
+      "type" : "9grid",
+      "rectangle" : {
+        "y" : 9,
+        "w" : 1,
+        "x" : 9,
+        "h" : 1
+      }
+    },
+    "listitem_content_background_selected.png" : {
+      "type" : "9grid",
+      "rectangle" : {
+        "y" : 9,
+        "w" : 1,
+        "x" : 9,
+        "h" : 1
+      }
+    },
+    "popup_content_inset.png" : {
+      "type" : "9grid",
+      "rectangle" : {
+        "y" : 12,
+        "w" : 1,
+        "x" : 12,
+        "h" : 1
+      }
+    },
+    "shop_box_background.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 14,
+        "w": 1,
+        "x": 14,
+        "h": 1
+      }
+    },
+    "popup_background_decoration.png": {
+      "type": "9grid",
+      "rectangle": {
+        "x": 17,
+        "y": 17,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "popup_background_simple.png": {
+      "type": "9grid",
+      "rectangle": {
+        "x": 9,
+        "y": 11,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "modal_header_title.png": {
+      "type": "3grid",
+      "rectangle": {
+        "x": 45,
+        "y": 0,
+        "w": 1,
+        "h": 47
+      }
+    },
+    "mysetry_box_list_end_element.png": {
+      "type": "3grid",
+      "rectangle": {
+        "x": 10,
+        "y": 0,
+        "w": 1,
+        "h": 48
+      }
+    },
+    "scrollbar_background.png": {
+      "type": "9grid",
+      "rectangle": {
+        "x": 5,
+        "y": 5,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "scrollbar_slider.png": {
+      "type": "3grid",
+      "rectangle": {
+        "x": 0,
+        "y": 17,
+        "w": 15,
+        "h": 1
+      }
+    },
+    "buy_button_background.png": {
+      "type": "3grid",
+      "rectangle": {
+        "x": 22,
+        "y": 0,
+        "w": 1,
+        "h": 43
+      }
+    },
+    "tab_button_borderless.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 34,
+        "h": 36
+      }
+    },
+    "main_button_decoration.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 39,
+        "h": 47
+      }
+    },
+    "main_button_decoration_dark.png": {
+      "type": "3grid",
+      "rectangle": {
+        "y": 0,
+        "w": 1,
+        "x": 39,
+        "h": 47
+      }
+    },
+    "daily_quest_list_element_grey.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 9,
+        "w": 1,
+        "x": 8,
+        "h": 1
+      }
+    },
+    "daily_quest_list_element_orange.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 9,
+        "w": 1,
+        "x": 8,
+        "h": 1
+      }
+    },
+    "daily_quest_list_element_green.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 9,
+        "w": 1,
+        "x": 8,
+        "h": 1
+      }
+    },
+    "black_field_background.png": {
+      "type": "9grid",
+      "rectangle": {
+        "y": 11,
+        "w": 1,
+        "x": 11,
+        "h": 1
+      }
+    }
+  }
+}

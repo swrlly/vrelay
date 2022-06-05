@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+	<!-- TIERED -->
+	<Object type="0x55c1" id="Makeshift Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>0</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d2</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A simple blueprint for making a turret out of spair materials.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>0</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="130"/>
+			<EffectInfo name="Max Damage" description="150"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 2 Seconds"/>
+			<EffectInfo name="Duration" description="4 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="4" cooldown="2" objectId="Tier 0 Turret">BuildTower</Activate>
+		<MpCost>45</MpCost>
+		<Cooldown>4</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x55c2" id="Basic Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>1</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d3</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A blueprint for making a basic turret.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>1</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="145"/>
+			<EffectInfo name="Max Damage" description="165"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 2 Seconds"/>
+			<EffectInfo name="Duration" description="6 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="6" cooldown="2" objectId="Tier 1 Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="1">IncrementStat</ActivateOnEquip>
+		<MpCost>50</MpCost>
+		<Cooldown>4</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x55c3" id="Advanced Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>2</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d4</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A blueprint for making a slightly more advanced turret.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>1</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="160"/>
+			<EffectInfo name="Max Damage" description="210"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 1.6 Seconds"/>
+			<EffectInfo name="Duration" description="5 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="5" cooldown="1.6" objectId="Tier 2 Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
+		<MpCost>60</MpCost>
+		<Cooldown>4</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x55c4" id="Organic Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>3</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d5</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A completely organic turret, made out of compost and other organics..</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>1</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="180"/>
+			<EffectInfo name="Max Damage" description="210"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 1.4 Seconds"/>
+			<EffectInfo name="Duration" description="5 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="4" cooldown="1.4" objectId="Tier 3 Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
+		<MpCost>70</MpCost>
+		<Cooldown>3</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x55ca" id="Complex Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>4</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d6</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A completely organic turret, made out of compost and other organics..</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>1</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="200"/>
+			<EffectInfo name="Max Damage" description="250"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 1.2 Seconds"/>
+			<EffectInfo name="Duration" description="6 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="6" cooldown="1.2" objectId="Tier 4 Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
+		<MpCost>70</MpCost>
+		<Cooldown>3</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x55c5" id="Grove Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>5</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d7</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A portable deployable turret, that blends perfectly into shrub.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>5</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="240"/>
+			<EffectInfo name="Max Damage" description="280"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 1.2 Seconds"/>
+			<EffectInfo name="Duration" description="5 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="5" cooldown="1.2" objectId="Tier 5 Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+		<MpCost>75</MpCost>
+		<Cooldown>4</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<Object type="0x55c6" id="Golden Turret">
+		<Class>Equipment</Class>
+		<Item/>
+		<Tier>6</Tier>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3d8</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A blueprint stolen from the Rift, made of pure gold..</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>6</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="260"/>
+			<EffectInfo name="Max Damage" description="320"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 1 Seconds"/>
+			<EffectInfo name="Duration" description="5 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="5" cooldown="1" objectId="Tier 6 Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="3">IncrementStat</ActivateOnEquip>
+		<MpCost>85</MpCost>
+		<Cooldown>4</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<!-- NON TIERED -->
+	<Object type="0x44c1" id="Gatekeeper's Barrage">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x361</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>An ethereal pillar that cleanses those who come into contact with it.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>11</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="375"/>
+			<EffectInfo name="Max Damage" description="500"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 0.3 Seconds"/>
+			<EffectInfo name="Duration" description="2 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="4">RemoveNegativeConditions</Activate>
+		<Activate range="6" duration="7" cooldown="0.3" objectId="Gatekeeper's Barrage Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="0" amount="60">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="10">IncrementStat</ActivateOnEquip>
+		<MpCost>120</MpCost>
+		<Cooldown>5</Cooldown>
+		<FameBonus>8</FameBonus>
+		<OldSound>use_potion</OldSound>
+		<Legendary/>
+		<DisplayId>Gatekeeper's Barrage</DisplayId>
+	</Object>
+	<Object type="0x44b6" id="Gatekeeper's Barrage Broken">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x361</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>11</BagType>
+		<ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="10">IncrementStat</ActivateOnEquip>
+		<MpCost>95</MpCost>
+		<Cooldown>5</Cooldown>
+		<OldSound>use_potion</OldSound>
+		<Legendary/>
+	</Object>
+	<Object type="0x14e1" id="Ragehall's Beacon">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x35d</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>This blood red beacon embodies all of Drannol's pent up rage.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>11</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="550"/>
+			<EffectInfo name="Max Damage" description="1000"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 0.7 Seconds"/>
+			<EffectInfo name="Duration" description="5 Seconds"/>
+		</ExtraTooltipData>
+		<Activate effect="Berserk" duration="2" useWisMod="true">ConditionEffectSelf</Activate>
+		<Activate effect="Damaging" duration="1.5" useWisMod="true">ConditionEffectSelf</Activate>
+		<Activate range="7" duration="5" cooldown="0.7" objectId="Beacon Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="28" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="15">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="10">IncrementStat</ActivateOnEquip>
+		<MpCost>105</MpCost>
+		<FameBonus>8</FameBonus>
+		<Cooldown>5</Cooldown>
+		<OldSound>use_potion</OldSound>
+		<Legendary/>
+	</Object>
+	<Object type="0x89a1" id="Armageddon">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>realmLegendaries8x8Embed</File>
+			<Index>0x28</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>This terrifying turret of Destruction was commissioned during the Great Swamp Wars as a weapon of last resort. It was considered lost to the swamps. </Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>11</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="850"/>
+			<EffectInfo name="Max Damage" description="1850"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 0.1 Seconds"/>
+			<EffectInfo name="Duration" description="6 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="6" duration="6" cooldown="0.1" objectId="Armageddon Turret">BuildTower</Activate>
+		<MpCost>105</MpCost>
+		<FameBonus>8</FameBonus>
+		<Steal type="life" amount="5"/>
+		<Cooldown>8</Cooldown>
+		<OldSound>use_potion</OldSound>
+		<Legendary/>
+	</Object>
+	<Object type="0x13d8" id="Turret of Aldragine">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x35c</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A portable deployable turret, that blends perfectly into shrub.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>9</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="150"/>
+			<EffectInfo name="Max Damage" description="250"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 0.2 Seconds"/>
+			<EffectInfo name="Duration" description="7 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="5" duration="7" cooldown="0.2" objectId="Aldragine Turret">BuildTower</Activate>
+		<Activate effect="Speedy" duration="3" useWisMod="true">ConditionEffectSelf</Activate>
+		<ActivateOnEquip stat="28" amount="10">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="15">IncrementStat</ActivateOnEquip>
+		<MpCost>115</MpCost>
+		<Cooldown>4.5</Cooldown>
+		<OldSound>use_potion</OldSound>
+		<Fabled/>
+	</Object>
+	<Object type="0x55c7" id="Turret of Holy Light">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x359</Index>
+		</Texture>
+		<SlotType>31</SlotType>
+		<Description>A blueprint for a turret that draws its power from light itself.</Description>
+		<Sound>spell/light_heal</Sound>
+		<Usable/>
+		<BagType>6</BagType>
+		<ExtraTooltipData>
+			<EffectInfo name="Min Damage" description="155"/>
+			<EffectInfo name="Max Damage" description="195"/>
+			<EffectInfo name="Rate of Fire" description="Shoots every 0.7 Seconds"/>
+			<EffectInfo name="Duration" description="3 Seconds"/>
+		</ExtraTooltipData>
+		<Activate range="7" duration="3" cooldown="0.7" objectId="Holy Light Turret">BuildTower</Activate>
+		<ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+		<Activate effect="Surged" duration="3">ConditionEffectSelf</Activate>
+		<MpCost>110</MpCost>
+		<Cooldown>4</Cooldown>
+		<OldSound>use_potion</OldSound>
+	</Object>
+	<!-- Spawnable Objects -->
+	<Object type="0x13d7" id="Tier 0 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e4</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T3 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>130</MinDamage>
+			<MaxDamage>150</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x13d6" id="Tier 1 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e5</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T3 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>145</MinDamage>
+			<MaxDamage>165</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x13d5" id="Tier 2 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e6</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T3 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>210</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x13d4" id="Tier 3 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e7</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T3 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>190</MinDamage>
+			<MaxDamage>220</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x13d3" id="Tier 4 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e8</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T4 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>250</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x55d9" id="Tier 5 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e9</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T5 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>225</MinDamage>
+			<MaxDamage>275</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x55c8" id="Tier 6 Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3ea</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret T6 Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>220</MinDamage>
+			<MaxDamage>260</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x55c9" id="Gatekeeper's Barrage Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e7</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret Gatekeeper Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>350</MinDamage>
+			<MaxDamage>500</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+	<Object type="0x55d1" id="Aldragine Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e8</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret Zol Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>150</MinDamage>
+			<MaxDamage>250</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<ArmorPiercing/>
+			<MultiHit/>
+		</Projectile>
+	</Object>
+	<Object type="0x55d2" id="Holy Light Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>legendaries8x8Embed</File>
+			<Index>0x3e9</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret Fallen Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>155</MinDamage>
+			<MaxDamage>195</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+	<Object type="0x55d3" id="Beacon Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>lofiObj3</File>
+			<Index>0x5d7</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Projectile id="0">
+			<ObjectId>Turret Rage Shot</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>550</MinDamage>
+			<MaxDamage>1000</MaxDamage>
+			<LifetimeMS>1000</LifetimeMS>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+	<Object type="0x55d4" id="Armageddon Turret">
+		<Class>Character</Class>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xa4</Index>
+		</Texture>
+		<Size>100</Size>
+		<ShadowSize>30</ShadowSize>
+		<MaxHitPoints>0</MaxHitPoints>
+		<Animation prob="1" period="0.2">
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xb4</Index>
+				</Texture>
+			</Frame>
+			<Frame time="0.1">
+				<Texture>
+					<File>mountainTempleObjects16x16</File>
+					<Index>0xb5</Index>
+				</Texture>
+			</Frame>
+		</Animation>
+		<Projectile id="0">
+			<ObjectId>Armageddon Blast</ObjectId>
+			<Speed>100</Speed>
+			<MinDamage>850</MinDamage>
+			<MaxDamage>1850</MaxDamage>
+			<LifetimeMS>750</LifetimeMS>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+</Objects>

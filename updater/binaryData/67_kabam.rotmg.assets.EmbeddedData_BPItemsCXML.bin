@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Objects>
+    <Object type="0x3FE3" id="Master Eon (BP)">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x25</Index>
+        </Texture>
+        <SlotType>10</SlotType>
+        <Description>The original Eon has returned. This item maxes all of your stats.</Description>
+        <Sound>use_potion</Sound>
+        <Activate>FullyMax</Activate>
+        <Consumable/>
+		<Soulbound/>
+        <Potion/>
+        <Legendary/>
+        <BagType>11</BagType>
+    </Object>
+   <Object type="0x3FE2" id="Bunch O Frogs Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x170</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+        <Description>Everyone needs a bunch of frogs in their home!</Description>
+        <BagType>8</BagType>
+		<Quantity>6</Quantity>
+        <Activate id="Frog" amount="6" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2EF9" id="Home Target Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xa2</Index>
+		</Texture>
+		<ScaleValue>2</ScaleValue>
+        <SlotType>10</SlotType>
+        <Description>Extra housing targets.</Description>
+        <BagType>8</BagType>
+		<Quantity>3</Quantity>
+        <Activate id="NP Target Spawner" amount="3" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+	
+   <Object type="0x2EF8" id="Extra Spawn Locations">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xcd</Index>
+		</Texture>
+		<ScaleValue>2</ScaleValue>
+        <SlotType>10</SlotType>
+        <Description>Extra housing spawn locations.</Description>
+        <BagType>8</BagType>
+		<Quantity>2</Quantity>
+        <Activate id="Arcanuo" amount="2" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2EF7" id="Arcanuo Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>raiding32x32Embed</File>
+            <Index>0x0a</Index>
+        </AnimatedTexture>
+		<ScaleValue>2</ScaleValue>
+        <SlotType>10</SlotType>
+        <Description>A very special housing item. Functions as a damage target.</Description>
+        <BagType>8</BagType>
+		<Quantity>1</Quantity>
+        <Activate id="Arcanuo" amount="1" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2EF6" id="Golden Frog Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>Objects32x32</File>
+			<Index>0x00</Index>
+		</Texture>
+		<ScaleValue>2</ScaleValue>
+        <SlotType>10</SlotType>
+        <Description>Ribit. Ribit. Ribit. A Golden Frog.</Description>
+        <BagType>8</BagType>
+		<Quantity>1</Quantity>
+        <Activate id="Golden Frog" amount="1" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2EF5" id="Bleeding Snowman Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xb7</Index>
+		</Texture>
+		<ScaleValue>2</ScaleValue>
+        <SlotType>10</SlotType>
+        <Description>The blood will stain your floor. It won't melt though!</Description>
+        <BagType>8</BagType>
+		<Quantity>1</Quantity>
+        <Activate id="Bleeding Snowman" amount="1" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+    <Object type="0x2EF4" id="Super Scripture">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x370</Index>
+        </Texture>
+        <SlotType>10</SlotType>
+        <Description>A lost page from the book named the Acul. Enchanted by the Sorceress.</Description>
+        <ExtraTooltipData>
+            <EffectInfo name="" description="Using this allows marks to be enabled on your character."/>
+        </ExtraTooltipData>
+        <BagType>11</BagType>
+        <Legendary/>
+        <Consumable/>
+        <Activate superScripture="true">MarksActivate</Activate>
+        <DisplayId>Super Scripture #1</DisplayId>
+    </Object>
+    <Object type="0x2EF3" id="Super Scripture #2">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture>
+            <File>d3LofiObjEmbed</File>
+            <Index>0x371</Index>
+        </Texture>
+        <SlotType>10</SlotType>
+        <Description>A lost page from the book named the Acul. Enchanted by the Sorceress.</Description>
+        <ExtraTooltipData>
+            <EffectInfo name="" description="Using this makes your character ascended, allowing it to consume vials."/>
+        </ExtraTooltipData>
+        <BagType>11</BagType>
+        <Legendary/>
+        <Consumable/>
+        <Activate superScripture="true">AscensionActivate</Activate>
+        <DisplayId>Super Scripture #2</DisplayId>
+    </Object>
+	
+   <Object type="0x2EF2" id="Sebafras Dog Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0x105</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+		<ScaleValue>2</ScaleValue>
+        <Description>Sebafras companion and pet, immortalized for your home.</Description>
+        <BagType>8</BagType>
+        <Activate id="BP SEB DOG" amount="1" isGround="false">UnlockHouseItem</Activate>
+		<ScaleValue>2</ScaleValue>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2EF1" id="Dreadcull Snowman Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0xdf</Index>
+		</Texture>
+		<ScaleValue>2</ScaleValue>
+        <SlotType>10</SlotType>
+        <Description>The best skull ever!</Description>
+        <BagType>8</BagType>
+		<Quantity>1</Quantity>
+        <Activate id="Dreadcull Snowman" amount="1" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2DF9" id="Fancy Torch Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>valornexus</File>
+			<Index>0x0b</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+        <Description>Always in fashion.</Description>
+        <BagType>8</BagType>
+		<Quantity>1</Quantity>
+        <Activate id="VN Torch" amount="1" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2DF8" id="Fancy Tile Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>lofiEnvironment2</File>
+			<Index>0x21a</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+        <Description>Dust proof tiles for your home.</Description>
+        <BagType>8</BagType>
+		<Quantity>64</Quantity>
+        <Activate id="BP TILE 3" amount="64" isGround="true">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x2DF7" id="Fancy Tree Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>mountainTempleObjects16x16</File>
+			<Index>0x100</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+        <Description>These trees are pristine. Never going to wilt!</Description>
+        <BagType>8</BagType>
+		<Quantity>3</Quantity>
+		<ScaleValue>2</ScaleValue>
+        <Activate id="BP SMOL TREE" amount="3" isGround="false">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+	
+
+	
+	<Object type="0x2DF4" id="Fire N Ice Gambler Skin">
+        <Class>Equipment</Class>
+        <Item/>
+		<AnimatedTexture>
+			<File>playerskins16</File>
+			<Index>15</Index>
+		</AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Fire N Ice Gambler Skin.</Description>
+        <Activate objType="0x8853">UnlockSkin</Activate>
+        <Consumable/>
+		<Limited/>
+		<ScaleValue>4</ScaleValue>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the S1 Premium Battle Pass Rewards."/>
+		</ExtraTooltipData>
+        <BagType>8</BagType>
+        <DisplayId>Fire N Ice Gambler Skin</DisplayId>
+    </Object>
+	<Object type="0x2DF3" id="Elemental Necromancer Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>67</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Elemental Necromancer Skin.</Description>
+        <Activate objType="0x8852">UnlockSkin</Activate>
+        <Consumable/>
+		<Limited/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the S1 Premium Battle Pass Rewards."/>
+		</ExtraTooltipData>
+        <BagType>8</BagType>
+        <DisplayId>Elemental Necromancer Skin</DisplayId>
+    </Object>
+	<Object type="0x2DF2" id="Potted Plant Rogue Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>66</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the Potted Plant Rogue Skin.</Description>
+        <Activate objType="0x8851">UnlockSkin</Activate>
+        <Consumable/>
+		<Limited/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the S1 Premium Battle Pass Rewards."/>
+		</ExtraTooltipData>
+        <BagType>8</BagType>
+        <DisplayId>Potted Plant Rogue Skin</DisplayId>
+    </Object>
+	<Object type="0x2DF1" id="All Natural Archer Skin">
+        <Class>Equipment</Class>
+        <Item/>
+        <AnimatedTexture>
+            <File>kantoskins</File>
+            <Index>65</Index>
+        </AnimatedTexture>
+        <SlotType>10</SlotType>
+        <Description>Unlocks the All Natural Archer Skin.</Description>
+        <Activate objType="0x8850">UnlockSkin</Activate>
+        <Consumable/>
+		<Limited/>
+		<ExtraTooltipData>
+			<EffectInfo name="" description="Part of the S1 Premium Battle Pass Rewards."/>
+		</ExtraTooltipData>
+        <BagType>8</BagType>
+        <DisplayId>All Natural Archer Skin</DisplayId>
+    </Object>
+
+   <Object type="0x2FF1" id="Premium Grass Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>valornexus</File>
+			<Index>0xdd</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+        <Description>Very real looking fake grass! No watering needed.</Description>
+        <BagType>8</BagType>
+		<Quantity>32</Quantity>
+        <Activate id="NP Grass" amount="32" isGround="true">UnlockHouseItem</Activate>
+        <Soulbound/>
+        <Consumable/>
+    </Object>
+   <Object type="0x1FF7" id="Ice And Fire Vault Map">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture>
+            <File>realmLegendaries8x8Embed</File>
+            <Index>0x8e</Index>
+        </Texture>
+        <SlotType>10</SlotType>
+        <Description>This can be used to set your vault map to the Ice And Fire Vault Map! Thanks TehEnd.</Description>
+        <Sound>use_key</Sound>
+		<InvUse/>
+        <Soulbound/>
+        <BagType>8</BagType>
+        <VaultMap/>
+        <Activate>VaultMapActive</Activate>
+        <DisplayId>Ice And Fire Vault Map</DisplayId>
+    </Object>
+	
+	
+    <Object type="0x1FF6" id="Battlepass Rewards">
+        <Class>Equipment</Class>
+        <Item/>
+		<Texture>
+			<File>LootBoxes</File>
+			<Index>0x09</Index>
+		</Texture>
+        <SlotType>10</SlotType>
+        <Description>Contains unique S1 Battle Pass Rewards. </Description>
+        <Sound>use_key</Sound>
+        <Consumable/>
+        <BagType>8</BagType>
+        <WorldCrate/>
+		<ScaleValue>2</ScaleValue>
+        <Activate>WorldCrate</Activate>
+		<Limited/>
+        <DisplayId>Battlepass Rewards</DisplayId>
+    </Object>
+
+    <Object type="0x1FF5" id="New Backpack Bag">
+        <Class>Container</Class>
+        <Container/>
+        <Loot/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x615</Index>
+        </Texture>
+        <Size>100</Size>
+        <SlotTypes>0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+    </Object>
+    <Object type="0x1FF4" id="Battle Pass Premium Unlocker">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x611</Index>
+        </Texture>
+        <SlotType>10</SlotType>
+        <Description>Unlock a world of Reskins and Battle Pass Exclusive Cosmetics with this premium pass unlocker.</Description>
+        <ExtraTooltipData>
+            <EffectInfo name="" description="This unlocker is tradable, and may be sold to other players. "/>
+        </ExtraTooltipData>
+        <ExtraTooltipData>
+            <EffectInfo name="" description="Upon consumption, this will unlock the premium section of the battle pass. "/>
+        </ExtraTooltipData>
+        <Activate>PremiumBPUnlock</Activate>
+        <Consumable/>
+    </Object>
+    <Object type="0x1FF3" id="Excessive Storage Bag">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture>
+            <File>lofiObj3</File>
+            <Index>0x613</Index>
+        </Texture>
+        <SlotType>10</SlotType>
+        <Description>Have you considered you might have a wee bit of a problem? This will hold up to eight items. One time access by dropping onto the ground. A season one item.</Description>
+		<DisplayId>Excessive Storage Bag</DisplayId>
+        <Soulbound/>
+		<BagStorage/>
+    </Object>
+	<Object type="0x1FF2" id="Orb of Transformation" spritePeriod="250" spriteFile="resprites8x8" spriteArray="140-143">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>resprites8x8</File>
+			<Index>0x8c</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance.</Description>
+		<Soulbound/>
+	</Object>
+</Objects>

@@ -5307,4 +5307,302 @@
 		<Restricted/>
 	</Object>
 
+	<Object type="0x8825" id="Christmas Grinch">
+		<Skin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>playerskins32</File>
+			<Index>3</Index>
+		</AnimatedTexture>
+		<PlayerClassType>0x031d</PlayerClassType>
+		<Restricted/>
+		<ScaleValue>4</ScaleValue>
+	</Object>
+
+ <!-- VALENTINES -->
+	<Object type="0x8826" id="Jinx Spirithunter">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>43</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x55b9</PlayerClassType>
+	</Object>
+	<Object type="0x8827" id="Gentleman Warrior">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>44</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x031d</PlayerClassType>
+	</Object>
+	<Object type="0x8828" id="Cupid Archer">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>45</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0307</PlayerClassType>
+	</Object>
+	<Object type="0x8829" id="Hearth Fan Blademaster">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>46</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x6140</PlayerClassType>
+	</Object>
+	<Object type="0x8830" id="Sharp Clan Mechanic">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>47</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x66c3</PlayerClassType>
+	</Object>
+	<Object type="0x8831" id="Bride Sorcerer">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>48</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0325</PlayerClassType>
+	</Object>
+	<Object type="0x8832" id="Chad Drakzix">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>49</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0329</PlayerClassType>
+	</Object>
+	<Object type="0x8833" id="Sir Heart Knight">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>50</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x031e</PlayerClassType>
+	</Object>
+	<Object type="0x8834" id="Japanese Girl Rogue">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>51</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0300</PlayerClassType>
+	</Object>
+	<Object type="0x8835" id="Vivi Mystic">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>52</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0323</PlayerClassType>
+	</Object>
+	<Object type="0x8836" id="Ms Fortune Pirate">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>53</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x66c2</PlayerClassType>
+	</Object>
+	<Object type="0x8837" id="Bear ILY Gambler">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>54</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x5826</PlayerClassType>
+	</Object>
+	<Object type="0x8838" id="Lotus Child Shrinemaiden">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>55</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0310</PlayerClassType>
+	</Object>
+	<Object type="0x8839" id="Moon Heart Wizard">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>56</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x030e</PlayerClassType>
+	</Object>
+	<Object type="0x8840" id="Young Lilith Trickster">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>57</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0324</PlayerClassType>
+	</Object>
+	<Object type="0x8841" id="Valentine the Prophet Necromancer">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>58</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0321</PlayerClassType>
+	</Object>
+	<Object type="0x8842" id="Anna the Fighter Templar">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>59</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0328</PlayerClassType>
+	</Object>
+	<Object type="0x8843" id="Sir Gilded Heart Paladin">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>60</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x031f</PlayerClassType>
+	</Object>		
+	<Object type="0x8844" id="Sunset Ninja">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>61</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0326</PlayerClassType>
+	</Object>		
+	<Object type="0x8845" id="Doomer Samurai">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>62</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0327</PlayerClassType>
+	</Object>		
+	<Object type="0x8846" id="Kira Huntress">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>63</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0322</PlayerClassType>
+	</Object>		
+	<Object type="0x8847" id="Violetta Assassin">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>64</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0320</PlayerClassType>
+	</Object>			
+
+	<Object type="0x8848" id="Sweet Couple Priest">
+		<Skin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>playerskins32</File>
+			<Index>4</Index>
+		</AnimatedTexture>
+		<PlayerClassType>0x0310</PlayerClassType>
+		<Restricted/>
+		<ScaleValue>2</ScaleValue>
+	</Object>
+
+	<Object type="0x8849" id="Rabbit Mage">
+		<Skin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>playerskins32</File>
+			<Index>5</Index>
+		</AnimatedTexture>
+		<PlayerClassType>0x030e</PlayerClassType>
+		<Restricted/>
+		<ScaleValue>4</ScaleValue>
+	</Object>
+	
+	<Object type="0x8850" id="All Natural Archer">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>65</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0307</PlayerClassType>
+	</Object>		
+	<Object type="0x8851" id="Potted Plant Rogue">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>66</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0300</PlayerClassType>
+	</Object>	
+	<Object type="0x8852" id="Elemental Necromancer">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>kantoskins</File>
+			<Index>67</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x0321</PlayerClassType>
+	</Object>
+	<Object type="0x8853" id="Fire and Ice Gambler">
+		<PremiumSkin/>
+		<Class>Skin</Class>
+		<AnimatedTexture>
+			<File>playerskins16</File>
+			<Index>15</Index>
+		</AnimatedTexture>
+		<Restricted/>
+		<PlayerClassType>0x5826</PlayerClassType>
+	</Object>
 </Objects>
