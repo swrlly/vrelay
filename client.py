@@ -267,6 +267,7 @@ class Client:
 		header = self.serverSocket.recv(5)
 
 		if len(header) == 0 or self.reconnecting:
+			print("server sent 0")
 			self.reset()
 			return
 		
@@ -498,6 +499,7 @@ class Client:
 	def onText(self, packet: Packet, send: bool) -> (Text, bool):
 		p = Text()
 		p.read(packet.data)
+		p.PrintString()
 		return p, send
 
 	def onDeath(self, packet: Packet, send: bool) -> (Death, bool):
@@ -775,6 +777,7 @@ class Client:
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]
 		print("MapChange:", self.currentMap)
+		p.PrintString()
 		return p, send
 
 
