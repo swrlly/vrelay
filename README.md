@@ -1,6 +1,6 @@
 # vrelay
 
-A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, QoL plugins such as predictive autonexus, and data science-based scripts to autoupdate `vrelay`. Also contains patched exploits that can be generalized to any game.
+A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private server Valor. Features packet editing/hooking, a framework to write custom plugins, QoL plugins such as predictive autonexus, and data science-based scripts to autoupdate `vrelay`. Also contains patched exploits that can be generalized to any multiplayer game.
 
 
 <p align="center">
@@ -24,6 +24,7 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 2. `git clone --recurse-submodules https://github.com/swrlly/vrelay.git`
 3. `py -m pip install -r requirements.txt`
 4. `py proxy.py` to start the proxy server.
+5. Obtain a way to force the Valor client to connect to localhost. The easiest way to achieve this is to follow instructions in [updater](https://github.com/swrlly/vrelay/tree/main/updater).
 5. In Valor, connect to the proxy server in the server list and you're good to go.
 
 ## How to write my own plugins?

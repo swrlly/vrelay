@@ -56,8 +56,6 @@ class Client:
 		self.pluginManager = pm
 
 		# stuff to ignore when debugging
-		#self.ignoreIn = []
-		#self.ignoreOut = []
 		self.ignoreOut = [PacketTypes.UpdateAck, PacketTypes.Move, PacketTypes.Pong, PacketTypes.GotoAck, PacketTypes.PlayerShoot, PacketTypes.ShootAck]
 		self.ignoreIn = [PacketTypes.Ping, PacketTypes.Goto, PacketTypes.Update, PacketTypes.NewTick]
 		self.screenshotMode = False
@@ -104,8 +102,6 @@ class Client:
 		self.aoeDictionary = aoes
 		# signal to tell proxy to connect to nexus
 		self.reconnectToNexus = False
-
-		self.blockAbilityUse = False
 
 		# inventory model
 		self.inventoryModel = [-1 for _ in range(16)]
@@ -191,7 +187,7 @@ class Client:
 
 		header = self.gameSocket.recv(5)
 
-		if len(header) == 0 or self.reconnecting:
+		if self.reconnecting:
 			self.reset()
 			return
 
@@ -266,8 +262,8 @@ class Client:
 
 		header = self.serverSocket.recv(5)
 
-		if len(header) == 0 or self.reconnecting:
-			print("server sent 0")
+		if self.reconnecting:
+			print("Resetting proxy because we are reconnecting.")
 			self.reset()
 			return
 		
@@ -499,13 +495,12 @@ class Client:
 	def onText(self, packet: Packet, send: bool) -> (Text, bool):
 		p = Text()
 		p.read(packet.data)
-		p.PrintString()
 		return p, send
 
 	def onDeath(self, packet: Packet, send: bool) -> (Death, bool):
 		p = Death()
 		p.read(packet.data)
-		p.PrintString()
+		print("We died...")
 		return p, send
 
 	def onShowEffect(self, packet: Packet, send: bool) -> (ShowEffect, bool):
@@ -590,8 +585,6 @@ class Client:
 	def onUseItem(self, packet: Packet, send: bool) -> (UseItem, bool):
 		p = UseItem()
 		p.read(packet.data)
-		if self.blockAbilityUse and p.slotObject.slotID == 1:
-			send = False
 		return p, send
 
 	def onQuestObjectID(self, packet: Packet, send: bool) -> (QuestObjId, bool):
@@ -772,7 +765,6 @@ class Client:
 		# hello is always sent, try another map update name here
 		p = Hello()
 		p.read(packet.data)
-		#p.PrintString()
 		packet = CreatePacket(p)
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]

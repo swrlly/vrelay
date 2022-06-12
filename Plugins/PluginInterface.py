@@ -1,7 +1,3 @@
-
-"""
-Here is an interface for Plugin classes.
-"""
 class PluginInterface:
 
     hooks = {}

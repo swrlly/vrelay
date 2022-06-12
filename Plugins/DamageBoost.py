@@ -30,8 +30,8 @@ class DamageBoost(PluginInterface):
 	Referring to Godmode.py: you can see both `hooks`, `load` and `defaultState` class variables have been instantiated.
 	"""
 	hooks = {PacketTypes.EnemyHit, PacketTypes.PlayerShoot, PacketTypes.Hello, PacketTypes.PlayerText}
-	load = True
-	defaultState = True
+	load = False
+	defaultState = False
 
 	lastEnemyHitSpam = 0
 	multiplier = 5

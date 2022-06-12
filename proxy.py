@@ -36,7 +36,6 @@ class Proxy:
 		self.managerSocket.listen(3)
 		# always listening for client connect
 		while True:
-			#print("test")
 			self.client.gameSocket, addr = self.managerSocket.accept()
 
 	def Start(self):

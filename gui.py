@@ -278,45 +278,6 @@ class GUI:
 		self.subimage(self.nodebuffbtn, self.bg, x - 2, ytmp - 2, x + self.nodebuffbtn.winfo_reqwidth(), ytmp + self.nodebuffbtn.winfo_reqheight())
 		self.nodebuffbtn.place(x = x, y = ytmp)
 		
-		"""
-		###################################
-		# draw a line with +50 gap from noprojectile y
-		# the text was 25 high, so essentially this is 25 down from swiftness. Thus, next gap must be 25 down as well
-		self.drawingPad.create_line(45, 440, 305, 440, dash=(1, 5), fill = self.TEXTCOL)
-
-		###################################
-		
-		# server text
-		x, y = 45, 465
-		self.cllabel = Label(bd = 0, text = "Server", fg = self.TEXTCOL)
-		self.cllabel['font'] = self.featureFont
-		self.subimage(self.cllabel, self.bg, x - 2, y - 2, x + self.cllabel.winfo_reqwidth(), y + self.cllabel.winfo_reqheight())
-		self.cllabel.place(x = x, y = y)
-		
-
-		# server button
-		x, y = 210, 459
-		self.challengetxt = StringVar()
-		self.challengetxt.set("Normal")
-		self.challengebtn = Button(bd = 0, textvariable = self.challengetxt, command = self.challengeHandler, width = 8, fg = self.RED)
-		self.challengebtn['font'] = self.btnFont
-		self.subimage(self.challengebtn, self.bg, x - 2, y - 2, x + self.challengebtn.winfo_reqwidth(), y + self.challengebtn.winfo_reqheight())
-		self.challengebtn.place(x = x, y = y)
-		"""
-
-		"""
-		# realm text
-		#self.textFrame = Frame(self.root)
-		#self.textFrame.grid(row = 1, column = 0)
-
-		self.shutdownbtn = Button(bd = self.BUTTONDEPTH, text = "Shut down all plugins", command = self.shutdownHandler)
-		#self.shutdownbtn.grid(row = 0, column = 0, padx = 20, pady = 20)
-
-		self.challengetxt = StringVar()
-		self.challengetxt.set("Normal server")
-		self.challengebtn = Button(bd = self.BUTTONDEPTH, textvariable = self.challengetxt, command = self.challengeHandler)
-		#self.challengebtn.grid(row = 0, column = 1, padx = 20, pady = 20)
-		"""
 		x, y = 5, self.sizey - 23
 		self.location = StringVar()
 		self.location.set("Connected to {}!".format(client.currentMap))
@@ -361,19 +322,6 @@ class GUI:
 		# next new tick packet will actually send shutdown packet
 		self.client.disableSpeedy = True
 		self.client.disableSwiftness = True
-
-	"""
-		# restart text
-		self.restartlabel = Label(text = "Restart Proxy", width = self.COLWIDTH, height = self.HEIGHT)
-		self.restartlabel.grid(row = 2, column = 0, padx = self.PADX, pady = self.PADY)
-
-		# restart button
-		self.restartlabeltxt = StringVar()
-		self.restartlabeltxt.set("Restart")
-		self.restartbtn = Button(self.root, bd = 5, textvariable = self.restartlabeltxt, command = self.restartHandler)
-		self.restartbtn.grid(row = 2, column = 1, padx = self.PADX, pady = self.PADY)
-	"""
-
 		
 	# when the button is clicked
 	def godmodeHandler(self):
@@ -445,13 +393,6 @@ class GUI:
 			self.swiftnesstxt.set("ON")
 			self.swiftnessbtn.config(fg = self.GREEN)	
 
-	"""
-	# when user wishes to restart
-	def restartHandler(self):
-		# break out of Listen thread
-		self.proxy.Restart()
-	"""
-
 	# returns relevant class you searched for
 	def findClass(self, text: str):
 		for plugin in self.pluginManager.plugins:
@@ -485,8 +426,6 @@ class GUI:
 					self.noDebuffHandler()
 				elif GetAsyncKeyState(ESC) & 1 and buf.value == "Valor":
 					self.shutdownHandler()
-				#elif GetAsyncKeyState(SPACE) & 1 and buf.value == "Valor":
-				#	self.client.UseAbility()
 					
 			except KeyboardInterrupt:
 				return
