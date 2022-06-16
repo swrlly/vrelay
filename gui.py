@@ -302,8 +302,7 @@ class GUI:
 
 		# turn off hooks
 		for plugin in self.pluginManager.plugins:
-			if plugin.__class__.__name__ not in self.pluginManager.alwaysOn:
-				self.pluginManager.plugins[plugin] = False
+			self.pluginManager.plugins[plugin] = False
 
 		# change UI
 		self.godmodetxt.set("OFF")
