@@ -56,7 +56,7 @@ class Client:
 		self.pluginManager = pm
 
 		# stuff to ignore when debugging
-		self.ignoreOut = [PacketTypes.UpdateAck, PacketTypes.Move, PacketTypes.Pong, PacketTypes.GotoAck, PacketTypes.PlayerShoot, PacketTypes.ShootAck]
+		self.ignoreOut = [PacketTypes.GroundTeleporter, PacketTypes.UpdateAck, PacketTypes.Move, PacketTypes.Pong, PacketTypes.GotoAck, PacketTypes.PlayerShoot, PacketTypes.ShootAck]
 		self.ignoreIn = [PacketTypes.Ping, PacketTypes.Goto, PacketTypes.Update, PacketTypes.NewTick]
 		self.screenshotMode = False
 
@@ -105,6 +105,9 @@ class Client:
 
 		# inventory model
 		self.inventoryModel = [-1 for _ in range(16)]
+
+		self.lastGameID = -2
+		self.lastReconKey = []
 		
 		
 	# disconnect the client from the proxy
@@ -359,6 +362,7 @@ class Client:
 					self.reset()
 
 				ready = select.select([self.gameSocket, self.serverSocket], [], [])[0]
+				#print(ready)
 
 				# prioritize reconnects
 				if self.reconnecting:
@@ -377,13 +381,18 @@ class Client:
 						
 						self.SendPacketToClient(CreatePacket(p))
 						self.reconnectToNexus = False
-
+					#while self.gameSocket.recv(100000): 
+					#	print("flushed game")
+					#	pass
+					#while self.serverSocket.recv(100000): 
+					#	print("flushed server")
+					#	pass
 					# flush sockets
-					if self.gameSocket in ready:
-						self.gameSocket.recv(100000)
+					#if self.gameSocket in ready:
+					#	self.gameSocket.recv(100000)
 
-					if self.serverSocket in ready:
-						self.serverSocket.recv(100000)
+					#if self.serverSocket in ready:
+					#	self.serverSocket.recv(100000)
 
 					self.onReconnect()
 					self.reconnecting = False
@@ -763,6 +772,9 @@ class Client:
 		# hello is always sent, try another map update name here
 		p = Hello()
 		p.read(packet.data)
+		if self.lastReconKey != p.key:
+			p.key = self.lastReconKey
+			p.gameID = self.lastGameID
 		packet = CreatePacket(p)
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]
