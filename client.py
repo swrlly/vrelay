@@ -196,7 +196,6 @@ class Client:
 		while len(header) < 5:
 			header += self.gameSocket.recv(leftToRead)
 			leftToRead -= len(header)
-			print("ListenToServer: Triggered header reread")
 		
 		packetID = header[4]
 		expectedPacketLength = struct.unpack("!i", header[:4])[0]
@@ -272,7 +271,6 @@ class Client:
 		while len(header) < 5:
 			header += self.serverSocket.recv(leftToRead)
 			leftToRead -= len(header)
-			print("ListenToServer: Triggered header reread")
 
 		packetID = header[4]
 		expectedPacketLength = struct.unpack("!i", header[:4])[0]
@@ -769,7 +767,6 @@ class Client:
 		if p.gameID in self.gameIDs:
 			self.currentMap = self.gameIDs[p.gameID]
 		print("MapChange:", self.currentMap)
-		p.PrintString()
 		return p, send
 
 
