@@ -381,18 +381,13 @@ class Client:
 						
 						self.SendPacketToClient(CreatePacket(p))
 						self.reconnectToNexus = False
-					#while self.gameSocket.recv(100000): 
-					#	print("flushed game")
-					#	pass
-					#while self.serverSocket.recv(100000): 
-					#	print("flushed server")
-					#	pass
-					# flush sockets
-					#if self.gameSocket in ready:
-					#	self.gameSocket.recv(100000)
 
-					#if self.serverSocket in ready:
-					#	self.serverSocket.recv(100000)
+					# flush sockets
+					if self.gameSocket in ready:
+						self.gameSocket.recv(100000)
+
+					if self.serverSocket in ready:
+						self.serverSocket.recv(100000)
 
 					self.onReconnect()
 					self.reconnecting = False
