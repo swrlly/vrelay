@@ -438,6 +438,8 @@ class Client:
 				traceback.print_exc()
 				print("Restarting proxy...")
 				self.reset()
+				self.lastGameID = -2
+				self.lastReconKey = []
 			#"""
 
 	"""
